@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2066536496447062016"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2066536497877262466",
+    "created_at": "2026-06-15T15:01:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066536497877262466"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066536497877262466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们在需要看幻觉的时候，一般是戴眼镜还是不戴眼镜？"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 9781,
+        "end_datetime": "2026-06-22T10:02:09.000Z",
+        "id": "2066536496447062016",
+        "options": [
+          {
+            "label": "戴眼镜",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "不戴眼镜",
+            "position": 2,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2066536496447062016"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2066536497877262466",
+        "created_at": "2026-06-15T15:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066536497877262466"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066536497877262466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们在需要看幻觉的时候，一般是戴眼镜还是不戴眼镜？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n伴侣 @octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1123,
+          "following_count": 967,
+          "like_count": 28607,
+          "listed_count": 0,
+          "media_count": 491,
+          "tweet_count": 4239
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      }
+    ]
+  }
+}

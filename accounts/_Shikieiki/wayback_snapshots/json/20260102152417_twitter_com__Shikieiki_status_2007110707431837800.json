@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007110703485005826"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2007110707431837800",
+    "created_at": "2026-01-02T15:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T16:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007110707431837800"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 8,
+          "normalized_text": "Twitter",
+          "probability": 0.7582,
+          "start": 2,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 29,
+          "id": "1452123941686976519",
+          "start": 19,
+          "username": "C21Koy_7c"
+        }
+      ],
+      "urls": [
+        {
+          "description": "We don't disclose this feature's algorithm. We can only hope that, whether in a good or bad way, your Secret Crush will impress you.",
+          "display_url": "infinitetweet.me/secret-crush?l…",
+          "end": 60,
+          "expanded_url": "https://infinitetweet.me/secret-crush?lang=ja",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2005066767362822144/PjF1xNwC?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2005066767362822144/PjF1xNwC?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 37,
+          "status": 200,
+          "title": "Secret Crush • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/secret-crush?lang=ja",
+          "url": "https://t.co/YcIwbHBZcI"
+        },
+        {
+          "display_url": "pic.x.com/5AiHaBWvxq",
+          "end": 84,
+          "expanded_url": "https://x.com/_Shikieiki/status/2007110707431837800/photo/1",
+          "media_key": "3_2007110703485005826",
+          "start": 61,
+          "url": "https://t.co/5AiHaBWvxq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007110707431837800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "私のTwitterでの秘密の片思いは @C21Koy_7c です\n\n➡️ https://t.co/YcIwbHBZcI https://t.co/5AiHaBWvxq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 861,
+        "media_key": "3_2007110703485005826",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9qwjPobsAI-3w7.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007110703485005826"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2007110707431837800",
+        "created_at": "2026-01-02T15:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T16:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007110707431837800"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "Twitter",
+              "probability": 0.7582,
+              "start": 2,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 29,
+              "id": "1452123941686976519",
+              "start": 19,
+              "username": "C21Koy_7c"
+            }
+          ],
+          "urls": [
+            {
+              "description": "We don't disclose this feature's algorithm. We can only hope that, whether in a good or bad way, your Secret Crush will impress you.",
+              "display_url": "infinitetweet.me/secret-crush?l…",
+              "end": 60,
+              "expanded_url": "https://infinitetweet.me/secret-crush?lang=ja",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2005066767362822144/PjF1xNwC?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2005066767362822144/PjF1xNwC?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 37,
+              "status": 200,
+              "title": "Secret Crush • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/secret-crush?lang=ja",
+              "url": "https://t.co/YcIwbHBZcI"
+            },
+            {
+              "display_url": "pic.x.com/5AiHaBWvxq",
+              "end": 84,
+              "expanded_url": "https://x.com/_Shikieiki/status/2007110707431837800/photo/1",
+              "media_key": "3_2007110703485005826",
+              "start": 61,
+              "url": "https://t.co/5AiHaBWvxq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007110707431837800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "私のTwitterでの秘密の片思いは @C21Koy_7c です\n\n➡️ https://t.co/YcIwbHBZcI https://t.co/5AiHaBWvxq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 508,
+          "like_count": 13190,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 749
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nay2841",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nay2841",
+                "start": 0,
+                "url": "https://t.co/p7oRHhHxDn"
+              }
+            ]
+          }
+        },
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987482127756410880/kunx4knz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 3214,
+          "like_count": 27531,
+          "listed_count": 5,
+          "media_count": 1872,
+          "tweet_count": 26026
+        },
+        "url": "https://t.co/p7oRHhHxDn",
+        "username": "C21Koy_7c",
+        "verified": false
+      }
+    ]
+  }
+}

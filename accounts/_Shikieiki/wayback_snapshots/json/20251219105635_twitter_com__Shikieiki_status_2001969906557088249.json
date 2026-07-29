@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2001969906557088249",
+    "created_at": "2025-12-19T10:56:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T11:56:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001969906557088249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1493229339818741761",
+          "start": 3,
+          "username": "1kloveyin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001969906557088249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 278
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001541218174669181",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1kloveyin: 我觉得中国人喜欢谁就给谁搞点吃的这个习惯很可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2001969906557088249",
+        "created_at": "2025-12-19T10:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T11:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001969906557088249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1493229339818741761",
+              "start": 3,
+              "username": "1kloveyin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001969906557088249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 278
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001541218174669181",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1kloveyin: 我觉得中国人喜欢谁就给谁搞点吃的这个习惯很可爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493229339818741761",
+        "conversation_id": "2001541218174669181",
+        "created_at": "2025-12-18T06:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T07:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001541218174669181"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001541218174669181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 223,
+          "impression_count": 500692,
+          "like_count": 4814,
+          "quote_count": 95,
+          "reply_count": 184,
+          "retweet_count": 278
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得中国人喜欢谁就给谁搞点吃的这个习惯很可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "1842867034050441268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 377,
+          "like_count": 6662,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 227
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-14T14:23:24.000Z",
+        "description": "4i/有一只有分离焦虑的狗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1kloveyin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1kloveyin",
+                "start": 0,
+                "url": "https://t.co/rgFW5FW8j3"
+              }
+            ]
+          }
+        },
+        "id": "1493229339818741761",
+        "name": "世界好坏好想逃",
+        "pinned_tweet_id": "1993768190753800550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001645977015357440/fHoMBEus_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2431,
+          "following_count": 35,
+          "like_count": 437,
+          "listed_count": 9,
+          "media_count": 10,
+          "tweet_count": 39
+        },
+        "url": "https://t.co/rgFW5FW8j3",
+        "username": "1kloveyin",
+        "verified": false
+      }
+    ]
+  }
+}

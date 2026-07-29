@@ -1,0 +1,652 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2008103532432588988",
+    "created_at": "2026-01-05T09:09:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T10:09:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008103532432588988"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 65,
+          "normalized_text": "劇場版 魔法少女まどか☆マギカ",
+          "probability": 0.3339,
+          "start": 51,
+          "type": "Other"
+        },
+        {
+          "end": 106,
+          "normalized_text": "ダイバーシティ東京 プラザ",
+          "probability": 0.4057,
+          "start": 94,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1468910886",
+          "start": 3,
+          "username": "thechara_2014"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008103532432588988",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 458
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008086065605710023",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thechara_2014: .˚⊹⁺‧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈‧⁺ ⊹˚.\n 劇場版 魔法少女まどか☆マギカ[新編]叛逆の物語\n     in ららぽーと&amp;ダイバーシティ東京 プラザ\n　　　　　　    🎊開催決定🎊\n.˚⊹⁺‧┈┈┈┈┈┈┈┈┈┈┈┈┈…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2008083130788581378",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G94k99obkAIsKan.jpg",
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2008103532432588988",
+        "created_at": "2026-01-05T09:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T10:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008103532432588988"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 65,
+              "normalized_text": "劇場版 魔法少女まどか☆マギカ",
+              "probability": 0.3339,
+              "start": 51,
+              "type": "Other"
+            },
+            {
+              "end": 106,
+              "normalized_text": "ダイバーシティ東京 プラザ",
+              "probability": 0.4057,
+              "start": 94,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1468910886",
+              "start": 3,
+              "username": "thechara_2014"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008103532432588988",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 458
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008086065605710023",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thechara_2014: .˚⊹⁺‧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈‧⁺ ⊹˚.\n 劇場版 魔法少女まどか☆マギカ[新編]叛逆の物語\n     in ららぽーと&amp;ダイバーシティ東京 プラザ\n　　　　　　    🎊開催決定🎊\n.˚⊹⁺‧┈┈┈┈┈┈┈┈┈┈┈┈┈…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008083130788581378"
+          ]
+        },
+        "author_id": "1468910886",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Fukuoka",
+              "id": "1009168505252352000",
+              "name": "Fukuoka"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "2008086065605710023",
+        "created_at": "2026-01-05T08:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T09:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008086065605710023"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "劇場版 魔法少女まどか☆マギカ",
+              "probability": 0.3215,
+              "start": 32,
+              "type": "Other"
+            },
+            {
+              "end": 87,
+              "normalized_text": "ダイバーシティ東京 プラザ",
+              "probability": 0.3927,
+              "start": 75,
+              "type": "Place"
+            },
+            {
+              "end": 141,
+              "normalized_text": "福岡",
+              "probability": 0.9734,
+              "start": 140,
+              "type": "Place"
+            },
+            {
+              "end": 144,
+              "normalized_text": "愛知",
+              "probability": 0.9823,
+              "start": 143,
+              "type": "Place"
+            },
+            {
+              "end": 147,
+              "normalized_text": "大阪",
+              "probability": 0.9869,
+              "start": 146,
+              "type": "Place"
+            },
+            {
+              "end": 150,
+              "normalized_text": "東京",
+              "probability": 0.9635,
+              "start": 149,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AfCrJpipuT",
+              "end": 182,
+              "expanded_url": "https://x.com/thechara_2014/status/2008086065605710023/photo/1",
+              "media_key": "3_2008083130788581378",
+              "start": 159,
+              "url": "https://t.co/AfCrJpipuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008086065605710023",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 223,
+                "start": 216,
+                "tag": "まどかマギカ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "the-chara.com/blog/?p=107991",
+                "end": 215,
+                "expanded_url": "https://www.the-chara.com/blog/?p=107991",
+                "start": 192,
+                "url": "https://t.co/tenZRtlYii"
+              }
+            ]
+          },
+          "text": ".˚⊹⁺‧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈‧⁺ ⊹˚.\n 劇場版 魔法少女まどか☆マギカ[新編]叛逆の物語\n     in ららぽーと&ダイバーシティ東京 プラザ\n　　　　　　    🎊開催決定🎊\n.˚⊹⁺‧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈‧⁺ ⊹˚.\n\n福岡、愛知、大阪、東京の四都市にて開催！\nモードなファッションに身を包んだ描き下ろしイラストは必見です✨\n\n詳細は👉https://t.co/tenZRtlYii\n＃まどかマギカ"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 303,
+          "impression_count": 42988,
+          "like_count": 1591,
+          "quote_count": 128,
+          "reply_count": 0,
+          "retweet_count": 458
+        },
+        "reply_settings": "everyone",
+        "text": ".˚⊹⁺‧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈‧⁺ ⊹˚.\n 劇場版 魔法少女まどか☆マギカ[新編]叛逆の物語\n     in ららぽーと&amp;ダイバーシティ東京 プラザ\n　　　　　　    🎊開催決定🎊\n.˚⊹⁺‧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈‧⁺ ⊹˚.\n\n福岡、愛知、大阪、東京の四都市にて開催！ https://t.co/AfCrJpipuT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 529,
+          "like_count": 15280,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 969
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-30T04:38:22.000Z",
+        "description": "コンテンツシードが運営するアニメグッズ『ザッキャラ』の公式アカウント。新作グッズやイベント情報などをお届けします♪\nオンラインストアhttps://t.co/n8561gkbrw\nInstagram🔗https://t.co/2KGOq02U3U",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "the-chara.com",
+                "end": 89,
+                "expanded_url": "https://www.the-chara.com/",
+                "start": 66,
+                "url": "https://t.co/n8561gkbrw"
+              },
+              {
+                "display_url": "instagram.com/thechara_2014/",
+                "end": 123,
+                "expanded_url": "https://www.instagram.com/thechara_2014/",
+                "start": 100,
+                "url": "https://t.co/2KGOq02U3U"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "the-chara.com",
+                "end": 23,
+                "expanded_url": "https://www.the-chara.com/",
+                "start": 0,
+                "url": "https://t.co/n8561gkbrw"
+              }
+            ]
+          }
+        },
+        "id": "1468910886",
+        "name": "THEキャラ@公式",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/876676442418855938/goXO0q7J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131042,
+          "following_count": 279,
+          "like_count": 2633,
+          "listed_count": 996,
+          "media_count": 46412,
+          "tweet_count": 58942
+        },
+        "url": "https://t.co/n8561gkbrw",
+        "username": "thechara_2014",
+        "verified": true
+      }
+    ]
+  }
+}

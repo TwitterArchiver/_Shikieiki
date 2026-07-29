@@ -1,0 +1,535 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028106911741263873"
+      ],
+      "media_source_tweet_id": [
+        "2028106918561214828"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2028282317366813072",
+    "created_at": "2026-03-02T01:32:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T02:32:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028282317366813072"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "Candeloro",
+          "probability": 0.3939,
+          "start": 17,
+          "type": "Other"
+        },
+        {
+          "end": 35,
+          "normalized_text": "Ophelia",
+          "probability": 0.5043,
+          "start": 29,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 39,
+          "tag": "まどマギ"
+        },
+        {
+          "end": 51,
+          "start": 47,
+          "tag": "マミ杏"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1123215961471868930",
+          "start": 3,
+          "username": "oKetsu_Gori"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/95xzKIC086",
+          "end": 75,
+          "expanded_url": "https://x.com/oKetsu_Gori/status/2028106918561214828/photo/1",
+          "media_key": "3_2028106911741263873",
+          "start": 52,
+          "url": "https://t.co/95xzKIC086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028282317366813072",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 341
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028106918561214828",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oKetsu_Gori: Candeloro × Ophelia\n\n #まどマギ \n #マミ杏 https://t.co/95xzKIC086"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2288,
+        "media_key": "3_2028106911741263873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCVIfajaQAEEkcv.jpg",
+        "width": 1694
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028106911741263873"
+          ],
+          "media_source_tweet_id": [
+            "2028106918561214828"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2028282317366813072",
+        "created_at": "2026-03-02T01:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T02:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028282317366813072"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "Candeloro",
+              "probability": 0.3939,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 35,
+              "normalized_text": "Ophelia",
+              "probability": 0.5043,
+              "start": 29,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 39,
+              "tag": "まどマギ"
+            },
+            {
+              "end": 51,
+              "start": 47,
+              "tag": "マミ杏"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1123215961471868930",
+              "start": 3,
+              "username": "oKetsu_Gori"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/95xzKIC086",
+              "end": 75,
+              "expanded_url": "https://x.com/oKetsu_Gori/status/2028106918561214828/photo/1",
+              "media_key": "3_2028106911741263873",
+              "start": 52,
+              "url": "https://t.co/95xzKIC086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028282317366813072",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 341
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028106918561214828",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oKetsu_Gori: Candeloro × Ophelia\n\n #まどマギ \n #マミ杏 https://t.co/95xzKIC086"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028106911741263873"
+          ]
+        },
+        "author_id": "1123215961471868930",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2028106918561214828",
+        "created_at": "2026-03-01T13:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T14:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028106918561214828"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "Candeloro",
+              "probability": 0.3589,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 18,
+              "normalized_text": "Ophelia",
+              "probability": 0.5797,
+              "start": 12,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "まどマギ"
+            },
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "マミ杏"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/95xzKIC086",
+              "end": 58,
+              "expanded_url": "https://x.com/oKetsu_Gori/status/2028106918561214828/photo/1",
+              "media_key": "3_2028106911741263873",
+              "start": 35,
+              "url": "https://t.co/95xzKIC086"
+            },
+            {
+              "display_url": "x.com/oketsu_gori/st…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/oketsu_gori/status/2025199430115512576",
+              "start": 59,
+              "url": "https://t.co/12UgPVOJxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028106918561214828",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 203,
+          "impression_count": 27154,
+          "like_count": 1728,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 341
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025199430115512576",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Candeloro × Ophelia\n\n #まどマギ \n #マミ杏 https://t.co/95xzKIC086 https://t.co/12UgPVOJxg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 765,
+          "like_count": 22680,
+          "listed_count": 0,
+          "media_count": 393,
+          "tweet_count": 2881
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-30T13:22:08.000Z",
+        "description": "百合・腐あり｜創作＆考察アカウント✍️ まどかマギカ中心｜佐倉杏子ちゃん / ほむ杏 / 見滝原組 / TDS",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/Sm6ZXBgFTicK…",
+                "end": 23,
+                "expanded_url": "https://profcard.info/u/Sm6ZXBgFTicKtGS7XODRJehkmnE3",
+                "start": 0,
+                "url": "https://t.co/pGQr9ZodFP"
+              }
+            ]
+          }
+        },
+        "id": "1123215961471868930",
+        "location": "⚠️ 禁 止 → 無断転載/無断加工/無断利用/自作発言",
+        "name": "みプリ",
+        "pinned_tweet_id": "1996926190272369126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947837431576932352/zO1OAERA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 50,
+          "like_count": 11258,
+          "listed_count": 5,
+          "media_count": 659,
+          "tweet_count": 8289
+        },
+        "url": "https://t.co/pGQr9ZodFP",
+        "username": "oKetsu_Gori",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,507 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299365067415154689",
+          "name": "Animation news"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2054598639209836602",
+    "created_at": "2026-05-13T16:24:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T17:24:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054598639209836602"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/exgv_official/…",
+          "end": 174,
+          "expanded_url": "https://twitter.com/exgv_official/status/2054503980412346661",
+          "start": 151,
+          "url": "https://t.co/gJR3CQOHxl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054598639209836602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054503980412346661",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说实话EXGV绝对要完啊....烂番雷达已经响了...根本不是正统奈叶续作的基调\n奈菲就出场这么短.....制作组是不知道观众想看什么吗? 奈菲互动啊！\n相较之下SS都算好的了 还不如接上SS世界观再出个新作 推那群新人声优究竟是何意味\n奈菲党震怒\n回去看无印，AS，SS和剧场版了 这新预告越看越气 https://t.co/gJR3CQOHxl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2054503972871024640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIMQemSbMAA0Ttn.jpg",
+        "width": 849
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2054598639209836602",
+        "created_at": "2026-05-13T16:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T17:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054598639209836602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/exgv_official/…",
+              "end": 174,
+              "expanded_url": "https://twitter.com/exgv_official/status/2054503980412346661",
+              "start": 151,
+              "url": "https://t.co/gJR3CQOHxl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054598639209836602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054503980412346661",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说实话EXGV绝对要完啊....烂番雷达已经响了...根本不是正统奈叶续作的基调\n奈菲就出场这么短.....制作组是不知道观众想看什么吗? 奈菲互动啊！\n相较之下SS都算好的了 还不如接上SS世界观再出个新作 推那群新人声优究竟是何意味\n奈菲党震怒\n回去看无印，AS，SS和剧场版了 这新预告越看越气 https://t.co/gJR3CQOHxl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054503972871024640"
+          ]
+        },
+        "author_id": "1970083681596502017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2054503980412346661",
+        "created_at": "2026-05-13T10:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T11:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054503980412346661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "なのはシリーズ完全新作TVアニメーション「魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance」2026年7月より放送開始！✦INTRODUCTION✦30年前に現れた未知の「侵略性外来生物」によって、世界は一度滅びかけた。人類とその生物「侵略種」は互いに生活圏を争い、現在はかろうじて人...",
+              "display_url": "youtube.com/watch?v=TzvGIj…",
+              "end": 165,
+              "expanded_url": "https://www.youtube.com/watch?v=TzvGIjaMbYE",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2053142630004076544/gHF88HOS?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2053142630004076544/gHF88HOS?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 142,
+              "status": 200,
+              "title": "「魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance」｜2026年7月放送開始｜特報PV｜",
+              "unwound_url": "https://www.youtube.com/watch?v=TzvGIjaMbYE",
+              "url": "https://t.co/LiNl3HXqeO"
+            },
+            {
+              "display_url": "pic.x.com/jOQOTF3vvY",
+              "end": 199,
+              "expanded_url": "https://x.com/exgv_official/status/2054503980412346661/photo/1",
+              "media_key": "3_2054503972871024640",
+              "start": 176,
+              "url": "https://t.co/jOQOTF3vvY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054503980412346661",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 207,
+                "start": 203,
+                "tag": "なのは"
+              },
+              {
+                "end": 215,
+                "start": 208,
+                "tag": "nanoha"
+              },
+              {
+                "end": 224,
+                "start": 216,
+                "tag": "なのはEXGV"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/watch?v=TzvGIj…",
+                "end": 165,
+                "expanded_url": "https://www.youtube.com/watch?v=TzvGIjaMbYE",
+                "start": 142,
+                "url": "https://t.co/comdz8WKLz"
+              },
+              {
+                "display_url": "youtube.com/watch?v=0kgUsF…",
+                "end": 199,
+                "expanded_url": "https://youtube.com/watch?v=0kgUsF8R7JM",
+                "start": 176,
+                "url": "https://t.co/GR729Gmhoi"
+              }
+            ]
+          },
+          "text": "✦••┈┈┈\nメインビジュアル、解禁\n┈┈┈┈••✦\n\nTVアニメ『魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance』\n\n⁺‧┈┈┈┈┈┈┈┈┈┈┈\n\nこの炎は、消せはしない。\n\n┈┈┈┈┈┈┈┈┈┈┈‧⁺\n\n▼公開済みPVはこちらから▼\n特報PV\n( https://t.co/comdz8WKLz )\n第1弾PV\n( https://t.co/GR729Gmhoi )\n\n#なのは\n#nanoha\n#なのはEXGV"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 439,
+          "impression_count": 252028,
+          "like_count": 4868,
+          "quote_count": 129,
+          "reply_count": 18,
+          "retweet_count": 2467
+        },
+        "reply_settings": "everyone",
+        "text": "✦••┈┈┈\nメインビジュアル、解禁\n┈┈┈┈••✦\n\nTVアニメ『魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance』\n\n⁺‧┈┈┈┈┈┈┈┈┈┈┈\n\nこの炎は、消せはしない。\n\n┈┈┈┈┈┈┈┈┈┈┈‧⁺\n\n▼公開済みPVはこちらから▼\n特報PV\n( https://t.co/LiNl3HXqeO )\n第1弾PV\n( https://t.co/jOQOTF3vvY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的\n不负魔法少女之名！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2053378863976284363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 925,
+          "like_count": 28210,
+          "listed_count": 1,
+          "media_count": 487,
+          "tweet_count": 4075
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-22T11:12:31.000Z",
+        "description": "魔法少女リリカルなのはシリーズ 完全新作TVアニメーション「魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance」2026年7月4日(土)25時よりTOKYO MX,BS11にて放送開始！｜PV第1弾：https://t.co/tjJECThEdB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtu.be/0kgUsF8R7JM",
+                "end": 137,
+                "expanded_url": "https://youtu.be/0kgUsF8R7JM",
+                "start": 114,
+                "url": "https://t.co/tjJECThEdB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nanoha.com/EXGV/",
+                "end": 23,
+                "expanded_url": "https://nanoha.com/EXGV/",
+                "start": 0,
+                "url": "https://t.co/7qdTwfRgV0"
+              }
+            ]
+          }
+        },
+        "id": "1970083681596502017",
+        "name": "「なのはEXGV」TVアニメ公式アカウント",
+        "pinned_tweet_id": "2054504200760123770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007285607480135682/K6YfM29N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23984,
+          "following_count": 16,
+          "like_count": 5,
+          "listed_count": 152,
+          "media_count": 113,
+          "tweet_count": 245
+        },
+        "url": "https://t.co/7qdTwfRgV0",
+        "username": "exgv_official",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2006645280578613607",
+    "created_at": "2026-01-01T08:41:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T09:41:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006646911378534465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1935711549525725184",
+          "start": 0,
+          "username": "lw7248725552475"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006646911378534465",
+    "in_reply_to_user_id": "1935711549525725184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006645280578613607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lw7248725552475 可爱捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2006645280578613607",
+        "created_at": "2026-01-01T08:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T09:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006646911378534465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1935711549525725184",
+              "start": 0,
+              "username": "lw7248725552475"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006646911378534465",
+        "in_reply_to_user_id": "1935711549525725184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006645280578613607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lw7248725552475 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935711549525725184",
+        "conversation_id": "2006645280578613607",
+        "created_at": "2026-01-01T08:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T09:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006645280578613607"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006645280578613607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美金刚好可爱诶。。。。我现在还是懵逼的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 478,
+          "like_count": 11816,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 653
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T14:49:51.000Z",
+        "description": "The word morality and I are incompatible:P",
+        "id": "1935711549525725184",
+        "location": "Hong Kong",
+        "name": "100-0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985306273840242688/ScEMhKie_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 19,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 178
+        },
+        "username": "lw7248725552475",
+        "verified": false
+      }
+    ]
+  }
+}

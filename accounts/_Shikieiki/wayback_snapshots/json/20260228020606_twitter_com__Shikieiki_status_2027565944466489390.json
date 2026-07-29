@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027314270736912384"
+      ],
+      "media_source_tweet_id": [
+        "2027314274646004030"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2027565944466489390",
+    "created_at": "2026-02-28T02:06:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T03:06:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027565944466489390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1114006309454532608",
+          "start": 3,
+          "username": "kyasarin334"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/096W2V8LrI",
+          "end": 46,
+          "expanded_url": "https://x.com/kyasarin334/status/2027314274646004030/photo/1",
+          "media_key": "3_2027314270736912384",
+          "start": 23,
+          "url": "https://t.co/096W2V8LrI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027565944466489390",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027314274646004030",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kyasarin334: オリキャラ https://t.co/096W2V8LrI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 944,
+        "media_key": "3_2027314270736912384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJ3lotakAAK2C9.jpg",
+        "width": 1136
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027314270736912384"
+          ],
+          "media_source_tweet_id": [
+            "2027314274646004030"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2027565944466489390",
+        "created_at": "2026-02-28T02:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T03:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027565944466489390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1114006309454532608",
+              "start": 3,
+              "username": "kyasarin334"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/096W2V8LrI",
+              "end": 46,
+              "expanded_url": "https://x.com/kyasarin334/status/2027314274646004030/photo/1",
+              "media_key": "3_2027314270736912384",
+              "start": 23,
+              "url": "https://t.co/096W2V8LrI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027565944466489390",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027314274646004030",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kyasarin334: オリキャラ https://t.co/096W2V8LrI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027314270736912384"
+          ]
+        },
+        "author_id": "1114006309454532608",
+        "conversation_id": "2027314274646004030",
+        "created_at": "2026-02-27T09:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T10:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027314274646004030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/096W2V8LrI",
+              "end": 29,
+              "expanded_url": "https://x.com/kyasarin334/status/2027314274646004030/photo/1",
+              "media_key": "3_2027314270736912384",
+              "start": 6,
+              "url": "https://t.co/096W2V8LrI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027314274646004030",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 3014,
+          "like_count": 379,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "オリキャラ https://t.co/096W2V8LrI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 719,
+          "like_count": 22022,
+          "listed_count": 0,
+          "media_count": 361,
+          "tweet_count": 2692
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-05T03:26:16.000Z",
+        "description": "オリジナルイラスト練習投稿 描きたい物を自由に描いてます自作発言、無断転載はご自由にどうぞ😆",
+        "id": "1114006309454532608",
+        "name": "キャサリン🍓",
+        "pinned_tweet_id": "2020401289390444905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022897124716011520/3M92WhW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7624,
+          "following_count": 7897,
+          "like_count": 5454,
+          "listed_count": 23,
+          "media_count": 834,
+          "tweet_count": 3538
+        },
+        "username": "kyasarin334",
+        "verified": false
+      }
+    ]
+  }
+}

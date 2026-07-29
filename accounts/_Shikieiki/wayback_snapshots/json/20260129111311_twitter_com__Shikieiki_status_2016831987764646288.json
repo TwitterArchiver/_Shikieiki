@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016813588212830212"
+      ],
+      "media_source_tweet_id": [
+        "2016813595770912798"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2016831987764646288",
+    "created_at": "2026-01-29T11:13:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T12:13:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016831987764646288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1467095000609849345",
+          "start": 3,
+          "username": "carnagesociety"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qib6QN4YeS",
+          "end": 48,
+          "expanded_url": "https://x.com/carnagesociety/status/2016813595770912798/photo/1",
+          "media_key": "3_2016813588212830212",
+          "start": 25,
+          "url": "https://t.co/qib6QN4YeS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016831987764646288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016813595770912798",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @carnagesociety: 閲覧注意 https://t.co/qib6QN4YeS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2016831987764646288].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2016831987764646288",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2016831987764646288"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1453,
+        "media_key": "3_2016813588212830212",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_0pRd-bUAQI9bk.jpg",
+        "width": 1233
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016813588212830212"
+          ]
+        },
+        "author_id": "1467095000609849345",
+        "conversation_id": "2016813595770912798",
+        "created_at": "2026-01-29T10:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T11:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016813595770912798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qib6QN4YeS",
+              "end": 28,
+              "expanded_url": "https://x.com/carnagesociety/status/2016813595770912798/photo/1",
+              "media_key": "3_2016813588212830212",
+              "start": 5,
+              "url": "https://t.co/qib6QN4YeS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016813595770912798",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1371,
+          "like_count": 147,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "閲覧注意 https://t.co/qib6QN4YeS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 585,
+          "like_count": 18496,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 1418
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-04T11:34:48.000Z",
+        "description": "ゴアゾノさんを推せ🩸メタルとV系が好き \n💀commission▶@yuki12278947 \n💀sub account▶@GorezonoNeo \n💀fanart▶#ゴアガールファンアート \n💀link▼",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 95,
+                "start": 83,
+                "tag": "ゴアガールファンアート"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "yuki12278947"
+              },
+              {
+                "end": 73,
+                "start": 61,
+                "username": "GorezonoNeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yukicarnagesoc…",
+                "end": 23,
+                "expanded_url": "https://lit.link/yukicarnagesociety",
+                "start": 0,
+                "url": "https://t.co/ZWgT5VWTU9"
+              }
+            ]
+          }
+        },
+        "id": "1467095000609849345",
+        "location": "ご依頼は(@yuki12278947 )のDMへ",
+        "name": "幽妃-yuki-🫀G0RE-GlRL PR0JECT/流血少女",
+        "pinned_tweet_id": "2000205496859660649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876935508863102976/arithVKG_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41077,
+          "following_count": 760,
+          "like_count": 98562,
+          "listed_count": 173,
+          "media_count": 1511,
+          "tweet_count": 40084
+        },
+        "url": "https://t.co/ZWgT5VWTU9",
+        "username": "carnagesociety",
+        "verified": true
+      }
+    ]
+  }
+}

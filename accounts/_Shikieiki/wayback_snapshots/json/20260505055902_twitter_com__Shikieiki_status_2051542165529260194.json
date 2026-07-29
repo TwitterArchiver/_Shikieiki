@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051093142468997120"
+      ],
+      "media_source_tweet_id": [
+        "2051240426716516746"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2051542165529260194",
+    "created_at": "2026-05-05T05:59:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T06:59:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051542165529260194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1684866817091944448",
+          "start": 3,
+          "username": "anime_nanashi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FP8vWTpfmZ",
+          "end": 58,
+          "expanded_url": "https://x.com/anime_nanashi/status/2051240426716516746/photo/1",
+          "media_key": "3_2051093142468997120",
+          "start": 35,
+          "url": "https://t.co/FP8vWTpfmZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051542165529260194",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 615
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051240426716516746",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anime_nanashi: 毎話作画が変化する神アニメ↓↓ https://t.co/FP8vWTpfmZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051093142468997120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHbyWI4asAAA-R9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051093142468997120"
+          ],
+          "media_source_tweet_id": [
+            "2051240426716516746"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2051542165529260194",
+        "created_at": "2026-05-05T05:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T06:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051542165529260194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1684866817091944448",
+              "start": 3,
+              "username": "anime_nanashi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FP8vWTpfmZ",
+              "end": 58,
+              "expanded_url": "https://x.com/anime_nanashi/status/2051240426716516746/photo/1",
+              "media_key": "3_2051093142468997120",
+              "start": 35,
+              "url": "https://t.co/FP8vWTpfmZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051542165529260194",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 615
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051240426716516746",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anime_nanashi: 毎話作画が変化する神アニメ↓↓ https://t.co/FP8vWTpfmZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051093142468997120"
+          ]
+        },
+        "author_id": "1684866817091944448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          }
+        ],
+        "conversation_id": "2051240426716516746",
+        "created_at": "2026-05-04T10:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T11:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051240426716516746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FP8vWTpfmZ",
+              "end": 39,
+              "expanded_url": "https://x.com/anime_nanashi/status/2051240426716516746/photo/1",
+              "media_key": "3_2051093142468997120",
+              "start": 16,
+              "url": "https://t.co/FP8vWTpfmZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051240426716516746",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 953,
+          "impression_count": 450375,
+          "like_count": 9154,
+          "quote_count": 89,
+          "reply_count": 43,
+          "retweet_count": 615
+        },
+        "reply_settings": "everyone",
+        "text": "毎話作画が変化する神アニメ↓↓ https://t.co/FP8vWTpfmZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2050182084808110250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 911,
+          "like_count": 27636,
+          "listed_count": 1,
+          "media_count": 479,
+          "tweet_count": 3896
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T10:02:16.000Z",
+        "description": "毎日アニメ観てる大学生です！！春アニメは20作品以上視聴してます！気軽に絡んで下さいI want to spread anime all over the world",
+        "id": "1684866817091944448",
+        "name": "ななし",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897070645344919558/7XK8nzoN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21964,
+          "following_count": 4885,
+          "like_count": 9714,
+          "listed_count": 40,
+          "media_count": 424,
+          "tweet_count": 25402
+        },
+        "username": "anime_nanashi",
+        "verified": true
+      }
+    ]
+  }
+}

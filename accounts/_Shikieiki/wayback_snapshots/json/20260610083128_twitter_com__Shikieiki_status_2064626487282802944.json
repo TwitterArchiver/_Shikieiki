@@ -1,0 +1,480 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064327454655987713"
+      ],
+      "media_source_tweet_id": [
+        "2064327478458683759"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese voice actress",
+          "id": "1070721100609347584",
+          "name": "Kana Ueda"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Japanese voice actress",
+          "id": "1070721100609347584",
+          "name": "Kana Ueda"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese voice actress",
+          "id": "1070721100609347584",
+          "name": "Kana Ueda"
+        }
+      }
+    ],
+    "conversation_id": "2064626487282802944",
+    "created_at": "2026-06-10T08:31:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T09:31:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064626487282802944"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "植田佳奈"
+        },
+        {
+          "end": 49,
+          "start": 41,
+          "tag": "リリカルなのは"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "188219708",
+          "start": 3,
+          "username": "tsukamotea"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xlGr74Cp3r",
+          "end": 73,
+          "expanded_url": "https://x.com/tsukamotea/status/2064327478458683759/photo/1",
+          "media_key": "3_2064327454655987713",
+          "start": 50,
+          "url": "https://t.co/xlGr74Cp3r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064626487282802944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064327478458683759",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tsukamotea: 6/9は #植田佳奈 さんの誕生日なんですって。\n#リリカルなのは https://t.co/xlGr74Cp3r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 355,
+        "media_key": "3_2064327454655987713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKX24frbQAEpsiS.png",
+        "width": 413
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064327454655987713"
+          ],
+          "media_source_tweet_id": [
+            "2064327478458683759"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese voice actress",
+              "id": "1070721100609347584",
+              "name": "Kana Ueda"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese voice actress",
+              "id": "1070721100609347584",
+              "name": "Kana Ueda"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese voice actress",
+              "id": "1070721100609347584",
+              "name": "Kana Ueda"
+            }
+          }
+        ],
+        "conversation_id": "2064626487282802944",
+        "created_at": "2026-06-10T08:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T09:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064626487282802944"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "植田佳奈"
+            },
+            {
+              "end": 49,
+              "start": 41,
+              "tag": "リリカルなのは"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "188219708",
+              "start": 3,
+              "username": "tsukamotea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xlGr74Cp3r",
+              "end": 73,
+              "expanded_url": "https://x.com/tsukamotea/status/2064327478458683759/photo/1",
+              "media_key": "3_2064327454655987713",
+              "start": 50,
+              "url": "https://t.co/xlGr74Cp3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064626487282802944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064327478458683759",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tsukamotea: 6/9は #植田佳奈 さんの誕生日なんですって。\n#リリカルなのは https://t.co/xlGr74Cp3r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064327454655987713"
+          ]
+        },
+        "author_id": "188219708",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese voice actress",
+              "id": "1070721100609347584",
+              "name": "Kana Ueda"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese voice actress",
+              "id": "1070721100609347584",
+              "name": "Kana Ueda"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese voice actress",
+              "id": "1070721100609347584",
+              "name": "Kana Ueda"
+            }
+          }
+        ],
+        "conversation_id": "2064327478458683759",
+        "created_at": "2026-06-09T12:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064327478458683759"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "植田佳奈"
+            },
+            {
+              "end": 33,
+              "start": 25,
+              "tag": "リリカルなのは"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xlGr74Cp3r",
+              "end": 57,
+              "expanded_url": "https://x.com/tsukamotea/status/2064327478458683759/photo/1",
+              "media_key": "3_2064327454655987713",
+              "start": 34,
+              "url": "https://t.co/xlGr74Cp3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064327478458683759",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 2870,
+          "like_count": 273,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "6/9は #植田佳奈 さんの誕生日なんですって。\n#リリカルなのは https://t.co/xlGr74Cp3r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n伴侣 @octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 958,
+          "like_count": 28591,
+          "listed_count": 1,
+          "media_count": 499,
+          "tweet_count": 4216
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-08T05:45:38.000Z",
+        "description": "サークル「小作人列伝!!」代表 ゲーム会社勤務\nリリカルなのはで活動中。\nご連絡 tsukamotea★gma (★⇢＠)\n　※なのは・VIVY作品に関しては18禁NGです ：AI学習禁止\nhttps://t.co/BmsoI50JAf https://t.co/ci7AyNOfmq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/834081",
+                "end": 118,
+                "expanded_url": "http://pixiv.net/users/834081",
+                "start": 95,
+                "url": "https://t.co/BmsoI50JAf"
+              },
+              {
+                "display_url": "skeb.jp/@tsukamotea",
+                "end": 142,
+                "expanded_url": "http://skeb.jp/@tsukamotea",
+                "start": 119,
+                "url": "https://t.co/ci7AyNOfmq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/1UY6OV2BTPGWZ?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/jYtAWtB4mc"
+              }
+            ]
+          }
+        },
+        "id": "188219708",
+        "location": "封神領域エルツヴァーユ・ほしい物リスト⇒",
+        "name": "つかもとたかし",
+        "pinned_tweet_id": "1996938014405415358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909437525514764291/xvkfczni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6777,
+          "following_count": 525,
+          "like_count": 59942,
+          "listed_count": 147,
+          "media_count": 22093,
+          "tweet_count": 616398
+        },
+        "url": "https://t.co/jYtAWtB4mc",
+        "username": "tsukamotea",
+        "verified": true
+      }
+    ]
+  }
+}

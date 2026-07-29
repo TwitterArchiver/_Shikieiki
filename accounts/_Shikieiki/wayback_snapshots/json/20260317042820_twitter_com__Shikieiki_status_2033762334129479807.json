@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033741467601276932",
+        "3_2033741467601276928",
+        "3_2033741467613880320",
+        "3_2033741467605516288"
+      ],
+      "media_source_tweet_id": [
+        "2033741475612328038",
+        "2033741475612328038",
+        "2033741475612328038",
+        "2033741475612328038"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2033762334129479807",
+    "created_at": "2026-03-17T04:28:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T05:28:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033762334129479807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1540932085",
+          "start": 3,
+          "username": "com_shicom"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9uvJNZJycS",
+          "end": 47,
+          "expanded_url": "https://x.com/com_shicom/status/2033741475612328038/photo/1",
+          "media_key": "3_2033741467601276932",
+          "start": 24,
+          "url": "https://t.co/9uvJNZJycS"
+        },
+        {
+          "display_url": "pic.x.com/9uvJNZJycS",
+          "end": 47,
+          "expanded_url": "https://x.com/com_shicom/status/2033741475612328038/photo/1",
+          "media_key": "3_2033741467601276928",
+          "start": 24,
+          "url": "https://t.co/9uvJNZJycS"
+        },
+        {
+          "display_url": "pic.x.com/9uvJNZJycS",
+          "end": 47,
+          "expanded_url": "https://x.com/com_shicom/status/2033741475612328038/photo/1",
+          "media_key": "3_2033741467613880320",
+          "start": 24,
+          "url": "https://t.co/9uvJNZJycS"
+        },
+        {
+          "display_url": "pic.x.com/9uvJNZJycS",
+          "end": 47,
+          "expanded_url": "https://x.com/com_shicom/status/2033741475612328038/photo/1",
+          "media_key": "3_2033741467605516288",
+          "start": 24,
+          "url": "https://t.co/9uvJNZJycS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033762334129479807",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033741475612328038",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @com_shicom: ヽ(´▽｀)/ https://t.co/9uvJNZJycS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2033741467601276932",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDlNFu1bEAQh3P9.jpg",
+        "width": 904
+      },
+      {
+        "height": 768,
+        "media_key": "3_2033741467601276928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDlNFu1bEAAqODo.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2033741467613880320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDlNFu4bYAADdFh.jpg",
+        "width": 904
+      },
+      {
+        "height": 723,
+        "media_key": "3_2033741467605516288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDlNFu2bwAA7Zg0.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033741467601276932",
+            "3_2033741467601276928",
+            "3_2033741467613880320",
+            "3_2033741467605516288"
+          ],
+          "media_source_tweet_id": [
+            "2033741475612328038",
+            "2033741475612328038",
+            "2033741475612328038",
+            "2033741475612328038"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033762334129479807",
+        "created_at": "2026-03-17T04:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T05:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033762334129479807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1540932085",
+              "start": 3,
+              "username": "com_shicom"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9uvJNZJycS",
+              "end": 47,
+              "expanded_url": "https://x.com/com_shicom/status/2033741475612328038/photo/1",
+              "media_key": "3_2033741467601276932",
+              "start": 24,
+              "url": "https://t.co/9uvJNZJycS"
+            },
+            {
+              "display_url": "pic.x.com/9uvJNZJycS",
+              "end": 47,
+              "expanded_url": "https://x.com/com_shicom/status/2033741475612328038/photo/1",
+              "media_key": "3_2033741467601276928",
+              "start": 24,
+              "url": "https://t.co/9uvJNZJycS"
+            },
+            {
+              "display_url": "pic.x.com/9uvJNZJycS",
+              "end": 47,
+              "expanded_url": "https://x.com/com_shicom/status/2033741475612328038/photo/1",
+              "media_key": "3_2033741467613880320",
+              "start": 24,
+              "url": "https://t.co/9uvJNZJycS"
+            },
+            {
+              "display_url": "pic.x.com/9uvJNZJycS",
+              "end": 47,
+              "expanded_url": "https://x.com/com_shicom/status/2033741475612328038/photo/1",
+              "media_key": "3_2033741467605516288",
+              "start": 24,
+              "url": "https://t.co/9uvJNZJycS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033762334129479807",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033741475612328038",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @com_shicom: ヽ(´▽｀)/ https://t.co/9uvJNZJycS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033741467601276932",
+            "3_2033741467601276928",
+            "3_2033741467613880320",
+            "3_2033741467605516288"
+          ]
+        },
+        "author_id": "1540932085",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033741475612328038",
+        "created_at": "2026-03-17T03:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T04:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033741475612328038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9uvJNZJycS",
+              "end": 31,
+              "expanded_url": "https://x.com/com_shicom/status/2033741475612328038/photo/1",
+              "media_key": "3_2033741467601276932",
+              "start": 8,
+              "url": "https://t.co/9uvJNZJycS"
+            },
+            {
+              "display_url": "pic.x.com/9uvJNZJycS",
+              "end": 31,
+              "expanded_url": "https://x.com/com_shicom/status/2033741475612328038/photo/1",
+              "media_key": "3_2033741467601276928",
+              "start": 8,
+              "url": "https://t.co/9uvJNZJycS"
+            },
+            {
+              "display_url": "pic.x.com/9uvJNZJycS",
+              "end": 31,
+              "expanded_url": "https://x.com/com_shicom/status/2033741475612328038/photo/1",
+              "media_key": "3_2033741467613880320",
+              "start": 8,
+              "url": "https://t.co/9uvJNZJycS"
+            },
+            {
+              "display_url": "pic.x.com/9uvJNZJycS",
+              "end": 31,
+              "expanded_url": "https://x.com/com_shicom/status/2033741475612328038/photo/1",
+              "media_key": "3_2033741467605516288",
+              "start": 8,
+              "url": "https://t.co/9uvJNZJycS"
+            },
+            {
+              "display_url": "x.com/hiyameshi_8bit…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/hiyameshi_8bit/status/2032956205900177556",
+              "start": 32,
+              "url": "https://t.co/6b9hlHSBSq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033741475612328038",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 3337,
+          "like_count": 128,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032956205900177556",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ヽ(´▽｀)/ https://t.co/9uvJNZJycS https://t.co/6b9hlHSBSq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "君が君でいられる場所 \n悪夢-まぼろし-にさらわれぬように  \n消えない雨の苦しみも \n鍵を壊してぶつけてよ 隣にいるから \nすべてを信じて",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "see_you_hell.although.here.probably.is",
+                "end": 23,
+                "expanded_url": "http://see_you_hell.although.here.probably.is",
+                "start": 0,
+                "url": "https://t.co/ecUxsPCDIQ"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2028458258697171187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 805,
+          "like_count": 24373,
+          "listed_count": 0,
+          "media_count": 406,
+          "tweet_count": 3198
+        },
+        "url": "https://t.co/ecUxsPCDIQ",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2013-06-23T12:52:08.000Z",
+        "description": "絵とか、漫画とか…… 褒めなど→https://t.co/FSvsXStUu0 依頼等はDM、もしくはサイトのコンタクトフォームまでお願いします",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/com_shicom",
+                "end": 39,
+                "expanded_url": "https://odaibako.net/u/com_shicom",
+                "start": 16,
+                "url": "https://t.co/FSvsXStUu0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "com-shicom.com",
+                "end": 23,
+                "expanded_url": "https://com-shicom.com/",
+                "start": 0,
+                "url": "https://t.co/BpJXzbpBcE"
+              }
+            ]
+          }
+        },
+        "id": "1540932085",
+        "name": "仕込む",
+        "pinned_tweet_id": "2006994398979174638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991732943635771394/O6fXqCYx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19015,
+          "following_count": 440,
+          "like_count": 21661,
+          "listed_count": 124,
+          "media_count": 2554,
+          "tweet_count": 35298
+        },
+        "url": "https://t.co/BpJXzbpBcE",
+        "username": "com_shicom",
+        "verified": false
+      }
+    ]
+  }
+}

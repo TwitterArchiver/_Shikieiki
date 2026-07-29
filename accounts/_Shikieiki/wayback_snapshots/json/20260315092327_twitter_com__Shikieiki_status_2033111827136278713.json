@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033042083725062148"
+      ],
+      "media_source_tweet_id": [
+        "2033042087013396731"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2033111827136278713",
+    "created_at": "2026-03-15T09:23:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T10:23:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033111827136278713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1551342229016305666",
+          "start": 3,
+          "username": "_negau_2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5AQKWli6kY",
+          "end": 45,
+          "expanded_url": "https://x.com/_negau_2/status/2033042087013396731/photo/1",
+          "media_key": "3_2033042083725062148",
+          "start": 22,
+          "url": "https://t.co/5AQKWli6kY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033111827136278713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033042087013396731",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_negau_2: がんばったね。 https://t.co/5AQKWli6kY"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2033111827136278713].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2033111827136278713",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2033111827136278713"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033042083725062148",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDbRAO3aMAQwJw8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033042083725062148"
+          ]
+        },
+        "author_id": "1551342229016305666",
+        "conversation_id": "2033042087013396731",
+        "created_at": "2026-03-15T04:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T05:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033042087013396731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5AQKWli6kY",
+              "end": 31,
+              "expanded_url": "https://x.com/_negau_2/status/2033042087013396731/photo/1",
+              "media_key": "3_2033042083725062148",
+              "start": 8,
+              "url": "https://t.co/5AQKWli6kY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033042087013396731",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 1779,
+          "like_count": 286,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "がんばったね。 https://t.co/5AQKWli6kY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "若有朝一日我欲再获新生那就别犹豫置我于死骸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "see_you_hell.although.here.probably.is",
+                "end": 23,
+                "expanded_url": "http://see_you_hell.although.here.probably.is",
+                "start": 0,
+                "url": "https://t.co/ecUxsPCDIQ"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2028458258697171187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 800,
+          "like_count": 23870,
+          "listed_count": 0,
+          "media_count": 412,
+          "tweet_count": 3117
+        },
+        "url": "https://t.co/ecUxsPCDIQ",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-24T23:03:21.000Z",
+        "description": "心の絵日記 / メインアカウント→@_negau_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "_negau_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/irasuto_0r",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/irasuto_0r",
+                "start": 0,
+                "url": "https://t.co/TinpCMbPmz"
+              }
+            ]
+          }
+        },
+        "id": "1551342229016305666",
+        "location": "⚠裸体.傷",
+        "name": "願U/negaU の 深淵",
+        "pinned_tweet_id": "2022106947269656836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971572915138420736/Iy1FDUef_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10880,
+          "following_count": 0,
+          "like_count": 43,
+          "listed_count": 36,
+          "media_count": 179,
+          "tweet_count": 221
+        },
+        "url": "https://t.co/TinpCMbPmz",
+        "username": "_negau_2",
+        "verified": false
+      }
+    ]
+  }
+}

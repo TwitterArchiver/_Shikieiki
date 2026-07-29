@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049040097136521216"
+      ],
+      "media_source_tweet_id": [
+        "2049040366754770953"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2049377029519487238",
+    "created_at": "2026-04-29T06:35:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T07:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049377029519487238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "708107801407594501",
+          "start": 3,
+          "username": "HamsterFragment"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7RBS7KLjBB",
+          "end": 44,
+          "expanded_url": "https://x.com/HamsterFragment/status/2049040366754770953/photo/1",
+          "media_key": "3_2049040097136521216",
+          "start": 21,
+          "url": "https://t.co/7RBS7KLjBB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049377029519487238",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1184
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049040366754770953",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @HamsterFragment: https://t.co/7RBS7KLjBB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 524,
+        "media_key": "3_2049040097136521216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-nHLBasAAEky7.png",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049040097136521216"
+          ],
+          "media_source_tweet_id": [
+            "2049040366754770953"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2049377029519487238",
+        "created_at": "2026-04-29T06:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T07:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049377029519487238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "708107801407594501",
+              "start": 3,
+              "username": "HamsterFragment"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7RBS7KLjBB",
+              "end": 44,
+              "expanded_url": "https://x.com/HamsterFragment/status/2049040366754770953/photo/1",
+              "media_key": "3_2049040097136521216",
+              "start": 21,
+              "url": "https://t.co/7RBS7KLjBB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049377029519487238",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1184
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049040366754770953",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @HamsterFragment: https://t.co/7RBS7KLjBB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049040097136521216"
+          ]
+        },
+        "author_id": "708107801407594501",
+        "conversation_id": "2049040366754770953",
+        "created_at": "2026-04-28T08:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T09:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049040366754770953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7RBS7KLjBB",
+              "end": 23,
+              "expanded_url": "https://x.com/HamsterFragment/status/2049040366754770953/photo/1",
+              "media_key": "3_2049040097136521216",
+              "start": 0,
+              "url": "https://t.co/7RBS7KLjBB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049040366754770953",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1349,
+          "impression_count": 190052,
+          "like_count": 19338,
+          "quote_count": 15,
+          "reply_count": 41,
+          "retweet_count": 1184
+        },
+        "reply_settings": "other",
+        "text": "https://t.co/7RBS7KLjBB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2047351982030258527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 886,
+          "like_count": 26890,
+          "listed_count": 2,
+          "media_count": 435,
+          "tweet_count": 3651
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-11T01:50:30.000Z",
+        "description": "",
+        "id": "708107801407594501",
+        "name": "⇣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900340948183506945/hCuumdzB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410473,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 1580,
+          "media_count": 323,
+          "tweet_count": 332
+        },
+        "username": "HamsterFragment",
+        "verified": true
+      }
+    ]
+  }
+}

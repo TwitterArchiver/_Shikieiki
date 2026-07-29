@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019805086885769216"
+      ],
+      "media_source_tweet_id": [
+        "2019805093399523558"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2020136767928639704",
+    "created_at": "2026-02-07T14:05:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T15:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020136767928639704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1810287240897302528",
+          "start": 3,
+          "username": "pururia_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a0Q8zy94LZ",
+          "end": 46,
+          "expanded_url": "https://x.com/pururia_/status/2019805093399523558/photo/1",
+          "media_key": "3_2019805086885769216",
+          "start": 23,
+          "url": "https://t.co/a0Q8zy94LZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020136767928639704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4501
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019805093399523558",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pururia_: かぐいろ...？ https://t.co/a0Q8zy94LZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019805086885769216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAfKBm9acAAkbMC.jpg",
+        "width": 1567
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019805086885769216"
+          ],
+          "media_source_tweet_id": [
+            "2019805093399523558"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2020136767928639704",
+        "created_at": "2026-02-07T14:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T15:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020136767928639704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1810287240897302528",
+              "start": 3,
+              "username": "pururia_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a0Q8zy94LZ",
+              "end": 46,
+              "expanded_url": "https://x.com/pururia_/status/2019805093399523558/photo/1",
+              "media_key": "3_2019805086885769216",
+              "start": 23,
+              "url": "https://t.co/a0Q8zy94LZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020136767928639704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4501
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019805093399523558",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pururia_: かぐいろ...？ https://t.co/a0Q8zy94LZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019805086885769216"
+          ]
+        },
+        "author_id": "1810287240897302528",
+        "conversation_id": "2019805093399523558",
+        "created_at": "2026-02-06T16:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T17:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019805093399523558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a0Q8zy94LZ",
+              "end": 32,
+              "expanded_url": "https://x.com/pururia_/status/2019805093399523558/photo/1",
+              "media_key": "3_2019805086885769216",
+              "start": 9,
+              "url": "https://t.co/a0Q8zy94LZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019805093399523558",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4871,
+          "impression_count": 453077,
+          "like_count": 46368,
+          "quote_count": 101,
+          "reply_count": 41,
+          "retweet_count": 4501
+        },
+        "reply_settings": "everyone",
+        "text": "かぐいろ...？ https://t.co/a0Q8zy94LZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 611,
+          "like_count": 18921,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 1584
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-08T12:18:22.000Z",
+        "description": "_:(´ཀ`」 ∠):",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/alta6je4pjt1yv…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/alta6je4pjt1yvu?t=mV9wIM&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/ZB41GeuWd4"
+              }
+            ]
+          }
+        },
+        "id": "1810287240897302528",
+        "location": "Mulcharmy",
+        "name": "プルリア",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955281620430426112/wqBUc8yl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4842,
+          "following_count": 16,
+          "like_count": 661,
+          "listed_count": 24,
+          "media_count": 24,
+          "tweet_count": 53
+        },
+        "url": "https://t.co/ZB41GeuWd4",
+        "username": "pururia_",
+        "verified": false
+      }
+    ]
+  }
+}

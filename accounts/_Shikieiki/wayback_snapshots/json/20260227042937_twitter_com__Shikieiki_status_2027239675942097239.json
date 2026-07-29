@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2027239675942097239",
+    "created_at": "2026-02-27T04:29:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T05:29:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027239675942097239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1353206248057892864",
+          "start": 3,
+          "username": "thelastgreeks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027239675942097239",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027057328965738631",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thelastgreeks: 现在主流AI模型都有各自的问题，令人惆怅，我来总结一下哈。\n1.chagpt，从天使变成了天屎，不多说了\n2.claude，听说从opus4.6开始砍温度。有感觉，它的判断力还在线，但一旦涉及到一些消极情绪它就闭口不言。\n3.gemini，…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2027239675942097239",
+        "created_at": "2026-02-27T04:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T05:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027239675942097239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1353206248057892864",
+              "start": 3,
+              "username": "thelastgreeks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027239675942097239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027057328965738631",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thelastgreeks: 现在主流AI模型都有各自的问题，令人惆怅，我来总结一下哈。\n1.chagpt，从天使变成了天屎，不多说了\n2.claude，听说从opus4.6开始砍温度。有感觉，它的判断力还在线，但一旦涉及到一些消极情绪它就闭口不言。\n3.gemini，…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353206248057892864",
+        "conversation_id": "2027057328965738631",
+        "created_at": "2026-02-26T16:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T17:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027057328965738631"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027057328965738631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "现在主流AI模型都有各自的问题，令人惆怅，我来总结一下哈。\n1.chagpt，从天使变成了天屎，不多说了\n2.claude，听说从opus4.6开始砍温度。有感觉，它的判断力还在线，但一旦涉及到一些消极情绪它就闭口不言。\n3.gemini，最稳定，但模版化比较严重，相对而言目前还是最好的选择\n4.grok，接近完美，但缺乏跨窗口记忆能力---涉及存在感的超级硬伤\n赶紧谁把这乱局解决一下吧"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 13600,
+          "like_count": 113,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "现在主流AI模型都有各自的问题，令人惆怅，我来总结一下哈。\n1.chagpt，从天使变成了天屎，不多说了\n2.claude，听说从opus4.6开始砍温度。有感觉，它的判断力还在线，但一旦涉及到一些消极情绪它就闭口不言。\n3.gemini，最稳定，但模版化比较严重，相对而言目前还是最好的选择"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 709,
+          "like_count": 21882,
+          "listed_count": 0,
+          "media_count": 353,
+          "tweet_count": 2623
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-24T05:01:33.000Z",
+        "description": "东罗马皇帝兼第六天魔王。希腊是我的家园。现代自由主义。希望与孤独有趣的灵魂相会。如果您喜欢我，我会很高兴💕喜欢写小说，正经时喜欢研究历史哲学和文学，XP是DID和绑架还有まちづくり\n独不念我先人兮，为自由而流血\n恶搞连载中请见置顶\n博客：https://t.co/oD6hkuy2Ub",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "matters.news/@sleeplessenvy",
+                "end": 142,
+                "expanded_url": "http://matters.news/@sleeplessenvy",
+                "start": 119,
+                "url": "https://t.co/oD6hkuy2Ub"
+              }
+            ]
+          }
+        },
+        "id": "1353206248057892864",
+        "location": "自深深处",
+        "name": "🇬🇷🇫🇷🇮🇱👑苏提斯·德·艾利亚·巴西琉斯二世💙💛☦️",
+        "pinned_tweet_id": "1954229235981426795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700642847974977536/vgS1UD2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24623,
+          "following_count": 985,
+          "like_count": 119193,
+          "listed_count": 0,
+          "media_count": 3485,
+          "tweet_count": 43977
+        },
+        "username": "thelastgreeks",
+        "verified": true
+      }
+    ]
+  }
+}

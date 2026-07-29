@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022324374871916544"
+      ],
+      "media_source_tweet_id": [
+        "2022325234477437252"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2022512176901296132",
+    "created_at": "2026-02-14T03:24:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T04:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022512176901296132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1973492339403530248",
+          "start": 3,
+          "username": "violet_franz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0lTztgsDho",
+          "end": 41,
+          "expanded_url": "https://x.com/violet_franz/status/2022325234477437252/photo/1",
+          "media_key": "3_2022324374871916544",
+          "start": 18,
+          "url": "https://t.co/0lTztgsDho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022512176901296132",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 492
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022325234477437252",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @violet_franz: https://t.co/0lTztgsDho"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 722,
+        "media_key": "3_2022324374871916544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBC9TeDawAAYvf-.png",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022324374871916544"
+          ],
+          "media_source_tweet_id": [
+            "2022325234477437252"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2022512176901296132",
+        "created_at": "2026-02-14T03:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T04:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022512176901296132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1973492339403530248",
+              "start": 3,
+              "username": "violet_franz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0lTztgsDho",
+              "end": 41,
+              "expanded_url": "https://x.com/violet_franz/status/2022325234477437252/photo/1",
+              "media_key": "3_2022324374871916544",
+              "start": 18,
+              "url": "https://t.co/0lTztgsDho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022512176901296132",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 492
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022325234477437252",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @violet_franz: https://t.co/0lTztgsDho"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022324374871916544"
+          ]
+        },
+        "author_id": "1973492339403530248",
+        "conversation_id": "2022325234477437252",
+        "created_at": "2026-02-13T15:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022325234477437252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0lTztgsDho",
+              "end": 23,
+              "expanded_url": "https://x.com/violet_franz/status/2022325234477437252/photo/1",
+              "media_key": "3_2022324374871916544",
+              "start": 0,
+              "url": "https://t.co/0lTztgsDho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022325234477437252",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 16154,
+          "like_count": 2388,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 492
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0lTztgsDho"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 627,
+          "like_count": 19183,
+          "listed_count": 0,
+          "media_count": 245,
+          "tweet_count": 1824
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T20:57:28.000Z",
+        "description": "talking and writing about lesbians is my job ♡ taken by my god, my universe: @lulu_sillyy  ♡ 2nd acc: @orbitingvenus_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "lulu_sillyy"
+              },
+              {
+                "end": 117,
+                "start": 102,
+                "username": "orbitingvenus_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "violetfranz.carrd.co/#",
+                "end": 23,
+                "expanded_url": "https://violetfranz.carrd.co/#",
+                "start": 0,
+                "url": "https://t.co/01t3eDaxbU"
+              }
+            ]
+          }
+        },
+        "id": "1973492339403530248",
+        "location": "she/they",
+        "name": "violet ⚢",
+        "pinned_tweet_id": "1977169101190574452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973840994115125249/XIQwVuCH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6107,
+          "following_count": 914,
+          "like_count": 7691,
+          "listed_count": 10,
+          "media_count": 239,
+          "tweet_count": 1597
+        },
+        "url": "https://t.co/01t3eDaxbU",
+        "username": "violet_franz",
+        "verified": false
+      }
+    ]
+  }
+}

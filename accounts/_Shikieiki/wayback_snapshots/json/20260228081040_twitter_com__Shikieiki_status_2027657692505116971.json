@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027318027205869568",
+        "3_2027318026522312704"
+      ],
+      "media_source_tweet_id": [
+        "2027318030846554573",
+        "2027318030846554573"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1311401968691109888",
+          "name": "安達としまむら"
+        }
+      }
+    ],
+    "conversation_id": "2027657692505116971",
+    "created_at": "2026-02-28T08:10:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T09:10:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027657692505116971"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 18,
+          "tag": "安達としまむら"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1463003957941391361",
+          "start": 3,
+          "username": "Ya2607520948"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vjmYtCqwBF",
+          "end": 50,
+          "expanded_url": "https://x.com/Ya2607520948/status/2027318030846554573/photo/1",
+          "media_key": "3_2027318027205869568",
+          "start": 27,
+          "url": "https://t.co/vjmYtCqwBF"
+        },
+        {
+          "display_url": "pic.x.com/vjmYtCqwBF",
+          "end": 50,
+          "expanded_url": "https://x.com/Ya2607520948/status/2027318030846554573/photo/1",
+          "media_key": "3_2027318026522312704",
+          "start": 27,
+          "url": "https://t.co/vjmYtCqwBF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027657692505116971",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 501
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027318030846554573",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ya2607520948: #安達としまむら https://t.co/vjmYtCqwBF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027318027205869568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJ7ASpaAAAOYyY.jpg",
+        "width": 1465
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027318026522312704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJ7AQGbwAAz--5.jpg",
+        "width": 1465
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027318027205869568",
+            "3_2027318026522312704"
+          ],
+          "media_source_tweet_id": [
+            "2027318030846554573",
+            "2027318030846554573"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1311401968691109888",
+              "name": "安達としまむら"
+            }
+          }
+        ],
+        "conversation_id": "2027657692505116971",
+        "created_at": "2026-02-28T08:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T09:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027657692505116971"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 18,
+              "tag": "安達としまむら"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1463003957941391361",
+              "start": 3,
+              "username": "Ya2607520948"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vjmYtCqwBF",
+              "end": 50,
+              "expanded_url": "https://x.com/Ya2607520948/status/2027318030846554573/photo/1",
+              "media_key": "3_2027318027205869568",
+              "start": 27,
+              "url": "https://t.co/vjmYtCqwBF"
+            },
+            {
+              "display_url": "pic.x.com/vjmYtCqwBF",
+              "end": 50,
+              "expanded_url": "https://x.com/Ya2607520948/status/2027318030846554573/photo/1",
+              "media_key": "3_2027318026522312704",
+              "start": 27,
+              "url": "https://t.co/vjmYtCqwBF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027657692505116971",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 501
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027318030846554573",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ya2607520948: #安達としまむら https://t.co/vjmYtCqwBF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027318027205869568",
+            "3_2027318026522312704"
+          ]
+        },
+        "author_id": "1463003957941391361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1311401968691109888",
+              "name": "安達としまむら"
+            }
+          }
+        ],
+        "conversation_id": "2027318030846554573",
+        "created_at": "2026-02-27T09:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T10:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027318030846554573"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "安達としまむら"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vjmYtCqwBF",
+              "end": 32,
+              "expanded_url": "https://x.com/Ya2607520948/status/2027318030846554573/photo/1",
+              "media_key": "3_2027318027205869568",
+              "start": 9,
+              "url": "https://t.co/vjmYtCqwBF"
+            },
+            {
+              "display_url": "pic.x.com/vjmYtCqwBF",
+              "end": 32,
+              "expanded_url": "https://x.com/Ya2607520948/status/2027318030846554573/photo/1",
+              "media_key": "3_2027318026522312704",
+              "start": 9,
+              "url": "https://t.co/vjmYtCqwBF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027318030846554573",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 298,
+          "impression_count": 31710,
+          "like_count": 3513,
+          "quote_count": 8,
+          "reply_count": 6,
+          "retweet_count": 501
+        },
+        "reply_settings": "everyone",
+        "text": "#安達としまむら https://t.co/vjmYtCqwBF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 721,
+          "like_count": 22081,
+          "listed_count": 0,
+          "media_count": 361,
+          "tweet_count": 2716
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-23T04:38:28.000Z",
+        "description": "喜欢画画 喜欢晒太阳",
+        "id": "1463003957941391361",
+        "name": "海盗猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958079499012292608/dogRaPKX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17593,
+          "following_count": 816,
+          "like_count": 3953,
+          "listed_count": 101,
+          "media_count": 348,
+          "tweet_count": 935
+        },
+        "username": "Ya2607520948",
+        "verified": false
+      }
+    ]
+  }
+}

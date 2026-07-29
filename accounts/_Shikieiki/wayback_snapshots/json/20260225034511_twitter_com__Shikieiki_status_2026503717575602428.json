@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025934044681437184"
+      ],
+      "media_source_tweet_id": [
+        "2025934050985488637"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2026503717575602428",
+    "created_at": "2026-02-25T03:45:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T04:45:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026503717575602428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "955393651554664448",
+          "start": 3,
+          "username": "Riuriumagi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3kVtvQIUGt",
+          "end": 43,
+          "expanded_url": "https://x.com/Riuriumagi/status/2025934050985488637/photo/1",
+          "media_key": "3_2025934044681437184",
+          "start": 20,
+          "url": "https://t.co/3kVtvQIUGt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026503717575602428",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 243
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025934050985488637",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Riuriumagi: ほむ✨ https://t.co/3kVtvQIUGt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025934044681437184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB2QR5-bgAALm4E.jpg",
+        "width": 1451
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025934044681437184"
+          ],
+          "media_source_tweet_id": [
+            "2025934050985488637"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2026503717575602428",
+        "created_at": "2026-02-25T03:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T04:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026503717575602428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "955393651554664448",
+              "start": 3,
+              "username": "Riuriumagi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3kVtvQIUGt",
+              "end": 43,
+              "expanded_url": "https://x.com/Riuriumagi/status/2025934050985488637/photo/1",
+              "media_key": "3_2025934044681437184",
+              "start": 20,
+              "url": "https://t.co/3kVtvQIUGt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026503717575602428",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 243
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025934050985488637",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Riuriumagi: ほむ✨ https://t.co/3kVtvQIUGt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025934044681437184"
+          ]
+        },
+        "author_id": "955393651554664448",
+        "conversation_id": "2025934050985488637",
+        "created_at": "2026-02-23T14:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T15:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025934050985488637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3kVtvQIUGt",
+              "end": 27,
+              "expanded_url": "https://x.com/Riuriumagi/status/2025934050985488637/photo/1",
+              "media_key": "3_2025934044681437184",
+              "start": 4,
+              "url": "https://t.co/3kVtvQIUGt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025934050985488637",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 135,
+          "impression_count": 12488,
+          "like_count": 1480,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 243
+        },
+        "reply_settings": "everyone",
+        "text": "ほむ✨ https://t.co/3kVtvQIUGt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 696,
+          "like_count": 21380,
+          "listed_count": 0,
+          "media_count": 323,
+          "tweet_count": 2438
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-22T10:56:11.000Z",
+        "description": "イラストレーター。ファンアート、二次創作イラストを描きます。 お仕事やご依頼はmailやDMにて受け付けております。Skeb募集中です。過去実績https://t.co/nWJWT1CWbN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fori.io/riuriumagi",
+                "end": 95,
+                "expanded_url": "https://fori.io/riuriumagi",
+                "start": 72,
+                "url": "https://t.co/nWJWT1CWbN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Riuriumagi",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@Riuriumagi",
+                "start": 0,
+                "url": "https://t.co/vQHwRwYln6"
+              }
+            ]
+          }
+        },
+        "id": "955393651554664448",
+        "location": "riuillustration@gmail.com",
+        "name": "リう",
+        "pinned_tweet_id": "2017176397052248203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917223473468121089/zBHEISNj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8116,
+          "following_count": 1688,
+          "like_count": 72197,
+          "listed_count": 59,
+          "media_count": 3584,
+          "tweet_count": 26168
+        },
+        "url": "https://t.co/vQHwRwYln6",
+        "username": "Riuriumagi",
+        "verified": true
+      }
+    ]
+  }
+}

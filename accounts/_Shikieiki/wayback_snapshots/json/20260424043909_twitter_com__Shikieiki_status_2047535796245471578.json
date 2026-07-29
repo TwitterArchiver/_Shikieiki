@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046983080007933952"
+      ],
+      "media_source_tweet_id": [
+        "2047461768310698285"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2047535796245471578",
+    "created_at": "2026-04-24T04:39:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T05:39:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047535796245471578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "159093364",
+          "start": 3,
+          "username": "CRANE1192"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EiKI29vIIf",
+          "end": 46,
+          "expanded_url": "https://x.com/CRANE1192/status/2047461768310698285/photo/1",
+          "media_key": "3_2046983080007933952",
+          "start": 23,
+          "url": "https://t.co/EiKI29vIIf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047535796245471578",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047461768310698285",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CRANE1192: [らむほ美暁] https://t.co/EiKI29vIIf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_2046983080007933952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGhYRBEboAAfhkl.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046983080007933952"
+          ],
+          "media_source_tweet_id": [
+            "2047461768310698285"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2047535796245471578",
+        "created_at": "2026-04-24T04:39:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T05:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047535796245471578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "159093364",
+              "start": 3,
+              "username": "CRANE1192"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EiKI29vIIf",
+              "end": 46,
+              "expanded_url": "https://x.com/CRANE1192/status/2047461768310698285/photo/1",
+              "media_key": "3_2046983080007933952",
+              "start": 23,
+              "url": "https://t.co/EiKI29vIIf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047535796245471578",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047461768310698285",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CRANE1192: [らむほ美暁] https://t.co/EiKI29vIIf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046983080007933952"
+          ]
+        },
+        "author_id": "159093364",
+        "conversation_id": "2047461768310698285",
+        "created_at": "2026-04-23T23:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T00:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047461768310698285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EiKI29vIIf",
+              "end": 31,
+              "expanded_url": "https://x.com/CRANE1192/status/2047461768310698285/photo/1",
+              "media_key": "3_2046983080007933952",
+              "start": 8,
+              "url": "https://t.co/EiKI29vIIf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047461768310698285",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 2612,
+          "like_count": 221,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "[らむほ美暁] https://t.co/EiKI29vIIf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2047351982030258527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 879,
+          "like_count": 26054,
+          "listed_count": 1,
+          "media_count": 415,
+          "tweet_count": 3474
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-24T12:38:53.000Z",
+        "description": "まんがタイムきららで絶対連載します 彼女を起こすその日まで、待っていて下さい。\n📩ご連絡：crane1192@gmail.com\n同人誌：https://t.co/9i6qRRDxig\nスケブ：https://t.co/YzW4QQqODT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "crane1192.booth.pm",
+                "end": 92,
+                "expanded_url": "https://crane1192.booth.pm/",
+                "start": 69,
+                "url": "https://t.co/9i6qRRDxig"
+              },
+              {
+                "display_url": "skeb.jp/@CRANE1192",
+                "end": 120,
+                "expanded_url": "https://skeb.jp/@CRANE1192",
+                "start": 97,
+                "url": "https://t.co/YzW4QQqODT"
+              }
+            ]
+          }
+        },
+        "id": "159093364",
+        "name": "コーテー音⚰",
+        "pinned_tweet_id": "1951111430440362328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643846597388959746/gKhHooyS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30088,
+          "following_count": 860,
+          "like_count": 12408,
+          "listed_count": 270,
+          "media_count": 5829,
+          "tweet_count": 35189
+        },
+        "username": "CRANE1192",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969429125841797120"
+      ],
+      "media_source_tweet_id": [
+        "1969429161245884862"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2051494210336129288",
+    "created_at": "2026-05-05T02:48:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T03:48:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051494210336129288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "44324150",
+          "start": 3,
+          "username": "tonarinohey"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wZ9V3J8gJH",
+          "end": 45,
+          "expanded_url": "https://x.com/tonarinohey/status/1969429161245884862/photo/1",
+          "media_key": "3_1969429125841797120",
+          "start": 22,
+          "url": "https://t.co/wZ9V3J8gJH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051494210336129288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 954
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969429161245884862",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tonarinohey: 郡上先輩 https://t.co/wZ9V3J8gJH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1969429125841797120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1TRWwAbwAAR3N_.jpg",
+        "width": 2279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969429125841797120"
+          ],
+          "media_source_tweet_id": [
+            "1969429161245884862"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2051494210336129288",
+        "created_at": "2026-05-05T02:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T03:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051494210336129288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "44324150",
+              "start": 3,
+              "username": "tonarinohey"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wZ9V3J8gJH",
+              "end": 45,
+              "expanded_url": "https://x.com/tonarinohey/status/1969429161245884862/photo/1",
+              "media_key": "3_1969429125841797120",
+              "start": 22,
+              "url": "https://t.co/wZ9V3J8gJH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051494210336129288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 954
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969429161245884862",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tonarinohey: 郡上先輩 https://t.co/wZ9V3J8gJH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969429125841797120"
+          ]
+        },
+        "author_id": "44324150",
+        "conversation_id": "1969429161245884862",
+        "created_at": "2025-09-20T15:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T16:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969429161245884862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wZ9V3J8gJH",
+              "end": 28,
+              "expanded_url": "https://x.com/tonarinohey/status/1969429161245884862/photo/1",
+              "media_key": "3_1969429125841797120",
+              "start": 5,
+              "url": "https://t.co/wZ9V3J8gJH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969429161245884862",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 883,
+          "impression_count": 213374,
+          "like_count": 6316,
+          "quote_count": 7,
+          "reply_count": 5,
+          "retweet_count": 954
+        },
+        "reply_settings": "everyone",
+        "text": "郡上先輩 https://t.co/wZ9V3J8gJH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2050182084808110250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 910,
+          "like_count": 27614,
+          "listed_count": 1,
+          "media_count": 477,
+          "tweet_count": 3879
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-03T08:57:18.000Z",
+        "description": "Comic Artist, Programmer。代表作は『上伊那ぼたん、酔へる姿は百合の花』。\nex-Software Engineer(BE)\nFANBOX▶ https://t.co/RxwTt3yOCv\nFantia▶https://t.co/1BqK7AnFzH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tonarinohey.fanbox.cc",
+                "end": 105,
+                "expanded_url": "http://tonarinohey.fanbox.cc",
+                "start": 82,
+                "url": "https://t.co/RxwTt3yOCv"
+              },
+              {
+                "display_url": "fantia.jp/fanclubs/49172…",
+                "end": 136,
+                "expanded_url": "https://fantia.jp/fanclubs/491726/",
+                "start": 113,
+                "url": "https://t.co/1BqK7AnFzH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tonarinohey.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://tonarinohey.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/6W18Kh4lyR"
+              }
+            ]
+          }
+        },
+        "id": "44324150",
+        "location": "WIRED",
+        "name": "塀（HEY）＠アニメ放送中🎉",
+        "pinned_tweet_id": "2040089993771966792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969550872775704580/MPhtoJo0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149983,
+          "following_count": 7231,
+          "like_count": 228227,
+          "listed_count": 1841,
+          "media_count": 6851,
+          "tweet_count": 411495
+        },
+        "url": "https://t.co/6W18Kh4lyR",
+        "username": "tonarinohey",
+        "verified": false
+      }
+    ]
+  }
+}

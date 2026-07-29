@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2060796285717041611",
+    "created_at": "2026-05-30T19:06:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T20:06:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060799981158908134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1734534713480716288",
+          "start": 0,
+          "username": "octoTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060799981158908134",
+    "in_reply_to_user_id": "1734534713480716288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060796285717041611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@octoTvT 唔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2060796285717041611",
+        "created_at": "2026-05-30T19:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T20:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060799981158908134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1734534713480716288",
+              "start": 0,
+              "username": "octoTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060799981158908134",
+        "in_reply_to_user_id": "1734534713480716288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060796285717041611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@octoTvT 唔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734534713480716288",
+        "conversation_id": "2060796285717041611",
+        "created_at": "2026-05-30T18:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T19:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060796285717041611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1448206950903255040",
+              "start": 0,
+              "username": "_Shikieiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060796285717041611",
+        "in_reply_to_user_id": "1448206950903255040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@_Shikieiki 卖腐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n爱人@octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1117,
+          "following_count": 950,
+          "like_count": 28692,
+          "listed_count": 1,
+          "media_count": 499,
+          "tweet_count": 4183
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-12T11:24:45.000Z",
+        "description": "肥美粥批，只是一个解离鬼\n直系以及旁系时代以内亲属和社区警察观看本账号死全家诛九族\n爱人❤️@_shikieiki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "_shikieiki"
+              }
+            ]
+          }
+        },
+        "id": "1734534713480716288",
+        "name": "我是小铜",
+        "pinned_tweet_id": "2035083717262327923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039348482172203008/e24Y_cPf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 366,
+          "like_count": 3002,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 3472
+        },
+        "username": "octoTvT",
+        "verified": false
+      }
+    ]
+  }
+}

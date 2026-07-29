@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076187388070789120"
+      ],
+      "media_source_tweet_id": [
+        "2076187781739708452"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2076327055835406821",
+    "created_at": "2026-07-12T15:25:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T16:25:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076327055835406821"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 18,
+          "tag": "リリカルなのは"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1654173930679328769",
+          "start": 3,
+          "username": "Shiyoi296633"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8Rdsz7ovQ4",
+          "end": 60,
+          "expanded_url": "https://x.com/Shiyoi296633/status/2076187781739708452/photo/1",
+          "media_key": "3_2076187388070789120",
+          "start": 37,
+          "url": "https://t.co/8Rdsz7ovQ4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076327055835406821",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 300
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076187781739708452",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shiyoi296633: #リリカルなのは\n今日はいい天気～♬ https://t.co/8Rdsz7ovQ4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2076187388070789120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNAZbekbAAA8KQE.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076187388070789120"
+          ],
+          "media_source_tweet_id": [
+            "2076187781739708452"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2076327055835406821",
+        "created_at": "2026-07-12T15:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076327055835406821"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 18,
+              "tag": "リリカルなのは"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1654173930679328769",
+              "start": 3,
+              "username": "Shiyoi296633"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Rdsz7ovQ4",
+              "end": 60,
+              "expanded_url": "https://x.com/Shiyoi296633/status/2076187781739708452/photo/1",
+              "media_key": "3_2076187388070789120",
+              "start": 37,
+              "url": "https://t.co/8Rdsz7ovQ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076327055835406821",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 300
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076187781739708452",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shiyoi296633: #リリカルなのは\n今日はいい天気～♬ https://t.co/8Rdsz7ovQ4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076187388070789120"
+          ]
+        },
+        "author_id": "1654173930679328769",
+        "conversation_id": "2076187781739708452",
+        "created_at": "2026-07-12T06:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076187781739708452"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "リリカルなのは"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Rdsz7ovQ4",
+              "end": 42,
+              "expanded_url": "https://x.com/Shiyoi296633/status/2076187781739708452/photo/1",
+              "media_key": "3_2076187388070789120",
+              "start": 19,
+              "url": "https://t.co/8Rdsz7ovQ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076187781739708452",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 17528,
+          "like_count": 1398,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 300
+        },
+        "reply_settings": "everyone",
+        "text": "#リリカルなのは\n今日はいい天気～♬ https://t.co/8Rdsz7ovQ4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n伴侣 @octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1144,
+          "following_count": 969,
+          "like_count": 28648,
+          "listed_count": 1,
+          "media_count": 493,
+          "tweet_count": 4293
+        },
+        "url": "",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-04T17:19:40.000Z",
+        "description": "★illustrator\n★shiyoi1127@gmail.com\n中文\\English\\日本語\nたまに好きなものを描きます",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/93349392",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/93349392",
+                "start": 0,
+                "url": "https://t.co/qZaFLuqEjd"
+              }
+            ]
+          }
+        },
+        "id": "1654173930679328769",
+        "name": "-Shiyoi-",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975909869191610368/OL1uFTc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5444,
+          "following_count": 36,
+          "like_count": 270,
+          "listed_count": 40,
+          "media_count": 79,
+          "tweet_count": 335
+        },
+        "url": "https://t.co/qZaFLuqEjd",
+        "username": "Shiyoi296633",
+        "verified": false
+      }
+    ]
+  }
+}

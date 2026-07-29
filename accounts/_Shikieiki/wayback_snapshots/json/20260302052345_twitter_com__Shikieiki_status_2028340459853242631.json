@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028251522937634818"
+      ],
+      "media_source_tweet_id": [
+        "2028251526368542827"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1441472383211114515",
+          "name": "Stuffed toys"
+        }
+      }
+    ],
+    "conversation_id": "2028340459853242631",
+    "created_at": "2026-03-02T05:23:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T06:23:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028340459853242631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1525071010453766146",
+          "start": 3,
+          "username": "gh0stfacegf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/89QiOCYIwK",
+          "end": 87,
+          "expanded_url": "https://x.com/gh0stfacegf/status/2028251526368542827/photo/1",
+          "media_key": "3_2028251522937634818",
+          "start": 64,
+          "url": "https://t.co/89QiOCYIwK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028340459853242631",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 348
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028251526368542827",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gh0stfacegf: when i say buy me plushies this is what i mean https://t.co/89QiOCYIwK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2028251522937634818",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCXMA5PXwAIVegE.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028251522937634818"
+          ],
+          "media_source_tweet_id": [
+            "2028251526368542827"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          }
+        ],
+        "conversation_id": "2028340459853242631",
+        "created_at": "2026-03-02T05:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T06:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028340459853242631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1525071010453766146",
+              "start": 3,
+              "username": "gh0stfacegf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/89QiOCYIwK",
+              "end": 87,
+              "expanded_url": "https://x.com/gh0stfacegf/status/2028251526368542827/photo/1",
+              "media_key": "3_2028251522937634818",
+              "start": 64,
+              "url": "https://t.co/89QiOCYIwK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028340459853242631",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 348
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028251526368542827",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gh0stfacegf: when i say buy me plushies this is what i mean https://t.co/89QiOCYIwK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028251522937634818"
+          ]
+        },
+        "author_id": "1525071010453766146",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          }
+        ],
+        "conversation_id": "2028251526368542827",
+        "created_at": "2026-03-01T23:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T00:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028251526368542827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/89QiOCYIwK",
+              "end": 70,
+              "expanded_url": "https://x.com/gh0stfacegf/status/2028251526368542827/photo/1",
+              "media_key": "3_2028251522937634818",
+              "start": 47,
+              "url": "https://t.co/89QiOCYIwK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028251526368542827",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 173,
+          "impression_count": 27748,
+          "like_count": 2003,
+          "quote_count": 30,
+          "reply_count": 16,
+          "retweet_count": 348
+        },
+        "reply_settings": "everyone",
+        "text": "when i say buy me plushies this is what i mean https://t.co/89QiOCYIwK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 771,
+          "like_count": 22831,
+          "listed_count": 0,
+          "media_count": 398,
+          "tweet_count": 2921
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-13T11:12:10.000Z",
+        "description": "𝚘𝚍𝚍 𝚕𝚒𝚝𝚝𝚕𝚎 𝚐𝚘𝚝𝚑𝚒𝚌 𝚠𝚒𝚝𝚌𝚑 ♱ 𝚠𝚎𝚒𝚛𝚍 𝚊𝚗𝚍 𝚠𝚑𝚒𝚖𝚜𝚢 ♱ 𝚐𝚊𝚖𝚎𝚛 ♱ 𝚍𝚊𝚛𝚔 𝚑𝚞𝚖𝚘𝚛 ♱ 𝚘𝚍𝚍𝚒𝚝𝚒𝚎𝚜 𝚊𝚗𝚍 𝚑𝚘𝚛𝚛𝚘𝚛 ⋆˙⟡ㅤ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "boxd.it/b2xhN",
+                "end": 23,
+                "expanded_url": "https://boxd.it/b2xhN",
+                "start": 0,
+                "url": "https://t.co/zyE4BrSn9F"
+              }
+            ]
+          }
+        },
+        "id": "1525071010453766146",
+        "location": "𝔳𝔬𝔬𝔡𝔬𝔬 𝔠𝔦𝔱𝔶",
+        "name": "𝑙𝑖𝑡𝑡𝑙𝑒 𝑚𝑜𝑜𝑛 ⏾",
+        "pinned_tweet_id": "2015935059249811579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016284664973905921/usiNAcoX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9952,
+          "following_count": 1095,
+          "like_count": 26667,
+          "listed_count": 62,
+          "media_count": 2203,
+          "tweet_count": 11052
+        },
+        "url": "https://t.co/zyE4BrSn9F",
+        "username": "gh0stfacegf",
+        "verified": false
+      }
+    ]
+  }
+}

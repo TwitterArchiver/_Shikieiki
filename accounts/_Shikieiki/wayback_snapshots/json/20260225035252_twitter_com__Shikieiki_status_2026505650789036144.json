@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026174636069924864"
+      ],
+      "media_source_tweet_id": [
+        "2026174641392492636"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2026505650789036144",
+    "created_at": "2026-02-25T03:52:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T04:52:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026505650789036144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1707252371922030592",
+          "start": 3,
+          "username": "chabiyundayo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0BVpGCVDd2",
+          "end": 41,
+          "expanded_url": "https://x.com/chabiyundayo/status/2026174641392492636/photo/1",
+          "media_key": "3_2026174636069924864",
+          "start": 18,
+          "url": "https://t.co/0BVpGCVDd2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026505650789036144",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1287
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026174641392492636",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chabiyundayo: https://t.co/0BVpGCVDd2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1710,
+        "media_key": "3_2026174636069924864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB5rGKvasAAI-PQ.jpg",
+        "width": 1706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026174636069924864"
+          ],
+          "media_source_tweet_id": [
+            "2026174641392492636"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2026505650789036144",
+        "created_at": "2026-02-25T03:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T04:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026505650789036144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1707252371922030592",
+              "start": 3,
+              "username": "chabiyundayo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0BVpGCVDd2",
+              "end": 41,
+              "expanded_url": "https://x.com/chabiyundayo/status/2026174641392492636/photo/1",
+              "media_key": "3_2026174636069924864",
+              "start": 18,
+              "url": "https://t.co/0BVpGCVDd2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026505650789036144",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1287
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026174641392492636",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chabiyundayo: https://t.co/0BVpGCVDd2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026174636069924864"
+          ]
+        },
+        "author_id": "1707252371922030592",
+        "conversation_id": "2026174641392492636",
+        "created_at": "2026-02-24T05:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T06:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026174641392492636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0BVpGCVDd2",
+              "end": 23,
+              "expanded_url": "https://x.com/chabiyundayo/status/2026174641392492636/photo/1",
+              "media_key": "3_2026174636069924864",
+              "start": 0,
+              "url": "https://t.co/0BVpGCVDd2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026174641392492636",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 820,
+          "impression_count": 158219,
+          "like_count": 7304,
+          "quote_count": 109,
+          "reply_count": 0,
+          "retweet_count": 1287
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0BVpGCVDd2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 697,
+          "like_count": 21405,
+          "listed_count": 0,
+          "media_count": 323,
+          "tweet_count": 2443
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-28T04:34:27.000Z",
+        "description": "JP｜✉️：p.kouonntashitsu@gmail.com\nSkeb：https://t.co/ocWPLHPDnD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@chabiyundayo",
+                "end": 61,
+                "expanded_url": "https://skeb.jp/@chabiyundayo",
+                "start": 38,
+                "url": "https://t.co/ocWPLHPDnD"
+              }
+            ]
+          }
+        },
+        "id": "1707252371922030592",
+        "name": "p",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816517100770590726/-D8HlFRn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31845,
+          "following_count": 82,
+          "like_count": 1867,
+          "listed_count": 176,
+          "media_count": 90,
+          "tweet_count": 561
+        },
+        "username": "chabiyundayo",
+        "verified": false
+      }
+    ]
+  }
+}

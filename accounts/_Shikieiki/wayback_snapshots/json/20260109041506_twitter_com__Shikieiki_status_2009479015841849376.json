@@ -1,0 +1,469 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009182843860348928"
+      ],
+      "media_source_tweet_id": [
+        "2009191020374958191"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2009479015841849376",
+    "created_at": "2026-01-09T04:15:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T05:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009479015841849376"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 16,
+          "tag": "魔法少女まどかマギカ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1455258730589609984",
+          "start": 3,
+          "username": "satoutubo6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6SOf6rERDC",
+          "end": 51,
+          "expanded_url": "https://x.com/satoutubo6/status/2009191020374958191/photo/1",
+          "media_key": "3_2009182843860348928",
+          "start": 28,
+          "url": "https://t.co/6SOf6rERDC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009479015841849376",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1811
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009191020374958191",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @satoutubo6: #魔法少女まどかマギカ https://t.co/6SOf6rERDC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1070,
+        "media_key": "3_2009182843860348928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-INJsEa8AAiJwp.jpg",
+        "width": 679
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009182843860348928"
+          ],
+          "media_source_tweet_id": [
+            "2009191020374958191"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2009479015841849376",
+        "created_at": "2026-01-09T04:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T05:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009479015841849376"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 16,
+              "tag": "魔法少女まどかマギカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1455258730589609984",
+              "start": 3,
+              "username": "satoutubo6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6SOf6rERDC",
+              "end": 51,
+              "expanded_url": "https://x.com/satoutubo6/status/2009191020374958191/photo/1",
+              "media_key": "3_2009182843860348928",
+              "start": 28,
+              "url": "https://t.co/6SOf6rERDC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009479015841849376",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1811
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009191020374958191",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @satoutubo6: #魔法少女まどかマギカ https://t.co/6SOf6rERDC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009182843860348928"
+          ]
+        },
+        "author_id": "1455258730589609984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2009191020374958191",
+        "created_at": "2026-01-08T09:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T10:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009191020374958191"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "魔法少女まどかマギカ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6SOf6rERDC",
+              "end": 35,
+              "expanded_url": "https://x.com/satoutubo6/status/2009191020374958191/photo/1",
+              "media_key": "3_2009182843860348928",
+              "start": 12,
+              "url": "https://t.co/6SOf6rERDC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009191020374958191",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 926,
+          "impression_count": 151815,
+          "like_count": 16430,
+          "quote_count": 6,
+          "reply_count": 3,
+          "retweet_count": 1811
+        },
+        "reply_settings": "everyone",
+        "text": "#魔法少女まどかマギカ https://t.co/6SOf6rERDC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 571,
+          "like_count": 17628,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1218
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-01T19:41:49.000Z",
+        "description": "明日香🌸『彼方のアストラ』ED原画／『僕の妻は感情がない』謎の男の子キャラデザ／『メメメのメ』MVキャラデザ他ハイライト参照🌸AI学習禁止🌸Instagram→https://t.co/v801gsqeYq 🌸来3月以降、イラストのお仕事のみ募集しています✉️satoutubo6○g",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/satoutubo6/",
+                "end": 103,
+                "expanded_url": "http://instagram.com/satoutubo6/",
+                "start": 80,
+                "url": "https://t.co/v801gsqeYq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@satoutubo6",
+                "end": 23,
+                "expanded_url": "http://skeb.jp/@satoutubo6",
+                "start": 0,
+                "url": "https://t.co/FpHPxhiTkp"
+              }
+            ]
+          }
+        },
+        "id": "1455258730589609984",
+        "name": "佐藤",
+        "pinned_tweet_id": "1894261163963420721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845315927853891584/DYLPSaKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52180,
+          "following_count": 76,
+          "like_count": 11280,
+          "listed_count": 559,
+          "media_count": 356,
+          "tweet_count": 2848
+        },
+        "url": "https://t.co/FpHPxhiTkp",
+        "username": "satoutubo6",
+        "verified": true
+      }
+    ]
+  }
+}

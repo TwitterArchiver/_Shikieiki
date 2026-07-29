@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2018345004591362049"
+      ],
+      "media_source_tweet_id": [
+        "2018345112578011153"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2018601988456677587",
+    "created_at": "2026-02-03T08:26:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T09:26:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018601988456677587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2846887988",
+          "start": 3,
+          "username": "PB_DM_MCZ_PO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ambR1kzyNp",
+          "end": 44,
+          "expanded_url": "https://x.com/PB_DM_MCZ_PO/status/2018345112578011153/video/1",
+          "media_key": "13_2018345004591362049",
+          "start": 21,
+          "url": "https://t.co/ambR1kzyNp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018601988456677587",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 807
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018345112578011153",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PB_DM_MCZ_PO: 百合 https://t.co/ambR1kzyNp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12483,
+        "height": 720,
+        "media_key": "13_2018345004591362049",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2018345004591362049/img/-ThsjMLod2cLtTWu.jpg",
+        "public_metrics": {
+          "view_count": 579134
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018345004591362049/vid/avc1/480x270/qshrLnReCyWI5Uh6.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018345004591362049/vid/avc1/640x360/7MkHcXARGAgXcvW9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018345004591362049/vid/avc1/1280x720/ZWBSAmutXWAFqzBt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2018345004591362049/pl/zj16slWKz35_4wmQ.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2018345004591362049"
+          ],
+          "media_source_tweet_id": [
+            "2018345112578011153"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2018601988456677587",
+        "created_at": "2026-02-03T08:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T09:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018601988456677587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2846887988",
+              "start": 3,
+              "username": "PB_DM_MCZ_PO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ambR1kzyNp",
+              "end": 44,
+              "expanded_url": "https://x.com/PB_DM_MCZ_PO/status/2018345112578011153/video/1",
+              "media_key": "13_2018345004591362049",
+              "start": 21,
+              "url": "https://t.co/ambR1kzyNp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018601988456677587",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 807
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018345112578011153",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PB_DM_MCZ_PO: 百合 https://t.co/ambR1kzyNp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2018345004591362049"
+          ]
+        },
+        "author_id": "2846887988",
+        "conversation_id": "2018345112578011153",
+        "created_at": "2026-02-02T15:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T16:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018345112578011153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ambR1kzyNp",
+              "end": 26,
+              "expanded_url": "https://x.com/PB_DM_MCZ_PO/status/2018345112578011153/video/1",
+              "media_key": "13_2018345004591362049",
+              "start": 3,
+              "url": "https://t.co/ambR1kzyNp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018345112578011153",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4197,
+          "impression_count": 1164988,
+          "like_count": 15317,
+          "quote_count": 187,
+          "reply_count": 75,
+          "retweet_count": 807
+        },
+        "reply_settings": "everyone",
+        "text": "百合 https://t.co/ambR1kzyNp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 592,
+          "like_count": 18710,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 1500
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-08T09:18:49.000Z",
+        "description": "推しメンの宮坂杏はアイドル準備中。 三浦あいるはGigiL始めました。❓❓",
+        "id": "2846887988",
+        "location": "宮坂杏の八重歯",
+        "name": "翼ぱっせん",
+        "pinned_tweet_id": "1870757027380912186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1475129581921538049/0vQrJyQB_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1194,
+          "following_count": 1608,
+          "like_count": 22439,
+          "listed_count": 14,
+          "media_count": 4658,
+          "tweet_count": 27248
+        },
+        "username": "PB_DM_MCZ_PO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026207620441546753"
+      ],
+      "media_source_tweet_id": [
+        "2026207640188223870"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1334945143208611841",
+          "name": "GL"
+        }
+      }
+    ],
+    "conversation_id": "2026571927859638724",
+    "created_at": "2026-02-25T08:16:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T09:16:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026571927859638724"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 27,
+          "tag": "創作百合"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1754829555733606400",
+          "start": 3,
+          "username": "pryusaq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/melP9DjLVX",
+          "end": 56,
+          "expanded_url": "https://x.com/pryusaq/status/2026207640188223870/photo/1",
+          "media_key": "3_2026207620441546753",
+          "start": 33,
+          "url": "https://t.co/melP9DjLVX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026571927859638724",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 86
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026207640188223870",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pryusaq: 【創作百合】イチャイチャ\n\n#創作百合 https://t.co/melP9DjLVX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2508,
+        "media_key": "3_2026207620441546753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB6JGHGboAEq6z0.jpg",
+        "width": 3541
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026207620441546753"
+          ],
+          "media_source_tweet_id": [
+            "2026207640188223870"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "2026571927859638724",
+        "created_at": "2026-02-25T08:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T09:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026571927859638724"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 27,
+              "tag": "創作百合"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1754829555733606400",
+              "start": 3,
+              "username": "pryusaq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/melP9DjLVX",
+              "end": 56,
+              "expanded_url": "https://x.com/pryusaq/status/2026207640188223870/photo/1",
+              "media_key": "3_2026207620441546753",
+              "start": 33,
+              "url": "https://t.co/melP9DjLVX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026571927859638724",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026207640188223870",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pryusaq: 【創作百合】イチャイチャ\n\n#創作百合 https://t.co/melP9DjLVX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026207620441546753"
+          ]
+        },
+        "author_id": "1754829555733606400",
+        "conversation_id": "2026207640188223870",
+        "created_at": "2026-02-24T08:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T09:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026207640188223870"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "創作百合"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/melP9DjLVX",
+              "end": 43,
+              "expanded_url": "https://x.com/pryusaq/status/2026207640188223870/photo/1",
+              "media_key": "3_2026207620441546753",
+              "start": 20,
+              "url": "https://t.co/melP9DjLVX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026207640188223870",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 129,
+          "impression_count": 16173,
+          "like_count": 1806,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "【創作百合】イチャイチャ\n\n#創作百合 https://t.co/melP9DjLVX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 699,
+          "like_count": 21502,
+          "listed_count": 0,
+          "media_count": 328,
+          "tweet_count": 2462
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T11:29:36.000Z",
+        "description": "創作百合。 創作っ子の『碧』 と『奈緒』の百合絵や漫画をupします。【Bluesky】 https://t.co/KIJcAVEBEz【pixivFANBOX】 https://t.co/oudWxmL9RB 【DLsite】 https://t.co/BQIbgO2p4o 【FANZA】 https://t.co/RclMLe7asL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/Lnzss",
+                "end": 67,
+                "expanded_url": "https://x.gd/Lnzss",
+                "start": 44,
+                "url": "https://t.co/KIJcAVEBEz"
+              },
+              {
+                "display_url": "ryu-sa.fanbox.cc",
+                "end": 104,
+                "expanded_url": "http://ryu-sa.fanbox.cc",
+                "start": 81,
+                "url": "https://t.co/oudWxmL9RB"
+              },
+              {
+                "display_url": "x.gd/hGXZW",
+                "end": 137,
+                "expanded_url": "https://x.gd/hGXZW",
+                "start": 114,
+                "url": "https://t.co/BQIbgO2p4o"
+              },
+              {
+                "display_url": "x.gd/Bb6j1",
+                "end": 169,
+                "expanded_url": "https://x.gd/Bb6j1",
+                "start": 146,
+                "url": "https://t.co/RclMLe7asL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/47008910",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/47008910",
+                "start": 0,
+                "url": "https://t.co/ADS10817dU"
+              }
+            ]
+          }
+        },
+        "id": "1754829555733606400",
+        "name": "流砂",
+        "pinned_tweet_id": "1852214086286839973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997489133305126913/iWz9ERD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2604,
+          "following_count": 4,
+          "like_count": 973,
+          "listed_count": 8,
+          "media_count": 133,
+          "tweet_count": 1366
+        },
+        "url": "https://t.co/ADS10817dU",
+        "username": "pryusaq",
+        "verified": false
+      }
+    ]
+  }
+}

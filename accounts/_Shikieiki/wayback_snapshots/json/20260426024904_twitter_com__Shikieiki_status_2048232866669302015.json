@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047916079004164096"
+      ],
+      "media_source_tweet_id": [
+        "2047916186306777320"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2048232866669302015",
+    "created_at": "2026-04-26T02:49:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T03:49:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048232866669302015"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 22,
+          "tag": "上伊那ぼたん"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1267687824251400192",
+          "start": 3,
+          "username": "tokikaze_JS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/93pdnLLO2X",
+          "end": 53,
+          "expanded_url": "https://x.com/tokikaze_JS/status/2047916186306777320/photo/1",
+          "media_key": "3_2047916079004164096",
+          "start": 30,
+          "url": "https://t.co/93pdnLLO2X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048232866669302015",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1270
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047916186306777320",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tokikaze_JS: サシ飲み\n#上伊那ぼたん https://t.co/93pdnLLO2X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2047916079004164096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGuo0tLaoAAyfeN.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047916079004164096"
+          ],
+          "media_source_tweet_id": [
+            "2047916186306777320"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2048232866669302015",
+        "created_at": "2026-04-26T02:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T03:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048232866669302015"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 22,
+              "tag": "上伊那ぼたん"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1267687824251400192",
+              "start": 3,
+              "username": "tokikaze_JS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/93pdnLLO2X",
+              "end": 53,
+              "expanded_url": "https://x.com/tokikaze_JS/status/2047916186306777320/photo/1",
+              "media_key": "3_2047916079004164096",
+              "start": 30,
+              "url": "https://t.co/93pdnLLO2X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048232866669302015",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1270
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047916186306777320",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tokikaze_JS: サシ飲み\n#上伊那ぼたん https://t.co/93pdnLLO2X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047916079004164096"
+          ]
+        },
+        "author_id": "1267687824251400192",
+        "conversation_id": "2047916186306777320",
+        "created_at": "2026-04-25T05:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T06:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047916186306777320"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 5,
+              "tag": "上伊那ぼたん"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/93pdnLLO2X",
+              "end": 36,
+              "expanded_url": "https://x.com/tokikaze_JS/status/2047916186306777320/photo/1",
+              "media_key": "3_2047916079004164096",
+              "start": 13,
+              "url": "https://t.co/93pdnLLO2X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047916186306777320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1014,
+          "impression_count": 90677,
+          "like_count": 10897,
+          "quote_count": 11,
+          "reply_count": 9,
+          "retweet_count": 1270
+        },
+        "reply_settings": "everyone",
+        "text": "サシ飲み\n#上伊那ぼたん https://t.co/93pdnLLO2X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2047351982030258527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 867,
+          "like_count": 26523,
+          "listed_count": 1,
+          "media_count": 418,
+          "tweet_count": 3555
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-02T05:22:04.000Z",
+        "description": "絵描き/百合大好き/中国人\nよろしくお願いします\npixiv: https://t.co/CWmHFRjiuE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/6175553",
+                "end": 55,
+                "expanded_url": "http://pixiv.net/users/6175553",
+                "start": 32,
+                "url": "https://t.co/CWmHFRjiuE"
+              }
+            ]
+          }
+        },
+        "id": "1267687824251400192",
+        "name": "MILKTEA",
+        "pinned_tweet_id": "2000915915886727379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1702889998821773312/EpTrdKWf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40097,
+          "following_count": 383,
+          "like_count": 22651,
+          "listed_count": 269,
+          "media_count": 248,
+          "tweet_count": 3856
+        },
+        "username": "tokikaze_JS",
+        "verified": false
+      }
+    ]
+  }
+}

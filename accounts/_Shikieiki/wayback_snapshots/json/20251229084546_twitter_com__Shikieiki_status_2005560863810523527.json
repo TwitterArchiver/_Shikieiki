@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005446759301218304"
+      ],
+      "media_source_tweet_id": [
+        "2005446770281845199"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2005560863810523527",
+    "created_at": "2025-12-29T08:45:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T09:45:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005560863810523527"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 20,
+          "tag": "コピック"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "760339840491659264",
+          "start": 3,
+          "username": "misteor_online"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E13gqyXbHC",
+          "end": 49,
+          "expanded_url": "https://x.com/misteor_online/status/2005446770281845199/photo/1",
+          "media_key": "3_2005446759301218304",
+          "start": 26,
+          "url": "https://t.co/E13gqyXbHC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005560863810523527",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 131
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005446770281845199",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @misteor_online: #コピック https://t.co/E13gqyXbHC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2015,
+        "media_key": "3_2005446759301218304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9THM8gbgAA8hl0.jpg",
+        "width": 2951
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005446759301218304"
+          ],
+          "media_source_tweet_id": [
+            "2005446770281845199"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2005560863810523527",
+        "created_at": "2025-12-29T08:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T09:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005560863810523527"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "コピック"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "760339840491659264",
+              "start": 3,
+              "username": "misteor_online"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E13gqyXbHC",
+              "end": 49,
+              "expanded_url": "https://x.com/misteor_online/status/2005446770281845199/photo/1",
+              "media_key": "3_2005446759301218304",
+              "start": 26,
+              "url": "https://t.co/E13gqyXbHC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005560863810523527",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 131
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005446770281845199",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @misteor_online: #コピック https://t.co/E13gqyXbHC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005446759301218304"
+          ]
+        },
+        "author_id": "760339840491659264",
+        "conversation_id": "2005446770281845199",
+        "created_at": "2025-12-29T01:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T02:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005446770281845199"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "コピック"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E13gqyXbHC",
+              "end": 29,
+              "expanded_url": "https://x.com/misteor_online/status/2005446770281845199/photo/1",
+              "media_key": "3_2005446759301218304",
+              "start": 6,
+              "url": "https://t.co/E13gqyXbHC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005446770281845199",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 9012,
+          "like_count": 885,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 131
+        },
+        "reply_settings": "everyone",
+        "text": "#コピック https://t.co/E13gqyXbHC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 441,
+          "like_count": 9101,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 434
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-02T05:01:59.000Z",
+        "description": "Illustration ✧ Skeb https://t.co/tmZDfSJyP2 ✧ BOOTH https://t.co/QUDXno4v7i ✧ ✉️ info@misteor.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@misteor_online",
+                "end": 43,
+                "expanded_url": "https://skeb.jp/@misteor_online",
+                "start": 20,
+                "url": "https://t.co/tmZDfSJyP2"
+              },
+              {
+                "display_url": "misteor.booth.pm",
+                "end": 75,
+                "expanded_url": "https://misteor.booth.pm/",
+                "start": 52,
+                "url": "https://t.co/QUDXno4v7i"
+              }
+            ]
+          }
+        },
+        "id": "760339840491659264",
+        "name": "mio@C107【火曜日南i-35b】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005525408272490496/zAJE3w8S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49876,
+          "following_count": 1908,
+          "like_count": 7233,
+          "listed_count": 455,
+          "media_count": 582,
+          "tweet_count": 5152
+        },
+        "username": "misteor_online",
+        "verified": false
+      }
+    ]
+  }
+}

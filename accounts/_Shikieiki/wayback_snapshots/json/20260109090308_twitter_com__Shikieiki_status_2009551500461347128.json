@@ -1,0 +1,578 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009261239181209600"
+      ],
+      "media_source_tweet_id": [
+        "2009261288673689803"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2009551500461347128",
+    "created_at": "2026-01-09T09:03:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T10:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009551500461347128"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 40,
+          "normalized_text": "描きました 魔法少女まどか☆マギカ",
+          "probability": 0.0773,
+          "start": 24,
+          "type": "Other"
+        },
+        {
+          "end": 47,
+          "normalized_text": "美樹さやか",
+          "probability": 0.9239,
+          "start": 43,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 66,
+          "start": 55,
+          "tag": "魔法少女まどかマギカ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "119375995",
+          "start": 3,
+          "username": "snowdrop1010"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lV93vtvhkF",
+          "end": 90,
+          "expanded_url": "https://x.com/snowdrop1010/status/2009261288673689803/photo/1",
+          "media_key": "3_2009261239181209600",
+          "start": 67,
+          "url": "https://t.co/lV93vtvhkF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009551500461347128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 112
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009261288673689803",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @snowdrop1010: シャーペンで描きました\n魔法少女まどか☆マギカから美樹さやかです。\n包帯\n#魔法少女まどかマギカ https://t.co/lV93vtvhkF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2468,
+        "media_key": "3_2009261239181209600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-JUc5ZbcAAenJT.jpg",
+        "width": 1728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009261239181209600"
+          ],
+          "media_source_tweet_id": [
+            "2009261288673689803"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2009551500461347128",
+        "created_at": "2026-01-09T09:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T10:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009551500461347128"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 40,
+              "normalized_text": "描きました 魔法少女まどか☆マギカ",
+              "probability": 0.0773,
+              "start": 24,
+              "type": "Other"
+            },
+            {
+              "end": 47,
+              "normalized_text": "美樹さやか",
+              "probability": 0.9239,
+              "start": 43,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 55,
+              "tag": "魔法少女まどかマギカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "119375995",
+              "start": 3,
+              "username": "snowdrop1010"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lV93vtvhkF",
+              "end": 90,
+              "expanded_url": "https://x.com/snowdrop1010/status/2009261288673689803/photo/1",
+              "media_key": "3_2009261239181209600",
+              "start": 67,
+              "url": "https://t.co/lV93vtvhkF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009551500461347128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 112
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009261288673689803",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @snowdrop1010: シャーペンで描きました\n魔法少女まどか☆マギカから美樹さやかです。\n包帯\n#魔法少女まどかマギカ https://t.co/lV93vtvhkF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009261239181209600"
+          ]
+        },
+        "author_id": "119375995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2009261288673689803",
+        "created_at": "2026-01-08T13:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T14:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009261288673689803"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "描きました 魔法少女まどか☆マギカ",
+              "probability": 0.1206,
+              "start": 6,
+              "type": "Other"
+            },
+            {
+              "end": 29,
+              "normalized_text": "美樹さやか",
+              "probability": 0.9268,
+              "start": 25,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 37,
+              "tag": "魔法少女まどかマギカ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lV93vtvhkF",
+              "end": 72,
+              "expanded_url": "https://x.com/snowdrop1010/status/2009261288673689803/photo/1",
+              "media_key": "3_2009261239181209600",
+              "start": 49,
+              "url": "https://t.co/lV93vtvhkF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009261288673689803",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 8130,
+          "like_count": 715,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 112
+        },
+        "reply_settings": "everyone",
+        "text": "シャーペンで描きました\n魔法少女まどか☆マギカから美樹さやかです。\n包帯\n#魔法少女まどかマギカ https://t.co/lV93vtvhkF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 573,
+          "like_count": 17880,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1241
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-03T13:13:47.000Z",
+        "description": "アナログでお絵描きをしています\nご依頼はSkebから、シャーペンイラストのみ受け付けております\nSkeb:https://t.co/ty9RAEUXz9\npixiv:https://t.co/XUDc8BD8hF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@snowdrop1010",
+                "end": 76,
+                "expanded_url": "https://skeb.jp/@snowdrop1010",
+                "start": 53,
+                "url": "https://t.co/ty9RAEUXz9"
+              },
+              {
+                "display_url": "pixiv.net/users/1240102",
+                "end": 106,
+                "expanded_url": "https://www.pixiv.net/users/1240102",
+                "start": 83,
+                "url": "https://t.co/XUDc8BD8hF"
+              }
+            ]
+          }
+        },
+        "id": "119375995",
+        "name": "くろいうさぎ",
+        "pinned_tweet_id": "2007469107730628968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/378800000229899493/dba973d296585a3eabf3dea320a28ddc_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11403,
+          "following_count": 184,
+          "like_count": 20330,
+          "listed_count": 224,
+          "media_count": 3168,
+          "tweet_count": 24569
+        },
+        "username": "snowdrop1010",
+        "verified": false
+      }
+    ]
+  }
+}

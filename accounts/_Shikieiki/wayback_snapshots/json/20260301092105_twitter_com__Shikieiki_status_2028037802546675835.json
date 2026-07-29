@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028009556992036864"
+      ],
+      "media_source_tweet_id": [
+        "2028009563040190692"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2028037802546675835",
+    "created_at": "2026-03-01T09:21:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T10:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028037802546675835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1893979538667061248",
+          "start": 3,
+          "username": "AKNs_LBLB"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gxl2hX0kk1",
+          "end": 40,
+          "expanded_url": "https://x.com/AKNs_LBLB/status/2028009563040190692/photo/1",
+          "media_key": "3_2028009556992036864",
+          "start": 17,
+          "url": "https://t.co/Gxl2hX0kk1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028037802546675835",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028009563040190692",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AKNs_LBLB: 🍡 https://t.co/Gxl2hX0kk1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 854,
+        "media_key": "3_2028009556992036864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCTv8n2bkAAizC8.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028009556992036864"
+          ],
+          "media_source_tweet_id": [
+            "2028009563040190692"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2028037802546675835",
+        "created_at": "2026-03-01T09:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T10:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028037802546675835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1893979538667061248",
+              "start": 3,
+              "username": "AKNs_LBLB"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gxl2hX0kk1",
+              "end": 40,
+              "expanded_url": "https://x.com/AKNs_LBLB/status/2028009563040190692/photo/1",
+              "media_key": "3_2028009556992036864",
+              "start": 17,
+              "url": "https://t.co/Gxl2hX0kk1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028037802546675835",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028009563040190692",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AKNs_LBLB: 🍡 https://t.co/Gxl2hX0kk1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028009556992036864"
+          ]
+        },
+        "author_id": "1893979538667061248",
+        "conversation_id": "2028009563040190692",
+        "created_at": "2026-03-01T07:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T08:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028009563040190692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gxl2hX0kk1",
+              "end": 25,
+              "expanded_url": "https://x.com/AKNs_LBLB/status/2028009563040190692/photo/1",
+              "media_key": "3_2028009556992036864",
+              "start": 2,
+              "url": "https://t.co/Gxl2hX0kk1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028009563040190692",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 564,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "🍡 https://t.co/Gxl2hX0kk1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 744,
+          "like_count": 22387,
+          "listed_count": 0,
+          "media_count": 374,
+          "tweet_count": 2798
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-24T11:01:45.000Z",
+        "description": "ぷろむん垢🌙/ 20↑/ たまに絵を描きます、自職員多め/ネタバレあんまり配慮しません、FRBミュートご自由にどうぞ/⚠️イラストのアイコン等への無断使用はお控えください/プロカ一読推奨🪪https://t.co/eIY67p1sza",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/pl8msgfl6xh3…",
+                "end": 117,
+                "expanded_url": "https://profcard.info/u/pl8msgfl6xh3xBaEeYbdawrIqEz1",
+                "start": 94,
+                "url": "https://t.co/eIY67p1sza"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "poipiku.com/11380414",
+                "end": 23,
+                "expanded_url": "https://poipiku.com/11380414",
+                "start": 0,
+                "url": "https://t.co/5VAZQc0Yte"
+              }
+            ]
+          }
+        },
+        "id": "1893979538667061248",
+        "name": "赤茄子",
+        "pinned_tweet_id": "1910326468472905888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893988624636448768/vK6sRtYP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1399,
+          "following_count": 94,
+          "like_count": 867,
+          "listed_count": 3,
+          "media_count": 161,
+          "tweet_count": 505
+        },
+        "url": "https://t.co/5VAZQc0Yte",
+        "username": "AKNs_LBLB",
+        "verified": false
+      }
+    ]
+  }
+}

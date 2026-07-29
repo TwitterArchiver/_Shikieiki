@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064667580439068672"
+      ],
+      "media_source_tweet_id": [
+        "2064667582674686426"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2065043919432511693",
+    "created_at": "2026-06-11T12:10:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T13:10:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065043919432511693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2055668091590205440",
+          "start": 3,
+          "username": "bat_anxiety"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wVlvIs8xKd",
+          "end": 40,
+          "expanded_url": "https://x.com/bat_anxiety/status/2064667582674686426/photo/1",
+          "media_key": "3_2064667580439068672",
+          "start": 17,
+          "url": "https://t.co/wVlvIs8xKd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065043919432511693",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3992
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064667582674686426",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bat_anxiety: https://t.co/wVlvIs8xKd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 398,
+        "media_key": "3_2064667580439068672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcsOa9WAAAzrLB.jpg",
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064667580439068672"
+          ],
+          "media_source_tweet_id": [
+            "2064667582674686426"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065043919432511693",
+        "created_at": "2026-06-11T12:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065043919432511693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2055668091590205440",
+              "start": 3,
+              "username": "bat_anxiety"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wVlvIs8xKd",
+              "end": 40,
+              "expanded_url": "https://x.com/bat_anxiety/status/2064667582674686426/photo/1",
+              "media_key": "3_2064667580439068672",
+              "start": 17,
+              "url": "https://t.co/wVlvIs8xKd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065043919432511693",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3992
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064667582674686426",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bat_anxiety: https://t.co/wVlvIs8xKd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064667580439068672"
+          ]
+        },
+        "author_id": "2055668091590205440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064667582674686426",
+        "created_at": "2026-06-10T11:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T12:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064667582674686426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wVlvIs8xKd",
+              "end": 23,
+              "expanded_url": "https://x.com/bat_anxiety/status/2064667582674686426/photo/1",
+              "media_key": "3_2064667580439068672",
+              "start": 0,
+              "url": "https://t.co/wVlvIs8xKd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064667582674686426",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1429,
+          "impression_count": 148199,
+          "like_count": 21399,
+          "quote_count": 44,
+          "reply_count": 16,
+          "retweet_count": 3992
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wVlvIs8xKd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n伴侣 @octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 961,
+          "like_count": 28604,
+          "listed_count": 1,
+          "media_count": 491,
+          "tweet_count": 4211
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T15:14:22.000Z",
+        "description": "жалкое живое существо",
+        "id": "2055668091590205440",
+        "location": "🌸",
+        "name": "maid^-^",
+        "pinned_tweet_id": "2059413100286165410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056163243836469248/UXM2O-tZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 58,
+          "like_count": 307,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 188
+        },
+        "username": "bat_anxiety",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025047626740121600"
+      ],
+      "media_source_tweet_id": [
+        "2025047632230416682"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2025212917298471372",
+    "created_at": "2026-02-21T14:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T15:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025212917298471372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1483943775676338186",
+          "start": 3,
+          "username": "Zooptastix"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8YfjD8fAJQ",
+          "end": 39,
+          "expanded_url": "https://x.com/Zooptastix/status/2025047632230416682/photo/1",
+          "media_key": "3_2025047626740121600",
+          "start": 16,
+          "url": "https://t.co/8YfjD8fAJQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025212917298471372",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 131
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025047632230416682",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zooptastix: https://t.co/8YfjD8fAJQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 711,
+        "media_key": "3_2025047626740121600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBpqFl0XwAAS3W3.jpg",
+        "width": 1092
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025047626740121600"
+          ],
+          "media_source_tweet_id": [
+            "2025047632230416682"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2025212917298471372",
+        "created_at": "2026-02-21T14:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T15:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025212917298471372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1483943775676338186",
+              "start": 3,
+              "username": "Zooptastix"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8YfjD8fAJQ",
+              "end": 39,
+              "expanded_url": "https://x.com/Zooptastix/status/2025047632230416682/photo/1",
+              "media_key": "3_2025047626740121600",
+              "start": 16,
+              "url": "https://t.co/8YfjD8fAJQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025212917298471372",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 131
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025047632230416682",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zooptastix: https://t.co/8YfjD8fAJQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025047626740121600"
+          ]
+        },
+        "author_id": "1483943775676338186",
+        "conversation_id": "2025047632230416682",
+        "created_at": "2026-02-21T03:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T04:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025047632230416682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8YfjD8fAJQ",
+              "end": 23,
+              "expanded_url": "https://x.com/Zooptastix/status/2025047632230416682/photo/1",
+              "media_key": "3_2025047626740121600",
+              "start": 0,
+              "url": "https://t.co/8YfjD8fAJQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025047632230416682",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 7808,
+          "like_count": 727,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 131
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8YfjD8fAJQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 691,
+          "like_count": 21013,
+          "listed_count": 0,
+          "media_count": 303,
+          "tweet_count": 2348
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-19T23:25:48.000Z",
+        "description": "24. he/him - I post about everything 🫶",
+        "id": "1483943775676338186",
+        "name": "dav",
+        "pinned_tweet_id": "1996086441080672748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815249420524441600/NP5oH04T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 2560,
+          "like_count": 38953,
+          "listed_count": 5,
+          "media_count": 6259,
+          "tweet_count": 38848
+        },
+        "username": "Zooptastix",
+        "verified": false
+      }
+    ]
+  }
+}

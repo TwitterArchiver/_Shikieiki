@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "1998810919682638294",
+    "created_at": "2026-02-24T16:01:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T17:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026326521666052313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1441272389522771968",
+          "start": 0,
+          "username": "dont_stareatme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026326521666052313",
+    "in_reply_to_user_id": "1441272389522771968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026325924833309061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dont_stareatme 美金刚千万别和烷胺联用啊)\n止吐推荐甲氧氯普胺\n谢谢对我的肯定 非常感谢💖💖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "1998810919682638294",
+        "created_at": "2026-02-24T16:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T17:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026326521666052313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1441272389522771968",
+              "start": 0,
+              "username": "dont_stareatme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026326521666052313",
+        "in_reply_to_user_id": "1441272389522771968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026325924833309061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dont_stareatme 美金刚千万别和烷胺联用啊)\n止吐推荐甲氧氯普胺\n谢谢对我的肯定 非常感谢💖💖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1441272389522771968",
+        "conversation_id": "1998810919682638294",
+        "created_at": "2026-02-24T15:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T16:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026325924833309061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1448206950903255040",
+              "start": 0,
+              "username": "_Shikieiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026325924833309061",
+        "in_reply_to_user_id": "1448206950903255040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998810919682638294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Shikieiki 之前和晚安联用第二天吐得一塌糊涂，看到你这篇决定再买一瓶试试！止吐可以用多潘立酮嘛？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 693,
+          "like_count": 21283,
+          "listed_count": 0,
+          "media_count": 317,
+          "tweet_count": 2399
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-24T05:25:01.000Z",
+        "description": "祝我快快死",
+        "id": "1441272389522771968",
+        "location": "天国驻华大使馆",
+        "name": "越远越好",
+        "pinned_tweet_id": "1546762650775760896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1545779702572654593/U_64tZDy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 229,
+          "like_count": 909,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 369
+        },
+        "username": "dont_stareatme",
+        "verified": false
+      }
+    ]
+  }
+}

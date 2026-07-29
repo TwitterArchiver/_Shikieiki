@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060330678018027520"
+      ],
+      "media_source_tweet_id": [
+        "2060330682497556853"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2060369236569227317",
+    "created_at": "2026-05-29T14:34:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T15:34:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060369236569227317"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 54,
+          "start": 35,
+          "tag": "フェイト・テスタロッサ生誕祭2026"
+        },
+        {
+          "end": 75,
+          "start": 55,
+          "tag": "フェイト・T・ハラオウン生誕祭2026"
+        },
+        {
+          "end": 84,
+          "start": 76,
+          "tag": "リリカルなのは"
+        },
+        {
+          "end": 92,
+          "start": 85,
+          "tag": "nanoha"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "4300324040",
+          "start": 3,
+          "username": "takami771251161"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vgccfsHEtA",
+          "end": 116,
+          "expanded_url": "https://x.com/takami771251161/status/2060330682497556853/photo/1",
+          "media_key": "3_2060330678018027520",
+          "start": 93,
+          "url": "https://t.co/vgccfsHEtA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060369236569227317",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060330682497556853",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @takami771251161: フェイト誕生日おめでとう🎊\n#フェイト・テスタロッサ生誕祭2026\n#フェイト・T・ハラオウン生誕祭2026\n#リリカルなのは #nanoha https://t.co/vgccfsHEtA"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2060369236569227317].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2060369236569227317",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2060369236569227317"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060330678018027520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfD1ecasAAvW0L.jpg",
+        "width": 1561
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060330678018027520"
+          ]
+        },
+        "author_id": "4300324040",
+        "conversation_id": "2060330682497556853",
+        "created_at": "2026-05-29T12:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060330682497556853"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 14,
+              "tag": "フェイト・テスタロッサ生誕祭2026"
+            },
+            {
+              "end": 54,
+              "start": 34,
+              "tag": "フェイト・T・ハラオウン生誕祭2026"
+            },
+            {
+              "end": 63,
+              "start": 55,
+              "tag": "リリカルなのは"
+            },
+            {
+              "end": 71,
+              "start": 64,
+              "tag": "nanoha"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vgccfsHEtA",
+              "end": 95,
+              "expanded_url": "https://x.com/takami771251161/status/2060330682497556853/photo/1",
+              "media_key": "3_2060330678018027520",
+              "start": 72,
+              "url": "https://t.co/vgccfsHEtA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060330682497556853",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1283,
+          "like_count": 143,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "フェイト誕生日おめでとう🎊\n#フェイト・テスタロッサ生誕祭2026\n#フェイト・T・ハラオウン生誕祭2026\n#リリカルなのは #nanoha https://t.co/vgccfsHEtA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1117,
+          "following_count": 949,
+          "like_count": 28659,
+          "listed_count": 1,
+          "media_count": 499,
+          "tweet_count": 4168
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-20T11:20:54.000Z",
+        "description": "アニメと声優と百合とが好きです。ゆるく絵描きます。好きなカプをぐるぐる周しながら描いてます",
+        "id": "4300324040",
+        "location": "大阪府",
+        "name": "くりぼう",
+        "pinned_tweet_id": "2057799929079468156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980909940135862272/E8HBKo92_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 700,
+          "like_count": 24976,
+          "listed_count": 18,
+          "media_count": 2798,
+          "tweet_count": 12487
+        },
+        "username": "takami771251161",
+        "verified": false
+      }
+    ]
+  }
+}

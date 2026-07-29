@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005612242864422912"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2005612560075444420",
+    "created_at": "2025-12-29T12:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T13:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005612560075444420"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kik36zQhBH",
+          "end": 61,
+          "expanded_url": "https://x.com/_Shikieiki/status/2005612560075444420/photo/1",
+          "media_key": "3_2005612242864422912",
+          "start": 38,
+          "url": "https://t.co/Kik36zQhBH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005612560075444420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人类发现，冲突的根源之一是“性别”。\n人类放弃了性别，成为更加纯洁的生物。 https://t.co/Kik36zQhBH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2005612242864422912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9VdtW0bwAA2noF.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005612242864422912"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2005612560075444420",
+        "created_at": "2025-12-29T12:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T13:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005612560075444420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kik36zQhBH",
+              "end": 61,
+              "expanded_url": "https://x.com/_Shikieiki/status/2005612560075444420/photo/1",
+              "media_key": "3_2005612242864422912",
+              "start": 38,
+              "url": "https://t.co/Kik36zQhBH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005612560075444420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人类发现，冲突的根源之一是“性别”。\n人类放弃了性别，成为更加纯洁的生物。 https://t.co/Kik36zQhBH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 441,
+          "like_count": 9175,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 440
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      }
+    ]
+  }
+}

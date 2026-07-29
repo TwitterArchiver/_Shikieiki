@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2021847119007821990",
+    "created_at": "2026-02-12T07:21:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T08:21:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021847119007821990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1431114031616577538",
+          "start": 3,
+          "username": "PearlWrap"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021847119007821990",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 536
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011786317349470562",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PearlWrap: anyways, girls kissing"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2021847119007821990",
+        "created_at": "2026-02-12T07:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T08:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021847119007821990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1431114031616577538",
+              "start": 3,
+              "username": "PearlWrap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021847119007821990",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 536
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011786317349470562",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PearlWrap: anyways, girls kissing"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431114031616577538",
+        "conversation_id": "2011786317349470562",
+        "created_at": "2026-01-15T13:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T14:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011786317349470562"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2011786317349470562",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 281816,
+          "like_count": 3364,
+          "quote_count": 27,
+          "reply_count": 26,
+          "retweet_count": 536
+        },
+        "reply_settings": "everyone",
+        "text": "anyways, girls kissing"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 616,
+          "like_count": 19079,
+          "listed_count": 0,
+          "media_count": 233,
+          "tweet_count": 1756
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-27T04:39:25.000Z",
+        "description": "✲✧⋆ supervibrant ⋆✧✲ | 🇭🇰",
+        "id": "1431114031616577538",
+        "location": "pfp _luna610 on ig",
+        "name": "pearl",
+        "pinned_tweet_id": "2010923322863968317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997536004656570368/Houq58hH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28726,
+          "following_count": 1540,
+          "like_count": 16612,
+          "listed_count": 29,
+          "media_count": 1164,
+          "tweet_count": 6971
+        },
+        "username": "PearlWrap",
+        "verified": false
+      }
+    ]
+  }
+}

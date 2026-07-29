@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2028334206435360914",
+    "created_at": "2026-03-02T04:58:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T05:58:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028334206435360914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1466433239841714182",
+          "start": 3,
+          "username": "24wddp"
+        },
+        {
+          "end": 23,
+          "id": "1448206950903255040",
+          "start": 12,
+          "username": "_Shikieiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028334206435360914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028330033513931263",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @24wddp: @_Shikieiki 22年dxm禁止网售，24年列管，按道理推断pr现在网上还能买，列管好像也不是那么紧迫的事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2028334206435360914",
+        "created_at": "2026-03-02T04:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T05:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028334206435360914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1466433239841714182",
+              "start": 3,
+              "username": "24wddp"
+            },
+            {
+              "end": 23,
+              "id": "1448206950903255040",
+              "start": 12,
+              "username": "_Shikieiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028334206435360914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028330033513931263",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @24wddp: @_Shikieiki 22年dxm禁止网售，24年列管，按道理推断pr现在网上还能买，列管好像也不是那么紧迫的事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1466433239841714182",
+        "conversation_id": "2028240451850133617",
+        "created_at": "2026-03-02T04:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T05:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028330033513931263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1448206950903255040",
+              "start": 0,
+              "username": "_Shikieiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028330033513931263",
+        "in_reply_to_user_id": "1448206950903255040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028240451850133617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Shikieiki 22年dxm禁止网售，24年列管，按道理推断pr现在网上还能买，列管好像也不是那么紧迫的事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 768,
+          "like_count": 22788,
+          "listed_count": 0,
+          "media_count": 396,
+          "tweet_count": 2907
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-02T15:45:14.000Z",
+        "description": "阿斯伯格｜中度抑郁｜重度焦虑",
+        "id": "1466433239841714182",
+        "location": "中国",
+        "name": "24wddp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1466433415964729357/ejwGb0gX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 125,
+          "like_count": 9798,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 427
+        },
+        "username": "24wddp",
+        "verified": false
+      }
+    ]
+  }
+}

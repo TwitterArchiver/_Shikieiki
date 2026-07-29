@@ -1,0 +1,474 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025199423421382657"
+      ],
+      "media_source_tweet_id": [
+        "2025199430115512576"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2028282287092330949",
+    "created_at": "2026-03-02T01:32:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T02:32:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028282287092330949"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 39,
+          "tag": "まどマギ"
+        },
+        {
+          "end": 52,
+          "start": 47,
+          "tag": "さやほむ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1123215961471868930",
+          "start": 3,
+          "username": "oKetsu_Gori"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6hTeKd9Y64",
+          "end": 76,
+          "expanded_url": "https://x.com/oKetsu_Gori/status/2025199430115512576/photo/1",
+          "media_key": "3_2025199423421382657",
+          "start": 53,
+          "url": "https://t.co/6hTeKd9Y64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028282287092330949",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1136
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025199430115512576",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oKetsu_Gori: Oktavia × Homulilly\n\n #まどマギ \n #さやほむ https://t.co/6hTeKd9Y64"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2282,
+        "media_key": "3_2025199423421382657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBr0JUhbgAESv6s.jpg",
+        "width": 1691
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025199423421382657"
+          ],
+          "media_source_tweet_id": [
+            "2025199430115512576"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2028282287092330949",
+        "created_at": "2026-03-02T01:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T02:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028282287092330949"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 39,
+              "tag": "まどマギ"
+            },
+            {
+              "end": 52,
+              "start": 47,
+              "tag": "さやほむ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1123215961471868930",
+              "start": 3,
+              "username": "oKetsu_Gori"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6hTeKd9Y64",
+              "end": 76,
+              "expanded_url": "https://x.com/oKetsu_Gori/status/2025199430115512576/photo/1",
+              "media_key": "3_2025199423421382657",
+              "start": 53,
+              "url": "https://t.co/6hTeKd9Y64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028282287092330949",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1136
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025199430115512576",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oKetsu_Gori: Oktavia × Homulilly\n\n #まどマギ \n #さやほむ https://t.co/6hTeKd9Y64"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025199423421382657"
+          ]
+        },
+        "author_id": "1123215961471868930",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2025199430115512576",
+        "created_at": "2026-02-21T13:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T14:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025199430115512576"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "まどマギ"
+            },
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "さやほむ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6hTeKd9Y64",
+              "end": 59,
+              "expanded_url": "https://x.com/oKetsu_Gori/status/2025199430115512576/photo/1",
+              "media_key": "3_2025199423421382657",
+              "start": 36,
+              "url": "https://t.co/6hTeKd9Y64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025199430115512576",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 595,
+          "impression_count": 102111,
+          "like_count": 7713,
+          "quote_count": 21,
+          "reply_count": 2,
+          "retweet_count": 1136
+        },
+        "reply_settings": "everyone",
+        "text": "Oktavia × Homulilly\n\n #まどマギ \n #さやほむ https://t.co/6hTeKd9Y64"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 765,
+          "like_count": 22680,
+          "listed_count": 0,
+          "media_count": 393,
+          "tweet_count": 2880
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-30T13:22:08.000Z",
+        "description": "百合・腐あり｜創作＆考察アカウント✍️ まどかマギカ中心｜佐倉杏子ちゃん / ほむ杏 / 見滝原組 / TDS",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/Sm6ZXBgFTicK…",
+                "end": 23,
+                "expanded_url": "https://profcard.info/u/Sm6ZXBgFTicKtGS7XODRJehkmnE3",
+                "start": 0,
+                "url": "https://t.co/pGQr9ZodFP"
+              }
+            ]
+          }
+        },
+        "id": "1123215961471868930",
+        "location": "⚠️ 禁 止 → 無断転載/無断加工/無断利用/自作発言",
+        "name": "みプリ",
+        "pinned_tweet_id": "1996926190272369126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947837431576932352/zO1OAERA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 50,
+          "like_count": 11258,
+          "listed_count": 5,
+          "media_count": 659,
+          "tweet_count": 8289
+        },
+        "url": "https://t.co/pGQr9ZodFP",
+        "username": "oKetsu_Gori",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2046580915191824401",
+    "created_at": "2026-04-21T16:44:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T17:44:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046631243438334310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1684627463316574208",
+          "start": 0,
+          "username": "GArnjz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046631243438334310",
+    "in_reply_to_user_id": "1684627463316574208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046630521439232405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GArnjz 一部分原因是发掘者太少而导致的吧，市场肯定是有的，只是没有人去做。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2046580915191824401",
+        "created_at": "2026-04-21T16:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T17:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046631243438334310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1684627463316574208",
+              "start": 0,
+              "username": "GArnjz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046631243438334310",
+        "in_reply_to_user_id": "1684627463316574208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046630521439232405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GArnjz 一部分原因是发掘者太少而导致的吧，市场肯定是有的，只是没有人去做。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684627463316574208",
+        "conversation_id": "2046580915191824401",
+        "created_at": "2026-04-21T16:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T17:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046630521439232405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1448206950903255040",
+              "start": 0,
+              "username": "_Shikieiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046630521439232405",
+        "in_reply_to_user_id": "1448206950903255040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046580915191824401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Shikieiki 那些太贵了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Have.a.nice.life",
+                "end": 23,
+                "expanded_url": "http://Have.a.nice.life",
+                "start": 0,
+                "url": "https://t.co/78TH5GeWCd"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2034690854695379175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 861,
+          "like_count": 25563,
+          "listed_count": 1,
+          "media_count": 412,
+          "tweet_count": 3394
+        },
+        "url": "https://t.co/78TH5GeWCd",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T18:11:35.000Z",
+        "description": "",
+        "id": "1684627463316574208",
+        "name": "Gex Arnjz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684627609223856128/-VLaNF_7_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 8,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "GArnjz",
+        "verified": false
+      }
+    ]
+  }
+}

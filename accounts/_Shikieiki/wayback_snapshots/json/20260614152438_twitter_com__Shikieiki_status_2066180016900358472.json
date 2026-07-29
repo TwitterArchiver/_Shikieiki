@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2065873465165406208"
+      ],
+      "media_source_tweet_id": [
+        "2065874413182923177"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066180016900358472",
+    "created_at": "2026-06-14T15:24:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T16:24:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066180016900358472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1888852715733663744",
+          "start": 3,
+          "username": "ZorinSoulDX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UVFicvf01D",
+          "end": 40,
+          "expanded_url": "https://x.com/ZorinSoulDX/status/2065874413182923177/video/1",
+          "media_key": "13_2065873465165406208",
+          "start": 17,
+          "url": "https://t.co/UVFicvf01D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066180016900358472",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065874413182923177",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZorinSoulDX: https://t.co/UVFicvf01D"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 106967,
+        "height": 1080,
+        "media_key": "13_2065873465165406208",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065873465165406208/img/VADWU1IkucW97z02.jpg",
+        "public_metrics": {
+          "view_count": 1997
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065873465165406208/vid/avc1/362x270/HdaPa8VM-N6FEMrc.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065873465165406208/vid/avc1/482x360/hAIbbl41vyQaLJEu.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065873465165406208/vid/avc1/966x720/0RwYa8Epd3VW7vu0.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065873465165406208/pl/Wa2xGqKFsRx4Qq62.m3u8?tag=14"
+          }
+        ],
+        "width": 1451
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065873465165406208"
+          ],
+          "media_source_tweet_id": [
+            "2065874413182923177"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066180016900358472",
+        "created_at": "2026-06-14T15:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066180016900358472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1888852715733663744",
+              "start": 3,
+              "username": "ZorinSoulDX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UVFicvf01D",
+              "end": 40,
+              "expanded_url": "https://x.com/ZorinSoulDX/status/2065874413182923177/video/1",
+              "media_key": "13_2065873465165406208",
+              "start": 17,
+              "url": "https://t.co/UVFicvf01D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066180016900358472",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065874413182923177",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZorinSoulDX: https://t.co/UVFicvf01D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065873465165406208"
+          ]
+        },
+        "author_id": "1888852715733663744",
+        "conversation_id": "2065874413182923177",
+        "created_at": "2026-06-13T19:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T20:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065874413182923177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UVFicvf01D",
+              "end": 23,
+              "expanded_url": "https://x.com/ZorinSoulDX/status/2065874413182923177/video/1",
+              "media_key": "13_2065873465165406208",
+              "start": 0,
+              "url": "https://t.co/UVFicvf01D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065874413182923177",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 5962,
+          "like_count": 203,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UVFicvf01D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n伴侣 @octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 963,
+          "like_count": 28597,
+          "listed_count": 1,
+          "media_count": 491,
+          "tweet_count": 4228
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-10T07:29:44.000Z",
+        "description": "I love Ibis Douglas a lot 🧡💜\nspanish/english\n🦋https://t.co/Iu7ZiyruVh\nibisfan77 on Discord\nWatch Symphogear and play SRW OGs (watch Lyrical Nanoha too)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zorinsoul.bsky.social",
+                "end": 69,
+                "expanded_url": "http://zorinsoul.bsky.social",
+                "start": 46,
+                "url": "https://t.co/Iu7ZiyruVh"
+              }
+            ]
+          }
+        },
+        "id": "1888852715733663744",
+        "location": "Argentina",
+        "name": "Zorin Soul Double X 🌠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061440186848854016/paptkv1B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 1650,
+          "like_count": 75184,
+          "listed_count": 3,
+          "media_count": 622,
+          "tweet_count": 11690
+        },
+        "username": "ZorinSoulDX",
+        "verified": false
+      }
+    ]
+  }
+}

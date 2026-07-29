@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "2022876215561064806",
+    "created_at": "2026-02-15T03:30:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T04:30:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022876215561064806"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "Shikieiki Yamaxanadu",
+          "probability": 0.6159,
+          "start": 0,
+          "type": "Person"
+        },
+        {
+          "end": 131,
+          "normalized_text": "Phantasmagoria of Flower View",
+          "probability": 0.9074,
+          "start": 103,
+          "type": "Other"
+        },
+        {
+          "end": 188,
+          "normalized_text": "Touhou Project",
+          "probability": 0.8861,
+          "start": 175,
+          "type": "Other"
+        },
+        {
+          "end": 251,
+          "normalized_text": "Touhou",
+          "probability": 0.6537,
+          "start": 246,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/petaldairies/s…",
+          "end": 304,
+          "expanded_url": "https://twitter.com/petaldairies/status/2022697683258085885",
+          "start": 281,
+          "url": "https://t.co/F6JxQYfPlI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022876215561064806",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022697683258085885",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Shikieiki Yamaxanadu was the English name of my favourite character that was originated from the game 'Phantasmagoria of Flower View', which is the ninth official game in the Touhou Project\nAnyways it's because when I first started to know about Touhou her personality attracts me https://t.co/F6JxQYfPlI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "2022876215561064806",
+        "created_at": "2026-02-15T03:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T04:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022876215561064806"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "Shikieiki Yamaxanadu",
+              "probability": 0.6159,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 131,
+              "normalized_text": "Phantasmagoria of Flower View",
+              "probability": 0.9074,
+              "start": 103,
+              "type": "Other"
+            },
+            {
+              "end": 188,
+              "normalized_text": "Touhou Project",
+              "probability": 0.8861,
+              "start": 175,
+              "type": "Other"
+            },
+            {
+              "end": 251,
+              "normalized_text": "Touhou",
+              "probability": 0.6537,
+              "start": 246,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/petaldairies/s…",
+              "end": 304,
+              "expanded_url": "https://twitter.com/petaldairies/status/2022697683258085885",
+              "start": 281,
+              "url": "https://t.co/F6JxQYfPlI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022876215561064806",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022697683258085885",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Shikieiki Yamaxanadu was the English name of my favourite character that was originated from the game 'Phantasmagoria of Flower View', which is the ninth official game in the Touhou Project\nAnyways it's because when I first started to know about Touhou her personality attracts me https://t.co/F6JxQYfPlI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012139152641495040",
+        "conversation_id": "2022697683258085885",
+        "created_at": "2026-02-14T15:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T16:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022697683258085885"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022697683258085885",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5737,
+          "impression_count": 3943739,
+          "like_count": 22460,
+          "quote_count": 29463,
+          "reply_count": 8014,
+          "retweet_count": 586
+        },
+        "reply_settings": "everyone",
+        "text": "explain ur username."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 636,
+          "like_count": 19388,
+          "listed_count": 0,
+          "media_count": 256,
+          "tweet_count": 1929
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-16T12:25:40.000Z",
+        "description": "gentle heart, quiet mind \nblooming slowly🖤",
+        "id": "2012139152641495040",
+        "name": "Petal",
+        "pinned_tweet_id": "2014956772247957711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012139279615725568/t6cx03YS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1321,
+          "following_count": 193,
+          "like_count": 604,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 461
+        },
+        "username": "petaldairies",
+        "verified": false
+      }
+    ]
+  }
+}

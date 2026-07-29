@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041803069332320260"
+      ],
+      "media_source_tweet_id": [
+        "2047541044141764988"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2047595010296791198",
+    "created_at": "2026-04-24T08:34:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T09:34:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047595010296791198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1896761966246731776",
+          "start": 3,
+          "username": "MECHANISM999999"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vfJfdGEfqd",
+          "end": 44,
+          "expanded_url": "https://x.com/MECHANISM999999/status/2047541044141764988/photo/1",
+          "media_key": "3_2041803069332320260",
+          "start": 21,
+          "url": "https://t.co/vfJfdGEfqd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047595010296791198",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047541044141764988",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MECHANISM999999: https://t.co/vfJfdGEfqd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2041803069332320260",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFXxEtja8AQQNEi.jpg",
+        "width": 1212
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041803069332320260"
+          ],
+          "media_source_tweet_id": [
+            "2047541044141764988"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2047595010296791198",
+        "created_at": "2026-04-24T08:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047595010296791198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1896761966246731776",
+              "start": 3,
+              "username": "MECHANISM999999"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vfJfdGEfqd",
+              "end": 44,
+              "expanded_url": "https://x.com/MECHANISM999999/status/2047541044141764988/photo/1",
+              "media_key": "3_2041803069332320260",
+              "start": 21,
+              "url": "https://t.co/vfJfdGEfqd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047595010296791198",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047541044141764988",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MECHANISM999999: https://t.co/vfJfdGEfqd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041803069332320260"
+          ]
+        },
+        "author_id": "1896761966246731776",
+        "conversation_id": "2047541044141764988",
+        "created_at": "2026-04-24T05:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T06:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047541044141764988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vfJfdGEfqd",
+              "end": 23,
+              "expanded_url": "https://x.com/MECHANISM999999/status/2047541044141764988/photo/1",
+              "media_key": "3_2041803069332320260",
+              "start": 0,
+              "url": "https://t.co/vfJfdGEfqd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047541044141764988",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 531,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vfJfdGEfqd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2047351982030258527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 880,
+          "like_count": 26076,
+          "listed_count": 1,
+          "media_count": 415,
+          "tweet_count": 3479
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T03:17:55.000Z",
+        "description": "",
+        "id": "1896761966246731776",
+        "location": "ネットスフィア",
+        "name": "MECHANISM",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030049299086876672/Co-VdJPM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10797,
+          "following_count": 99,
+          "like_count": 5048,
+          "listed_count": 57,
+          "media_count": 462,
+          "tweet_count": 734
+        },
+        "username": "MECHANISM999999",
+        "verified": true
+      }
+    ]
+  }
+}

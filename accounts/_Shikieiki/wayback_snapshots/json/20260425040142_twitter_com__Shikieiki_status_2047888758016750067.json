@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047695641405771776"
+      ],
+      "media_source_tweet_id": [
+        "2047695646162113002"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2047888758016750067",
+    "created_at": "2026-04-25T04:01:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T05:01:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047888758016750067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1895754303526354945",
+          "start": 3,
+          "username": "wataru_05172025"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ThQ9dVI8ts",
+          "end": 49,
+          "expanded_url": "https://x.com/wataru_05172025/status/2047695646162113002/photo/1",
+          "media_key": "3_2047695641405771776",
+          "start": 26,
+          "url": "https://t.co/ThQ9dVI8ts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047888758016750067",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 125
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047695646162113002",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wataru_05172025: マミさん https://t.co/ThQ9dVI8ts"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1411,
+        "media_key": "3_2047695641405771776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrgVjIbUAAhFco.jpg",
+        "width": 874
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047695641405771776"
+          ],
+          "media_source_tweet_id": [
+            "2047695646162113002"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2047888758016750067",
+        "created_at": "2026-04-25T04:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T05:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047888758016750067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1895754303526354945",
+              "start": 3,
+              "username": "wataru_05172025"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ThQ9dVI8ts",
+              "end": 49,
+              "expanded_url": "https://x.com/wataru_05172025/status/2047695646162113002/photo/1",
+              "media_key": "3_2047695641405771776",
+              "start": 26,
+              "url": "https://t.co/ThQ9dVI8ts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047888758016750067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 125
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047695646162113002",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wataru_05172025: マミさん https://t.co/ThQ9dVI8ts"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047695641405771776"
+          ]
+        },
+        "author_id": "1895754303526354945",
+        "conversation_id": "2047695646162113002",
+        "created_at": "2026-04-24T15:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047695646162113002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ThQ9dVI8ts",
+              "end": 28,
+              "expanded_url": "https://x.com/wataru_05172025/status/2047695646162113002/photo/1",
+              "media_key": "3_2047695641405771776",
+              "start": 5,
+              "url": "https://t.co/ThQ9dVI8ts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047695646162113002",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 5513,
+          "like_count": 694,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 125
+        },
+        "reply_settings": "everyone",
+        "text": "マミさん https://t.co/ThQ9dVI8ts"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2047351982030258527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 879,
+          "like_count": 26215,
+          "listed_count": 1,
+          "media_count": 416,
+          "tweet_count": 3495
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-01T08:36:21.000Z",
+        "description": "まどマギとウマといろいろ好きな学生です。絵を描きます。ジャンルぶれぶれです。",
+        "id": "1895754303526354945",
+        "name": "わたる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045073019983585280/COv__tbi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2669,
+          "following_count": 201,
+          "like_count": 8122,
+          "listed_count": 10,
+          "media_count": 419,
+          "tweet_count": 1135
+        },
+        "username": "wataru_05172025",
+        "verified": false
+      }
+    ]
+  }
+}

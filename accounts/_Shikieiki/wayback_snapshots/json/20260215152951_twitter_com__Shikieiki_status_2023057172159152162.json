@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022967366028763136"
+      ],
+      "media_source_tweet_id": [
+        "2022967370952982824"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2023057172159152162",
+    "created_at": "2026-02-15T15:29:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T16:29:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023057172159152162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1738459764118769664",
+          "start": 3,
+          "username": "karmanimaXwX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2zb7R4we6y",
+          "end": 41,
+          "expanded_url": "https://x.com/karmanimaXwX/status/2022967370952982824/photo/1",
+          "media_key": "3_2022967366028763136",
+          "start": 18,
+          "url": "https://t.co/2zb7R4we6y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023057172159152162",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 178
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022967370952982824",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @karmanimaXwX: https://t.co/2zb7R4we6y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022967366028763136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBMGGexaIAA30Xz.jpg",
+        "width": 1273
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022967366028763136"
+          ],
+          "media_source_tweet_id": [
+            "2022967370952982824"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2023057172159152162",
+        "created_at": "2026-02-15T15:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T16:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023057172159152162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738459764118769664",
+              "start": 3,
+              "username": "karmanimaXwX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2zb7R4we6y",
+              "end": 41,
+              "expanded_url": "https://x.com/karmanimaXwX/status/2022967370952982824/photo/1",
+              "media_key": "3_2022967366028763136",
+              "start": 18,
+              "url": "https://t.co/2zb7R4we6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023057172159152162",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 178
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022967370952982824",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @karmanimaXwX: https://t.co/2zb7R4we6y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022967366028763136"
+          ]
+        },
+        "author_id": "1738459764118769664",
+        "conversation_id": "2022967370952982824",
+        "created_at": "2026-02-15T09:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T10:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022967370952982824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2zb7R4we6y",
+              "end": 23,
+              "expanded_url": "https://x.com/karmanimaXwX/status/2022967370952982824/photo/1",
+              "media_key": "3_2022967366028763136",
+              "start": 0,
+              "url": "https://t.co/2zb7R4we6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022967370952982824",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 9049,
+          "like_count": 1368,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 178
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2zb7R4we6y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 653,
+          "like_count": 19585,
+          "listed_count": 0,
+          "media_count": 262,
+          "tweet_count": 1994
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-23T07:21:43.000Z",
+        "description": "たまに絵を描いています。 AIやめてね",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@karmanimaXwX",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@karmanimaXwX",
+                "start": 0,
+                "url": "https://t.co/p0XwHE8g1m"
+              }
+            ]
+          }
+        },
+        "id": "1738459764118769664",
+        "name": "Kr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989317179163156481/qRPDE8f3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1576,
+          "following_count": 236,
+          "like_count": 87539,
+          "listed_count": 11,
+          "media_count": 61,
+          "tweet_count": 3603
+        },
+        "url": "https://t.co/p0XwHE8g1m",
+        "username": "karmanimaXwX",
+        "verified": false
+      }
+    ]
+  }
+}

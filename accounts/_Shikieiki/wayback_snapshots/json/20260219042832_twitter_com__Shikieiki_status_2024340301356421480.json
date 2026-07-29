@@ -1,0 +1,1154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1337418605600763906",
+          "name": "Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1337418605600763906",
+          "name": "Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1017115427795681281",
+          "name": "Shojo Kageki Revue Starlight"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1017115427795681281",
+          "name": "Shojo Kageki Revue Starlight"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296381531510849536",
+          "name": "New Years Eve\t"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1337418605600763906",
+          "name": "Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      }
+    ],
+    "conversation_id": "2024340301356421480",
+    "created_at": "2026-02-19T04:28:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T05:28:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024340301356421480"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 18,
+          "tag": "スタァライト"
+        },
+        {
+          "end": 41,
+          "start": 26,
+          "tag": "RevueStarlight"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1981718758487171073",
+          "start": 3,
+          "username": "linluyun_rin"
+        },
+        {
+          "end": 72,
+          "id": "99853725",
+          "start": 62,
+          "username": "oO0Eve0Oo"
+        },
+        {
+          "end": 89,
+          "id": "949984158452871168",
+          "start": 79,
+          "username": "ricopin35"
+        },
+        {
+          "end": 111,
+          "id": "1749404010107568128",
+          "start": 95,
+          "username": "jellyfish_star8"
+        },
+        {
+          "end": 124,
+          "id": "1688466372412710912",
+          "start": 112,
+          "username": "gulugulu531"
+        },
+        {
+          "end": 136,
+          "id": "1896804749976240128",
+          "start": 125,
+          "username": "bentou0617"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024340301356421480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1241
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023647085762146428",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @linluyun_rin: #スタァライト #RevueStarlight \nHappy New Year！\n原作：@oO0Eve0Oo \n原作画师：@ricopin35\n特别感谢：@jellyfish_star8 @gulugulu531 @bentou0617 @k…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36133,
+        "height": 1280,
+        "media_key": "13_2023646948692271104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023646948692271104/img/EyQYr752NwgV95kJ.jpg",
+        "public_metrics": {
+          "view_count": 27395
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023646948692271104/vid/avc1/320x568/jPZe3R-O25FuFnQK.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023646948692271104/vid/avc1/480x852/IScVIjPePzNQQc9B.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023646948692271104/vid/avc1/720x1280/kAFDmJPR4zBVfISX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023646948692271104/pl/RJjYgrrIv6kCeexb.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1337418605600763906",
+              "name": "Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1337418605600763906",
+              "name": "Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1337418605600763906",
+              "name": "Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "2024340301356421480",
+        "created_at": "2026-02-19T04:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T05:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024340301356421480"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 18,
+              "tag": "スタァライト"
+            },
+            {
+              "end": 41,
+              "start": 26,
+              "tag": "RevueStarlight"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1981718758487171073",
+              "start": 3,
+              "username": "linluyun_rin"
+            },
+            {
+              "end": 72,
+              "id": "99853725",
+              "start": 62,
+              "username": "oO0Eve0Oo"
+            },
+            {
+              "end": 89,
+              "id": "949984158452871168",
+              "start": 79,
+              "username": "ricopin35"
+            },
+            {
+              "end": 111,
+              "id": "1749404010107568128",
+              "start": 95,
+              "username": "jellyfish_star8"
+            },
+            {
+              "end": 124,
+              "id": "1688466372412710912",
+              "start": 112,
+              "username": "gulugulu531"
+            },
+            {
+              "end": 136,
+              "id": "1896804749976240128",
+              "start": 125,
+              "username": "bentou0617"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024340301356421480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1241
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023647085762146428",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @linluyun_rin: #スタァライト #RevueStarlight \nHappy New Year！\n原作：@oO0Eve0Oo \n原作画师：@ricopin35\n特别感谢：@jellyfish_star8 @gulugulu531 @bentou0617 @k…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023646948692271104"
+          ]
+        },
+        "author_id": "1981718758487171073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1337418605600763906",
+              "name": "Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1337418605600763906",
+              "name": "Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1337418605600763906",
+              "name": "Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "2023647085762146428",
+        "created_at": "2026-02-17T06:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T07:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023647085762146428"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "スタァライト"
+            },
+            {
+              "end": 23,
+              "start": 8,
+              "tag": "RevueStarlight"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 54,
+              "id": "99853725",
+              "start": 44,
+              "username": "oO0Eve0Oo"
+            },
+            {
+              "end": 71,
+              "id": "949984158452871168",
+              "start": 61,
+              "username": "ricopin35"
+            },
+            {
+              "end": 93,
+              "id": "1749404010107568128",
+              "start": 77,
+              "username": "jellyfish_star8"
+            },
+            {
+              "end": 106,
+              "id": "1688466372412710912",
+              "start": 94,
+              "username": "gulugulu531"
+            },
+            {
+              "end": 118,
+              "id": "1896804749976240128",
+              "start": 107,
+              "username": "bentou0617"
+            },
+            {
+              "end": 128,
+              "id": "1576854818890846208",
+              "start": 119,
+              "username": "kumoma_e"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6W9Wi9sQmr",
+              "end": 167,
+              "expanded_url": "https://x.com/linluyun_rin/status/2023647085762146428/video/1",
+              "media_key": "13_2023646948692271104",
+              "start": 144,
+              "url": "https://t.co/6W9Wi9sQmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023647085762146428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 963,
+          "impression_count": 97752,
+          "like_count": 4262,
+          "quote_count": 48,
+          "reply_count": 8,
+          "retweet_count": 1241
+        },
+        "reply_settings": "everyone",
+        "text": "#スタァライト #RevueStarlight \nHappy New Year！\n原作：@oO0Eve0Oo \n原作画师：@ricopin35\n特别感谢：@jellyfish_star8 @gulugulu531 @bentou0617 @kumoma_e 柒陆 琉璃 与茗 句号 驳欸 https://t.co/6W9Wi9sQmr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 685,
+          "like_count": 20651,
+          "listed_count": 0,
+          "media_count": 282,
+          "tweet_count": 2259
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T13:45:55.000Z",
+        "description": "commission closed | artist | oc/rwby/RevueStarlight/limbus company/the owl house/…/active | Chinese&English user",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pin.it/51oqmnAO8",
+                "end": 23,
+                "expanded_url": "https://pin.it/51oqmnAO8",
+                "start": 0,
+                "url": "https://t.co/tBBG9a2MBt"
+              }
+            ]
+          }
+        },
+        "id": "1981718758487171073",
+        "location": "📨rinmaker218963@163.com",
+        "name": "鹿隱於雲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009263865394286593/0Wp9CfyO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 83,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 155
+        },
+        "url": "https://t.co/tBBG9a2MBt",
+        "username": "linluyun_rin",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-28T03:54:14.000Z",
+        "description": "https://t.co/Ty7gzumOnY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ooo0eve0ooo",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@ooo0eve0ooo",
+                "start": 0,
+                "url": "https://t.co/Ty7gzumOnY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/eve_harapeco",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/eve_harapeco",
+                "start": 0,
+                "url": "https://t.co/MklGwjp0wM"
+              }
+            ]
+          }
+        },
+        "id": "99853725",
+        "location": " ",
+        "name": "Eve",
+        "pinned_tweet_id": "2003787140468269238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861631396118409216/GSP6TLN4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475745,
+          "following_count": 253,
+          "like_count": 164758,
+          "listed_count": 6212,
+          "media_count": 916,
+          "tweet_count": 3095
+        },
+        "url": "https://t.co/MklGwjp0wM",
+        "username": "oO0Eve0Oo",
+        "verified": true
+      },
+      {
+        "created_at": "2018-01-07T12:40:48.000Z",
+        "description": "イラストレーター&アニメーション作家🌷お仕事のご相談⇒✉️ ┊︎(Mail) kawa.ricopin@gmail.com ┊︎ 実績等⇒https://t.co/BYQJlVWQCs┊︎雪ミクMV,マクドナルド広告,Eve,Sou┊︎【frogグッズ】➡️https://t.co/sdFPHy6p9Z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ricopin35",
+                "end": 92,
+                "expanded_url": "https://lit.link/ricopin35",
+                "start": 69,
+                "url": "https://t.co/BYQJlVWQCs"
+              },
+              {
+                "display_url": "suzuri.jp/kawa_frog",
+                "end": 152,
+                "expanded_url": "https://suzuri.jp/kawa_frog",
+                "start": 129,
+                "url": "https://t.co/sdFPHy6p9Z"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@ricopin35",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@ricopin35",
+                "start": 0,
+                "url": "https://t.co/FMD5i4egW9"
+              }
+            ]
+          }
+        },
+        "id": "949984158452871168",
+        "location": "新規ご依頼受付停止中",
+        "name": "kawa",
+        "pinned_tweet_id": "2018263762856534349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966015436107259904/zgzi29Ie_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33415,
+          "following_count": 599,
+          "like_count": 13071,
+          "listed_count": 261,
+          "media_count": 336,
+          "tweet_count": 4119
+        },
+        "url": "https://t.co/FMD5i4egW9",
+        "username": "ricopin35",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-22T12:10:09.000Z",
+        "description": "",
+        "id": "1749404010107568128",
+        "name": "ﾕｳｶ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749404378593968128/wfHYn8y-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 4
+        },
+        "username": "jellyfish_star8",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T08:25:39.000Z",
+        "description": "我是補剂|繪畫（禁止AI學習）",
+        "id": "1688466372412710912",
+        "name": "gulugulu531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962177005811625984/zVm2Ipq0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 71,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 11
+        },
+        "username": "gulugulu531",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T06:07:58.000Z",
+        "description": "🇨🇳 18⬆️百合好き",
+        "id": "1896804749976240128",
+        "name": "弁当",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991798838965985280/8IeoNeUy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 54,
+          "like_count": 569,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 33
+        },
+        "username": "bentou0617",
+        "verified": false
+      }
+    ]
+  }
+}

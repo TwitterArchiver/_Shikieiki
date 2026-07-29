@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026110074016370688"
+      ],
+      "media_source_tweet_id": [
+        "2026110076985995346"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2026186794417697001",
+    "created_at": "2026-02-24T06:45:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T07:45:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026186794417697001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1479138965307506695",
+          "start": 3,
+          "username": "MADOH0MU"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/smnZOx0mtD",
+          "end": 37,
+          "expanded_url": "https://x.com/MADOH0MU/status/2026110076985995346/photo/1",
+          "media_key": "3_2026110074016370688",
+          "start": 14,
+          "url": "https://t.co/smnZOx0mtD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026186794417697001",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026110076985995346",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MADOH0MU: https://t.co/smnZOx0mtD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 288,
+        "media_key": "3_2026110074016370688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB4wYKWWEAAJ2UX.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026110074016370688"
+          ],
+          "media_source_tweet_id": [
+            "2026110076985995346"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2026186794417697001",
+        "created_at": "2026-02-24T06:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T07:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026186794417697001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1479138965307506695",
+              "start": 3,
+              "username": "MADOH0MU"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/smnZOx0mtD",
+              "end": 37,
+              "expanded_url": "https://x.com/MADOH0MU/status/2026110076985995346/photo/1",
+              "media_key": "3_2026110074016370688",
+              "start": 14,
+              "url": "https://t.co/smnZOx0mtD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026186794417697001",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026110076985995346",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MADOH0MU: https://t.co/smnZOx0mtD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026110074016370688"
+          ]
+        },
+        "author_id": "1479138965307506695",
+        "conversation_id": "2026110076985995346",
+        "created_at": "2026-02-24T01:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T02:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026110076985995346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/smnZOx0mtD",
+              "end": 23,
+              "expanded_url": "https://x.com/MADOH0MU/status/2026110076985995346/photo/1",
+              "media_key": "3_2026110074016370688",
+              "start": 0,
+              "url": "https://t.co/smnZOx0mtD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026110076985995346",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 1176,
+          "like_count": 149,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/smnZOx0mtD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 691,
+          "like_count": 21280,
+          "listed_count": 0,
+          "media_count": 315,
+          "tweet_count": 2393
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-06T17:13:11.000Z",
+        "description": "made with @gimmickbots",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "gimmickbots"
+              }
+            ]
+          }
+        },
+        "id": "1479138965307506695",
+        "name": "MadoHomu bot 🎀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1595079088435257344/MBnPXCRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17777,
+          "following_count": 4,
+          "like_count": 199,
+          "listed_count": 29,
+          "media_count": 11753,
+          "tweet_count": 11774
+        },
+        "username": "MADOH0MU",
+        "verified": false
+      }
+    ]
+  }
+}

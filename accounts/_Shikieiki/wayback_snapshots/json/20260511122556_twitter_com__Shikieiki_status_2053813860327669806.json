@@ -1,0 +1,531 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Opera",
+          "id": "869649977676505088",
+          "name": "Opera"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Opera",
+          "id": "869649977676505088",
+          "name": "Opera"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Theater",
+          "id": "1047537435855319040",
+          "name": "Theater"
+        }
+      }
+    ],
+    "conversation_id": "2053813860327669806",
+    "created_at": "2026-05-11T12:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T13:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053813860327669806"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 22,
+          "tag": "スタァライト9thEX"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2036390843507154946",
+          "start": 3,
+          "username": "starlight_9thEX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053813860327669806",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 249
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053746941016621346",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @starlight_9thEX: ✨#スタァライト9thEX 開催まであと5⃣日✨\n【少女☆歌劇 レヴュースタァライト 9th Anniversary EXHIBITION ～Revue of over the Starlight～ 】\n前売券は好評発売中❣\n詳細は公式…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2052332478787211264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtZhAcb0AAK7Tz.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Opera",
+              "id": "869649977676505088",
+              "name": "Opera"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Opera",
+              "id": "869649977676505088",
+              "name": "Opera"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Theater",
+              "id": "1047537435855319040",
+              "name": "Theater"
+            }
+          }
+        ],
+        "conversation_id": "2053813860327669806",
+        "created_at": "2026-05-11T12:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T13:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053813860327669806"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 22,
+              "tag": "スタァライト9thEX"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2036390843507154946",
+              "start": 3,
+              "username": "starlight_9thEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053813860327669806",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 249
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053746941016621346",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @starlight_9thEX: ✨#スタァライト9thEX 開催まであと5⃣日✨\n【少女☆歌劇 レヴュースタァライト 9th Anniversary EXHIBITION ～Revue of over the Starlight～ 】\n前売券は好評発売中❣\n詳細は公式…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052332478787211264"
+          ]
+        },
+        "author_id": "2036390843507154946",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Opera",
+              "id": "869649977676505088",
+              "name": "Opera"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Opera",
+              "id": "869649977676505088",
+              "name": "Opera"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Theater",
+              "id": "1047537435855319040",
+              "name": "Theater"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2053746941016621346",
+        "created_at": "2026-05-11T08:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T09:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053746941016621346"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 1,
+              "tag": "スタァライト9thEX"
+            },
+            {
+              "end": 163,
+              "start": 156,
+              "tag": "スタァライト"
+            }
+          ],
+          "urls": [
+            {
+              "description": "アニメ・舞台・ライブ・ゲームなどメディアの垣根を超えるスタァライトプロジェクトの9年間の歩みを詰め込んだ展覧会！企画当時の未公開資料や、この企画のためのスタッフ・キャストのスペシャルインタビューなど盛り沢山！！",
+              "display_url": "revuestarlight-9thex.com",
+              "end": 154,
+              "expanded_url": "https://revuestarlight-9thex.com",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2052297450438676483/_13THZ4Q?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2052297450438676483/_13THZ4Q?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 131,
+              "status": 200,
+              "title": "少女☆歌劇 レヴュースタァライト 9th Anniversary EXHIBITION ～Revue of over the Starlight～",
+              "unwound_url": "https://revuestarlight-9thex.com",
+              "url": "https://t.co/Al78SLxpX4"
+            },
+            {
+              "display_url": "pic.x.com/VwcNkIZpTh",
+              "end": 187,
+              "expanded_url": "https://x.com/starlight_9thEX/status/2053746941016621346/photo/1",
+              "media_key": "3_2052332478787211264",
+              "start": 164,
+              "url": "https://t.co/VwcNkIZpTh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053746941016621346",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 18618,
+          "like_count": 801,
+          "quote_count": 11,
+          "reply_count": 0,
+          "retweet_count": 249
+        },
+        "reply_settings": "everyone",
+        "text": "✨#スタァライト9thEX 開催まであと5⃣日✨\n【少女☆歌劇 レヴュースタァライト 9th Anniversary EXHIBITION ～Revue of over the Starlight～ 】\n前売券は好評発売中❣\n詳細は公式HPをチェック👀\n\nHP➡https://t.co/Al78SLxpX4\n\n#スタァライト https://t.co/VwcNkIZpTh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)暂关提问",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2053378863976284363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972,
+          "following_count": 918,
+          "like_count": 28068,
+          "listed_count": 1,
+          "media_count": 486,
+          "tweet_count": 4034
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T10:33:51.000Z",
+        "description": "『少女☆歌劇 レヴュースタァライト 9th Anniversary EXHIBITION ～Revue of over the Starlight～』の最新情報をお届けする公式アカウントです。\n※ご質問等をいただきましても、リプライ・DMをお返しすることはできません",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "revuestarlight-9thex.com",
+                "end": 23,
+                "expanded_url": "https://revuestarlight-9thex.com",
+                "start": 0,
+                "url": "https://t.co/zQcZotD5md"
+              }
+            ]
+          }
+        },
+        "id": "2036390843507154946",
+        "name": "少女☆歌劇 レヴュースタァライト 9th Anniversary EXHIBITION",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042494122423173122/lpJ786bp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5463,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 16,
+          "media_count": 12,
+          "tweet_count": 26
+        },
+        "url": "https://t.co/zQcZotD5md",
+        "username": "starlight_9thEX",
+        "verified": false
+      }
+    ]
+  }
+}

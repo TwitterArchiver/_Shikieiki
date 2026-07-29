@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1980070731640614912"
+      ],
+      "media_source_tweet_id": [
+        "1980071290112524656"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2024101873796407591",
+    "created_at": "2026-02-18T12:41:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T13:41:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024101873796407591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1945877968670130176",
+          "start": 3,
+          "username": "youknowmearound"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mADPrpFpnt",
+          "end": 44,
+          "expanded_url": "https://x.com/nomianims/status/1980071290112524656/video/1",
+          "media_key": "13_1980070731640614912",
+          "start": 21,
+          "url": "https://t.co/mADPrpFpnt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024101873796407591",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 95
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024031142949908852",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youknowmearound: https://t.co/mADPrpFpnt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16433,
+        "height": 1080,
+        "media_key": "13_1980070731640614912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1980070731640614912/img/WhlHQZgbw2CoyXgO.jpg",
+        "public_metrics": {
+          "view_count": 9637329
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980070731640614912/vid/avc1/480x270/rPCPAMYy8XotVUyb.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980070731640614912/vid/avc1/640x360/4lX_HMT7DwR07oJn.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980070731640614912/vid/avc1/1280x720/9EmZ8qH3BN_7r4td.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1980070731640614912/pl/qEUETnysEyIS-qNT.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1980070731640614912"
+          ],
+          "media_source_tweet_id": [
+            "1980071290112524656"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2024101873796407591",
+        "created_at": "2026-02-18T12:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T13:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024101873796407591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1945877968670130176",
+              "start": 3,
+              "username": "youknowmearound"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mADPrpFpnt",
+              "end": 44,
+              "expanded_url": "https://x.com/nomianims/status/1980071290112524656/video/1",
+              "media_key": "13_1980070731640614912",
+              "start": 21,
+              "url": "https://t.co/mADPrpFpnt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024101873796407591",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 95
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024031142949908852",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youknowmearound: https://t.co/mADPrpFpnt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1980070731640614912"
+          ],
+          "media_source_tweet_id": [
+            "1980071290112524656"
+          ]
+        },
+        "author_id": "1945877968670130176",
+        "conversation_id": "2024031142949908852",
+        "created_at": "2026-02-18T08:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T09:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024031142949908852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mADPrpFpnt",
+              "end": 23,
+              "expanded_url": "https://x.com/nomianims/status/1980071290112524656/video/1",
+              "media_key": "13_1980070731640614912",
+              "start": 0,
+              "url": "https://t.co/mADPrpFpnt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024031142949908852",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 317,
+          "impression_count": 34074,
+          "like_count": 1550,
+          "quote_count": 4,
+          "reply_count": 5,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mADPrpFpnt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 684,
+          "like_count": 20624,
+          "listed_count": 0,
+          "media_count": 280,
+          "tweet_count": 2251
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T16:07:24.000Z",
+        "description": "コンテンツによって団結し、人種差別によって分裂する!! !! 🇺🇸|🇲🇽|🇯🇵@dreamsuz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 39,
+                "username": "dreamsuz"
+              }
+            ]
+          }
+        },
+        "id": "1945877968670130176",
+        "name": "Suki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022551333929390080/R9CeJbzI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23101,
+          "following_count": 687,
+          "like_count": 104969,
+          "listed_count": 107,
+          "media_count": 514,
+          "tweet_count": 8959
+        },
+        "username": "youknowmearound",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019495949475930112",
+        "3_2019495949475934210"
+      ],
+      "media_source_tweet_id": [
+        "2021335869659976006",
+        "2021335869659976006"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2021577089422381517",
+    "created_at": "2026-02-11T13:28:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T14:28:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021577089422381517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2004117540348612612",
+          "start": 3,
+          "username": "HaruhiBotKioku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LobImH2Jli",
+          "end": 43,
+          "expanded_url": "https://x.com/HaruhiBotKioku/status/2021335869659976006/photo/1",
+          "media_key": "3_2019495949475930112",
+          "start": 20,
+          "url": "https://t.co/LobImH2Jli"
+        },
+        {
+          "display_url": "pic.x.com/LobImH2Jli",
+          "end": 43,
+          "expanded_url": "https://x.com/HaruhiBotKioku/status/2021335869659976006/photo/1",
+          "media_key": "3_2019495949475934210",
+          "start": 20,
+          "url": "https://t.co/LobImH2Jli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021577089422381517",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021335869659976006",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HaruhiBotKioku: https://t.co/LobImH2Jli"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2019495949475930112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAaw3cXaYAA3l8d.jpg",
+        "width": 846
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2019495949475934210",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAaw3cXacAI-ApB.jpg",
+        "width": 754
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019495949475930112",
+            "3_2019495949475934210"
+          ],
+          "media_source_tweet_id": [
+            "2021335869659976006",
+            "2021335869659976006"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2021577089422381517",
+        "created_at": "2026-02-11T13:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T14:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021577089422381517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2004117540348612612",
+              "start": 3,
+              "username": "HaruhiBotKioku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LobImH2Jli",
+              "end": 43,
+              "expanded_url": "https://x.com/HaruhiBotKioku/status/2021335869659976006/photo/1",
+              "media_key": "3_2019495949475930112",
+              "start": 20,
+              "url": "https://t.co/LobImH2Jli"
+            },
+            {
+              "display_url": "pic.x.com/LobImH2Jli",
+              "end": 43,
+              "expanded_url": "https://x.com/HaruhiBotKioku/status/2021335869659976006/photo/1",
+              "media_key": "3_2019495949475934210",
+              "start": 20,
+              "url": "https://t.co/LobImH2Jli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021577089422381517",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021335869659976006",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HaruhiBotKioku: https://t.co/LobImH2Jli"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019495949475930112",
+            "3_2019495949475934210"
+          ]
+        },
+        "author_id": "2004117540348612612",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2021335869659976006",
+        "created_at": "2026-02-10T21:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T22:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021335869659976006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LobImH2Jli",
+              "end": 23,
+              "expanded_url": "https://x.com/HaruhiBotKioku/status/2021335869659976006/photo/1",
+              "media_key": "3_2019495949475930112",
+              "start": 0,
+              "url": "https://t.co/LobImH2Jli"
+            },
+            {
+              "display_url": "pic.x.com/LobImH2Jli",
+              "end": 23,
+              "expanded_url": "https://x.com/HaruhiBotKioku/status/2021335869659976006/photo/1",
+              "media_key": "3_2019495949475934210",
+              "start": 0,
+              "url": "https://t.co/LobImH2Jli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021335869659976006",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 6424,
+          "like_count": 450,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LobImH2Jli"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 614,
+          "like_count": 19047,
+          "listed_count": 0,
+          "media_count": 229,
+          "tweet_count": 1716
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-25T09:12:58.000Z",
+        "description": "ただの人間には興味ありません。この中に宇宙人、未来人、異世界人、超能力者がいたら、あたしのところに来なさい。以上。",
+        "id": "2004117540348612612",
+        "location": "北高",
+        "name": "涼宮ハルヒ Suzumiya Haruhi bot",
+        "pinned_tweet_id": "2004126113006805250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004422475816558592/GQhc4UUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2567,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 6,
+          "media_count": 1251,
+          "tweet_count": 1253
+        },
+        "username": "HaruhiBotKioku",
+        "verified": false
+      }
+    ]
+  }
+}

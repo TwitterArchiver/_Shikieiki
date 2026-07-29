@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033327988004257792"
+      ],
+      "media_source_tweet_id": [
+        "2033327993352073685"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2033705496683941906",
+    "created_at": "2026-03-17T00:42:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T01:42:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033705496683941906"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "まどマギ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1623272449931628549",
+          "start": 3,
+          "username": "bo_illustration"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7esksGrFgc",
+          "end": 50,
+          "expanded_url": "https://x.com/bo_illustration/status/2033327993352073685/photo/1",
+          "media_key": "3_2033327988004257792",
+          "start": 27,
+          "url": "https://t.co/7esksGrFgc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033705496683941906",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033327993352073685",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bo_illustration: #まどマギ https://t.co/7esksGrFgc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 740,
+        "media_key": "3_2033327988004257792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDfVCDTagAAuBBD.jpg",
+        "width": 694
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033327988004257792"
+          ],
+          "media_source_tweet_id": [
+            "2033327993352073685"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2033705496683941906",
+        "created_at": "2026-03-17T00:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T01:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033705496683941906"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "まどマギ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1623272449931628549",
+              "start": 3,
+              "username": "bo_illustration"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7esksGrFgc",
+              "end": 50,
+              "expanded_url": "https://x.com/bo_illustration/status/2033327993352073685/photo/1",
+              "media_key": "3_2033327988004257792",
+              "start": 27,
+              "url": "https://t.co/7esksGrFgc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033705496683941906",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033327993352073685",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bo_illustration: #まどマギ https://t.co/7esksGrFgc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033327988004257792"
+          ]
+        },
+        "author_id": "1623272449931628549",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2033327993352073685",
+        "created_at": "2026-03-15T23:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T00:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033327993352073685"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "まどマギ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7esksGrFgc",
+              "end": 29,
+              "expanded_url": "https://x.com/bo_illustration/status/2033327993352073685/photo/1",
+              "media_key": "3_2033327988004257792",
+              "start": 6,
+              "url": "https://t.co/7esksGrFgc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033327993352073685",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 5072,
+          "like_count": 486,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "#まどマギ https://t.co/7esksGrFgc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "君が君でいられる場所 \n悪夢-まぼろし-にさらわれぬように  \n消えない雨の苦しみも \n鍵を壊してぶつけてよ 隣にいるから \nすべてを信じて",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "see_you_hell.although.here.probably.is",
+                "end": 23,
+                "expanded_url": "http://see_you_hell.although.here.probably.is",
+                "start": 0,
+                "url": "https://t.co/ecUxsPCDIQ"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2028458258697171187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 805,
+          "like_count": 24320,
+          "listed_count": 0,
+          "media_count": 406,
+          "tweet_count": 3186
+        },
+        "url": "https://t.co/ecUxsPCDIQ",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-08T10:50:12.000Z",
+        "description": "らくがきゃー東方ルナシューター",
+        "id": "1623272449931628549",
+        "name": "ぼー",
+        "pinned_tweet_id": "1995277841399943411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004520550497177602/8hDH8o9J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5174,
+          "following_count": 274,
+          "like_count": 3950,
+          "listed_count": 42,
+          "media_count": 744,
+          "tweet_count": 1578
+        },
+        "username": "bo_illustration",
+        "verified": false
+      }
+    ]
+  }
+}

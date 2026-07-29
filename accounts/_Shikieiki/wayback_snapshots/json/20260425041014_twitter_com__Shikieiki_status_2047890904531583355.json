@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047413826350714880"
+      ],
+      "media_source_tweet_id": [
+        "2047413830406517171"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2047890904531583355",
+    "created_at": "2026-04-25T04:10:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T05:10:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047890904531583355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2010446819843776513",
+          "start": 3,
+          "username": "mnr_rnbs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/saB3MJYIiq",
+          "end": 41,
+          "expanded_url": "https://x.com/mnr_rnbs/status/2047413830406517171/photo/1",
+          "media_key": "3_2047413826350714880",
+          "start": 18,
+          "url": "https://t.co/saB3MJYIiq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047890904531583355",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 577
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047413830406517171",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mnr_rnbs: ユーリ https://t.co/saB3MJYIiq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1306,
+        "media_key": "3_2047413826350714880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGngBwPbkAAPr9b.jpg",
+        "width": 1367
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047413826350714880"
+          ],
+          "media_source_tweet_id": [
+            "2047413830406517171"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2047890904531583355",
+        "created_at": "2026-04-25T04:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T05:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047890904531583355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2010446819843776513",
+              "start": 3,
+              "username": "mnr_rnbs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/saB3MJYIiq",
+              "end": 41,
+              "expanded_url": "https://x.com/mnr_rnbs/status/2047413830406517171/photo/1",
+              "media_key": "3_2047413826350714880",
+              "start": 18,
+              "url": "https://t.co/saB3MJYIiq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047890904531583355",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 577
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047413830406517171",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mnr_rnbs: ユーリ https://t.co/saB3MJYIiq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047413826350714880"
+          ]
+        },
+        "author_id": "2010446819843776513",
+        "conversation_id": "2047413830406517171",
+        "created_at": "2026-04-23T20:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T21:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047413830406517171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/saB3MJYIiq",
+              "end": 27,
+              "expanded_url": "https://x.com/mnr_rnbs/status/2047413830406517171/photo/1",
+              "media_key": "3_2047413826350714880",
+              "start": 4,
+              "url": "https://t.co/saB3MJYIiq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047413830406517171",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 400,
+          "impression_count": 31292,
+          "like_count": 4308,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 577
+        },
+        "reply_settings": "everyone",
+        "text": "ユーリ https://t.co/saB3MJYIiq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2047351982030258527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 879,
+          "like_count": 26230,
+          "listed_count": 1,
+          "media_count": 416,
+          "tweet_count": 3499
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T20:20:58.000Z",
+        "description": "9章最新済/🚌メイン/🚬推",
+        "id": "2010446819843776513",
+        "location": "ネタバレ🈶なんでも話す　アクナイも話す",
+        "name": "ᗰ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016191969027096577/iy0AdGYM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 54,
+          "like_count": 2213,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 525
+        },
+        "username": "mnr_rnbs",
+        "verified": false
+      }
+    ]
+  }
+}

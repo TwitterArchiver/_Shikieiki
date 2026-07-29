@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022648088519938050"
+      ],
+      "media_source_tweet_id": [
+        "2022648099739701458"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10051379330",
+          "name": "少女終末旅行"
+        }
+      }
+    ],
+    "conversation_id": "2023076982947537367",
+    "created_at": "2026-02-15T16:48:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T17:48:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023076982947537367"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 18,
+          "tag": "少女終末旅行"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1358791367049179137",
+          "start": 3,
+          "username": "miyo_uuuu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xtPL7LO5xC",
+          "end": 49,
+          "expanded_url": "https://x.com/miyo_uuuu/status/2022648099739701458/photo/1",
+          "media_key": "3_2022648088519938050",
+          "start": 26,
+          "url": "https://t.co/xtPL7LO5xC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023076982947537367",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 167
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022648099739701458",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miyo_uuuu: お酒 #少女終末旅行 https://t.co/xtPL7LO5xC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2022648088519938050",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBHjuFXakAIHi9u.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022648088519938050"
+          ],
+          "media_source_tweet_id": [
+            "2022648099739701458"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051379330",
+              "name": "少女終末旅行"
+            }
+          }
+        ],
+        "conversation_id": "2023076982947537367",
+        "created_at": "2026-02-15T16:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T17:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023076982947537367"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 18,
+              "tag": "少女終末旅行"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1358791367049179137",
+              "start": 3,
+              "username": "miyo_uuuu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xtPL7LO5xC",
+              "end": 49,
+              "expanded_url": "https://x.com/miyo_uuuu/status/2022648099739701458/photo/1",
+              "media_key": "3_2022648088519938050",
+              "start": 26,
+              "url": "https://t.co/xtPL7LO5xC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023076982947537367",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 167
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022648099739701458",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miyo_uuuu: お酒 #少女終末旅行 https://t.co/xtPL7LO5xC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022648088519938050"
+          ]
+        },
+        "author_id": "1358791367049179137",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051379330",
+              "name": "少女終末旅行"
+            }
+          }
+        ],
+        "conversation_id": "2022648099739701458",
+        "created_at": "2026-02-14T12:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T13:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022648099739701458"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 3,
+              "tag": "少女終末旅行"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xtPL7LO5xC",
+              "end": 34,
+              "expanded_url": "https://x.com/miyo_uuuu/status/2022648099739701458/photo/1",
+              "media_key": "3_2022648088519938050",
+              "start": 11,
+              "url": "https://t.co/xtPL7LO5xC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022648099739701458",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 12732,
+          "like_count": 1535,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 167
+        },
+        "reply_settings": "everyone",
+        "text": "お酒 #少女終末旅行 https://t.co/xtPL7LO5xC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 661,
+          "like_count": 19611,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 2006
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-08T14:54:55.000Z",
+        "description": "＝なまけいぬ   中文⭕  簡単な日本語ok！",
+        "id": "1358791367049179137",
+        "location": "地獄",
+        "name": "怠犬🐾低浮上🌧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007842735148220416/KmyPMM6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 389,
+          "like_count": 869,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 258
+        },
+        "username": "miyo_uuuu",
+        "verified": false
+      }
+    ]
+  }
+}

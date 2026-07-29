@@ -1,0 +1,524 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2033107226077131216",
+    "created_at": "2026-03-15T09:05:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T10:05:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033107226077131216"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 104,
+          "start": 100,
+          "tag": "岡山市"
+        },
+        {
+          "end": 109,
+          "start": 105,
+          "tag": "アニメ"
+        },
+        {
+          "end": 116,
+          "start": 110,
+          "tag": "アニメバー"
+        },
+        {
+          "end": 124,
+          "start": 117,
+          "tag": "アニソンバー"
+        },
+        {
+          "end": 137,
+          "start": 125,
+          "tag": "魔法少女リリカルなのは"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1653280381498691585",
+          "start": 3,
+          "username": "Anidama0701"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033107226077131216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033064603866087623",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Anidama0701: 17:00オープン\nなのは誕生日おめでとう\nこの作品に人生狂わされた(良い意味で)人ってこの世界に一体何人いるんだろうか？\nしかしまあFDの方が有名になっちゃったな\n#岡山市\n#アニメ\n#アニメバー\n#アニソンバー\n#魔法少女リリカルなのは\n#…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 270,
+        "media_key": "3_2033064594869202948",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDblejaaMAQJa5k.jpg",
+        "width": 357
+      },
+      {
+        "height": 749,
+        "media_key": "3_2033064596383424512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDblepDbYAAIxeC.jpg",
+        "width": 1000
+      },
+      {
+        "height": 749,
+        "media_key": "3_2033064594894471168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDblejgbwAARNgQ.jpg",
+        "width": 998
+      },
+      {
+        "height": 749,
+        "media_key": "3_2033064596387586048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDblepEa4AAD4J3.jpg",
+        "width": 992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2033107226077131216",
+        "created_at": "2026-03-15T09:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T10:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033107226077131216"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 104,
+              "start": 100,
+              "tag": "岡山市"
+            },
+            {
+              "end": 109,
+              "start": 105,
+              "tag": "アニメ"
+            },
+            {
+              "end": 116,
+              "start": 110,
+              "tag": "アニメバー"
+            },
+            {
+              "end": 124,
+              "start": 117,
+              "tag": "アニソンバー"
+            },
+            {
+              "end": 137,
+              "start": 125,
+              "tag": "魔法少女リリカルなのは"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1653280381498691585",
+              "start": 3,
+              "username": "Anidama0701"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033107226077131216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033064603866087623",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Anidama0701: 17:00オープン\nなのは誕生日おめでとう\nこの作品に人生狂わされた(良い意味で)人ってこの世界に一体何人いるんだろうか？\nしかしまあFDの方が有名になっちゃったな\n#岡山市\n#アニメ\n#アニメバー\n#アニソンバー\n#魔法少女リリカルなのは\n#…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033064594869202948",
+            "3_2033064596383424512",
+            "3_2033064594894471168",
+            "3_2033064596387586048"
+          ]
+        },
+        "author_id": "1653280381498691585",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2033064603866087623",
+        "created_at": "2026-03-15T06:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T07:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033064603866087623"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 83,
+              "tag": "岡山市"
+            },
+            {
+              "end": 92,
+              "start": 88,
+              "tag": "アニメ"
+            },
+            {
+              "end": 99,
+              "start": 93,
+              "tag": "アニメバー"
+            },
+            {
+              "end": 107,
+              "start": 100,
+              "tag": "アニソンバー"
+            },
+            {
+              "end": 120,
+              "start": 108,
+              "tag": "魔法少女リリカルなのは"
+            },
+            {
+              "end": 127,
+              "start": 121,
+              "tag": "高町なのは"
+            },
+            {
+              "end": 141,
+              "start": 128,
+              "tag": "高町なのは生誕祭2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UvNDo84DW0",
+              "end": 165,
+              "expanded_url": "https://x.com/Anidama0701/status/2033064603866087623/photo/1",
+              "media_key": "3_2033064594869202948",
+              "start": 142,
+              "url": "https://t.co/UvNDo84DW0"
+            },
+            {
+              "display_url": "pic.x.com/UvNDo84DW0",
+              "end": 165,
+              "expanded_url": "https://x.com/Anidama0701/status/2033064603866087623/photo/1",
+              "media_key": "3_2033064596383424512",
+              "start": 142,
+              "url": "https://t.co/UvNDo84DW0"
+            },
+            {
+              "display_url": "pic.x.com/UvNDo84DW0",
+              "end": 165,
+              "expanded_url": "https://x.com/Anidama0701/status/2033064603866087623/photo/1",
+              "media_key": "3_2033064594894471168",
+              "start": 142,
+              "url": "https://t.co/UvNDo84DW0"
+            },
+            {
+              "display_url": "pic.x.com/UvNDo84DW0",
+              "end": 165,
+              "expanded_url": "https://x.com/Anidama0701/status/2033064603866087623/photo/1",
+              "media_key": "3_2033064596387586048",
+              "start": 142,
+              "url": "https://t.co/UvNDo84DW0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033064603866087623",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 629,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "17:00オープン\nなのは誕生日おめでとう\nこの作品に人生狂わされた(良い意味で)人ってこの世界に一体何人いるんだろうか？\nしかしまあFDの方が有名になっちゃったな\n#岡山市\n#アニメ\n#アニメバー\n#アニソンバー\n#魔法少女リリカルなのは\n#高町なのは\n#高町なのは生誕祭2026 https://t.co/UvNDo84DW0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "若有朝一日我欲再获新生那就别犹豫置我于死骸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "see_you_hell.although.here.probably.is",
+                "end": 23,
+                "expanded_url": "http://see_you_hell.although.here.probably.is",
+                "start": 0,
+                "url": "https://t.co/ecUxsPCDIQ"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2028458258697171187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 800,
+          "like_count": 23836,
+          "listed_count": 0,
+          "media_count": 412,
+          "tweet_count": 3112
+        },
+        "url": "https://t.co/ecUxsPCDIQ",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-02T06:09:27.000Z",
+        "description": "2023年7月1日にオープンしました！ 営業時間月〜土、祝日前20時~お客様が満足するまで！ 日曜日17時~お客様が満足するまで.定休日は木曜日です、予約が入った場合、金曜日が祝日の場合は木曜日も開けます！！お支払いは現金、各種クレジットカード、各種電子決済、大体何でもいけます",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "animedamashii.com",
+                "end": 23,
+                "expanded_url": "https://www.animedamashii.com",
+                "start": 0,
+                "url": "https://t.co/mWDC46T1Rv"
+              }
+            ]
+          }
+        },
+        "id": "1653280381498691585",
+        "location": "\tサンシャインプラザ 岡山で検索してください",
+        "name": "アニメ魂",
+        "pinned_tweet_id": "2031972223284887759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653280587405488129/VMQvIeKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 831,
+          "like_count": 709,
+          "listed_count": 4,
+          "media_count": 1185,
+          "tweet_count": 1689
+        },
+        "url": "https://t.co/mWDC46T1Rv",
+        "username": "Anidama0701",
+        "verified": false
+      }
+    ]
+  }
+}

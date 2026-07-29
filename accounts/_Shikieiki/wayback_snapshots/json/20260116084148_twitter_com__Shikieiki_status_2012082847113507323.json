@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2009597571669594369",
+    "created_at": "2026-01-16T08:41:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T09:41:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012082847113507323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1620591245990002688",
+          "start": 0,
+          "username": "Steammddbunn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012082847113507323",
+    "in_reply_to_user_id": "1620591245990002688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012056177782505536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Steammddbunn 愈美的话可能需要止吐药 会恶心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2009597571669594369",
+        "created_at": "2026-01-16T08:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T09:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012082847113507323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1620591245990002688",
+              "start": 0,
+              "username": "Steammddbunn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012082847113507323",
+        "in_reply_to_user_id": "1620591245990002688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012056177782505536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Steammddbunn 愈美的话可能需要止吐药 会恶心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620591245990002688",
+        "conversation_id": "2009597571669594369",
+        "created_at": "2026-01-16T06:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T07:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012056177782505536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1448206950903255040",
+              "start": 0,
+              "username": "_Shikieiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012056177782505536",
+        "in_reply_to_user_id": "1448206950903255040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011378996064497949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Shikieiki 谢谢老师"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 579,
+          "like_count": 18451,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 1313
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-01T01:14:06.000Z",
+        "description": "Student Living P.R.C. Manchester cityzens",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Mail.qq.com",
+                "end": 23,
+                "expanded_url": "http://Mail.qq.com",
+                "start": 0,
+                "url": "https://t.co/q3MXwYHU4E"
+              }
+            ]
+          }
+        },
+        "id": "1620591245990002688",
+        "location": "Nothing City",
+        "name": "Steameddbunn🇵🇸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663971414033199104/6yt6sPVh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 57,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 23
+        },
+        "url": "https://t.co/q3MXwYHU4E",
+        "username": "Steammddbunn",
+        "verified": false
+      }
+    ]
+  }
+}

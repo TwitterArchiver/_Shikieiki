@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047303126177468416"
+      ],
+      "media_source_tweet_id": [
+        "2047303128253632762"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2047323062446780700",
+    "created_at": "2026-04-23T14:33:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T15:33:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047323062446780700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "815974096517275648",
+          "start": 3,
+          "username": "kurage01ria"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iuFOOLIafi",
+          "end": 40,
+          "expanded_url": "https://x.com/kurage01ria/status/2047303128253632762/photo/1",
+          "media_key": "3_2047303126177468416",
+          "start": 17,
+          "url": "https://t.co/iuFOOLIafi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047323062446780700",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047303128253632762",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kurage01ria: https://t.co/iuFOOLIafi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2047303126177468416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGl7WJ9a0AAu6SE.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047303126177468416"
+          ],
+          "media_source_tweet_id": [
+            "2047303128253632762"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2047323062446780700",
+        "created_at": "2026-04-23T14:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047323062446780700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "815974096517275648",
+              "start": 3,
+              "username": "kurage01ria"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iuFOOLIafi",
+              "end": 40,
+              "expanded_url": "https://x.com/kurage01ria/status/2047303128253632762/photo/1",
+              "media_key": "3_2047303126177468416",
+              "start": 17,
+              "url": "https://t.co/iuFOOLIafi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047323062446780700",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047303128253632762",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kurage01ria: https://t.co/iuFOOLIafi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047303126177468416"
+          ]
+        },
+        "author_id": "815974096517275648",
+        "conversation_id": "2047303128253632762",
+        "created_at": "2026-04-23T13:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047303128253632762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iuFOOLIafi",
+              "end": 23,
+              "expanded_url": "https://x.com/kurage01ria/status/2047303128253632762/photo/1",
+              "media_key": "3_2047303126177468416",
+              "start": 0,
+              "url": "https://t.co/iuFOOLIafi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047303128253632762",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1309,
+          "like_count": 163,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/iuFOOLIafi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2046763289498341851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 876,
+          "like_count": 25986,
+          "listed_count": 1,
+          "media_count": 415,
+          "tweet_count": 3450
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-02T17:32:39.000Z",
+        "description": "お絵描き！！２０↑\n転載禁止\nhttps://t.co/PEWtIXTTMh\nマシュマロ→https://t.co/rlsEeMKrro",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/28567662",
+                "end": 38,
+                "expanded_url": "https://www.pixiv.net/users/28567662",
+                "start": 15,
+                "url": "https://t.co/PEWtIXTTMh"
+              },
+              {
+                "display_url": "marshmallow-qa.com/kurage01yokoya…",
+                "end": 68,
+                "expanded_url": "https://marshmallow-qa.com/kurage01yokoyam?t=IP2LuT&utm_medium=url_text&utm_source=promotion",
+                "start": 45,
+                "url": "https://t.co/rlsEeMKrro"
+              }
+            ]
+          }
+        },
+        "id": "815974096517275648",
+        "name": "🦒海月太郎🍅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972652993167474688/k-g-Jgd2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1191,
+          "following_count": 1025,
+          "like_count": 338600,
+          "listed_count": 29,
+          "media_count": 1187,
+          "tweet_count": 104785
+        },
+        "username": "kurage01ria",
+        "verified": false
+      }
+    ]
+  }
+}

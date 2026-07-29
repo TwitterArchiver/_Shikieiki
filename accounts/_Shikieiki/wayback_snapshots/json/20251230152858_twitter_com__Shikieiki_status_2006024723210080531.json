@@ -1,0 +1,496 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005968755713859584",
+        "3_2005968755709620225",
+        "3_2005968755751616512",
+        "3_2005968755718078464"
+      ],
+      "media_source_tweet_id": [
+        "2005968762953162845",
+        "2005968762953162845",
+        "2005968762953162845",
+        "2005968762953162845"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2006024723210080531",
+    "created_at": "2025-12-30T15:28:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T16:28:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006024723210080531"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "杏子とほむほむ",
+          "probability": 0.1574,
+          "start": 24,
+          "type": "Person"
+        },
+        {
+          "end": 37,
+          "normalized_text": "杏子",
+          "probability": 0.8068,
+          "start": 36,
+          "type": "Person"
+        },
+        {
+          "end": 42,
+          "normalized_text": "ほむほむ",
+          "probability": 0.3588,
+          "start": 39,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1389146328454758403",
+          "start": 3,
+          "username": "reiwanoshiro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bmjchBqAdK",
+          "end": 67,
+          "expanded_url": "https://x.com/reiwanoshiro/status/2005968762953162845/photo/1",
+          "media_key": "3_2005968755713859584",
+          "start": 44,
+          "url": "https://t.co/bmjchBqAdK"
+        },
+        {
+          "display_url": "pic.x.com/bmjchBqAdK",
+          "end": 67,
+          "expanded_url": "https://x.com/reiwanoshiro/status/2005968762953162845/photo/1",
+          "media_key": "3_2005968755709620225",
+          "start": 44,
+          "url": "https://t.co/bmjchBqAdK"
+        },
+        {
+          "display_url": "pic.x.com/bmjchBqAdK",
+          "end": 67,
+          "expanded_url": "https://x.com/reiwanoshiro/status/2005968762953162845/photo/1",
+          "media_key": "3_2005968755751616512",
+          "start": 44,
+          "url": "https://t.co/bmjchBqAdK"
+        },
+        {
+          "display_url": "pic.x.com/bmjchBqAdK",
+          "end": 67,
+          "expanded_url": "https://x.com/reiwanoshiro/status/2005968762953162845/photo/1",
+          "media_key": "3_2005968755718078464",
+          "start": 44,
+          "url": "https://t.co/bmjchBqAdK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006024723210080531",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005968762953162845",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @reiwanoshiro: 初めて描いた杏子とほむほむ\n→最近の杏子とほむほむ https://t.co/bmjchBqAdK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2005968755713859584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9ah9IrbYAAuTZk.jpg",
+        "width": 1200
+      },
+      {
+        "height": 240,
+        "media_key": "3_2005968755709620225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9ah9IqasAEx18O.jpg",
+        "width": 240
+      },
+      {
+        "height": 2488,
+        "media_key": "3_2005968755751616512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9ah9I0bgAAcz5U.jpg",
+        "width": 1346
+      },
+      {
+        "height": 2492,
+        "media_key": "3_2005968755718078464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9ah9IsbwAAcQdK.jpg",
+        "width": 1494
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005968755713859584",
+            "3_2005968755709620225",
+            "3_2005968755751616512",
+            "3_2005968755718078464"
+          ],
+          "media_source_tweet_id": [
+            "2005968762953162845",
+            "2005968762953162845",
+            "2005968762953162845",
+            "2005968762953162845"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2006024723210080531",
+        "created_at": "2025-12-30T15:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T16:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006024723210080531"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "杏子とほむほむ",
+              "probability": 0.1574,
+              "start": 24,
+              "type": "Person"
+            },
+            {
+              "end": 37,
+              "normalized_text": "杏子",
+              "probability": 0.8068,
+              "start": 36,
+              "type": "Person"
+            },
+            {
+              "end": 42,
+              "normalized_text": "ほむほむ",
+              "probability": 0.3588,
+              "start": 39,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1389146328454758403",
+              "start": 3,
+              "username": "reiwanoshiro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bmjchBqAdK",
+              "end": 67,
+              "expanded_url": "https://x.com/reiwanoshiro/status/2005968762953162845/photo/1",
+              "media_key": "3_2005968755713859584",
+              "start": 44,
+              "url": "https://t.co/bmjchBqAdK"
+            },
+            {
+              "display_url": "pic.x.com/bmjchBqAdK",
+              "end": 67,
+              "expanded_url": "https://x.com/reiwanoshiro/status/2005968762953162845/photo/1",
+              "media_key": "3_2005968755709620225",
+              "start": 44,
+              "url": "https://t.co/bmjchBqAdK"
+            },
+            {
+              "display_url": "pic.x.com/bmjchBqAdK",
+              "end": 67,
+              "expanded_url": "https://x.com/reiwanoshiro/status/2005968762953162845/photo/1",
+              "media_key": "3_2005968755751616512",
+              "start": 44,
+              "url": "https://t.co/bmjchBqAdK"
+            },
+            {
+              "display_url": "pic.x.com/bmjchBqAdK",
+              "end": 67,
+              "expanded_url": "https://x.com/reiwanoshiro/status/2005968762953162845/photo/1",
+              "media_key": "3_2005968755718078464",
+              "start": 44,
+              "url": "https://t.co/bmjchBqAdK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006024723210080531",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005968762953162845",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @reiwanoshiro: 初めて描いた杏子とほむほむ\n→最近の杏子とほむほむ https://t.co/bmjchBqAdK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005968755713859584",
+            "3_2005968755709620225",
+            "3_2005968755751616512",
+            "3_2005968755718078464"
+          ]
+        },
+        "author_id": "1389146328454758403",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2005968762953162845",
+        "created_at": "2025-12-30T11:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T12:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005968762953162845"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "杏子とほむほむ",
+              "probability": 0.1849,
+              "start": 6,
+              "type": "Person"
+            },
+            {
+              "end": 19,
+              "normalized_text": "杏子",
+              "probability": 0.7585,
+              "start": 18,
+              "type": "Person"
+            },
+            {
+              "end": 24,
+              "normalized_text": "ほむほむ",
+              "probability": 0.3627,
+              "start": 21,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bmjchBqAdK",
+              "end": 49,
+              "expanded_url": "https://x.com/reiwanoshiro/status/2005968762953162845/photo/1",
+              "media_key": "3_2005968755713859584",
+              "start": 26,
+              "url": "https://t.co/bmjchBqAdK"
+            },
+            {
+              "display_url": "pic.x.com/bmjchBqAdK",
+              "end": 49,
+              "expanded_url": "https://x.com/reiwanoshiro/status/2005968762953162845/photo/1",
+              "media_key": "3_2005968755709620225",
+              "start": 26,
+              "url": "https://t.co/bmjchBqAdK"
+            },
+            {
+              "display_url": "pic.x.com/bmjchBqAdK",
+              "end": 49,
+              "expanded_url": "https://x.com/reiwanoshiro/status/2005968762953162845/photo/1",
+              "media_key": "3_2005968755751616512",
+              "start": 26,
+              "url": "https://t.co/bmjchBqAdK"
+            },
+            {
+              "display_url": "pic.x.com/bmjchBqAdK",
+              "end": 49,
+              "expanded_url": "https://x.com/reiwanoshiro/status/2005968762953162845/photo/1",
+              "media_key": "3_2005968755718078464",
+              "start": 26,
+              "url": "https://t.co/bmjchBqAdK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005968762953162845",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1388,
+          "like_count": 83,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "初めて描いた杏子とほむほむ\n→最近の杏子とほむほむ https://t.co/bmjchBqAdK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 447,
+          "like_count": 9829,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 503
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-03T09:16:27.000Z",
+        "description": "デジタル絵描き。思春期に影響を受けたもの:大長編ドラえもん、ドラゴンボール、ドラゴンクエスト。今は、まどかマギカにはまってます。 【Skeb】https://t.co/rueyYUjCzi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@reiwanoshiro",
+                "end": 94,
+                "expanded_url": "http://skeb.jp/@reiwanoshiro",
+                "start": 71,
+                "url": "https://t.co/rueyYUjCzi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/reiwanoshiro",
+                "end": 23,
+                "expanded_url": "http://lit.link/reiwanoshiro",
+                "start": 0,
+                "url": "https://t.co/QHeHGknXlr"
+              }
+            ]
+          }
+        },
+        "id": "1389146328454758403",
+        "location": "Japan",
+        "name": "shiro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998302607346135040/jcNuedoE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1157,
+          "following_count": 834,
+          "like_count": 18094,
+          "listed_count": 22,
+          "media_count": 551,
+          "tweet_count": 2474
+        },
+        "url": "https://t.co/QHeHGknXlr",
+        "username": "reiwanoshiro",
+        "verified": false
+      }
+    ]
+  }
+}

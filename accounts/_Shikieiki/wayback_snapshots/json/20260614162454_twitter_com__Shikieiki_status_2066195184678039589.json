@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065791436885504001"
+      ],
+      "media_source_tweet_id": [
+        "2065791439192391977"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2066195184678039589",
+    "created_at": "2026-06-14T16:24:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T17:24:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066195184678039589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2001970538185646080",
+          "start": 3,
+          "username": "vuivui0529"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DTfkFqtYWI",
+          "end": 64,
+          "expanded_url": "https://x.com/vuivui0529/status/2065791439192391977/photo/1",
+          "media_key": "3_2065791436885504001",
+          "start": 41,
+          "url": "https://t.co/DTfkFqtYWI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066195184678039589",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065791439192391977",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vuivui0529: このフェイトちゃん可愛い！！\nミニなのは抱っこ！ https://t.co/DTfkFqtYWI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 533,
+        "media_key": "3_2065791436885504001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsqXeeasAEFMQU.jpg",
+        "width": 295
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065791436885504001"
+          ],
+          "media_source_tweet_id": [
+            "2065791439192391977"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2066195184678039589",
+        "created_at": "2026-06-14T16:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066195184678039589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2001970538185646080",
+              "start": 3,
+              "username": "vuivui0529"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DTfkFqtYWI",
+              "end": 64,
+              "expanded_url": "https://x.com/vuivui0529/status/2065791439192391977/photo/1",
+              "media_key": "3_2065791436885504001",
+              "start": 41,
+              "url": "https://t.co/DTfkFqtYWI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066195184678039589",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065791439192391977",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vuivui0529: このフェイトちゃん可愛い！！\nミニなのは抱っこ！ https://t.co/DTfkFqtYWI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065791436885504001"
+          ]
+        },
+        "author_id": "2001970538185646080",
+        "conversation_id": "2065791439192391977",
+        "created_at": "2026-06-13T13:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065791439192391977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DTfkFqtYWI",
+              "end": 48,
+              "expanded_url": "https://x.com/vuivui0529/status/2065791439192391977/photo/1",
+              "media_key": "3_2065791436885504001",
+              "start": 25,
+              "url": "https://t.co/DTfkFqtYWI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065791439192391977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1939,
+          "like_count": 174,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "このフェイトちゃん可愛い！！\nミニなのは抱っこ！ https://t.co/DTfkFqtYWI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n伴侣 @octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 965,
+          "like_count": 28601,
+          "listed_count": 1,
+          "media_count": 491,
+          "tweet_count": 4229
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-19T10:59:21.000Z",
+        "description": "フェイトは我が嫁でわいとフェイトの可愛い愛娘のヴィヴィオと暮らしてる！！\nオレとヴィヴィオとフェイトの炎は誰にも消せない！！",
+        "id": "2001970538185646080",
+        "name": "ブイ・テスタロッサ",
+        "pinned_tweet_id": "2022585481930903618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058498856741138432/bUh2jxBY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1658,
+          "following_count": 794,
+          "like_count": 12140,
+          "listed_count": 13,
+          "media_count": 10665,
+          "tweet_count": 19204
+        },
+        "username": "vuivui0529",
+        "verified": false
+      }
+    ]
+  }
+}

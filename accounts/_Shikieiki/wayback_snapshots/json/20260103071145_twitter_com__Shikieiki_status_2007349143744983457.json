@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2006994553321173328",
+    "created_at": "2026-01-03T07:11:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T08:11:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007349143744983457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2003887333112975360",
+          "start": 0,
+          "username": "AntoniAnto63779"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007349143744983457",
+    "in_reply_to_user_id": "2003887333112975360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007346121019125969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AntoniAnto63779 好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2006994553321173328",
+        "created_at": "2026-01-03T07:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T08:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007349143744983457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2003887333112975360",
+              "start": 0,
+              "username": "AntoniAnto63779"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007349143744983457",
+        "in_reply_to_user_id": "2003887333112975360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007346121019125969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AntoniAnto63779 好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003887333112975360",
+        "conversation_id": "2006994553321173328",
+        "created_at": "2026-01-03T06:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T07:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007346121019125969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1448206950903255040",
+              "start": 0,
+              "username": "_Shikieiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007346121019125969",
+        "in_reply_to_user_id": "1448206950903255040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006994553321173328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Shikieiki 以后我们可以一起去做哪些以前想做却没有做过的事情，所以一定要好好吃饭哦www🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 518,
+          "like_count": 13718,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 773
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-24T17:56:30.000Z",
+        "description": "A merchant who buys crystals in China",
+        "id": "2003887333112975360",
+        "name": "Citrine Half-frame glasses",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003888227418312704/wnWJBJjj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 124,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 61
+        },
+        "username": "AntoniAnto63779",
+        "verified": false
+      }
+    ]
+  }
+}

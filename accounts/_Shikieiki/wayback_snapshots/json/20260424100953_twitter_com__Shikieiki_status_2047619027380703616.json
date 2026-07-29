@@ -1,0 +1,448 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047263088353918976"
+      ],
+      "media_source_tweet_id": [
+        "2047263095614210429"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2047619027380703616",
+    "created_at": "2026-04-24T10:09:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T11:09:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047619027380703616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1841499942617321472",
+          "start": 3,
+          "username": "mahoro_oekaki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/30Mh2H2IXR",
+          "end": 46,
+          "expanded_url": "https://x.com/mahoro_oekaki/status/2047263095614210429/photo/1",
+          "media_key": "3_2047263088353918976",
+          "start": 23,
+          "url": "https://t.co/30Mh2H2IXR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047619027380703616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 617
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047263095614210429",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mahoro_oekaki: 巴マミ https://t.co/30Mh2H2IXR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2180,
+        "media_key": "3_2047263088353918976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGlW7pcawAAKrGv.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047263088353918976"
+          ],
+          "media_source_tweet_id": [
+            "2047263095614210429"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2047619027380703616",
+        "created_at": "2026-04-24T10:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047619027380703616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1841499942617321472",
+              "start": 3,
+              "username": "mahoro_oekaki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/30Mh2H2IXR",
+              "end": 46,
+              "expanded_url": "https://x.com/mahoro_oekaki/status/2047263095614210429/photo/1",
+              "media_key": "3_2047263088353918976",
+              "start": 23,
+              "url": "https://t.co/30Mh2H2IXR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047619027380703616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 617
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047263095614210429",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mahoro_oekaki: 巴マミ https://t.co/30Mh2H2IXR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047263088353918976"
+          ]
+        },
+        "author_id": "1841499942617321472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2047263095614210429",
+        "created_at": "2026-04-23T10:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047263095614210429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/30Mh2H2IXR",
+              "end": 27,
+              "expanded_url": "https://x.com/mahoro_oekaki/status/2047263095614210429/photo/1",
+              "media_key": "3_2047263088353918976",
+              "start": 4,
+              "url": "https://t.co/30Mh2H2IXR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047263095614210429",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 508,
+          "impression_count": 37237,
+          "like_count": 4370,
+          "quote_count": 4,
+          "reply_count": 8,
+          "retweet_count": 617
+        },
+        "reply_settings": "everyone",
+        "text": "巴マミ https://t.co/30Mh2H2IXR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2047351982030258527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 880,
+          "like_count": 26139,
+          "listed_count": 1,
+          "media_count": 415,
+          "tweet_count": 3484
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T15:26:23.000Z",
+        "description": "Illustrator 可愛い子を描きます。お仕事お待ちしてます💌 FANBOX♡♡https://t.co/Hj7WCxo1lm♡♡",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mahoron.fanbox.cc",
+                "end": 65,
+                "expanded_url": "https://mahoron.fanbox.cc/",
+                "start": 42,
+                "url": "https://t.co/Hj7WCxo1lm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/mahoro_n",
+                "end": 23,
+                "expanded_url": "https://lit.link/mahoro_n",
+                "start": 0,
+                "url": "https://t.co/BwIN5hpNWZ"
+              }
+            ]
+          }
+        },
+        "id": "1841499942617321472",
+        "name": "まほろ",
+        "pinned_tweet_id": "2035701907482968482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047325668338532352/cKltfca__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10332,
+          "following_count": 16,
+          "like_count": 1822,
+          "listed_count": 76,
+          "media_count": 113,
+          "tweet_count": 947
+        },
+        "url": "https://t.co/BwIN5hpNWZ",
+        "username": "mahoro_oekaki",
+        "verified": true
+      }
+    ]
+  }
+}

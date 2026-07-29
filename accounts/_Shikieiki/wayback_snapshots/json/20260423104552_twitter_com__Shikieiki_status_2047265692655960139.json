@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047205672677523456"
+      ],
+      "media_source_tweet_id": [
+        "2047205682760532345"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2047265692655960139",
+    "created_at": "2026-04-23T10:45:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T11:45:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047265692655960139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1685476118772551680",
+          "start": 3,
+          "username": "Rowwwsic"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DN4g2SuNGr",
+          "end": 37,
+          "expanded_url": "https://x.com/Rowwwsic/status/2047205682760532345/photo/1",
+          "media_key": "3_2047205672677523456",
+          "start": 14,
+          "url": "https://t.co/DN4g2SuNGr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047265692655960139",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 342
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047205682760532345",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rowwwsic: https://t.co/DN4g2SuNGr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047205672677523456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGkitnYbwAAZHke.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047205672677523456"
+          ],
+          "media_source_tweet_id": [
+            "2047205682760532345"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2047265692655960139",
+        "created_at": "2026-04-23T10:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047265692655960139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1685476118772551680",
+              "start": 3,
+              "username": "Rowwwsic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DN4g2SuNGr",
+              "end": 37,
+              "expanded_url": "https://x.com/Rowwwsic/status/2047205682760532345/photo/1",
+              "media_key": "3_2047205672677523456",
+              "start": 14,
+              "url": "https://t.co/DN4g2SuNGr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047265692655960139",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 342
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047205682760532345",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rowwwsic: https://t.co/DN4g2SuNGr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047205672677523456"
+          ]
+        },
+        "author_id": "1685476118772551680",
+        "conversation_id": "2047205682760532345",
+        "created_at": "2026-04-23T06:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T07:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047205682760532345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DN4g2SuNGr",
+              "end": 23,
+              "expanded_url": "https://x.com/Rowwwsic/status/2047205682760532345/photo/1",
+              "media_key": "3_2047205672677523456",
+              "start": 0,
+              "url": "https://t.co/DN4g2SuNGr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047205682760532345",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 193,
+          "impression_count": 10426,
+          "like_count": 2111,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 342
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DN4g2SuNGr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2046763289498341851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 875,
+          "like_count": 25970,
+          "listed_count": 1,
+          "media_count": 415,
+          "tweet_count": 3442
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T02:23:25.000Z",
+        "description": "中文&English 翻译器\n\n主LCB 378🎠🌧⛪️cb主！！\nemoji高手，只会用emoji 🌹🌹🌹😘",
+        "id": "1685476118772551680",
+        "name": "Rowsic",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852958633673576448/Q-xO_de7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9928,
+          "following_count": 310,
+          "like_count": 9537,
+          "listed_count": 22,
+          "media_count": 208,
+          "tweet_count": 1061
+        },
+        "username": "Rowwwsic",
+        "verified": false
+      }
+    ]
+  }
+}

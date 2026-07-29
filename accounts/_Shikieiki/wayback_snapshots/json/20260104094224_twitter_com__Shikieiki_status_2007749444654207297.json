@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007645123317039104"
+      ],
+      "media_source_tweet_id": [
+        "2007697249912902027"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2007749444654207297",
+    "created_at": "2026-01-04T09:42:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T10:42:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007749444654207297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1704054246528954368",
+          "start": 3,
+          "username": "0721KaiKinSyou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pv6GEmdxhd",
+          "end": 65,
+          "expanded_url": "https://x.com/0721KaiKinSyou/status/2007697249912902027/photo/1",
+          "media_key": "3_2007645123317039104",
+          "start": 42,
+          "url": "https://t.co/Pv6GEmdxhd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007749444654207297",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007697249912902027",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0721KaiKinSyou: わたしの好きな情緒ちゃんをコスプレします。 https://t.co/Pv6GEmdxhd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2007645123317039104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9yWmkpbgAAlhrQ.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007645123317039104"
+          ],
+          "media_source_tweet_id": [
+            "2007697249912902027"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2007749444654207297",
+        "created_at": "2026-01-04T09:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T10:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007749444654207297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1704054246528954368",
+              "start": 3,
+              "username": "0721KaiKinSyou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pv6GEmdxhd",
+              "end": 65,
+              "expanded_url": "https://x.com/0721KaiKinSyou/status/2007697249912902027/photo/1",
+              "media_key": "3_2007645123317039104",
+              "start": 42,
+              "url": "https://t.co/Pv6GEmdxhd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007749444654207297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007697249912902027",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0721KaiKinSyou: わたしの好きな情緒ちゃんをコスプレします。 https://t.co/Pv6GEmdxhd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007645123317039104"
+          ]
+        },
+        "author_id": "1704054246528954368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2007697249912902027",
+        "created_at": "2026-01-04T06:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T07:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007697249912902027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pv6GEmdxhd",
+              "end": 45,
+              "expanded_url": "https://x.com/0721KaiKinSyou/status/2007697249912902027/photo/1",
+              "media_key": "3_2007645123317039104",
+              "start": 22,
+              "url": "https://t.co/Pv6GEmdxhd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007697249912902027",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 7421,
+          "like_count": 486,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "わたしの好きな情緒ちゃんをコスプレします。 https://t.co/Pv6GEmdxhd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 524,
+          "like_count": 14683,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 923
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-19T08:46:16.000Z",
+        "description": "＝詩乃  |  日常&RT垢@365days0721  |  コスプレ写真置き場",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "365days0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/0721kaikinsyou",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/0721kaikinsyou",
+                "start": 0,
+                "url": "https://t.co/rlJolGWgOh"
+              }
+            ]
+          }
+        },
+        "id": "1704054246528954368",
+        "location": "帝都アーガデウム",
+        "name": "タイタス十七世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899262695091929088/fumgezLD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67229,
+          "following_count": 83,
+          "like_count": 5181,
+          "listed_count": 338,
+          "media_count": 346,
+          "tweet_count": 1157
+        },
+        "url": "https://t.co/rlJolGWgOh",
+        "username": "0721KaiKinSyou",
+        "verified": false
+      }
+    ]
+  }
+}

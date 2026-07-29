@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027047405603201024"
+      ],
+      "media_source_tweet_id": [
+        "2027047408207839320"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2027242422695231521",
+    "created_at": "2026-02-27T04:40:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T05:40:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027242422695231521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1327197298930028544",
+          "start": 3,
+          "username": "un_krvy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3KFuxgMpsG",
+          "end": 63,
+          "expanded_url": "https://x.com/un_krvy/status/2027047408207839320/photo/1",
+          "media_key": "3_2027047405603201024",
+          "start": 40,
+          "url": "https://t.co/3KFuxgMpsG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027242422695231521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027047408207839320",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @un_krvy: 此人现已删除，但剽窃事实无法改变，甚至想以此用来牟利 https://t.co/3KFuxgMpsG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1191,
+        "media_key": "3_2027047405603201024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCGE4CnbIAA2ck_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027047405603201024"
+          ],
+          "media_source_tweet_id": [
+            "2027047408207839320"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2027242422695231521",
+        "created_at": "2026-02-27T04:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T05:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027242422695231521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1327197298930028544",
+              "start": 3,
+              "username": "un_krvy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3KFuxgMpsG",
+              "end": 63,
+              "expanded_url": "https://x.com/un_krvy/status/2027047408207839320/photo/1",
+              "media_key": "3_2027047405603201024",
+              "start": 40,
+              "url": "https://t.co/3KFuxgMpsG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027242422695231521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027047408207839320",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @un_krvy: 此人现已删除，但剽窃事实无法改变，甚至想以此用来牟利 https://t.co/3KFuxgMpsG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027047405603201024"
+          ]
+        },
+        "author_id": "1327197298930028544",
+        "conversation_id": "2027047408207839320",
+        "created_at": "2026-02-26T15:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T16:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027047408207839320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3KFuxgMpsG",
+              "end": 50,
+              "expanded_url": "https://x.com/un_krvy/status/2027047408207839320/photo/1",
+              "media_key": "3_2027047405603201024",
+              "start": 27,
+              "url": "https://t.co/3KFuxgMpsG"
+            },
+            {
+              "display_url": "x.com/Akinoyo_desu/s…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/Akinoyo_desu/status/2027046156090609948",
+              "start": 51,
+              "url": "https://t.co/ERDAdie1J6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027047408207839320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1655,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027046156090609948",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "此人现已删除，但剽窃事实无法改变，甚至想以此用来牟利 https://t.co/3KFuxgMpsG https://t.co/ERDAdie1J6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 710,
+          "like_count": 21908,
+          "listed_count": 0,
+          "media_count": 353,
+          "tweet_count": 2636
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-13T10:31:21.000Z",
+        "description": "https://t.co/sxGCC1hNAm 官方账号，专注于精神药物科普",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/sxGCC1hNAm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/sxGCC1hNAm"
+              }
+            ]
+          }
+        },
+        "id": "1327197298930028544",
+        "location": "Macragge",
+        "name": "Psydrugs official by krvy #​心宿二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015057185953263616/EoNq2pvq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 216,
+          "like_count": 6189,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1210
+        },
+        "url": "https://t.co/sxGCC1hNAm",
+        "username": "un_krvy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057799924079833088"
+      ],
+      "media_source_tweet_id": [
+        "2057799929079468156"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2066179955235676610",
+    "created_at": "2026-06-14T15:24:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T16:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066179955235676610"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 27,
+          "tag": "なのは"
+        },
+        {
+          "end": 39,
+          "start": 32,
+          "tag": "nanoha"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "4300324040",
+          "start": 3,
+          "username": "takami771251161"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A6zkHRaXFz",
+          "end": 63,
+          "expanded_url": "https://x.com/takami771251161/status/2057799929079468156/photo/1",
+          "media_key": "3_2057799924079833088",
+          "start": 40,
+          "url": "https://t.co/A6zkHRaXFz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066179955235676610",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057799929079468156",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @takami771251161: なのフェイ\n#なのは\n#nanoha https://t.co/A6zkHRaXFz"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2066179955235676610].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2066179955235676610",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2066179955235676610"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1338,
+        "media_key": "3_2057799924079833088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7GINWasAAxLv7.jpg",
+        "width": 1905
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057799924079833088"
+          ]
+        },
+        "author_id": "4300324040",
+        "conversation_id": "2057799929079468156",
+        "created_at": "2026-05-22T12:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T13:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057799929079468156"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 6,
+              "tag": "なのは"
+            },
+            {
+              "end": 18,
+              "start": 11,
+              "tag": "nanoha"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A6zkHRaXFz",
+              "end": 42,
+              "expanded_url": "https://x.com/takami771251161/status/2057799929079468156/photo/1",
+              "media_key": "3_2057799924079833088",
+              "start": 19,
+              "url": "https://t.co/A6zkHRaXFz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057799929079468156",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 3474,
+          "like_count": 236,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "なのフェイ\n#なのは\n#nanoha https://t.co/A6zkHRaXFz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n伴侣 @octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 963,
+          "like_count": 28594,
+          "listed_count": 1,
+          "media_count": 491,
+          "tweet_count": 4225
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-20T11:20:54.000Z",
+        "description": "アニメと声優と百合とが好きです。ゆるく絵描きます。好きなカプをぐるぐる周しながら描いてます",
+        "id": "4300324040",
+        "location": "大阪府",
+        "name": "くりぼう",
+        "pinned_tweet_id": "2057799929079468156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980909940135862272/E8HBKo92_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 654,
+          "like_count": 25110,
+          "listed_count": 19,
+          "media_count": 2805,
+          "tweet_count": 12502
+        },
+        "username": "takami771251161",
+        "verified": false
+      }
+    ]
+  }
+}

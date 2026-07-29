@@ -1,0 +1,480 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048092258004811776"
+      ],
+      "media_source_tweet_id": [
+        "2048092287205556610"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2048153578511163829",
+    "created_at": "2026-04-25T21:34:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T22:34:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048153578511163829"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 30,
+          "tag": "魔法少女まどかマギカ"
+        },
+        {
+          "end": 56,
+          "start": 42,
+          "tag": "madoka_magica"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1127232678086844417",
+          "start": 3,
+          "username": "RukiaDaichi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J9RYFmAZ5Q",
+          "end": 80,
+          "expanded_url": "https://x.com/RukiaDaichi/status/2048092287205556610/photo/1",
+          "media_key": "3_2048092258004811776",
+          "start": 57,
+          "url": "https://t.co/J9RYFmAZ5Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048153578511163829",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048092287205556610",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RukiaDaichi: akemi homura\n#魔法少女まどかマギカ #madoka_magica https://t.co/J9RYFmAZ5Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2974,
+        "media_key": "3_2048092258004811776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGxJDrGawAAlHBV.jpg",
+        "width": 2494
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048092258004811776"
+          ],
+          "media_source_tweet_id": [
+            "2048092287205556610"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2048153578511163829",
+        "created_at": "2026-04-25T21:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T22:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048153578511163829"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 30,
+              "tag": "魔法少女まどかマギカ"
+            },
+            {
+              "end": 56,
+              "start": 42,
+              "tag": "madoka_magica"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1127232678086844417",
+              "start": 3,
+              "username": "RukiaDaichi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J9RYFmAZ5Q",
+              "end": 80,
+              "expanded_url": "https://x.com/RukiaDaichi/status/2048092287205556610/photo/1",
+              "media_key": "3_2048092258004811776",
+              "start": 57,
+              "url": "https://t.co/J9RYFmAZ5Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048153578511163829",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048092287205556610",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RukiaDaichi: akemi homura\n#魔法少女まどかマギカ #madoka_magica https://t.co/J9RYFmAZ5Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048092258004811776"
+          ]
+        },
+        "author_id": "1127232678086844417",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2048092287205556610",
+        "created_at": "2026-04-25T17:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T18:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048092287205556610"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 13,
+              "tag": "魔法少女まどかマギカ"
+            },
+            {
+              "end": 39,
+              "start": 25,
+              "tag": "madoka_magica"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J9RYFmAZ5Q",
+              "end": 63,
+              "expanded_url": "https://x.com/RukiaDaichi/status/2048092287205556610/photo/1",
+              "media_key": "3_2048092258004811776",
+              "start": 40,
+              "url": "https://t.co/J9RYFmAZ5Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048092287205556610",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 1920,
+          "like_count": 245,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "akemi homura\n#魔法少女まどかマギカ #madoka_magica https://t.co/J9RYFmAZ5Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2047351982030258527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 884,
+          "like_count": 26440,
+          "listed_count": 1,
+          "media_count": 418,
+          "tweet_count": 3536
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-11T15:23:08.000Z",
+        "description": "₍ᐢ. .ᐢ₎ i like adding ribbons on my persona! 🎀\n🎨🌿https://t.co/1eARvIcl56\n☕ https://t.co/3Xjg3p85OK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "rukiadaichi.carrd.co",
+                "end": 72,
+                "expanded_url": "https://rukiadaichi.carrd.co",
+                "start": 49,
+                "url": "https://t.co/1eARvIcl56"
+              },
+              {
+                "display_url": "ko-fi.com/rukiadaichi",
+                "end": 98,
+                "expanded_url": "https://ko-fi.com/rukiadaichi",
+                "start": 75,
+                "url": "https://t.co/3Xjg3p85OK"
+              }
+            ]
+          }
+        },
+        "id": "1127232678086844417",
+        "location": "under the weather",
+        "name": "Rukia",
+        "pinned_tweet_id": "1872726958490124372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043923970093961216/UugbHAUR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35436,
+          "following_count": 994,
+          "like_count": 16787,
+          "listed_count": 148,
+          "media_count": 366,
+          "tweet_count": 4851
+        },
+        "username": "RukiaDaichi",
+        "verified": false
+      }
+    ]
+  }
+}

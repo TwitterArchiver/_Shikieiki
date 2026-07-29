@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995343375969435648",
+        "3_1995343381166276608",
+        "3_1995343384181936129",
+        "3_1995343387189215233"
+      ],
+      "media_source_tweet_id": [
+        "1995343390691520912",
+        "1995343390691520912",
+        "1995343390691520912",
+        "1995343390691520912"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1995903433262727645",
+    "created_at": "2025-12-02T17:10:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T18:10:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995903433262727645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1274519740715806728",
+          "start": 3,
+          "username": "daiIymadoka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tEqEmCXrry",
+          "end": 40,
+          "expanded_url": "https://x.com/daiIymadoka/status/1995343390691520912/photo/1",
+          "media_key": "3_1995343375969435648",
+          "start": 17,
+          "url": "https://t.co/tEqEmCXrry"
+        },
+        {
+          "display_url": "pic.x.com/tEqEmCXrry",
+          "end": 40,
+          "expanded_url": "https://x.com/daiIymadoka/status/1995343390691520912/photo/1",
+          "media_key": "3_1995343381166276608",
+          "start": 17,
+          "url": "https://t.co/tEqEmCXrry"
+        },
+        {
+          "display_url": "pic.x.com/tEqEmCXrry",
+          "end": 40,
+          "expanded_url": "https://x.com/daiIymadoka/status/1995343390691520912/photo/1",
+          "media_key": "3_1995343384181936129",
+          "start": 17,
+          "url": "https://t.co/tEqEmCXrry"
+        },
+        {
+          "display_url": "pic.x.com/tEqEmCXrry",
+          "end": 40,
+          "expanded_url": "https://x.com/daiIymadoka/status/1995343390691520912/photo/1",
+          "media_key": "3_1995343387189215233",
+          "start": 17,
+          "url": "https://t.co/tEqEmCXrry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995903433262727645",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 128
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995343390691520912",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @daiIymadoka: https://t.co/tEqEmCXrry"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 582,
+        "media_key": "3_1995343375969435648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7DiOomWQAAHUV_.jpg",
+        "width": 1038
+      },
+      {
+        "height": 582,
+        "media_key": "3_1995343381166276608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7DiO79XwAAnDIU.jpg",
+        "width": 1038
+      },
+      {
+        "height": 580,
+        "media_key": "3_1995343384181936129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7DiPHMXEAERiQJ.jpg",
+        "width": 1039
+      },
+      {
+        "height": 584,
+        "media_key": "3_1995343387189215233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7DiPSZWgAEuoxj.jpg",
+        "width": 1043
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995343375969435648",
+            "3_1995343381166276608",
+            "3_1995343384181936129",
+            "3_1995343387189215233"
+          ],
+          "media_source_tweet_id": [
+            "1995343390691520912",
+            "1995343390691520912",
+            "1995343390691520912",
+            "1995343390691520912"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1995903433262727645",
+        "created_at": "2025-12-02T17:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T18:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995903433262727645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1274519740715806728",
+              "start": 3,
+              "username": "daiIymadoka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tEqEmCXrry",
+              "end": 40,
+              "expanded_url": "https://x.com/daiIymadoka/status/1995343390691520912/photo/1",
+              "media_key": "3_1995343375969435648",
+              "start": 17,
+              "url": "https://t.co/tEqEmCXrry"
+            },
+            {
+              "display_url": "pic.x.com/tEqEmCXrry",
+              "end": 40,
+              "expanded_url": "https://x.com/daiIymadoka/status/1995343390691520912/photo/1",
+              "media_key": "3_1995343381166276608",
+              "start": 17,
+              "url": "https://t.co/tEqEmCXrry"
+            },
+            {
+              "display_url": "pic.x.com/tEqEmCXrry",
+              "end": 40,
+              "expanded_url": "https://x.com/daiIymadoka/status/1995343390691520912/photo/1",
+              "media_key": "3_1995343384181936129",
+              "start": 17,
+              "url": "https://t.co/tEqEmCXrry"
+            },
+            {
+              "display_url": "pic.x.com/tEqEmCXrry",
+              "end": 40,
+              "expanded_url": "https://x.com/daiIymadoka/status/1995343390691520912/photo/1",
+              "media_key": "3_1995343387189215233",
+              "start": 17,
+              "url": "https://t.co/tEqEmCXrry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995903433262727645",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 128
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995343390691520912",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @daiIymadoka: https://t.co/tEqEmCXrry"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995343375969435648",
+            "3_1995343381166276608",
+            "3_1995343384181936129",
+            "3_1995343387189215233"
+          ]
+        },
+        "author_id": "1274519740715806728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1995343390691520912",
+        "created_at": "2025-12-01T04:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T05:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995343390691520912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tEqEmCXrry",
+              "end": 23,
+              "expanded_url": "https://x.com/daiIymadoka/status/1995343390691520912/photo/1",
+              "media_key": "3_1995343375969435648",
+              "start": 0,
+              "url": "https://t.co/tEqEmCXrry"
+            },
+            {
+              "display_url": "pic.x.com/tEqEmCXrry",
+              "end": 23,
+              "expanded_url": "https://x.com/daiIymadoka/status/1995343390691520912/photo/1",
+              "media_key": "3_1995343381166276608",
+              "start": 0,
+              "url": "https://t.co/tEqEmCXrry"
+            },
+            {
+              "display_url": "pic.x.com/tEqEmCXrry",
+              "end": 23,
+              "expanded_url": "https://x.com/daiIymadoka/status/1995343390691520912/photo/1",
+              "media_key": "3_1995343384181936129",
+              "start": 0,
+              "url": "https://t.co/tEqEmCXrry"
+            },
+            {
+              "display_url": "pic.x.com/tEqEmCXrry",
+              "end": 23,
+              "expanded_url": "https://x.com/daiIymadoka/status/1995343390691520912/photo/1",
+              "media_key": "3_1995343387189215233",
+              "start": 0,
+              "url": "https://t.co/tEqEmCXrry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995343390691520912",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 9607,
+          "like_count": 844,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 128
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tEqEmCXrry"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "1842867034050441268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 355,
+          "like_count": 6317,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 151
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-21T01:49:42.000Z",
+        "description": "being meguca is suffering, see why daily",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/dailym…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/dailymadoka.bsky.social",
+                "start": 0,
+                "url": "https://t.co/zGIg8yl9kk"
+              }
+            ]
+          }
+        },
+        "id": "1274519740715806728",
+        "name": "daily madoka magica",
+        "pinned_tweet_id": "1465527031093993472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1316141429668958210/V2bxXRag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73582,
+          "following_count": 2,
+          "like_count": 1016,
+          "listed_count": 139,
+          "media_count": 1763,
+          "tweet_count": 2054
+        },
+        "url": "https://t.co/zGIg8yl9kk",
+        "username": "daiIymadoka",
+        "verified": false
+      }
+    ]
+  }
+}

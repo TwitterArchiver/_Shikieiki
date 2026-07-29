@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051223193583853568"
+      ],
+      "media_source_tweet_id": [
+        "2051587705872748974"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2051594343551774968",
+    "created_at": "2026-05-05T09:26:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T10:26:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051594343551774968"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 21,
+          "tag": "LCB"
+        },
+        {
+          "end": 30,
+          "start": 26,
+          "tag": "림버스"
+        },
+        {
+          "end": 45,
+          "start": 31,
+          "tag": "LimbusCompany"
+        },
+        {
+          "end": 51,
+          "start": 46,
+          "tag": "リンバス"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1407670091588669444",
+          "start": 3,
+          "username": "LimbusCompany_B"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pWpAS3Np50",
+          "end": 75,
+          "expanded_url": "https://x.com/LimbusCompany_B/status/2051587705872748974/photo/1",
+          "media_key": "3_2051223193583853568",
+          "start": 52,
+          "url": "https://t.co/pWpAS3Np50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051594343551774968",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4762
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051587705872748974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LimbusCompany_B: #LCB #림버스 #LimbusCompany #リンバス https://t.co/pWpAS3Np50"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1422,
+        "media_key": "3_2051223193583853568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHdooHCboAA8qVQ.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051223193583853568"
+          ],
+          "media_source_tweet_id": [
+            "2051587705872748974"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051594343551774968",
+        "created_at": "2026-05-05T09:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T10:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051594343551774968"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "LCB"
+            },
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "림버스"
+            },
+            {
+              "end": 45,
+              "start": 31,
+              "tag": "LimbusCompany"
+            },
+            {
+              "end": 51,
+              "start": 46,
+              "tag": "リンバス"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1407670091588669444",
+              "start": 3,
+              "username": "LimbusCompany_B"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pWpAS3Np50",
+              "end": 75,
+              "expanded_url": "https://x.com/LimbusCompany_B/status/2051587705872748974/photo/1",
+              "media_key": "3_2051223193583853568",
+              "start": 52,
+              "url": "https://t.co/pWpAS3Np50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051594343551774968",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4762
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051587705872748974",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LimbusCompany_B: #LCB #림버스 #LimbusCompany #リンバス https://t.co/pWpAS3Np50"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051223193583853568"
+          ]
+        },
+        "author_id": "1407670091588669444",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051587705872748974",
+        "created_at": "2026-05-05T09:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T10:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051587705872748974"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "LCB"
+            },
+            {
+              "end": 9,
+              "start": 5,
+              "tag": "림버스"
+            },
+            {
+              "end": 24,
+              "start": 10,
+              "tag": "LimbusCompany"
+            },
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "リンバス"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pWpAS3Np50",
+              "end": 54,
+              "expanded_url": "https://x.com/LimbusCompany_B/status/2051587705872748974/photo/1",
+              "media_key": "3_2051223193583853568",
+              "start": 31,
+              "url": "https://t.co/pWpAS3Np50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051587705872748974",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 825,
+          "impression_count": 309689,
+          "like_count": 10848,
+          "quote_count": 1402,
+          "reply_count": 442,
+          "retweet_count": 4762
+        },
+        "reply_settings": "everyone",
+        "text": "#LCB #림버스 #LimbusCompany #リンバス https://t.co/pWpAS3Np50"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2050182084808110250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 915,
+          "like_count": 27692,
+          "listed_count": 1,
+          "media_count": 479,
+          "tweet_count": 3915
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-23T12:01:57.000Z",
+        "description": "Lasciate ogni speranza, voi ch'entrate \n\n문의 / お問い合わせ / Support : https://t.co/MFEWp5SLHV\n\nMature 17+\n\n#LCB  #림버스\n#LimbusCompany \n#リンバス",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 102,
+                "tag": "LCB"
+              },
+              {
+                "end": 112,
+                "start": 108,
+                "tag": "림버스"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "tag": "LimbusCompany"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "リンバス"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "faq.limbuscompany.site",
+                "end": 88,
+                "expanded_url": "https://faq.limbuscompany.site/",
+                "start": 65,
+                "url": "https://t.co/MFEWp5SLHV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "limbuscompany.global",
+                "end": 23,
+                "expanded_url": "https://limbuscompany.global/",
+                "start": 0,
+                "url": "https://t.co/GJS3bxmThY"
+              }
+            ]
+          }
+        },
+        "id": "1407670091588669444",
+        "location": "City",
+        "name": "Limbus Company",
+        "pinned_tweet_id": "2027349545219469329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509485712550535168/q_SnRdGP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405635,
+          "following_count": 2,
+          "like_count": 407,
+          "listed_count": 829,
+          "media_count": 1434,
+          "tweet_count": 2129
+        },
+        "url": "https://t.co/GJS3bxmThY",
+        "username": "LimbusCompany_B",
+        "verified": true
+      }
+    ]
+  }
+}

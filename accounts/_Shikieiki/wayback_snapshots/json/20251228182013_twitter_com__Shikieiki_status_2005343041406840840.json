@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005182681987121152"
+      ],
+      "media_source_tweet_id": [
+        "2005182700978929804"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2005343041406840840",
+    "created_at": "2025-12-28T18:20:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T19:20:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005343041406840840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1390586388647583747",
+          "start": 3,
+          "username": "itswords_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jI18lgJSuI",
+          "end": 38,
+          "expanded_url": "https://x.com/itswords_/status/2005182700978929804/photo/1",
+          "media_key": "3_2005182681987121152",
+          "start": 15,
+          "url": "https://t.co/jI18lgJSuI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005343041406840840",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7068
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005182700978929804",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itswords_: https://t.co/jI18lgJSuI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2005182681987121152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9PXBn2bgAAki90.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005182681987121152"
+          ],
+          "media_source_tweet_id": [
+            "2005182700978929804"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2005343041406840840",
+        "created_at": "2025-12-28T18:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T19:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005343041406840840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1390586388647583747",
+              "start": 3,
+              "username": "itswords_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jI18lgJSuI",
+              "end": 38,
+              "expanded_url": "https://x.com/itswords_/status/2005182700978929804/photo/1",
+              "media_key": "3_2005182681987121152",
+              "start": 15,
+              "url": "https://t.co/jI18lgJSuI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005343041406840840",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7068
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005182700978929804",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @itswords_: https://t.co/jI18lgJSuI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005182681987121152"
+          ]
+        },
+        "author_id": "1390586388647583747",
+        "conversation_id": "2005182700978929804",
+        "created_at": "2025-12-28T07:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T08:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005182700978929804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jI18lgJSuI",
+              "end": 23,
+              "expanded_url": "https://x.com/itswords_/status/2005182700978929804/photo/1",
+              "media_key": "3_2005182681987121152",
+              "start": 0,
+              "url": "https://t.co/jI18lgJSuI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005182700978929804",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 794,
+          "impression_count": 456868,
+          "like_count": 19702,
+          "quote_count": 246,
+          "reply_count": 81,
+          "retweet_count": 7068
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jI18lgJSuI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 436,
+          "like_count": 8920,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 408
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T08:37:05.000Z",
+        "description": "random words & thoughts",
+        "id": "1390586388647583747",
+        "location": "📖",
+        "name": "Words",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1417362314794201089/W8iRohTu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2081172,
+          "following_count": 1,
+          "like_count": 1920,
+          "listed_count": 1831,
+          "media_count": 9821,
+          "tweet_count": 26072
+        },
+        "username": "itswords_",
+        "verified": true
+      }
+    ]
+  }
+}

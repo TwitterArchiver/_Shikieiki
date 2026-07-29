@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032387787824234497"
+      ],
+      "media_source_tweet_id": [
+        "2033657058231230836"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2033849227508683198",
+    "created_at": "2026-03-17T10:13:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T11:13:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033849227508683198"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "yuri",
+          "probability": 0.4683,
+          "start": 21,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1990102439501209600",
+          "start": 3,
+          "username": "love3pic"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sOIoWT5ShB",
+          "end": 59,
+          "expanded_url": "https://x.com/love3pic/status/2033657058231230836/photo/1",
+          "media_key": "3_2032387787824234497",
+          "start": 36,
+          "url": "https://t.co/sOIoWT5ShB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033849227508683198",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 428
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033657058231230836",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @love3pic: Have a yuri-ful day 💕 https://t.co/sOIoWT5ShB"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Source: @tama_64",
+        "height": 997,
+        "media_key": "3_2032387787824234497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDR97MsbAAEeKJP.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032387787824234497"
+          ],
+          "media_source_tweet_id": [
+            "2033657058231230836"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2033849227508683198",
+        "created_at": "2026-03-17T10:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T11:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033849227508683198"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "yuri",
+              "probability": 0.4683,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1990102439501209600",
+              "start": 3,
+              "username": "love3pic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sOIoWT5ShB",
+              "end": 59,
+              "expanded_url": "https://x.com/love3pic/status/2033657058231230836/photo/1",
+              "media_key": "3_2032387787824234497",
+              "start": 36,
+              "url": "https://t.co/sOIoWT5ShB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033849227508683198",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 428
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033657058231230836",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @love3pic: Have a yuri-ful day 💕 https://t.co/sOIoWT5ShB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032387787824234497"
+          ]
+        },
+        "author_id": "1990102439501209600",
+        "conversation_id": "2033657058231230836",
+        "created_at": "2026-03-16T21:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T22:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033657058231230836"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "yuri",
+              "probability": 0.4556,
+              "start": 7,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sOIoWT5ShB",
+              "end": 45,
+              "expanded_url": "https://x.com/love3pic/status/2033657058231230836/photo/1",
+              "media_key": "3_2032387787824234497",
+              "start": 22,
+              "url": "https://t.co/sOIoWT5ShB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033657058231230836",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 697,
+          "impression_count": 52947,
+          "like_count": 7759,
+          "quote_count": 4,
+          "reply_count": 6,
+          "retweet_count": 428
+        },
+        "reply_settings": "everyone",
+        "text": "Have a yuri-ful day 💕 https://t.co/sOIoWT5ShB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "君が君でいられる場所 \n悪夢-まぼろし-にさらわれぬように  \n消えない雨の苦しみも \n鍵を壊してぶつけてよ 隣にいるから \nすべてを信じて",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "see_you_hell.although.here.probably.is",
+                "end": 23,
+                "expanded_url": "http://see_you_hell.although.here.probably.is",
+                "start": 0,
+                "url": "https://t.co/ecUxsPCDIQ"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2028458258697171187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 805,
+          "like_count": 24435,
+          "listed_count": 0,
+          "media_count": 406,
+          "tweet_count": 3206
+        },
+        "url": "https://t.co/ecUxsPCDIQ",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T16:59:47.000Z",
+        "description": "Anime/Manga,Only Yuri",
+        "id": "1990102439501209600",
+        "name": "Yuri love",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018222581686673408/bjWxz2yh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4905,
+          "following_count": 33,
+          "like_count": 386,
+          "listed_count": 8,
+          "media_count": 42,
+          "tweet_count": 48
+        },
+        "username": "love3pic",
+        "verified": true
+      }
+    ]
+  }
+}

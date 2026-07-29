@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2028128922576248923",
+    "created_at": "2026-03-01T15:23:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T16:23:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028128925185089995"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20281…",
+          "end": 32,
+          "expanded_url": "https://x.com/i/status/2028110605195063793",
+          "start": 9,
+          "url": "https://t.co/WBjfmuVu88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028128925185089995",
+    "in_reply_to_user_id": "1448206950903255040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028110605195063793",
+        "type": "quoted"
+      },
+      {
+        "id": "2028128922576248923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "预告01 传送门\nhttps://t.co/WBjfmuVu88"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028110601755701248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCVL2M7aMAA8AzB.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2020,
+        "media_key": "3_2028128919199891456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCVcgaubQAAfukt.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2028128922576248923",
+        "created_at": "2026-03-01T15:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T16:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028128925185089995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20281…",
+              "end": 32,
+              "expanded_url": "https://x.com/i/status/2028110605195063793",
+              "start": 9,
+              "url": "https://t.co/WBjfmuVu88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028128925185089995",
+        "in_reply_to_user_id": "1448206950903255040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028110605195063793",
+            "type": "quoted"
+          },
+          {
+            "id": "2028128922576248923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "预告01 传送门\nhttps://t.co/WBjfmuVu88"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028110601755701248"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2028110605195063793",
+        "created_at": "2026-03-01T14:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T15:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028110605195063793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mSnYR4Q0cw",
+              "end": 50,
+              "expanded_url": "https://x.com/_Shikieiki/status/2028110605195063793/photo/1",
+              "media_key": "3_2028110601755701248",
+              "start": 27,
+              "url": "https://t.co/mSnYR4Q0cw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028110605195063793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "预告01\n裙子还没到只能先用校服裤了)希望不影响观感 https://t.co/mSnYR4Q0cw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028128919199891456"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2028128922576248923",
+        "created_at": "2026-03-01T15:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T16:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028128922576248923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 43,
+              "id": "1734534713480716288",
+              "start": 35,
+              "username": "octoTvT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D6KT5c0fUg",
+              "end": 78,
+              "expanded_url": "https://x.com/_Shikieiki/status/2028128922576248923/photo/1",
+              "media_key": "3_2028128919199891456",
+              "start": 55,
+              "url": "https://t.co/D6KT5c0fUg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028128922576248923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "预告03\n没有全身镜拍照好麻烦 我踩在小凳子上拍的🙀 傻傻的有点\n感谢@octoTvT绘制的美金刚章鱼猫一枚 https://t.co/D6KT5c0fUg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 758,
+          "like_count": 22559,
+          "listed_count": 0,
+          "media_count": 388,
+          "tweet_count": 2847
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      }
+    ]
+  }
+}

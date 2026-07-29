@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022792973436829696"
+      ],
+      "media_source_tweet_id": [
+        "2022793242668916923"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2023084911574528056",
+    "created_at": "2026-02-15T17:20:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T18:20:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023084911574528056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2578710733",
+          "start": 3,
+          "username": "abutomato"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iHycPru4u6",
+          "end": 38,
+          "expanded_url": "https://x.com/abutomato/status/2022793242668916923/photo/1",
+          "media_key": "3_2022792973436829696",
+          "start": 15,
+          "url": "https://t.co/iHycPru4u6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023084911574528056",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 160
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022793242668916923",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @abutomato: https://t.co/iHycPru4u6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 899,
+        "media_key": "3_2022792973436829696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBJnffvbwAAu95p.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022792973436829696"
+          ],
+          "media_source_tweet_id": [
+            "2022793242668916923"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2023084911574528056",
+        "created_at": "2026-02-15T17:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T18:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023084911574528056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2578710733",
+              "start": 3,
+              "username": "abutomato"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iHycPru4u6",
+              "end": 38,
+              "expanded_url": "https://x.com/abutomato/status/2022793242668916923/photo/1",
+              "media_key": "3_2022792973436829696",
+              "start": 15,
+              "url": "https://t.co/iHycPru4u6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023084911574528056",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 160
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022793242668916923",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @abutomato: https://t.co/iHycPru4u6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022792973436829696"
+          ]
+        },
+        "author_id": "2578710733",
+        "conversation_id": "2022793242668916923",
+        "created_at": "2026-02-14T22:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T23:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022793242668916923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iHycPru4u6",
+              "end": 23,
+              "expanded_url": "https://x.com/abutomato/status/2022793242668916923/photo/1",
+              "media_key": "3_2022792973436829696",
+              "start": 0,
+              "url": "https://t.co/iHycPru4u6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022793242668916923",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 12330,
+          "like_count": 883,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 160
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/iHycPru4u6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 663,
+          "like_count": 19680,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 2030
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-20T13:39:01.000Z",
+        "description": "マミなぎと酸素で生きてる。相互でなくても気軽に絡んでどうぞ\n\nマギレコありがとう",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "abutomato.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://abutomato.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/kTgyXEoxla"
+              }
+            ]
+          }
+        },
+        "id": "2578710733",
+        "location": "マミさんのタンスの一番上の引き出し",
+        "name": "アブトマトX",
+        "pinned_tweet_id": "2016241323842666872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803530411395694592/GRuq7WIS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22193,
+          "following_count": 588,
+          "like_count": 40197,
+          "listed_count": 204,
+          "media_count": 5972,
+          "tweet_count": 89318
+        },
+        "url": "https://t.co/kTgyXEoxla",
+        "username": "abutomato",
+        "verified": false
+      }
+    ]
+  }
+}

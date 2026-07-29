@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049784934148247552",
+        "3_2049784934135676928"
+      ],
+      "media_source_tweet_id": [
+        "2049785257336193260",
+        "2049785257336193260"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2049896049167450335",
+    "created_at": "2026-04-30T16:57:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T17:57:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049896049167450335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1427644377724334098",
+          "start": 3,
+          "username": "kedrealin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ndFpKc1UNP",
+          "end": 81,
+          "expanded_url": "https://x.com/kedrealin/status/2049785257336193260/photo/1",
+          "media_key": "3_2049784934148247552",
+          "start": 58,
+          "url": "https://t.co/ndFpKc1UNP"
+        },
+        {
+          "display_url": "pic.x.com/ndFpKc1UNP",
+          "end": 81,
+          "expanded_url": "https://x.com/kedrealin/status/2049785257336193260/photo/1",
+          "media_key": "3_2049784934135676928",
+          "start": 58,
+          "url": "https://t.co/ndFpKc1UNP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049896049167450335",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 916
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049785257336193260",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kedrealin: Madoka in almost every trailer for Kaiten: https://t.co/ndFpKc1UNP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1897,
+        "media_key": "3_2049784934148247552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJMiZHakAAG4Lj.jpg",
+        "width": 1500
+      },
+      {
+        "height": 383,
+        "media_key": "3_2049784934135676928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJMiZEawAASe7B.jpg",
+        "width": 376
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049784934148247552",
+            "3_2049784934135676928"
+          ],
+          "media_source_tweet_id": [
+            "2049785257336193260",
+            "2049785257336193260"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049896049167450335",
+        "created_at": "2026-04-30T16:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T17:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049896049167450335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1427644377724334098",
+              "start": 3,
+              "username": "kedrealin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ndFpKc1UNP",
+              "end": 81,
+              "expanded_url": "https://x.com/kedrealin/status/2049785257336193260/photo/1",
+              "media_key": "3_2049784934148247552",
+              "start": 58,
+              "url": "https://t.co/ndFpKc1UNP"
+            },
+            {
+              "display_url": "pic.x.com/ndFpKc1UNP",
+              "end": 81,
+              "expanded_url": "https://x.com/kedrealin/status/2049785257336193260/photo/1",
+              "media_key": "3_2049784934135676928",
+              "start": 58,
+              "url": "https://t.co/ndFpKc1UNP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049896049167450335",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 916
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049785257336193260",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kedrealin: Madoka in almost every trailer for Kaiten: https://t.co/ndFpKc1UNP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049784934148247552",
+            "3_2049784934135676928"
+          ]
+        },
+        "author_id": "1427644377724334098",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049785257336193260",
+        "created_at": "2026-04-30T09:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T10:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049785257336193260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ndFpKc1UNP",
+              "end": 66,
+              "expanded_url": "https://x.com/kedrealin/status/2049785257336193260/photo/1",
+              "media_key": "3_2049784934148247552",
+              "start": 43,
+              "url": "https://t.co/ndFpKc1UNP"
+            },
+            {
+              "display_url": "pic.x.com/ndFpKc1UNP",
+              "end": 66,
+              "expanded_url": "https://x.com/kedrealin/status/2049785257336193260/photo/1",
+              "media_key": "3_2049784934135676928",
+              "start": 43,
+              "url": "https://t.co/ndFpKc1UNP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049785257336193260",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 301,
+          "impression_count": 61279,
+          "like_count": 4977,
+          "quote_count": 40,
+          "reply_count": 6,
+          "retweet_count": 916
+        },
+        "reply_settings": "everyone",
+        "text": "Madoka in almost every trailer for Kaiten: https://t.co/ndFpKc1UNP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2047351982030258527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 887,
+          "like_count": 27039,
+          "listed_count": 1,
+          "media_count": 439,
+          "tweet_count": 3682
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-17T14:52:21.000Z",
+        "description": "ほむまど💜🩷 、seabed🍀、△   絵の勉強中，多忙",
+        "id": "1427644377724334098",
+        "location": "Nantes, France",
+        "name": "生白inosiro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833792732730691584/jKNxch57_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 198,
+          "like_count": 38789,
+          "listed_count": 7,
+          "media_count": 240,
+          "tweet_count": 2345
+        },
+        "username": "kedrealin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021731446176854020"
+      ],
+      "media_source_tweet_id": [
+        "2021736006882668737"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2021794248908235029",
+    "created_at": "2026-02-12T03:51:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T04:51:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021794248908235029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "159093364",
+          "start": 3,
+          "username": "CRANE1192"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VCoa2rH4e4",
+          "end": 50,
+          "expanded_url": "https://x.com/CRANE1192/status/2021736006882668737/photo/1",
+          "media_key": "3_2021731446176854020",
+          "start": 27,
+          "url": "https://t.co/VCoa2rH4e4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021794248908235029",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 143
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021736006882668737",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CRANE1192: 「...ありがとう。」 https://t.co/VCoa2rH4e4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4093,
+        "media_key": "3_2021731446176854020",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA6iCeibsAQgSk0.jpg",
+        "width": 2894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021731446176854020"
+          ],
+          "media_source_tweet_id": [
+            "2021736006882668737"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2021794248908235029",
+        "created_at": "2026-02-12T03:51:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T04:51:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021794248908235029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "159093364",
+              "start": 3,
+              "username": "CRANE1192"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VCoa2rH4e4",
+              "end": 50,
+              "expanded_url": "https://x.com/CRANE1192/status/2021736006882668737/photo/1",
+              "media_key": "3_2021731446176854020",
+              "start": 27,
+              "url": "https://t.co/VCoa2rH4e4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021794248908235029",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 143
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021736006882668737",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CRANE1192: 「...ありがとう。」 https://t.co/VCoa2rH4e4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021731446176854020"
+          ]
+        },
+        "author_id": "159093364",
+        "conversation_id": "2021736006882668737",
+        "created_at": "2026-02-12T00:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T01:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021736006882668737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VCoa2rH4e4",
+              "end": 35,
+              "expanded_url": "https://x.com/CRANE1192/status/2021736006882668737/photo/1",
+              "media_key": "3_2021731446176854020",
+              "start": 12,
+              "url": "https://t.co/VCoa2rH4e4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021736006882668737",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 7683,
+          "like_count": 967,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 143
+        },
+        "reply_settings": "everyone",
+        "text": "「...ありがとう。」 https://t.co/VCoa2rH4e4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 614,
+          "like_count": 19053,
+          "listed_count": 0,
+          "media_count": 232,
+          "tweet_count": 1732
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-24T12:38:53.000Z",
+        "description": "まんがタイムきららで絶対連載します 彼女を起こすその日まで、待っていて下さい。\n📩ご連絡：crane1192@gmail.com\n同人誌：https://t.co/9i6qRRDxig\nスケブ：https://t.co/YzW4QQqODT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "crane1192.booth.pm",
+                "end": 92,
+                "expanded_url": "https://crane1192.booth.pm/",
+                "start": 69,
+                "url": "https://t.co/9i6qRRDxig"
+              },
+              {
+                "display_url": "skeb.jp/@CRANE1192",
+                "end": 120,
+                "expanded_url": "https://skeb.jp/@CRANE1192",
+                "start": 97,
+                "url": "https://t.co/YzW4QQqODT"
+              }
+            ]
+          }
+        },
+        "id": "159093364",
+        "name": "コーテー音⚰",
+        "pinned_tweet_id": "1951111430440362328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643846597388959746/gKhHooyS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25384,
+          "following_count": 862,
+          "like_count": 12354,
+          "listed_count": 243,
+          "media_count": 5750,
+          "tweet_count": 34925
+        },
+        "username": "CRANE1192",
+        "verified": false
+      }
+    ]
+  }
+}

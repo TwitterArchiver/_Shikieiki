@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017902714731241472"
+      ],
+      "media_source_tweet_id": [
+        "2017902720460693746"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2017951662170906847",
+    "created_at": "2026-02-01T13:22:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T14:22:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017951662170906847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "721014901926273024",
+          "start": 3,
+          "username": "y_atenaba"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PdKo7j25qX",
+          "end": 38,
+          "expanded_url": "https://x.com/y_atenaba/status/2017902720460693746/photo/1",
+          "media_key": "3_2017902714731241472",
+          "start": 15,
+          "url": "https://t.co/PdKo7j25qX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017951662170906847",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2679
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017902720460693746",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y_atenaba: https://t.co/PdKo7j25qX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2729,
+        "media_key": "3_2017902714731241472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAEH0-baIAAwNT1.jpg",
+        "width": 3145
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017902714731241472"
+          ],
+          "media_source_tweet_id": [
+            "2017902720460693746"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2017951662170906847",
+        "created_at": "2026-02-01T13:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T14:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017951662170906847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "721014901926273024",
+              "start": 3,
+              "username": "y_atenaba"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PdKo7j25qX",
+              "end": 38,
+              "expanded_url": "https://x.com/y_atenaba/status/2017902720460693746/photo/1",
+              "media_key": "3_2017902714731241472",
+              "start": 15,
+              "url": "https://t.co/PdKo7j25qX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017951662170906847",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2679
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017902720460693746",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @y_atenaba: https://t.co/PdKo7j25qX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017902714731241472"
+          ]
+        },
+        "author_id": "721014901926273024",
+        "conversation_id": "2017902720460693746",
+        "created_at": "2026-02-01T10:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T11:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017902720460693746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PdKo7j25qX",
+              "end": 23,
+              "expanded_url": "https://x.com/y_atenaba/status/2017902720460693746/photo/1",
+              "media_key": "3_2017902714731241472",
+              "start": 0,
+              "url": "https://t.co/PdKo7j25qX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017902720460693746",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1602,
+          "impression_count": 153028,
+          "like_count": 18789,
+          "quote_count": 42,
+          "reply_count": 17,
+          "retweet_count": 2679
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PdKo7j25qX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 585,
+          "like_count": 18566,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 1468
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-15T16:38:43.000Z",
+        "description": "絵と百合が好きです。\nﾏｼｭﾏﾛ：https://t.co/MkpfO34SuS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/y_atenaba",
+                "end": 40,
+                "expanded_url": "http://marshmallow-qa.com/y_atenaba",
+                "start": 17,
+                "url": "https://t.co/MkpfO34SuS"
+              }
+            ]
+          }
+        },
+        "id": "721014901926273024",
+        "name": "あてなば侑",
+        "pinned_tweet_id": "2005881592724750378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1376094113024540672/cJpqA6Ua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122461,
+          "following_count": 17,
+          "like_count": 33504,
+          "listed_count": 958,
+          "media_count": 290,
+          "tweet_count": 343
+        },
+        "username": "y_atenaba",
+        "verified": true
+      }
+    ]
+  }
+}

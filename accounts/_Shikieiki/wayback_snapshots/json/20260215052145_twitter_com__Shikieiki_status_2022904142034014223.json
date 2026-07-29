@@ -1,0 +1,490 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022606352615641089"
+      ],
+      "media_source_tweet_id": [
+        "2022606358944919956"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2022904142034014223",
+    "created_at": "2026-02-15T05:21:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T06:21:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022904142034014223"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 28,
+          "tag": "まどマギ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1073227894174806017",
+          "start": 3,
+          "username": "kashi_neco"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SHQ2rgOWny",
+          "end": 57,
+          "expanded_url": "https://x.com/kashi_neco/status/2022606358944919956/photo/1",
+          "media_key": "3_2022606352615641089",
+          "start": 34,
+          "url": "https://t.co/SHQ2rgOWny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022904142034014223",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 210
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022606358944919956",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kashi_neco: あつまれピュエラマギ！\n#まどマギ https://t.co/SHQ2rgOWny"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1406,
+        "media_key": "3_2022606352615641089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBG9wvAakAErgBi.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022606352615641089"
+          ],
+          "media_source_tweet_id": [
+            "2022606358944919956"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2022904142034014223",
+        "created_at": "2026-02-15T05:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T06:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022904142034014223"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "まどマギ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1073227894174806017",
+              "start": 3,
+              "username": "kashi_neco"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SHQ2rgOWny",
+              "end": 57,
+              "expanded_url": "https://x.com/kashi_neco/status/2022606358944919956/photo/1",
+              "media_key": "3_2022606352615641089",
+              "start": 34,
+              "url": "https://t.co/SHQ2rgOWny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022904142034014223",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 210
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022606358944919956",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kashi_neco: あつまれピュエラマギ！\n#まどマギ https://t.co/SHQ2rgOWny"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022606352615641089"
+          ]
+        },
+        "author_id": "1073227894174806017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2022606358944919956",
+        "created_at": "2026-02-14T09:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T10:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022606358944919956"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "まどマギ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SHQ2rgOWny",
+              "end": 41,
+              "expanded_url": "https://x.com/kashi_neco/status/2022606358944919956/photo/1",
+              "media_key": "3_2022606352615641089",
+              "start": 18,
+              "url": "https://t.co/SHQ2rgOWny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022606358944919956",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 8189,
+          "like_count": 887,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 210
+        },
+        "reply_settings": "everyone",
+        "text": "あつまれピュエラマギ！\n#まどマギ https://t.co/SHQ2rgOWny"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 644,
+          "like_count": 19505,
+          "listed_count": 1,
+          "media_count": 257,
+          "tweet_count": 1959
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-13T14:47:24.000Z",
+        "description": "🐈‍⬛ 絵と動画【skeb→https://t.co/gRlVq3QHkY 】【YouTube→ https://t.co/q2Xd96MRDS】",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@kashi_neco",
+                "end": 37,
+                "expanded_url": "http://skeb.jp/@kashi_neco",
+                "start": 14,
+                "url": "https://t.co/gRlVq3QHkY"
+              },
+              {
+                "display_url": "youtube.com/@kashineco",
+                "end": 72,
+                "expanded_url": "https://youtube.com/@kashineco",
+                "start": 49,
+                "url": "https://t.co/q2Xd96MRDS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/41975725",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/41975725",
+                "start": 0,
+                "url": "https://t.co/HHQriN8tMo"
+              }
+            ]
+          }
+        },
+        "id": "1073227894174806017",
+        "name": "かしねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930278531122266112/LYNtlGif_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2179,
+          "following_count": 31,
+          "like_count": 1767,
+          "listed_count": 24,
+          "media_count": 1041,
+          "tweet_count": 2399
+        },
+        "url": "https://t.co/HHQriN8tMo",
+        "username": "kashi_neco",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2007496792037085694",
+    "created_at": "2026-01-03T17:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T18:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007500736436060207"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 14,
+          "normalized_text": "原图作",
+          "probability": 0.6786,
+          "start": 12,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1597468568290873344",
+          "start": 0,
+          "username": "jingzhny11"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20074…",
+          "end": 39,
+          "expanded_url": "https://x.com/i/status/2007426519732572340",
+          "start": 16,
+          "url": "https://t.co/UhhVcWawON"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007500736436060207",
+    "in_reply_to_user_id": "1597468568290873344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007426519732572340",
+        "type": "quoted"
+      },
+      {
+        "id": "2007496792037085694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingzhny11 原图作者https://t.co/UhhVcWawON"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [2007426519732572340].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2007426519732572340",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2007426519732572340"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 784,
+        "media_key": "3_2007496782813769734",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9wPsBNasAYiT5F.jpg",
+        "width": 1360
+      },
+      {
+        "height": 784,
+        "media_key": "3_2007496782843187202",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9wPsBUbkAI224r.jpg",
+        "width": 1360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2007496792037085694",
+        "created_at": "2026-01-03T17:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T18:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007500736436060207"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "原图作",
+              "probability": 0.6786,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597468568290873344",
+              "start": 0,
+              "username": "jingzhny11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20074…",
+              "end": 39,
+              "expanded_url": "https://x.com/i/status/2007426519732572340",
+              "start": 16,
+              "url": "https://t.co/UhhVcWawON"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007500736436060207",
+        "in_reply_to_user_id": "1597468568290873344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007426519732572340",
+            "type": "quoted"
+          },
+          {
+            "id": "2007496792037085694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingzhny11 原图作者https://t.co/UhhVcWawON"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007496782813769734",
+            "3_2007496782843187202"
+          ]
+        },
+        "author_id": "1597468568290873344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2007496792037085694",
+        "created_at": "2026-01-03T16:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T17:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007496792037085694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mKNF11PBZW",
+              "end": 39,
+              "expanded_url": "https://x.com/jingzhny11/status/2007496792037085694/photo/1",
+              "media_key": "3_2007496782813769734",
+              "start": 16,
+              "url": "https://t.co/mKNF11PBZW"
+            },
+            {
+              "display_url": "pic.x.com/mKNF11PBZW",
+              "end": 39,
+              "expanded_url": "https://x.com/jingzhny11/status/2007496792037085694/photo/1",
+              "media_key": "3_2007496782843187202",
+              "start": 16,
+              "url": "https://t.co/mKNF11PBZW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007496792037085694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "找不着哪里扒的了但是有趣喵💊🥰 https://t.co/mKNF11PBZW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 514,
+          "like_count": 14195,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 857
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T05:53:13.000Z",
+        "description": "99年 \n🍥​2023/05/07 srs2025/07/31 一米九超大只\n左下的，混乱善良的，激跨的，支持精神活性物质的，psychedic user但水平很差的，想当黄推的，下海预备的\n感性条拉满的理想主义者ENFP\n希望一个没人再感到痛苦的世界/如果可以我希望爱、原谅与理解而不是恶、仇恨与歧视",
+        "id": "1597468568290873344",
+        "location": "谁人的繁星之梦",
+        "name": "愿望天使DesireAngel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948009299256786944/HotJFJvn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4555,
+          "following_count": 1989,
+          "like_count": 106555,
+          "listed_count": 18,
+          "media_count": 233,
+          "tweet_count": 15033
+        },
+        "username": "jingzhny11",
+        "verified": false
+      }
+    ]
+  }
+}

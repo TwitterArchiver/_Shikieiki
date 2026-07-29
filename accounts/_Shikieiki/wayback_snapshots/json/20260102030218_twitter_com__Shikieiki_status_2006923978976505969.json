@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006923976858370048"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2006923978976505969",
+    "created_at": "2026-01-02T03:02:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T04:02:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006923978976505969"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xzSj4P9ykc",
+          "end": 43,
+          "expanded_url": "https://x.com/_Shikieiki/status/2006923978976505969/photo/1",
+          "media_key": "3_2006923976858370048",
+          "start": 20,
+          "url": "https://t.co/xzSj4P9ykc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006923978976505969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁和谁?\n先10t美金刚 等会再来白兔 https://t.co/xzSj4P9ykc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2006923976858370048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9oGuUvbgAAX6oS.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006923976858370048"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2006923978976505969",
+        "created_at": "2026-01-02T03:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T04:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006923978976505969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xzSj4P9ykc",
+              "end": 43,
+              "expanded_url": "https://x.com/_Shikieiki/status/2006923978976505969/photo/1",
+              "media_key": "3_2006923976858370048",
+              "start": 20,
+              "url": "https://t.co/xzSj4P9ykc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006923978976505969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁和谁?\n先10t美金刚 等会再来白兔 https://t.co/xzSj4P9ykc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 489,
+          "like_count": 12395,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 682
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      }
+    ]
+  }
+}

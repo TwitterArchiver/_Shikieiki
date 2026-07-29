@@ -1,0 +1,468 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078085138110627840",
+        "3_2078085183862132736"
+      ],
+      "media_source_tweet_id": [
+        "2078085470056218936",
+        "2078085470056218936"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "General Fashion",
+          "id": "844604232737087488",
+          "name": "General Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      }
+    ],
+    "conversation_id": "2078790016558645277",
+    "created_at": "2026-07-19T10:32:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T11:32:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078790016558645277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "732753053359603712",
+          "start": 3,
+          "username": "oshimaru026"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3V15u06BXE",
+          "end": 58,
+          "expanded_url": "https://x.com/oshimaru026/status/2078085470056218936/photo/1",
+          "media_key": "3_2078085138110627840",
+          "start": 35,
+          "url": "https://t.co/3V15u06BXE"
+        },
+        {
+          "display_url": "pic.x.com/3V15u06BXE",
+          "end": 58,
+          "expanded_url": "https://x.com/oshimaru026/status/2078085470056218936/photo/1",
+          "media_key": "3_2078085183862132736",
+          "start": 35,
+          "url": "https://t.co/3V15u06BXE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078790016558645277",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 341
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078085470056218936",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oshimaru026: EXフェイトで初代バリアジャケット https://t.co/3V15u06BXE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2078085138110627840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbXbEYaQAArbAJ.jpg",
+        "width": 1840
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2078085183862132736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbXdu0a0AAKkOt.jpg",
+        "width": 1840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078085138110627840",
+            "3_2078085183862132736"
+          ]
+        },
+        "author_id": "732753053359603712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "2078085470056218936",
+        "created_at": "2026-07-17T11:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T12:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078085470056218936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3V15u06BXE",
+              "end": 41,
+              "expanded_url": "https://x.com/oshimaru026/status/2078085470056218936/photo/1",
+              "media_key": "3_2078085138110627840",
+              "start": 18,
+              "url": "https://t.co/3V15u06BXE"
+            },
+            {
+              "display_url": "pic.x.com/3V15u06BXE",
+              "end": 41,
+              "expanded_url": "https://x.com/oshimaru026/status/2078085470056218936/photo/1",
+              "media_key": "3_2078085183862132736",
+              "start": 18,
+              "url": "https://t.co/3V15u06BXE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078085470056218936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 442,
+          "impression_count": 110014,
+          "like_count": 2225,
+          "quote_count": 5,
+          "reply_count": 5,
+          "retweet_count": 341
+        },
+        "reply_settings": "everyone",
+        "text": "EXフェイトで初代バリアジャケット https://t.co/3V15u06BXE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078085138110627840",
+            "3_2078085183862132736"
+          ],
+          "media_source_tweet_id": [
+            "2078085470056218936",
+            "2078085470056218936"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "2078790016558645277",
+        "created_at": "2026-07-19T10:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T11:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078790016558645277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "732753053359603712",
+              "start": 3,
+              "username": "oshimaru026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3V15u06BXE",
+              "end": 58,
+              "expanded_url": "https://x.com/oshimaru026/status/2078085470056218936/photo/1",
+              "media_key": "3_2078085138110627840",
+              "start": 35,
+              "url": "https://t.co/3V15u06BXE"
+            },
+            {
+              "display_url": "pic.x.com/3V15u06BXE",
+              "end": 58,
+              "expanded_url": "https://x.com/oshimaru026/status/2078085470056218936/photo/1",
+              "media_key": "3_2078085183862132736",
+              "start": 35,
+              "url": "https://t.co/3V15u06BXE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078790016558645277",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 341
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078085470056218936",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oshimaru026: EXフェイトで初代バリアジャケット https://t.co/3V15u06BXE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n伴侣 @octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1152,
+          "following_count": 973,
+          "like_count": 28524,
+          "listed_count": 1,
+          "media_count": 494,
+          "tweet_count": 4312
+        },
+        "url": "",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-18T02:01:56.000Z",
+        "description": "リリカルなのはの二次創作をメインにイラストを投稿してます\nskebやってます→https://t.co/DebbRrpvMr\npixivリクエストもやってます→https://t.co/tPqV4LQyOS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@oshimaru026",
+                "end": 62,
+                "expanded_url": "http://skeb.jp/@oshimaru026",
+                "start": 39,
+                "url": "https://t.co/DebbRrpvMr"
+              },
+              {
+                "display_url": "pixiv.net/users/4985243/…",
+                "end": 103,
+                "expanded_url": "https://www.pixiv.net/users/4985243/request",
+                "start": 80,
+                "url": "https://t.co/tPqV4LQyOS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=4985243",
+                "start": 0,
+                "url": "https://t.co/KLoGvdGDCD"
+              }
+            ]
+          }
+        },
+        "id": "732753053359603712",
+        "name": "おし丸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1590608387309699072/GrrmuqQf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4795,
+          "following_count": 282,
+          "like_count": 40883,
+          "listed_count": 55,
+          "media_count": 229,
+          "tweet_count": 10077
+        },
+        "url": "https://t.co/KLoGvdGDCD",
+        "username": "oshimaru026",
+        "verified": false
+      }
+    ]
+  }
+}

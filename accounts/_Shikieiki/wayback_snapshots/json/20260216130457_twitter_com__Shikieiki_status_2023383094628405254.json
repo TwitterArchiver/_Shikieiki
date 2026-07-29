@@ -1,0 +1,466 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023351121935548416",
+        "3_2023351123982344192",
+        "3_2023351125240639488",
+        "3_2023351126972923905"
+      ],
+      "media_source_tweet_id": [
+        "2023351143615938674",
+        "2023351143615938674",
+        "2023351143615938674",
+        "2023351143615938674"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation about global finance and economies.",
+          "id": "847511168268644352",
+          "name": "Global Economy"
+        }
+      }
+    ],
+    "conversation_id": "2023383094628405254",
+    "created_at": "2026-02-16T13:04:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T14:04:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023383094628405254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1565269104004456449",
+          "start": 3,
+          "username": "Rein_carnation5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M3nof4bJo3",
+          "end": 71,
+          "expanded_url": "https://x.com/Rein_carnation5/status/2023351143615938674/photo/1",
+          "media_key": "3_2023351121935548416",
+          "start": 48,
+          "url": "https://t.co/M3nof4bJo3"
+        },
+        {
+          "display_url": "pic.x.com/M3nof4bJo3",
+          "end": 71,
+          "expanded_url": "https://x.com/Rein_carnation5/status/2023351143615938674/photo/1",
+          "media_key": "3_2023351123982344192",
+          "start": 48,
+          "url": "https://t.co/M3nof4bJo3"
+        },
+        {
+          "display_url": "pic.x.com/M3nof4bJo3",
+          "end": 71,
+          "expanded_url": "https://x.com/Rein_carnation5/status/2023351143615938674/photo/1",
+          "media_key": "3_2023351125240639488",
+          "start": 48,
+          "url": "https://t.co/M3nof4bJo3"
+        },
+        {
+          "display_url": "pic.x.com/M3nof4bJo3",
+          "end": 71,
+          "expanded_url": "https://x.com/Rein_carnation5/status/2023351143615938674/photo/1",
+          "media_key": "3_2023351126972923905",
+          "start": 48,
+          "url": "https://t.co/M3nof4bJo3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023383094628405254",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023351143615938674",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rein_carnation5: 人格の文字量、3年前と比べるとインフレしすぎてない？ https://t.co/M3nof4bJo3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1267,
+        "media_key": "3_2023351121935548416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBRjIA7bQAAhODT.jpg",
+        "width": 2000
+      },
+      {
+        "height": 1430,
+        "media_key": "3_2023351123982344192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBRjIIja4AAgi_-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1434,
+        "media_key": "3_2023351125240639488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBRjINPa8AASESv.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1929,
+        "media_key": "3_2023351126972923905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBRjITsbgAE6714.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023351121935548416",
+            "3_2023351123982344192",
+            "3_2023351125240639488",
+            "3_2023351126972923905"
+          ],
+          "media_source_tweet_id": [
+            "2023351143615938674",
+            "2023351143615938674",
+            "2023351143615938674",
+            "2023351143615938674"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about global finance and economies.",
+              "id": "847511168268644352",
+              "name": "Global Economy"
+            }
+          }
+        ],
+        "conversation_id": "2023383094628405254",
+        "created_at": "2026-02-16T13:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T14:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023383094628405254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1565269104004456449",
+              "start": 3,
+              "username": "Rein_carnation5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M3nof4bJo3",
+              "end": 71,
+              "expanded_url": "https://x.com/Rein_carnation5/status/2023351143615938674/photo/1",
+              "media_key": "3_2023351121935548416",
+              "start": 48,
+              "url": "https://t.co/M3nof4bJo3"
+            },
+            {
+              "display_url": "pic.x.com/M3nof4bJo3",
+              "end": 71,
+              "expanded_url": "https://x.com/Rein_carnation5/status/2023351143615938674/photo/1",
+              "media_key": "3_2023351123982344192",
+              "start": 48,
+              "url": "https://t.co/M3nof4bJo3"
+            },
+            {
+              "display_url": "pic.x.com/M3nof4bJo3",
+              "end": 71,
+              "expanded_url": "https://x.com/Rein_carnation5/status/2023351143615938674/photo/1",
+              "media_key": "3_2023351125240639488",
+              "start": 48,
+              "url": "https://t.co/M3nof4bJo3"
+            },
+            {
+              "display_url": "pic.x.com/M3nof4bJo3",
+              "end": 71,
+              "expanded_url": "https://x.com/Rein_carnation5/status/2023351143615938674/photo/1",
+              "media_key": "3_2023351126972923905",
+              "start": 48,
+              "url": "https://t.co/M3nof4bJo3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023383094628405254",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023351143615938674",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rein_carnation5: 人格の文字量、3年前と比べるとインフレしすぎてない？ https://t.co/M3nof4bJo3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023351121935548416",
+            "3_2023351123982344192",
+            "3_2023351125240639488",
+            "3_2023351126972923905"
+          ]
+        },
+        "author_id": "1565269104004456449",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about global finance and economies.",
+              "id": "847511168268644352",
+              "name": "Global Economy"
+            }
+          }
+        ],
+        "conversation_id": "2023351143615938674",
+        "created_at": "2026-02-16T10:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T11:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023351143615938674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M3nof4bJo3",
+              "end": 50,
+              "expanded_url": "https://x.com/Rein_carnation5/status/2023351143615938674/photo/1",
+              "media_key": "3_2023351121935548416",
+              "start": 27,
+              "url": "https://t.co/M3nof4bJo3"
+            },
+            {
+              "display_url": "pic.x.com/M3nof4bJo3",
+              "end": 50,
+              "expanded_url": "https://x.com/Rein_carnation5/status/2023351143615938674/photo/1",
+              "media_key": "3_2023351123982344192",
+              "start": 27,
+              "url": "https://t.co/M3nof4bJo3"
+            },
+            {
+              "display_url": "pic.x.com/M3nof4bJo3",
+              "end": 50,
+              "expanded_url": "https://x.com/Rein_carnation5/status/2023351143615938674/photo/1",
+              "media_key": "3_2023351125240639488",
+              "start": 27,
+              "url": "https://t.co/M3nof4bJo3"
+            },
+            {
+              "display_url": "pic.x.com/M3nof4bJo3",
+              "end": 50,
+              "expanded_url": "https://x.com/Rein_carnation5/status/2023351143615938674/photo/1",
+              "media_key": "3_2023351126972923905",
+              "start": 27,
+              "url": "https://t.co/M3nof4bJo3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023351143615938674",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 23978,
+          "like_count": 620,
+          "quote_count": 8,
+          "reply_count": 9,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "人格の文字量、3年前と比べるとインフレしすぎてない？ https://t.co/M3nof4bJo3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 678,
+          "like_count": 20116,
+          "listed_count": 0,
+          "media_count": 269,
+          "tweet_count": 2149
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-01T09:23:38.000Z",
+        "description": "リンバスYoutuber\n\nhttps://t.co/ltca7aig3Q",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@reincarnation…",
+                "end": 37,
+                "expanded_url": "https://youtube.com/@reincarnation2861?si=zjoMrPB1i75oVH3Q",
+                "start": 14,
+                "url": "https://t.co/ltca7aig3Q"
+              }
+            ]
+          }
+        },
+        "id": "1565269104004456449",
+        "name": "REIN LIMBUS",
+        "pinned_tweet_id": "1953767580654805062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839934002079412224/Hp-YkqB4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4431,
+          "following_count": 58,
+          "like_count": 350,
+          "listed_count": 13,
+          "media_count": 728,
+          "tweet_count": 1141
+        },
+        "username": "Rein_carnation5",
+        "verified": false
+      }
+    ]
+  }
+}

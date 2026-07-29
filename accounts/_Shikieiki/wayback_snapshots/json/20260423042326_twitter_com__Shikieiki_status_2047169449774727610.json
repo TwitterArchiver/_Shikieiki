@@ -1,0 +1,426 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047168242406539265",
+        "3_2047168266251145216",
+        "3_2047168285112954880",
+        "3_2047168299075878912"
+      ],
+      "media_source_tweet_id": [
+        "2047168685702574116",
+        "2047168685702574116",
+        "2047168685702574116",
+        "2047168685702574116"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2047169449774727610",
+    "created_at": "2026-04-23T04:23:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T05:23:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047169449774727610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1620506107306479617",
+          "start": 3,
+          "username": "Cheese_Ghostfox"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U8gKkSNv5e",
+          "end": 108,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/2047168685702574116/photo/1",
+          "media_key": "3_2047168242406539265",
+          "start": 85,
+          "url": "https://t.co/U8gKkSNv5e"
+        },
+        {
+          "display_url": "pic.x.com/U8gKkSNv5e",
+          "end": 108,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/2047168685702574116/photo/1",
+          "media_key": "3_2047168266251145216",
+          "start": 85,
+          "url": "https://t.co/U8gKkSNv5e"
+        },
+        {
+          "display_url": "pic.x.com/U8gKkSNv5e",
+          "end": 108,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/2047168685702574116/photo/1",
+          "media_key": "3_2047168285112954880",
+          "start": 85,
+          "url": "https://t.co/U8gKkSNv5e"
+        },
+        {
+          "display_url": "pic.x.com/U8gKkSNv5e",
+          "end": 108,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/2047168685702574116/photo/1",
+          "media_key": "3_2047168299075878912",
+          "start": 85,
+          "url": "https://t.co/U8gKkSNv5e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047169449774727610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047168685702574116",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cheese_Ghostfox: 成员们,大概是最后的合影了喵\n这是一种纪念,也是D-Day后进行社群成员寻回的唯一路线图(还有一张到图片上限了,狐发回复区喵) https://t.co/U8gKkSNv5e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 791,
+        "media_key": "3_2047168242406539265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGkAq4waQAEdFgW.png",
+        "width": 591
+      },
+      {
+        "height": 926,
+        "media_key": "3_2047168266251145216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGkAsRlaEAASPch.jpg",
+        "width": 592
+      },
+      {
+        "height": 861,
+        "media_key": "3_2047168285112954880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGkAtX2acAAj0Pn.png",
+        "width": 599
+      },
+      {
+        "height": 862,
+        "media_key": "3_2047168299075878912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGkAuL3bwAAK69z.png",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047168242406539265",
+            "3_2047168266251145216",
+            "3_2047168285112954880",
+            "3_2047168299075878912"
+          ],
+          "media_source_tweet_id": [
+            "2047168685702574116",
+            "2047168685702574116",
+            "2047168685702574116",
+            "2047168685702574116"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047169449774727610",
+        "created_at": "2026-04-23T04:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T05:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047169449774727610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1620506107306479617",
+              "start": 3,
+              "username": "Cheese_Ghostfox"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U8gKkSNv5e",
+              "end": 108,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2047168685702574116/photo/1",
+              "media_key": "3_2047168242406539265",
+              "start": 85,
+              "url": "https://t.co/U8gKkSNv5e"
+            },
+            {
+              "display_url": "pic.x.com/U8gKkSNv5e",
+              "end": 108,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2047168685702574116/photo/1",
+              "media_key": "3_2047168266251145216",
+              "start": 85,
+              "url": "https://t.co/U8gKkSNv5e"
+            },
+            {
+              "display_url": "pic.x.com/U8gKkSNv5e",
+              "end": 108,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2047168685702574116/photo/1",
+              "media_key": "3_2047168285112954880",
+              "start": 85,
+              "url": "https://t.co/U8gKkSNv5e"
+            },
+            {
+              "display_url": "pic.x.com/U8gKkSNv5e",
+              "end": 108,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2047168685702574116/photo/1",
+              "media_key": "3_2047168299075878912",
+              "start": 85,
+              "url": "https://t.co/U8gKkSNv5e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047169449774727610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047168685702574116",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cheese_Ghostfox: 成员们,大概是最后的合影了喵\n这是一种纪念,也是D-Day后进行社群成员寻回的唯一路线图(还有一张到图片上限了,狐发回复区喵) https://t.co/U8gKkSNv5e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047168242406539265",
+            "3_2047168266251145216",
+            "3_2047168285112954880",
+            "3_2047168299075878912"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047168685702574116",
+        "created_at": "2026-04-23T04:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T05:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047168685702574116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U8gKkSNv5e",
+              "end": 87,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2047168685702574116/photo/1",
+              "media_key": "3_2047168242406539265",
+              "start": 64,
+              "url": "https://t.co/U8gKkSNv5e"
+            },
+            {
+              "display_url": "pic.x.com/U8gKkSNv5e",
+              "end": 87,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2047168685702574116/photo/1",
+              "media_key": "3_2047168266251145216",
+              "start": 64,
+              "url": "https://t.co/U8gKkSNv5e"
+            },
+            {
+              "display_url": "pic.x.com/U8gKkSNv5e",
+              "end": 87,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2047168685702574116/photo/1",
+              "media_key": "3_2047168285112954880",
+              "start": 64,
+              "url": "https://t.co/U8gKkSNv5e"
+            },
+            {
+              "display_url": "pic.x.com/U8gKkSNv5e",
+              "end": 87,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2047168685702574116/photo/1",
+              "media_key": "3_2047168299075878912",
+              "start": 64,
+              "url": "https://t.co/U8gKkSNv5e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047168685702574116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "成员们,大概是最后的合影了喵\n这是一种纪念,也是D-Day后进行社群成员寻回的唯一路线图(还有一张到图片上限了,狐发回复区喵) https://t.co/U8gKkSNv5e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2046763289498341851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 876,
+          "like_count": 25924,
+          "listed_count": 1,
+          "media_count": 415,
+          "tweet_count": 3438
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1394,
+          "following_count": 1481,
+          "like_count": 17090,
+          "listed_count": 4,
+          "media_count": 595,
+          "tweet_count": 5418
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

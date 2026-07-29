@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023448874711740421"
+      ],
+      "media_source_tweet_id": [
+        "2023448877605790181"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Osaka",
+          "id": "859408738544791552",
+          "name": "Osaka"
+        }
+      }
+    ],
+    "conversation_id": "2023557082986041850",
+    "created_at": "2026-02-17T00:36:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T01:36:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023557082986041850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "767979472951934977",
+          "start": 3,
+          "username": "Ranm12s"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gCkQFclnIs",
+          "end": 42,
+          "expanded_url": "https://x.com/Ranm12s/status/2023448877605790181/photo/1",
+          "media_key": "3_2023448874711740421",
+          "start": 19,
+          "url": "https://t.co/gCkQFclnIs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023557082986041850",
+    "lang": "eu",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 982
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023448877605790181",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ranm12s: osaka https://t.co/gCkQFclnIs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023448874711740421",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBS8B-ZbcAUBr6H.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023448874711740421"
+          ],
+          "media_source_tweet_id": [
+            "2023448877605790181"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "2023557082986041850",
+        "created_at": "2026-02-17T00:36:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T01:36:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023557082986041850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "767979472951934977",
+              "start": 3,
+              "username": "Ranm12s"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gCkQFclnIs",
+              "end": 42,
+              "expanded_url": "https://x.com/Ranm12s/status/2023448877605790181/photo/1",
+              "media_key": "3_2023448874711740421",
+              "start": 19,
+              "url": "https://t.co/gCkQFclnIs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023557082986041850",
+        "lang": "eu",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 982
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023448877605790181",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ranm12s: osaka https://t.co/gCkQFclnIs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023448874711740421"
+          ]
+        },
+        "author_id": "767979472951934977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "2023448877605790181",
+        "created_at": "2026-02-16T17:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T18:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023448877605790181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gCkQFclnIs",
+              "end": 29,
+              "expanded_url": "https://x.com/Ranm12s/status/2023448877605790181/photo/1",
+              "media_key": "3_2023448874711740421",
+              "start": 6,
+              "url": "https://t.co/gCkQFclnIs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023448877605790181",
+        "lang": "eu",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 957,
+          "impression_count": 63887,
+          "like_count": 9656,
+          "quote_count": 10,
+          "reply_count": 20,
+          "retweet_count": 982
+        },
+        "reply_settings": "everyone",
+        "text": "osaka https://t.co/gCkQFclnIs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 679,
+          "like_count": 20204,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 2175
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-23T06:59:09.000Z",
+        "description": "喜欢lain ump45 haibane\n喜欢安倍吉俊老师。\nins ID:ranm12s\npixiv:https://t.co/ahHCrVTGO4\nAccept commission 接稿\n未经授权请勿转载",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/15049534",
+                "end": 75,
+                "expanded_url": "http://pixiv.net/users/15049534",
+                "start": 52,
+                "url": "https://t.co/ahHCrVTGO4"
+              }
+            ]
+          }
+        },
+        "id": "767979472951934977",
+        "name": "苒",
+        "pinned_tweet_id": "1511640908290494468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001568513027379205/YK-J062C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24594,
+          "following_count": 692,
+          "like_count": 3395,
+          "listed_count": 140,
+          "media_count": 383,
+          "tweet_count": 1470
+        },
+        "username": "Ranm12s",
+        "verified": false
+      }
+    ]
+  }
+}

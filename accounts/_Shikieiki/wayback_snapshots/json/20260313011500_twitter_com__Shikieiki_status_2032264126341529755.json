@@ -1,0 +1,535 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032085564657451012"
+      ],
+      "media_source_tweet_id": [
+        "2032085570126766544"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2032264126341529755",
+    "created_at": "2026-03-13T01:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T02:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032264126341529755"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "藍",
+          "probability": 0.8286,
+          "start": 17,
+          "type": "Person"
+        },
+        {
+          "end": 20,
+          "normalized_text": "悠木",
+          "probability": 0.5877,
+          "start": 19,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 33,
+          "tag": "まどマギ"
+        },
+        {
+          "end": 44,
+          "start": 40,
+          "tag": "まど杏"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1123215961471868930",
+          "start": 3,
+          "username": "oKetsu_Gori"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BQLpIHQPP5",
+          "end": 68,
+          "expanded_url": "https://x.com/oKetsu_Gori/status/2032085570126766544/photo/1",
+          "media_key": "3_2032085564657451012",
+          "start": 45,
+          "url": "https://t.co/BQLpIHQPP5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032264126341529755",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 88
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032085570126766544",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oKetsu_Gori: 藍と悠木が勝つストーリー🌸\n\n #まどマギ\n #まど杏 https://t.co/BQLpIHQPP5"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "🎀 \"Sakura\" Kyoko-chan! We have the same color, see? ♡\n\n🌸🍎 Who the heck are you!?",
+        "height": 1357,
+        "media_key": "3_2032085564657451012",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDNrDfqbQAQT2A7.jpg",
+        "width": 1192
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032085564657451012"
+          ],
+          "media_source_tweet_id": [
+            "2032085570126766544"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2032264126341529755",
+        "created_at": "2026-03-13T01:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T02:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032264126341529755"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "藍",
+              "probability": 0.8286,
+              "start": 17,
+              "type": "Person"
+            },
+            {
+              "end": 20,
+              "normalized_text": "悠木",
+              "probability": 0.5877,
+              "start": 19,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "まどマギ"
+            },
+            {
+              "end": 44,
+              "start": 40,
+              "tag": "まど杏"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1123215961471868930",
+              "start": 3,
+              "username": "oKetsu_Gori"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BQLpIHQPP5",
+              "end": 68,
+              "expanded_url": "https://x.com/oKetsu_Gori/status/2032085570126766544/photo/1",
+              "media_key": "3_2032085564657451012",
+              "start": 45,
+              "url": "https://t.co/BQLpIHQPP5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032264126341529755",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032085570126766544",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oKetsu_Gori: 藍と悠木が勝つストーリー🌸\n\n #まどマギ\n #まど杏 https://t.co/BQLpIHQPP5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032085564657451012"
+          ]
+        },
+        "author_id": "1123215961471868930",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2032085570126766544",
+        "created_at": "2026-03-12T13:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T14:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032085570126766544"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 0,
+              "normalized_text": "藍",
+              "probability": 0.8141,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 3,
+              "normalized_text": "悠木",
+              "probability": 0.5685,
+              "start": 2,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "まどマギ"
+            },
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "まど杏"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BQLpIHQPP5",
+              "end": 51,
+              "expanded_url": "https://x.com/oKetsu_Gori/status/2032085570126766544/photo/1",
+              "media_key": "3_2032085564657451012",
+              "start": 28,
+              "url": "https://t.co/BQLpIHQPP5"
+            },
+            {
+              "display_url": "x.com/oketsu_gori/st…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/oketsu_gori/status/2031001996115980433",
+              "start": 52,
+              "url": "https://t.co/xnwgitaytf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032085570126766544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 7075,
+          "like_count": 447,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031001996115980433",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "藍と悠木が勝つストーリー🌸\n\n #まどマギ\n #まど杏 https://t.co/BQLpIHQPP5 https://t.co/xnwgitaytf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "呼喚我的名字 如同那一日似的展露笑顏吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "see_you_hell.although.here.probably.is",
+                "end": 23,
+                "expanded_url": "http://see_you_hell.although.here.probably.is",
+                "start": 0,
+                "url": "https://t.co/ecUxsPCDIQ"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2028458258697171187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 797,
+          "like_count": 23578,
+          "listed_count": 0,
+          "media_count": 412,
+          "tweet_count": 3044
+        },
+        "url": "https://t.co/ecUxsPCDIQ",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-30T13:22:08.000Z",
+        "description": "百合・腐あり｜創作＆考察アカウント✍️ まどかマギカ中心｜佐倉杏子ちゃん / ほむ杏 / 見滝原組 / TDS",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/Sm6ZXBgFTicK…",
+                "end": 23,
+                "expanded_url": "https://profcard.info/u/Sm6ZXBgFTicKtGS7XODRJehkmnE3",
+                "start": 0,
+                "url": "https://t.co/pGQr9ZodFP"
+              }
+            ]
+          }
+        },
+        "id": "1123215961471868930",
+        "location": "⚠️ 禁 止 → 無断転載/無断加工/無断利用/自作発言",
+        "name": "みプリ",
+        "pinned_tweet_id": "1996926190272369126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947837431576932352/zO1OAERA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1528,
+          "following_count": 50,
+          "like_count": 11404,
+          "listed_count": 5,
+          "media_count": 662,
+          "tweet_count": 8324
+        },
+        "url": "https://t.co/pGQr9ZodFP",
+        "username": "oKetsu_Gori",
+        "verified": false
+      }
+    ]
+  }
+}

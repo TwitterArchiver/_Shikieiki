@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2051523942796709969",
+    "created_at": "2026-05-05T04:46:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T05:46:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051523942796709969"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_Shikieiki/sta…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/_Shikieiki/status/2051522206405206188",
+          "start": 20,
+          "url": "https://t.co/BliZgcs6Xu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051523942796709969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051522206405206188",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "失去mk801的解离鬼们怎么办！！！！ https://t.co/BliZgcs6Xu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2051523942796709969",
+        "created_at": "2026-05-05T04:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T05:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051523942796709969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_Shikieiki/sta…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/_Shikieiki/status/2051522206405206188",
+              "start": 20,
+              "url": "https://t.co/BliZgcs6Xu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051523942796709969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051522206405206188",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "失去mk801的解离鬼们怎么办！！！！ https://t.co/BliZgcs6Xu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2051522206405206188",
+        "created_at": "2026-05-05T04:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T05:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051522206405206188"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051522206405206188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "MK801可能要列管了! 最近经常买的渠道被提示是精神活性物质可能要备案&gt;.&lt;\n甚是悲哀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2050182084808110250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 910,
+          "like_count": 27623,
+          "listed_count": 1,
+          "media_count": 478,
+          "tweet_count": 3884
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      }
+    ]
+  }
+}

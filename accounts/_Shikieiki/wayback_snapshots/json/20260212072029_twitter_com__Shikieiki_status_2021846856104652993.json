@@ -1,0 +1,498 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021496134007664640"
+      ],
+      "media_source_tweet_id": [
+        "2021496138113888535"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2021846856104652993",
+    "created_at": "2026-02-12T07:20:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T08:20:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021846856104652993"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "暁美ほむらさん",
+          "probability": 0.3715,
+          "start": 20,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2387814306",
+          "start": 3,
+          "username": "python_octopus"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nhrt9W3jAV",
+          "end": 60,
+          "expanded_url": "https://x.com/python_octopus/status/2021496138113888535/photo/1",
+          "media_key": "3_2021496134007664640",
+          "start": 37,
+          "url": "https://t.co/nhrt9W3jAV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021846856104652993",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 438
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021496138113888535",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @python_octopus: 暁美ほむらさん、日程まだですか？ https://t.co/nhrt9W3jAV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2016,
+        "media_key": "3_2021496134007664640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA3MBgZaMAAFGBE.jpg",
+        "width": 1509
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021496134007664640"
+          ],
+          "media_source_tweet_id": [
+            "2021496138113888535"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2021846856104652993",
+        "created_at": "2026-02-12T07:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T08:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021846856104652993"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "暁美ほむらさん",
+              "probability": 0.3715,
+              "start": 20,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2387814306",
+              "start": 3,
+              "username": "python_octopus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nhrt9W3jAV",
+              "end": 60,
+              "expanded_url": "https://x.com/python_octopus/status/2021496138113888535/photo/1",
+              "media_key": "3_2021496134007664640",
+              "start": 37,
+              "url": "https://t.co/nhrt9W3jAV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021846856104652993",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 438
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021496138113888535",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @python_octopus: 暁美ほむらさん、日程まだですか？ https://t.co/nhrt9W3jAV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021496134007664640"
+          ]
+        },
+        "author_id": "2387814306",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2021496138113888535",
+        "created_at": "2026-02-11T08:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T09:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021496138113888535"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "暁美ほむらさん",
+              "probability": 0.5321,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nhrt9W3jAV",
+              "end": 40,
+              "expanded_url": "https://x.com/python_octopus/status/2021496138113888535/photo/1",
+              "media_key": "3_2021496134007664640",
+              "start": 17,
+              "url": "https://t.co/nhrt9W3jAV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021496138113888535",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 240,
+          "impression_count": 30888,
+          "like_count": 3637,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 438
+        },
+        "reply_settings": "everyone",
+        "text": "暁美ほむらさん、日程まだですか？ https://t.co/nhrt9W3jAV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 616,
+          "like_count": 19076,
+          "listed_count": 0,
+          "media_count": 233,
+          "tweet_count": 1753
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-13T20:16:55.000Z",
+        "description": "絵とか描く軟体動物 /  「配車の荷子ちゃん」連載: https://t.co/fbPA4Mt86f / 木次線応援コミックス制作クラファン: https://t.co/lmocXBgfMM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bruru.jp/driver/?haisha…",
+                "end": 50,
+                "expanded_url": "https://www.bruru.jp/driver/?haisha=haisha-16341",
+                "start": 27,
+                "url": "https://t.co/fbPA4Mt86f"
+              },
+              {
+                "display_url": "readyfor.jp/projects/sakan…",
+                "end": 95,
+                "expanded_url": "https://readyfor.jp/projects/sakanecomic",
+                "start": 72,
+                "url": "https://t.co/lmocXBgfMM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xfolio.jp/portfolio/pyth…",
+                "end": 23,
+                "expanded_url": "https://xfolio.jp/portfolio/python_octopus",
+                "start": 0,
+                "url": "https://t.co/zce3QaPQvm"
+              }
+            ]
+          }
+        },
+        "id": "2387814306",
+        "location": "Osaka",
+        "name": "たこぱいそん",
+        "pinned_tweet_id": "2005870963687039284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1529250937122209792/GEnVmx_V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19958,
+          "following_count": 840,
+          "like_count": 150950,
+          "listed_count": 258,
+          "media_count": 17155,
+          "tweet_count": 327194
+        },
+        "url": "https://t.co/zce3QaPQvm",
+        "username": "python_octopus",
+        "verified": false
+      }
+    ]
+  }
+}

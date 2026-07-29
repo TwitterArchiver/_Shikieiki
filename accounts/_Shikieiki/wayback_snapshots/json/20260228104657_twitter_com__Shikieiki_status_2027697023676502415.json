@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027321555118931968"
+      ],
+      "media_source_tweet_id": [
+        "2027321564958712208"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2027697023676502415",
+    "created_at": "2026-02-28T10:46:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T11:46:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027697023676502415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1874300322463756288",
+          "start": 3,
+          "username": "laz1z_k"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QaNoVO7EXd",
+          "end": 45,
+          "expanded_url": "https://x.com/laz1z_k/status/2027321564958712208/photo/1",
+          "media_key": "3_2027321555118931968",
+          "start": 22,
+          "url": "https://t.co/QaNoVO7EXd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027697023676502415",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 223
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027321564958712208",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @laz1z_k: 20260226 https://t.co/QaNoVO7EXd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2027321555118931968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJ-NpJbQAAJ8mu.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027321555118931968"
+          ],
+          "media_source_tweet_id": [
+            "2027321564958712208"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2027697023676502415",
+        "created_at": "2026-02-28T10:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T11:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027697023676502415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1874300322463756288",
+              "start": 3,
+              "username": "laz1z_k"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QaNoVO7EXd",
+              "end": 45,
+              "expanded_url": "https://x.com/laz1z_k/status/2027321564958712208/photo/1",
+              "media_key": "3_2027321555118931968",
+              "start": 22,
+              "url": "https://t.co/QaNoVO7EXd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027697023676502415",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 223
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027321564958712208",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @laz1z_k: 20260226 https://t.co/QaNoVO7EXd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027321555118931968"
+          ]
+        },
+        "author_id": "1874300322463756288",
+        "conversation_id": "2027321564958712208",
+        "created_at": "2026-02-27T09:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T10:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027321564958712208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QaNoVO7EXd",
+              "end": 32,
+              "expanded_url": "https://x.com/laz1z_k/status/2027321564958712208/photo/1",
+              "media_key": "3_2027321555118931968",
+              "start": 9,
+              "url": "https://t.co/QaNoVO7EXd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027321564958712208",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 397,
+          "impression_count": 35296,
+          "like_count": 3621,
+          "quote_count": 9,
+          "reply_count": 0,
+          "retweet_count": 223
+        },
+        "reply_settings": "everyone",
+        "text": "20260226 https://t.co/QaNoVO7EXd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 727,
+          "like_count": 22141,
+          "listed_count": 0,
+          "media_count": 362,
+          "tweet_count": 2729
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T03:43:26.000Z",
+        "description": "サブ‣‣ @L4Zduuxx/3D‣‣@neex_el ご依頼DMまで メインskeb‣‣https://t.co/RVSAvNWO91",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "L4Zduuxx"
+              },
+              {
+                "end": 27,
+                "start": 19,
+                "username": "neex_el"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@laz1z_k",
+                "end": 68,
+                "expanded_url": "https://skeb.jp/@laz1z_k",
+                "start": 45,
+                "url": "https://t.co/RVSAvNWO91"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lazizeex.straw.page",
+                "end": 23,
+                "expanded_url": "https://lazizeex.straw.page",
+                "start": 0,
+                "url": "https://t.co/GrIOxuo1vB"
+              }
+            ]
+          }
+        },
+        "id": "1874300322463756288",
+        "location": "skeb^ᴗ ̫ ᴗ^  メイン:0サブ:13作業中",
+        "name": "ческ1т",
+        "pinned_tweet_id": "2027339547043111420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017548262920884226/Zb9quoED_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1434,
+          "following_count": 47,
+          "like_count": 287,
+          "listed_count": 11,
+          "media_count": 18,
+          "tweet_count": 138
+        },
+        "url": "https://t.co/GrIOxuo1vB",
+        "username": "laz1z_k",
+        "verified": false
+      }
+    ]
+  }
+}

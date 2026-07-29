@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2047351982030258527",
+    "created_at": "2026-04-25T10:02:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T11:02:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047979501402124798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1796427186557100032",
+          "start": 0,
+          "username": "dupinkepu"
+        },
+        {
+          "end": 24,
+          "id": "2044355126517727232",
+          "start": 11,
+          "username": "Overdose_HPD"
+        },
+        {
+          "end": 37,
+          "id": "1505596113813876736",
+          "start": 25,
+          "username": "chrorine_17"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "erowid.org/experiences/ex…",
+          "end": 85,
+          "expanded_url": "http://www.erowid.org/experiences/exp.php?ID=94476",
+          "start": 62,
+          "status": 200,
+          "unwound_url": "https://www.erowid.org/experiences/exp.php?ID=94476",
+          "url": "https://t.co/OaW8QR59QT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047979501402124798",
+    "in_reply_to_user_id": "1796427186557100032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047941400768164237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dupinkepu @Overdose_HPD @chrorine_17 我是直接学erowid上的一个报告配成溶液了🤔\nhttps://t.co/OaW8QR59QT"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2047941400768164237].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2047941400768164237",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2047941400768164237"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2047351982030258527",
+        "created_at": "2026-04-25T10:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047979501402124798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1796427186557100032",
+              "start": 0,
+              "username": "dupinkepu"
+            },
+            {
+              "end": 24,
+              "id": "2044355126517727232",
+              "start": 11,
+              "username": "Overdose_HPD"
+            },
+            {
+              "end": 37,
+              "id": "1505596113813876736",
+              "start": 25,
+              "username": "chrorine_17"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "erowid.org/experiences/ex…",
+              "end": 85,
+              "expanded_url": "http://www.erowid.org/experiences/exp.php?ID=94476",
+              "start": 62,
+              "status": 200,
+              "unwound_url": "https://www.erowid.org/experiences/exp.php?ID=94476",
+              "url": "https://t.co/OaW8QR59QT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047979501402124798",
+        "in_reply_to_user_id": "1796427186557100032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047941400768164237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dupinkepu @Overdose_HPD @chrorine_17 我是直接学erowid上的一个报告配成溶液了🤔\nhttps://t.co/OaW8QR59QT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2047351982030258527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 879,
+          "like_count": 26256,
+          "listed_count": 1,
+          "media_count": 416,
+          "tweet_count": 3502
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-31T06:23:36.000Z",
+        "description": "The big brother is watching you",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pubmed.ncbi.nlm.nih.gov",
+                "end": 23,
+                "expanded_url": "https://pubmed.ncbi.nlm.nih.gov/",
+                "start": 0,
+                "url": "https://t.co/CXdWtFuQyM"
+              }
+            ]
+          }
+        },
+        "id": "1796427186557100032",
+        "location": "Yakutat,Alaska",
+        "name": "橘雪莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047381472328527872/i8istO4P_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 243,
+          "like_count": 320,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 390
+        },
+        "url": "https://t.co/CXdWtFuQyM",
+        "username": "dupinkepu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T10:00:27.000Z",
+        "description": "Spring风的附庸。药物滥用的内容相关会转发到@Overdose_DBD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "Overdose_DBD"
+              }
+            ]
+          }
+        },
+        "id": "2044355126517727232",
+        "location": "前人未至之地，前人未竟之事",
+        "name": "超级春春春风#蒼い惑星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044355818687279104/VCbkAyqL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 78,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 193
+        },
+        "username": "Overdose_HPD",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-20T17:24:36.000Z",
+        "description": "朝霞與晚霞都消失不見",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FUsQ5cO10AA2Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FUsQ5cO10AA2YTQ9",
+                "start": 0,
+                "url": "https://t.co/ilHsoNt8HW"
+              }
+            ]
+          }
+        },
+        "id": "1505596113813876736",
+        "location": "昨天",
+        "name": "chrorinEVE",
+        "pinned_tweet_id": "2031610320180097292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984829376392044544/-Bz5LJl5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 240,
+          "like_count": 17522,
+          "listed_count": 7,
+          "media_count": 247,
+          "tweet_count": 6261
+        },
+        "url": "https://t.co/ilHsoNt8HW",
+        "username": "chrorine_17",
+        "verified": false
+      }
+    ]
+  }
+}

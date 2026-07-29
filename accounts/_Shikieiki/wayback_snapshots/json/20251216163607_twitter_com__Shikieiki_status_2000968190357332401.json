@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000396405278744576"
+      ],
+      "media_source_tweet_id": [
+        "2000396410328695203"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2000968190357332401",
+    "created_at": "2025-12-16T16:36:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T17:36:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000968190357332401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1461262194717630465",
+          "start": 3,
+          "username": "kiss_xoxokiss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Uc4UUfPnmb",
+          "end": 42,
+          "expanded_url": "https://x.com/kiss_xoxokiss/status/2000396410328695203/photo/1",
+          "media_key": "3_2000396405278744576",
+          "start": 19,
+          "url": "https://t.co/Uc4UUfPnmb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000968190357332401",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000396410328695203",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kiss_xoxokiss: https://t.co/Uc4UUfPnmb"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2000968190357332401].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2000968190357332401",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2000968190357332401"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2000396405278744576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8LV7pqboAA1AGR.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000396405278744576"
+          ]
+        },
+        "author_id": "1461262194717630465",
+        "conversation_id": "2000396410328695203",
+        "created_at": "2025-12-15T02:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T03:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000396410328695203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uc4UUfPnmb",
+              "end": 23,
+              "expanded_url": "https://x.com/kiss_xoxokiss/status/2000396410328695203/photo/1",
+              "media_key": "3_2000396405278744576",
+              "start": 0,
+              "url": "https://t.co/Uc4UUfPnmb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000396410328695203",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 18176,
+          "like_count": 1079,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Uc4UUfPnmb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "1842867034050441268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 377,
+          "like_count": 6594,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 221
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-18T09:17:21.000Z",
+        "description": "𝐐𝐮𝐢𝐞𝐭 𝐲𝐨𝐮𝐫 𝐧𝐨𝐢𝐬𝐲 𝐦𝐨𝐮𝐭𝐡 𝐰𝐢𝐭𝐡 𝐚 𝐤𝐢𝐬𝐬.  https://t.co/pMHsrtMO5Z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtu.be/7Y04RsUALyA",
+                "end": 60,
+                "expanded_url": "https://youtu.be/7Y04RsUALyA",
+                "start": 37,
+                "url": "https://t.co/pMHsrtMO5Z"
+              }
+            ]
+          }
+        },
+        "id": "1461262194717630465",
+        "name": "𝐊𝐢𝐬𝐬𝐊𝐢𝐬𝐬𝐊𝐢𝐬𝐬",
+        "pinned_tweet_id": "1818690060294013089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1461262796981964800/WAVhI8V9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262870,
+          "following_count": 0,
+          "like_count": 4,
+          "listed_count": 696,
+          "media_count": 1439,
+          "tweet_count": 1441
+        },
+        "username": "kiss_xoxokiss",
+        "verified": true
+      }
+    ]
+  }
+}

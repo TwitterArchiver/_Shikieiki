@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987232410069835780"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "1260987765946109952",
+          "name": "Holistic healing/nutrition"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Conversations about dietary supplements e.g. vitamins, protein powder",
+          "id": "917863840343191552",
+          "name": "Dietary Supplements"
+        }
+      }
+    ],
+    "conversation_id": "1986766280943141367",
+    "created_at": "2025-11-08T18:55:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T19:55:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987232412334800987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1791408915780947968",
+          "start": 0,
+          "username": "AvertTheirGaze"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s4Yh18vCWR",
+          "end": 48,
+          "expanded_url": "https://x.com/_Shikieiki/status/1987232412334800987/photo/1",
+          "media_key": "3_1987232410069835780",
+          "start": 25,
+          "url": "https://t.co/s4Yh18vCWR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987232412334800987",
+    "in_reply_to_user_id": "1791408915780947968",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986766280943141367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AvertTheirGaze Vitamins https://t.co/s4Yh18vCWR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1408,
+        "media_key": "3_1987232410069835780",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5QRWSBbIAQq2-U.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987232410069835780"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "1260987765946109952",
+              "name": "Holistic healing/nutrition"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Conversations about dietary supplements e.g. vitamins, protein powder",
+              "id": "917863840343191552",
+              "name": "Dietary Supplements"
+            }
+          }
+        ],
+        "conversation_id": "1986766280943141367",
+        "created_at": "2025-11-08T18:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T19:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987232412334800987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1791408915780947968",
+              "start": 0,
+              "username": "AvertTheirGaze"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s4Yh18vCWR",
+              "end": 48,
+              "expanded_url": "https://x.com/_Shikieiki/status/1987232412334800987/photo/1",
+              "media_key": "3_1987232410069835780",
+              "start": 25,
+              "url": "https://t.co/s4Yh18vCWR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987232412334800987",
+        "in_reply_to_user_id": "1791408915780947968",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986766280943141367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AvertTheirGaze Vitamins https://t.co/s4Yh18vCWR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791408915780947968",
+        "conversation_id": "1986766280943141367",
+        "created_at": "2025-11-07T12:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T13:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986766280943141367"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "mili",
+              "probability": 0.3408,
+              "start": 5,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986766280943141367",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 256,
+          "impression_count": 104089,
+          "like_count": 3443,
+          "quote_count": 443,
+          "reply_count": 961,
+          "retweet_count": 129
+        },
+        "reply_settings": "everyone",
+        "text": "best mili song you are not allowed to pick the project moon ones"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "1842867034050441268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 345,
+          "like_count": 6065,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 118
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-17T10:02:37.000Z",
+        "description": "formerly @looks2windward. multi fandom. he/him 17. Leftist.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "looks2windward"
+              }
+            ]
+          }
+        },
+        "id": "1791408915780947968",
+        "location": "🇵🇱",
+        "name": "pancake",
+        "pinned_tweet_id": "1986888087860093361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958650820150398977/5GxcrZ0f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 285,
+          "like_count": 3835,
+          "listed_count": 10,
+          "media_count": 232,
+          "tweet_count": 1762
+        },
+        "username": "AvertTheirGaze",
+        "verified": false
+      }
+    ]
+  }
+}

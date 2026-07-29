@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056352549746454528"
+      ],
+      "media_source_tweet_id": [
+        "2056352600245870878"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2056377059665174979",
+    "created_at": "2026-05-18T14:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T15:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056377059665174979"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 22,
+          "tag": "ことばの日"
+        },
+        {
+          "end": 44,
+          "start": 36,
+          "tag": "リリカルなのは"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "188219708",
+          "start": 3,
+          "username": "tsukamotea"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pmDb8qEDll",
+          "end": 68,
+          "expanded_url": "https://x.com/tsukamotea/status/2056352600245870878/photo/1",
+          "media_key": "3_2056352549746454528",
+          "start": 45,
+          "url": "https://t.co/pmDb8qEDll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056377059665174979",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056352600245870878",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tsukamotea: 5/18は #ことばの日 なんですって\n#リリカルなのは https://t.co/pmDb8qEDll"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1214,
+        "media_key": "3_2056352549746454528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImhv7ybMAAC1Bz.jpg",
+        "width": 860
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056352549746454528"
+          ],
+          "media_source_tweet_id": [
+            "2056352600245870878"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2056377059665174979",
+        "created_at": "2026-05-18T14:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T15:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056377059665174979"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 22,
+              "tag": "ことばの日"
+            },
+            {
+              "end": 44,
+              "start": 36,
+              "tag": "リリカルなのは"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "188219708",
+              "start": 3,
+              "username": "tsukamotea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pmDb8qEDll",
+              "end": 68,
+              "expanded_url": "https://x.com/tsukamotea/status/2056352600245870878/photo/1",
+              "media_key": "3_2056352549746454528",
+              "start": 45,
+              "url": "https://t.co/pmDb8qEDll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056377059665174979",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056352600245870878",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tsukamotea: 5/18は #ことばの日 なんですって\n#リリカルなのは https://t.co/pmDb8qEDll"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056352549746454528"
+          ]
+        },
+        "author_id": "188219708",
+        "conversation_id": "2056352600245870878",
+        "created_at": "2026-05-18T12:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056352600245870878"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 6,
+              "tag": "ことばの日"
+            },
+            {
+              "end": 28,
+              "start": 20,
+              "tag": "リリカルなのは"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pmDb8qEDll",
+              "end": 52,
+              "expanded_url": "https://x.com/tsukamotea/status/2056352600245870878/photo/1",
+              "media_key": "3_2056352549746454528",
+              "start": 29,
+              "url": "https://t.co/pmDb8qEDll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056352600245870878",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 288,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "5/18は #ことばの日 なんですって\n#リリカルなのは https://t.co/pmDb8qEDll"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的\n我们一定从出生的那天起，就一定在寻找相遇的瞬间。\n\n所以请你笑一下吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki4",
+                "start": 0,
+                "url": "https://t.co/fgmsNgMTNR"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸 提问箱➡️",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2053378863976284363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1040,
+          "following_count": 945,
+          "like_count": 28505,
+          "listed_count": 1,
+          "media_count": 496,
+          "tweet_count": 4136
+        },
+        "url": "https://t.co/fgmsNgMTNR",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-08T05:45:38.000Z",
+        "description": "サークル「小作人列伝!!」代表 ゲーム会社勤務\nリリカルなのはで活動中。\nご連絡 tsukamotea★gma (★⇢＠)\n　※なのは・VIVY作品に関しては18禁NGです ：AI学習禁止\nhttps://t.co/BmsoI50JAf https://t.co/ci7AyNOfmq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/834081",
+                "end": 118,
+                "expanded_url": "http://pixiv.net/users/834081",
+                "start": 95,
+                "url": "https://t.co/BmsoI50JAf"
+              },
+              {
+                "display_url": "skeb.jp/@tsukamotea",
+                "end": 142,
+                "expanded_url": "http://skeb.jp/@tsukamotea",
+                "start": 119,
+                "url": "https://t.co/ci7AyNOfmq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/1UY6OV2BTPGWZ?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/jYtAWtB4mc"
+              }
+            ]
+          }
+        },
+        "id": "188219708",
+        "location": "封神領域エルツヴァーユ・ほしい物リスト⇒",
+        "name": "つかもとたかし",
+        "pinned_tweet_id": "1996938014405415358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909437525514764291/xvkfczni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6695,
+          "following_count": 523,
+          "like_count": 59561,
+          "listed_count": 149,
+          "media_count": 22011,
+          "tweet_count": 614776
+        },
+        "url": "https://t.co/jYtAWtB4mc",
+        "username": "tsukamotea",
+        "verified": true
+      }
+    ]
+  }
+}

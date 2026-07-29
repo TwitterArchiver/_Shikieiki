@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048013214676553728"
+      ],
+      "media_source_tweet_id": [
+        "2048013221756625124"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2048086656109203666",
+    "created_at": "2026-04-25T17:08:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T18:08:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048086656109203666"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 14,
+          "tag": "ニコニコ超会議2026"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1836056101877587968",
+          "start": 3,
+          "username": "Depa_cos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qEm1eVNNqG",
+          "end": 50,
+          "expanded_url": "https://x.com/Depa_cos/status/2048013221756625124/photo/1",
+          "media_key": "3_2048013214676553728",
+          "start": 27,
+          "url": "https://t.co/qEm1eVNNqG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048086656109203666",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 701
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048013221756625124",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Depa_cos: #ニコニコ超会議2026 https://t.co/qEm1eVNNqG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_2048013214676553728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwBKvwaEAAPxYk.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048013214676553728"
+          ],
+          "media_source_tweet_id": [
+            "2048013221756625124"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2048086656109203666",
+        "created_at": "2026-04-25T17:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T18:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048086656109203666"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 14,
+              "tag": "ニコニコ超会議2026"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1836056101877587968",
+              "start": 3,
+              "username": "Depa_cos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qEm1eVNNqG",
+              "end": 50,
+              "expanded_url": "https://x.com/Depa_cos/status/2048013221756625124/photo/1",
+              "media_key": "3_2048013214676553728",
+              "start": 27,
+              "url": "https://t.co/qEm1eVNNqG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048086656109203666",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 701
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048013221756625124",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Depa_cos: #ニコニコ超会議2026 https://t.co/qEm1eVNNqG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048013214676553728"
+          ]
+        },
+        "author_id": "1836056101877587968",
+        "conversation_id": "2048013221756625124",
+        "created_at": "2026-04-25T12:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048013221756625124"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "ニコニコ超会議2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qEm1eVNNqG",
+              "end": 36,
+              "expanded_url": "https://x.com/Depa_cos/status/2048013221756625124/photo/1",
+              "media_key": "3_2048013214676553728",
+              "start": 13,
+              "url": "https://t.co/qEm1eVNNqG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048013221756625124",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 221,
+          "impression_count": 122414,
+          "like_count": 7263,
+          "quote_count": 68,
+          "reply_count": 6,
+          "retweet_count": 701
+        },
+        "reply_settings": "everyone",
+        "text": "#ニコニコ超会議2026 https://t.co/qEm1eVNNqG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2047351982030258527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 880,
+          "like_count": 26308,
+          "listed_count": 1,
+          "media_count": 416,
+          "tweet_count": 3518
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-17T14:54:33.000Z",
+        "description": "LOVE▶︎▶︎魔法少女育成計画//KOP//SH//メイドインアビス//特撮//井上ほの花ちゃん✿✿ コスプレ初心者🔰24.10.26〜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mond.how/ja/depa_cos",
+                "end": 23,
+                "expanded_url": "https://mond.how/ja/depa_cos",
+                "start": 0,
+                "url": "https://t.co/VO5A2FQX33"
+              }
+            ]
+          }
+        },
+        "id": "1836056101877587968",
+        "name": "でぱた🌻",
+        "pinned_tweet_id": "2047992156313485325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039025101178589184/8Zo4JjXO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 420,
+          "like_count": 7015,
+          "listed_count": 7,
+          "media_count": 374,
+          "tweet_count": 3232
+        },
+        "url": "https://t.co/VO5A2FQX33",
+        "username": "Depa_cos",
+        "verified": false
+      }
+    ]
+  }
+}

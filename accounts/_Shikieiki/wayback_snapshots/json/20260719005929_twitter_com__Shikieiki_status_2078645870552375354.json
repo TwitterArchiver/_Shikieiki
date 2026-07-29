@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078436523318620160"
+      ],
+      "media_source_tweet_id": [
+        "2078436525650649576"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2078645870552375354",
+    "created_at": "2026-07-19T00:59:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T01:59:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078645870552375354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1628352185611476993",
+          "start": 3,
+          "username": "ririkaruhokkape"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9zzvVTtR6F",
+          "end": 59,
+          "expanded_url": "https://x.com/ririkaruhokkape/status/2078436525650649576/photo/1",
+          "media_key": "3_2078436523318620160",
+          "start": 36,
+          "url": "https://t.co/9zzvVTtR6F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078645870552375354",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 410
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078436525650649576",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ririkaruhokkape: 八神総督〜～！！美人さん！！ https://t.co/9zzvVTtR6F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1558,
+        "media_key": "3_2078436523318620160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNgXAYSasAAwRY_.jpg",
+        "width": 1069
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078436523318620160"
+          ]
+        },
+        "author_id": "1628352185611476993",
+        "conversation_id": "2078436525650649576",
+        "created_at": "2026-07-18T11:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T12:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078436525650649576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9zzvVTtR6F",
+              "end": 38,
+              "expanded_url": "https://x.com/ririkaruhokkape/status/2078436525650649576/photo/1",
+              "media_key": "3_2078436523318620160",
+              "start": 15,
+              "url": "https://t.co/9zzvVTtR6F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078436525650649576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 20143,
+          "like_count": 1684,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 410
+        },
+        "reply_settings": "everyone",
+        "text": "八神総督〜～！！美人さん！！ https://t.co/9zzvVTtR6F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078436523318620160"
+          ],
+          "media_source_tweet_id": [
+            "2078436525650649576"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2078645870552375354",
+        "created_at": "2026-07-19T00:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T01:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078645870552375354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1628352185611476993",
+              "start": 3,
+              "username": "ririkaruhokkape"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9zzvVTtR6F",
+              "end": 59,
+              "expanded_url": "https://x.com/ririkaruhokkape/status/2078436525650649576/photo/1",
+              "media_key": "3_2078436523318620160",
+              "start": 36,
+              "url": "https://t.co/9zzvVTtR6F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078645870552375354",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 410
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078436525650649576",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ririkaruhokkape: 八神総督〜～！！美人さん！！ https://t.co/9zzvVTtR6F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n伴侣 @octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1150,
+          "following_count": 971,
+          "like_count": 28506,
+          "listed_count": 1,
+          "media_count": 494,
+          "tweet_count": 4306
+        },
+        "url": "",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-22T11:14:05.000Z",
+        "description": "リリカルなのは大好きなリリカルJKです！！\nクロノ君のグッズが出て嬉しい！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibispaint.com/artist1/162835…",
+                "end": 23,
+                "expanded_url": "https://ibispaint.com/artist1/1628352185611476993/",
+                "start": 0,
+                "url": "https://t.co/F29SqiocAL"
+              }
+            ]
+          }
+        },
+        "id": "1628352185611476993",
+        "location": "ミッドチルダ極北地区 ベルカ自治領",
+        "name": "ホットカーペット",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679755728754733056/d3gP66mg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 540,
+          "like_count": 82200,
+          "listed_count": 5,
+          "media_count": 371,
+          "tweet_count": 5525
+        },
+        "url": "https://t.co/F29SqiocAL",
+        "username": "ririkaruhokkape",
+        "verified": false
+      }
+    ]
+  }
+}

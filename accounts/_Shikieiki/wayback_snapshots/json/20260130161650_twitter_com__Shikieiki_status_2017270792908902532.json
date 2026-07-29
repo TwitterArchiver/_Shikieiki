@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017248883106279424"
+      ],
+      "media_source_tweet_id": [
+        "2017251466726232199"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2017270792908902532",
+    "created_at": "2026-01-30T16:16:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T17:16:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017270792908902532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1742842175757623296",
+          "start": 3,
+          "username": "KwgSubmadohomu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8JsH7KCala",
+          "end": 59,
+          "expanded_url": "https://x.com/KwgSubmadohomu/status/2017251466726232199/photo/1",
+          "media_key": "3_2017248883106279424",
+          "start": 36,
+          "url": "https://t.co/8JsH7KCala"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017270792908902532",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 126
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017251466726232199",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KwgSubmadohomu: 本日1月31日は愛妻の日です。 https://t.co/8JsH7KCala"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2017248883106279424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_61K90acAAKlDP.jpg",
+        "width": 933
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017248883106279424"
+          ],
+          "media_source_tweet_id": [
+            "2017251466726232199"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2017270792908902532",
+        "created_at": "2026-01-30T16:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T17:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017270792908902532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1742842175757623296",
+              "start": 3,
+              "username": "KwgSubmadohomu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8JsH7KCala",
+              "end": 59,
+              "expanded_url": "https://x.com/KwgSubmadohomu/status/2017251466726232199/photo/1",
+              "media_key": "3_2017248883106279424",
+              "start": 36,
+              "url": "https://t.co/8JsH7KCala"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017270792908902532",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 126
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017251466726232199",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KwgSubmadohomu: 本日1月31日は愛妻の日です。 https://t.co/8JsH7KCala"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017248883106279424"
+          ]
+        },
+        "author_id": "1742842175757623296",
+        "conversation_id": "2017251466726232199",
+        "created_at": "2026-01-30T15:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T16:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017251466726232199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8JsH7KCala",
+              "end": 39,
+              "expanded_url": "https://x.com/KwgSubmadohomu/status/2017251466726232199/photo/1",
+              "media_key": "3_2017248883106279424",
+              "start": 16,
+              "url": "https://t.co/8JsH7KCala"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017251466726232199",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 6336,
+          "like_count": 863,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 126
+        },
+        "reply_settings": "everyone",
+        "text": "本日1月31日は愛妻の日です。 https://t.co/8JsH7KCala"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 585,
+          "like_count": 18554,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 1450
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-04T09:35:56.000Z",
+        "description": "まどほむ好きのまどマギファン",
+        "id": "1742842175757623296",
+        "location": "11時30分に予約投稿",
+        "name": "kwg2(仮)",
+        "pinned_tweet_id": "2002929584929395198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903813656972017665/_0R1GdWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68051,
+          "following_count": 74,
+          "like_count": 13819,
+          "listed_count": 364,
+          "media_count": 853,
+          "tweet_count": 3758
+        },
+        "username": "KwgSubmadohomu",
+        "verified": false
+      }
+    ]
+  }
+}

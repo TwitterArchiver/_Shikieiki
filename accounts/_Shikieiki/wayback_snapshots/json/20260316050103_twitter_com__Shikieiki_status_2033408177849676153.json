@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2033142012262977538"
+      ],
+      "media_source_tweet_id": [
+        "2033142072803299719"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2033408177849676153",
+    "created_at": "2026-03-16T05:01:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T06:01:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033408177849676153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1986513802003922944",
+          "start": 3,
+          "username": "himesu4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GFeAWnCtvA",
+          "end": 52,
+          "expanded_url": "https://x.com/himesu4/status/2033142072803299719/video/1",
+          "media_key": "13_2033142012262977538",
+          "start": 29,
+          "url": "https://t.co/GFeAWnCtvA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033408177849676153",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1873
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033142072803299719",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @himesu4: aquarium yuri ♡ https://t.co/GFeAWnCtvA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3043,
+        "height": 720,
+        "media_key": "13_2033142012262977538",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2033142012262977538/img/MBYTbQ_eAmxaSB8p.jpg",
+        "public_metrics": {
+          "view_count": 81430
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033142012262977538/vid/avc1/480x270/64HWKi4TTMZPerYh.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033142012262977538/vid/avc1/640x360/NaCEfQpCnjNXoS4h.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033142012262977538/vid/avc1/1280x720/IkMy6hCrIkSsZcAA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2033142012262977538/pl/TL1MNQSWU_Gxz0da.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033142012262977538"
+          ],
+          "media_source_tweet_id": [
+            "2033142072803299719"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033408177849676153",
+        "created_at": "2026-03-16T05:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T06:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033408177849676153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1986513802003922944",
+              "start": 3,
+              "username": "himesu4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GFeAWnCtvA",
+              "end": 52,
+              "expanded_url": "https://x.com/himesu4/status/2033142072803299719/video/1",
+              "media_key": "13_2033142012262977538",
+              "start": 29,
+              "url": "https://t.co/GFeAWnCtvA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033408177849676153",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1873
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033142072803299719",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @himesu4: aquarium yuri ♡ https://t.co/GFeAWnCtvA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033142012262977538"
+          ]
+        },
+        "author_id": "1986513802003922944",
+        "conversation_id": "2033142072803299719",
+        "created_at": "2026-03-15T11:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T12:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033142072803299719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GFeAWnCtvA",
+              "end": 39,
+              "expanded_url": "https://x.com/himesu4/status/2033142072803299719/video/1",
+              "media_key": "13_2033142012262977538",
+              "start": 16,
+              "url": "https://t.co/GFeAWnCtvA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033142072803299719",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1679,
+          "impression_count": 208939,
+          "like_count": 21852,
+          "quote_count": 339,
+          "reply_count": 42,
+          "retweet_count": 1873
+        },
+        "reply_settings": "everyone",
+        "text": "aquarium yuri ♡ https://t.co/GFeAWnCtvA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "君が君でいられる場所 \n悪夢-まぼろし-にさらわれぬように  \n消えない雨の苦しみも \n鍵を壊してぶつけてよ 隣にいるから \nすべてを信じて",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "see_you_hell.although.here.probably.is",
+                "end": 23,
+                "expanded_url": "http://see_you_hell.although.here.probably.is",
+                "start": 0,
+                "url": "https://t.co/ecUxsPCDIQ"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2028458258697171187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 805,
+          "like_count": 24097,
+          "listed_count": 0,
+          "media_count": 413,
+          "tweet_count": 3172
+        },
+        "url": "https://t.co/ecUxsPCDIQ",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T19:19:43.000Z",
+        "description": "dead lesbian himejoshi • mw @voodo0veil ˚ʚ♡ɞ˚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "voodo0veil"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "himesu4.straw.page",
+                "end": 23,
+                "expanded_url": "https://himesu4.straw.page",
+                "start": 0,
+                "url": "https://t.co/VDboXZBWen"
+              }
+            ]
+          }
+        },
+        "id": "1986513802003922944",
+        "location": "21 infj asian",
+        "name": "ayumi ꩜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032183236642639873/pMVtt8Hb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 116,
+          "like_count": 23002,
+          "listed_count": 0,
+          "media_count": 420,
+          "tweet_count": 5090
+        },
+        "url": "https://t.co/VDboXZBWen",
+        "username": "himesu4",
+        "verified": false
+      }
+    ]
+  }
+}

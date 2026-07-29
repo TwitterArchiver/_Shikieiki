@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2026324276517679104"
+      ],
+      "media_source_tweet_id": [
+        "2026324289679487098"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2026508162787061813",
+    "created_at": "2026-02-25T04:02:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T05:02:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026508162787061813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1791459618343759872",
+          "start": 3,
+          "username": "mico_bola2230"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SXlSuZEXrU",
+          "end": 42,
+          "expanded_url": "https://x.com/mico_bola2230/status/2026324289679487098/video/1",
+          "media_key": "13_2026324276517679104",
+          "start": 19,
+          "url": "https://t.co/SXlSuZEXrU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026508162787061813",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 95
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026324289679487098",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mico_bola2230: https://t.co/SXlSuZEXrU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1214,
+        "height": 540,
+        "media_key": "13_2026324276517679104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2026324276517679104/img/u702dBRiWV_gvnVG.jpg",
+        "public_metrics": {
+          "view_count": 2303
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026324276517679104/vid/avc1/360x270/3tZrpUPbp6ZeQdJb.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026324276517679104/vid/avc1/480x360/R8aeQRYz6rFwPEAd.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026324276517679104/vid/avc1/720x540/mvv0PshDKwdwejuH.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2026324276517679104/pl/5EoSqQMAk4ZhTgEk.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026324276517679104"
+          ],
+          "media_source_tweet_id": [
+            "2026324289679487098"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2026508162787061813",
+        "created_at": "2026-02-25T04:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T05:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026508162787061813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1791459618343759872",
+              "start": 3,
+              "username": "mico_bola2230"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SXlSuZEXrU",
+              "end": 42,
+              "expanded_url": "https://x.com/mico_bola2230/status/2026324289679487098/video/1",
+              "media_key": "13_2026324276517679104",
+              "start": 19,
+              "url": "https://t.co/SXlSuZEXrU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026508162787061813",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 95
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026324289679487098",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mico_bola2230: https://t.co/SXlSuZEXrU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026324276517679104"
+          ]
+        },
+        "author_id": "1791459618343759872",
+        "conversation_id": "2026324289679487098",
+        "created_at": "2026-02-24T15:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T16:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026324289679487098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SXlSuZEXrU",
+              "end": 23,
+              "expanded_url": "https://x.com/mico_bola2230/status/2026324289679487098/video/1",
+              "media_key": "13_2026324276517679104",
+              "start": 0,
+              "url": "https://t.co/SXlSuZEXrU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026324289679487098",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 6719,
+          "like_count": 803,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SXlSuZEXrU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 697,
+          "like_count": 21423,
+          "listed_count": 0,
+          "media_count": 323,
+          "tweet_count": 2444
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-17T13:24:11.000Z",
+        "description": "A.\nPosto memes aleatórios da galeria e eu não sei português básico.\nE o meu nome não é gabriel\n\nBazinga",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Google.com",
+                "end": 23,
+                "expanded_url": "http://Google.com",
+                "start": 0,
+                "url": "https://t.co/r7DIK0THaY"
+              }
+            ]
+          }
+        },
+        "id": "1791459618343759872",
+        "location": "6ond9/MC V.V",
+        "name": "🩷Só Sigo Pessoas Incríveis De Bom Coração❤️",
+        "pinned_tweet_id": "1851976518454399236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013414461445427200/HqUF7r1C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8476,
+          "following_count": 939,
+          "like_count": 63363,
+          "listed_count": 14,
+          "media_count": 6105,
+          "tweet_count": 25873
+        },
+        "url": "https://t.co/r7DIK0THaY",
+        "username": "mico_bola2230",
+        "verified": false
+      }
+    ]
+  }
+}

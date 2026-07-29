@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029642596021374976"
+      ],
+      "media_source_tweet_id": [
+        "2029663242847731728"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2029774839381373418",
+    "created_at": "2026-03-06T04:23:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T05:23:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029774839381373418"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 28,
+          "tag": "暁美ほむら"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "916674084628393985",
+          "start": 3,
+          "username": "plamo_udonbu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oJCIonLL3i",
+          "end": 58,
+          "expanded_url": "https://x.com/plamo_udonbu/status/2029663242847731728/photo/1",
+          "media_key": "3_2029642596021374976",
+          "start": 35,
+          "url": "https://t.co/oJCIonLL3i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029774839381373418",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 63
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029663242847731728",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @plamo_udonbu: おはようございます\n#暁美ほむら https://t.co/oJCIonLL3i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2029642596021374976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCq9MATbEAAOMY7.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029642596021374976"
+          ],
+          "media_source_tweet_id": [
+            "2029663242847731728"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2029774839381373418",
+        "created_at": "2026-03-06T04:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T05:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029774839381373418"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 28,
+              "tag": "暁美ほむら"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "916674084628393985",
+              "start": 3,
+              "username": "plamo_udonbu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oJCIonLL3i",
+              "end": 58,
+              "expanded_url": "https://x.com/plamo_udonbu/status/2029663242847731728/photo/1",
+              "media_key": "3_2029642596021374976",
+              "start": 35,
+              "url": "https://t.co/oJCIonLL3i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029774839381373418",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 63
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029663242847731728",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @plamo_udonbu: おはようございます\n#暁美ほむら https://t.co/oJCIonLL3i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029642596021374976"
+          ]
+        },
+        "author_id": "916674084628393985",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2029663242847731728",
+        "created_at": "2026-03-05T21:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T22:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029663242847731728"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 10,
+              "tag": "暁美ほむら"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oJCIonLL3i",
+              "end": 40,
+              "expanded_url": "https://x.com/plamo_udonbu/status/2029663242847731728/photo/1",
+              "media_key": "3_2029642596021374976",
+              "start": 17,
+              "url": "https://t.co/oJCIonLL3i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029663242847731728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 3250,
+          "like_count": 515,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "おはようございます\n#暁美ほむら https://t.co/oJCIonLL3i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "see_you_hell.although.here.probably.is",
+                "end": 23,
+                "expanded_url": "http://see_you_hell.although.here.probably.is",
+                "start": 0,
+                "url": "https://t.co/ecUxsPCDIQ"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2028458258697171187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 789,
+          "like_count": 23221,
+          "listed_count": 0,
+          "media_count": 407,
+          "tweet_count": 2983
+        },
+        "url": "https://t.co/ecUxsPCDIQ",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-07T14:38:27.000Z",
+        "description": "まどマギ・まどドラ関連とAI画像/動画投稿してます。\n「ハイライト」タブで画像/動画だけを見られます。\nまどマギのイラストは2025年09月頃から\nPlease click Highlighs tab for viewing only images/videos since Sep 2025",
+        "id": "916674084628393985",
+        "name": "うどんちゃん (plamo_udonbu)",
+        "pinned_tweet_id": "2009312771192836537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926572406870523905/-lyRqVnR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 511,
+          "like_count": 20207,
+          "listed_count": 13,
+          "media_count": 537,
+          "tweet_count": 3642
+        },
+        "username": "plamo_udonbu",
+        "verified": true
+      }
+    ]
+  }
+}

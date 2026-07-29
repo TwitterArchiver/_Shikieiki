@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2046459928068632576"
+      ],
+      "media_source_tweet_id": [
+        "2053414753486483641"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053757552287158457",
+    "created_at": "2026-05-11T08:42:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T09:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053757552287158457"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 51,
+          "start": 47,
+          "tag": "なのは"
+        },
+        {
+          "end": 59,
+          "start": 52,
+          "tag": "nanoha"
+        },
+        {
+          "end": 68,
+          "start": 60,
+          "tag": "なのはEXGV"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1970083681596502017",
+          "start": 3,
+          "username": "exgv_official"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8nTM8pdrvg",
+          "end": 92,
+          "expanded_url": "https://x.com/exgv_official/status/2053414753486483641/photo/1",
+          "media_key": "16_2046459928068632576",
+          "start": 69,
+          "url": "https://t.co/8nTM8pdrvg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053757552287158457",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1606
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053414753486483641",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @exgv_official: 「…行くよ、バルディッシュ。」\n\"Get set.\"\n\n#なのは\n#nanoha\n#なのはEXGV https://t.co/8nTM8pdrvg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 636,
+        "media_key": "16_2046459928068632576",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HGZ8dkOaMAAKZ_F.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HGZ8dkOaMAAKZ_F.mp4"
+          }
+        ],
+        "width": 1132
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2046459928068632576"
+          ],
+          "media_source_tweet_id": [
+            "2053414753486483641"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053757552287158457",
+        "created_at": "2026-05-11T08:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T09:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053757552287158457"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 47,
+              "tag": "なのは"
+            },
+            {
+              "end": 59,
+              "start": 52,
+              "tag": "nanoha"
+            },
+            {
+              "end": 68,
+              "start": 60,
+              "tag": "なのはEXGV"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1970083681596502017",
+              "start": 3,
+              "username": "exgv_official"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8nTM8pdrvg",
+              "end": 92,
+              "expanded_url": "https://x.com/exgv_official/status/2053414753486483641/photo/1",
+              "media_key": "16_2046459928068632576",
+              "start": 69,
+              "url": "https://t.co/8nTM8pdrvg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053757552287158457",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1606
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053414753486483641",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @exgv_official: 「…行くよ、バルディッシュ。」\n\"Get set.\"\n\n#なのは\n#nanoha\n#なのはEXGV https://t.co/8nTM8pdrvg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2046459928068632576"
+          ]
+        },
+        "author_id": "1970083681596502017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053414753486483641",
+        "created_at": "2026-05-10T10:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053414753486483641"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "なのは"
+            },
+            {
+              "end": 40,
+              "start": 33,
+              "tag": "nanoha"
+            },
+            {
+              "end": 49,
+              "start": 41,
+              "tag": "なのはEXGV"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8nTM8pdrvg",
+              "end": 73,
+              "expanded_url": "https://x.com/exgv_official/status/2053414753486483641/photo/1",
+              "media_key": "16_2046459928068632576",
+              "start": 50,
+              "url": "https://t.co/8nTM8pdrvg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053414753486483641",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 446,
+          "impression_count": 120454,
+          "like_count": 4598,
+          "quote_count": 57,
+          "reply_count": 7,
+          "retweet_count": 1606
+        },
+        "reply_settings": "everyone",
+        "text": "「…行くよ、バルディッシュ。」\n\"Get set.\"\n\n#なのは\n#nanoha\n#なのはEXGV https://t.co/8nTM8pdrvg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)暂关提问",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2053378863976284363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 918,
+          "like_count": 28052,
+          "listed_count": 1,
+          "media_count": 486,
+          "tweet_count": 4027
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-22T11:12:31.000Z",
+        "description": "魔法少女リリカルなのはシリーズ 完全新作TVアニメーション「魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance」2026年7月4日(土)25時よりTOKYO MX,BS11にて放送開始！｜PV第1弾：https://t.co/tjJECThEdB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtu.be/0kgUsF8R7JM",
+                "end": 137,
+                "expanded_url": "https://youtu.be/0kgUsF8R7JM",
+                "start": 114,
+                "url": "https://t.co/tjJECThEdB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nanoha.com/EXGV/",
+                "end": 23,
+                "expanded_url": "https://nanoha.com/EXGV/",
+                "start": 0,
+                "url": "https://t.co/7qdTwfRgV0"
+              }
+            ]
+          }
+        },
+        "id": "1970083681596502017",
+        "name": "「なのはEXGV」TVアニメ公式アカウント",
+        "pinned_tweet_id": "2037779219003162739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007285607480135682/K6YfM29N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23678,
+          "following_count": 16,
+          "like_count": 5,
+          "listed_count": 149,
+          "media_count": 108,
+          "tweet_count": 234
+        },
+        "url": "https://t.co/7qdTwfRgV0",
+        "username": "exgv_official",
+        "verified": true
+      }
+    ]
+  }
+}

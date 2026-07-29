@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2027958986713272328"
+      ],
+      "media_source_tweet_id": [
+        "2027959067956990192"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2028288690662056382",
+    "created_at": "2026-03-02T01:58:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T02:58:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028288690662056382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1744646578332422144",
+          "start": 3,
+          "username": "EIKIch_Nebokeee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pJvx6gzswf",
+          "end": 48,
+          "expanded_url": "https://x.com/EIKIch_Nebokeee/status/2027959067956990192/video/1",
+          "media_key": "13_2027958986713272328",
+          "start": 25,
+          "url": "https://t.co/pJvx6gzswf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028288690662056382",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 108
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027959067956990192",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EIKIch_Nebokeee: 四季様 https://t.co/pJvx6gzswf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28883,
+        "height": 720,
+        "media_key": "13_2027958986713272328",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027958986713272328/img/dPSPPmymxTPI5kzi.jpg",
+        "public_metrics": {
+          "view_count": 3575
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027958986713272328/vid/avc1/360x270/_qM-P3eHADP0wsbW.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027958986713272328/vid/avc1/480x360/PHfrZrFWLLqxhmSD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027958986713272328/vid/avc1/960x720/duXZsADNz4dxbcIx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027958986713272328/pl/sV5iLs2ktq5qlv78.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027958986713272328"
+          ],
+          "media_source_tweet_id": [
+            "2027959067956990192"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2028288690662056382",
+        "created_at": "2026-03-02T01:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T02:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028288690662056382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1744646578332422144",
+              "start": 3,
+              "username": "EIKIch_Nebokeee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pJvx6gzswf",
+              "end": 48,
+              "expanded_url": "https://x.com/EIKIch_Nebokeee/status/2027959067956990192/video/1",
+              "media_key": "13_2027958986713272328",
+              "start": 25,
+              "url": "https://t.co/pJvx6gzswf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028288690662056382",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 108
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027959067956990192",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EIKIch_Nebokeee: 四季様 https://t.co/pJvx6gzswf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027958986713272328"
+          ]
+        },
+        "author_id": "1744646578332422144",
+        "conversation_id": "2027959067956990192",
+        "created_at": "2026-03-01T04:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T05:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027959067956990192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pJvx6gzswf",
+              "end": 27,
+              "expanded_url": "https://x.com/EIKIch_Nebokeee/status/2027959067956990192/video/1",
+              "media_key": "13_2027958986713272328",
+              "start": 4,
+              "url": "https://t.co/pJvx6gzswf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027959067956990192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 148,
+          "impression_count": 9087,
+          "like_count": 737,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "四季様 https://t.co/pJvx6gzswf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 766,
+          "like_count": 22742,
+          "listed_count": 0,
+          "media_count": 393,
+          "tweet_count": 2888
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-09T09:05:49.000Z",
+        "description": "みてくれるだけでもうれしい || ⚠️病み垢@EikiCH_X3 || ⚠️グロ専用 @Neboke_goreCH || 正映とこまえーき描きます",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "EikiCH_X3"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Neboke_goreCH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/NebokeCH",
+                "end": 23,
+                "expanded_url": "https://lit.link/NebokeCH",
+                "start": 0,
+                "url": "https://t.co/Yp2EFIhE67"
+              }
+            ]
+          }
+        },
+        "id": "1744646578332422144",
+        "location": "リクエストはマシュマロのみ可",
+        "name": "ねぼけ",
+        "pinned_tweet_id": "1988565670846419081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026334983716319232/o4eVRlqT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 202,
+          "like_count": 4436,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 4164
+        },
+        "url": "https://t.co/Yp2EFIhE67",
+        "username": "EIKIch_Nebokeee",
+        "verified": false
+      }
+    ]
+  }
+}

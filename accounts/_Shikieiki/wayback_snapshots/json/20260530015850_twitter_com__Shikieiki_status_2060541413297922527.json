@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060519846027108355"
+      ],
+      "media_source_tweet_id": [
+        "2060519863668351094"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2060541413297922527",
+    "created_at": "2026-05-30T01:58:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T02:58:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060541413297922527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3367060798",
+          "start": 3,
+          "username": "Juujnim"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p2QsCUAQMT",
+          "end": 49,
+          "expanded_url": "https://x.com/Juujnim/status/2060519863668351094/photo/1",
+          "media_key": "3_2060519846027108355",
+          "start": 26,
+          "url": "https://t.co/p2QsCUAQMT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060541413297922527",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060519863668351094",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Juujnim: Daily Yukine https://t.co/p2QsCUAQMT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1048,
+        "media_key": "3_2060519846027108355",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJhv4gMWoAMbfDX.jpg",
+        "width": 1885
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060519846027108355"
+          ],
+          "media_source_tweet_id": [
+            "2060519863668351094"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2060541413297922527",
+        "created_at": "2026-05-30T01:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T02:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060541413297922527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3367060798",
+              "start": 3,
+              "username": "Juujnim"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p2QsCUAQMT",
+              "end": 49,
+              "expanded_url": "https://x.com/Juujnim/status/2060519863668351094/photo/1",
+              "media_key": "3_2060519846027108355",
+              "start": 26,
+              "url": "https://t.co/p2QsCUAQMT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060541413297922527",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060519863668351094",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Juujnim: Daily Yukine https://t.co/p2QsCUAQMT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060519846027108355"
+          ]
+        },
+        "author_id": "3367060798",
+        "conversation_id": "2060519863668351094",
+        "created_at": "2026-05-30T00:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T01:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060519863668351094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p2QsCUAQMT",
+              "end": 36,
+              "expanded_url": "https://x.com/Juujnim/status/2060519863668351094/photo/1",
+              "media_key": "3_2060519846027108355",
+              "start": 13,
+              "url": "https://t.co/p2QsCUAQMT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060519863668351094",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 61,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "Daily Yukine https://t.co/p2QsCUAQMT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1116,
+          "following_count": 950,
+          "like_count": 28661,
+          "listed_count": 1,
+          "media_count": 499,
+          "tweet_count": 4170
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-09T03:10:05.000Z",
+        "description": "24y - @Flamengo - Aoi Yuuki fan - Daily Yukine - HibiKuri Zone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "Flamengo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "anilist.co/user/Juujnim/",
+                "end": 23,
+                "expanded_url": "https://anilist.co/user/Juujnim/",
+                "start": 0,
+                "url": "https://t.co/lTIaPMu55x"
+              }
+            ]
+          }
+        },
+        "id": "3367060798",
+        "location": "Bangu RJ",
+        "name": "Junna",
+        "pinned_tweet_id": "1861775981863632977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016017025605292033/Php6UDFE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 190,
+          "like_count": 23369,
+          "listed_count": 6,
+          "media_count": 1910,
+          "tweet_count": 15117
+        },
+        "url": "https://t.co/lTIaPMu55x",
+        "username": "Juujnim",
+        "verified": false
+      }
+    ]
+  }
+}

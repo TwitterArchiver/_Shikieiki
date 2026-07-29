@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023715331534213120"
+      ],
+      "media_source_tweet_id": [
+        "2023715343819305172"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2023977149905150150",
+    "created_at": "2026-02-18T04:25:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T05:25:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023977149905150150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1830428613361246208",
+          "start": 3,
+          "username": "ketaminee6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cqXQdwS3kJ",
+          "end": 74,
+          "expanded_url": "https://x.com/ketaminee6/status/2023715343819305172/photo/1",
+          "media_key": "3_2023715331534213120",
+          "start": 51,
+          "url": "https://t.co/cqXQdwS3kJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023977149905150150",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 356
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023715343819305172",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ketaminee6: When you accidentally cut too deep https://t.co/cqXQdwS3kJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 684,
+        "media_key": "3_2023715331534213120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBWuXzab0AA27je.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023715331534213120"
+          ],
+          "media_source_tweet_id": [
+            "2023715343819305172"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2023977149905150150",
+        "created_at": "2026-02-18T04:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T05:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023977149905150150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1830428613361246208",
+              "start": 3,
+              "username": "ketaminee6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cqXQdwS3kJ",
+              "end": 74,
+              "expanded_url": "https://x.com/ketaminee6/status/2023715343819305172/photo/1",
+              "media_key": "3_2023715331534213120",
+              "start": 51,
+              "url": "https://t.co/cqXQdwS3kJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023977149905150150",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 356
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023715343819305172",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ketaminee6: When you accidentally cut too deep https://t.co/cqXQdwS3kJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023715331534213120"
+          ]
+        },
+        "author_id": "1830428613361246208",
+        "conversation_id": "2023715343819305172",
+        "created_at": "2026-02-17T11:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T12:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023715343819305172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cqXQdwS3kJ",
+              "end": 58,
+              "expanded_url": "https://x.com/ketaminee6/status/2023715343819305172/photo/1",
+              "media_key": "3_2023715331534213120",
+              "start": 35,
+              "url": "https://t.co/cqXQdwS3kJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023715343819305172",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 13666,
+          "like_count": 2009,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 356
+        },
+        "reply_settings": "everyone",
+        "text": "When you accidentally cut too deep https://t.co/cqXQdwS3kJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 684,
+          "like_count": 20595,
+          "listed_count": 0,
+          "media_count": 279,
+          "tweet_count": 2243
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-02T02:12:55.000Z",
+        "description": "𓏵𓏵 ⠀𓈒 ⠀ she ⠀& ⠀her⠀ ૮ ◞ ﻌ ◟ ა⠀ ₊ ⠀no dni ifb⠀⤿ ⠀⠀⌗shedtwt ⠀. . ⠀please block don't report ⠀! ! !",
+        "id": "1830428613361246208",
+        "location": "𐂯       …       i am 16 (09)",
+        "name": "𓏏𓏏 @Ruka ﹒ SHEDTWT",
+        "pinned_tweet_id": "1992754307184431481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001048082419752960/N-3483IE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2437,
+          "following_count": 2333,
+          "like_count": 4760,
+          "listed_count": 17,
+          "media_count": 280,
+          "tweet_count": 1642
+        },
+        "username": "ketaminee6",
+        "verified": false
+      }
+    ]
+  }
+}

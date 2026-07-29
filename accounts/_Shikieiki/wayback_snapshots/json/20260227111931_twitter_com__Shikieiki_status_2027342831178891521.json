@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027253298802348032"
+      ],
+      "media_source_tweet_id": [
+        "2027253328036643272"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1334945143208611841",
+          "name": "GL"
+        }
+      }
+    ],
+    "conversation_id": "2027342831178891521",
+    "created_at": "2026-02-27T11:19:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T12:19:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027342831178891521"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 26,
+          "tag": "創作百合"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1754829555733606400",
+          "start": 3,
+          "username": "pryusaq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IbeAGnCChy",
+          "end": 55,
+          "expanded_url": "https://x.com/pryusaq/status/2027253328036643272/photo/1",
+          "media_key": "3_2027253298802348032",
+          "start": 32,
+          "url": "https://t.co/IbeAGnCChy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027342831178891521",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027253328036643272",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pryusaq: 【創作百合】いちゃラブ\n\n#創作百合 https://t.co/IbeAGnCChy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2929,
+        "media_key": "3_2027253298802348032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJAImjaUAAlmHH.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027253298802348032"
+          ],
+          "media_source_tweet_id": [
+            "2027253328036643272"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "2027342831178891521",
+        "created_at": "2026-02-27T11:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T12:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027342831178891521"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "創作百合"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1754829555733606400",
+              "start": 3,
+              "username": "pryusaq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IbeAGnCChy",
+              "end": 55,
+              "expanded_url": "https://x.com/pryusaq/status/2027253328036643272/photo/1",
+              "media_key": "3_2027253298802348032",
+              "start": 32,
+              "url": "https://t.co/IbeAGnCChy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027342831178891521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027253328036643272",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pryusaq: 【創作百合】いちゃラブ\n\n#創作百合 https://t.co/IbeAGnCChy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027253298802348032"
+          ]
+        },
+        "author_id": "1754829555733606400",
+        "conversation_id": "2027253328036643272",
+        "created_at": "2026-02-27T05:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T06:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027253328036643272"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "創作百合"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IbeAGnCChy",
+              "end": 42,
+              "expanded_url": "https://x.com/pryusaq/status/2027253328036643272/photo/1",
+              "media_key": "3_2027253298802348032",
+              "start": 19,
+              "url": "https://t.co/IbeAGnCChy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027253328036643272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 4411,
+          "like_count": 645,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "【創作百合】いちゃラブ\n\n#創作百合 https://t.co/IbeAGnCChy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 713,
+          "like_count": 21946,
+          "listed_count": 0,
+          "media_count": 357,
+          "tweet_count": 2656
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T11:29:36.000Z",
+        "description": "創作百合。 創作っ子の『碧』 と『奈緒』の百合絵や漫画をupします。【Bluesky】 https://t.co/KIJcAVEBEz【pixivFANBOX】 https://t.co/oudWxmL9RB 【DLsite】 https://t.co/BQIbgO2p4o 【FANZA】 https://t.co/RclMLe7asL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/Lnzss",
+                "end": 67,
+                "expanded_url": "https://x.gd/Lnzss",
+                "start": 44,
+                "url": "https://t.co/KIJcAVEBEz"
+              },
+              {
+                "display_url": "ryu-sa.fanbox.cc",
+                "end": 104,
+                "expanded_url": "http://ryu-sa.fanbox.cc",
+                "start": 81,
+                "url": "https://t.co/oudWxmL9RB"
+              },
+              {
+                "display_url": "x.gd/hGXZW",
+                "end": 137,
+                "expanded_url": "https://x.gd/hGXZW",
+                "start": 114,
+                "url": "https://t.co/BQIbgO2p4o"
+              },
+              {
+                "display_url": "x.gd/Bb6j1",
+                "end": 169,
+                "expanded_url": "https://x.gd/Bb6j1",
+                "start": 146,
+                "url": "https://t.co/RclMLe7asL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/47008910",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/47008910",
+                "start": 0,
+                "url": "https://t.co/ADS10817dU"
+              }
+            ]
+          }
+        },
+        "id": "1754829555733606400",
+        "name": "流砂",
+        "pinned_tweet_id": "1852214086286839973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997489133305126913/iWz9ERD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2823,
+          "following_count": 4,
+          "like_count": 1028,
+          "listed_count": 8,
+          "media_count": 138,
+          "tweet_count": 1431
+        },
+        "url": "https://t.co/ADS10817dU",
+        "username": "pryusaq",
+        "verified": false
+      }
+    ]
+  }
+}

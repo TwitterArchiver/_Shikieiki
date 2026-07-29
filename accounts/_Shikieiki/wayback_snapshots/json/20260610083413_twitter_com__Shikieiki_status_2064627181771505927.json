@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064532623280762880"
+      ],
+      "media_source_tweet_id": [
+        "2064532708060192849"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2064627181771505927",
+    "created_at": "2026-06-10T08:34:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T09:34:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064627181771505927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1846188581905485828",
+          "start": 3,
+          "username": "aaaa____dry"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OBemUPHXsx",
+          "end": 50,
+          "expanded_url": "https://x.com/aaaa____dry/status/2064532708060192849/photo/1",
+          "media_key": "3_2064532623280762880",
+          "start": 27,
+          "url": "https://t.co/OBemUPHXsx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064627181771505927",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064532708060192849",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @aaaa____dry: こわい、こわいの。 https://t.co/OBemUPHXsx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2064532623280762880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKaxe4Xa8AAfpVk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064532623280762880"
+          ],
+          "media_source_tweet_id": [
+            "2064532708060192849"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2064627181771505927",
+        "created_at": "2026-06-10T08:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T09:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064627181771505927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1846188581905485828",
+              "start": 3,
+              "username": "aaaa____dry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OBemUPHXsx",
+              "end": 50,
+              "expanded_url": "https://x.com/aaaa____dry/status/2064532708060192849/photo/1",
+              "media_key": "3_2064532623280762880",
+              "start": 27,
+              "url": "https://t.co/OBemUPHXsx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064627181771505927",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064532708060192849",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @aaaa____dry: こわい、こわいの。 https://t.co/OBemUPHXsx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064532623280762880"
+          ]
+        },
+        "author_id": "1846188581905485828",
+        "conversation_id": "2064532708060192849",
+        "created_at": "2026-06-10T02:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T03:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064532708060192849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OBemUPHXsx",
+              "end": 33,
+              "expanded_url": "https://x.com/aaaa____dry/status/2064532708060192849/photo/1",
+              "media_key": "3_2064532623280762880",
+              "start": 10,
+              "url": "https://t.co/OBemUPHXsx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064532708060192849",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 2545,
+          "like_count": 434,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "reply_settings": "following",
+        "text": "こわい、こわいの。 https://t.co/OBemUPHXsx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n伴侣 @octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 958,
+          "like_count": 28594,
+          "listed_count": 1,
+          "media_count": 499,
+          "tweet_count": 4217
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-15T13:57:35.000Z",
+        "description": "無断転載❌\n𝐜𝐢𝐫𝐜𝐥𝐞 バックチャームに見つめられて。\n⋆✴︎˚｡⋆感情と子供たちの絵*･ﾟ❤︎\nデスゲーム一次創作→@mosohk_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "mosohk_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aaaa_dry",
+                "end": 23,
+                "expanded_url": "https://lit.link/aaaa_dry",
+                "start": 0,
+                "url": "https://t.co/t6kH1MCquz"
+              }
+            ]
+          }
+        },
+        "id": "1846188581905485828",
+        "location": " 𝐡_ @9_Un_ya__ ",
+        "name": "妄想癖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928593953114435584/vsRqgJsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10893,
+          "following_count": 149,
+          "like_count": 13467,
+          "listed_count": 38,
+          "media_count": 1683,
+          "tweet_count": 3860
+        },
+        "url": "https://t.co/t6kH1MCquz",
+        "username": "aaaa____dry",
+        "verified": true
+      }
+    ]
+  }
+}

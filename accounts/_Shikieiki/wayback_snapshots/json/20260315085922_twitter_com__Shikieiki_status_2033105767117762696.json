@@ -1,0 +1,487 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033073959953182720"
+      ],
+      "media_source_tweet_id": [
+        "2033073964810109238"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2033105767117762696",
+    "created_at": "2026-03-15T08:59:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T09:59:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033105767117762696"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "まどか　ﾄﾞｳｶﾅ",
+          "probability": 0.2094,
+          "start": 19,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 29,
+          "tag": "まどマギ"
+        },
+        {
+          "end": 48,
+          "start": 35,
+          "tag": "まどマギ好きと繋がりたい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1920693719294242820",
+          "start": 3,
+          "username": "hotateito"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YfrS0DFTWO",
+          "end": 72,
+          "expanded_url": "https://x.com/hotateito/status/2033073964810109238/photo/1",
+          "media_key": "3_2033073959953182720",
+          "start": 49,
+          "url": "https://t.co/YfrS0DFTWO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033105767117762696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033073964810109238",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hotateito: 小悪魔系まどか　ﾄﾞｳｶﾅ ＃まどマギ　＃まどマギ好きと繋がりたい https://t.co/YfrS0DFTWO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1453,
+        "media_key": "3_2033073959953182720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDbt_rEbMAAC2Ey.jpg",
+        "width": 1126
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033073959953182720"
+          ],
+          "media_source_tweet_id": [
+            "2033073964810109238"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2033105767117762696",
+        "created_at": "2026-03-15T08:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T09:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033105767117762696"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "まどか　ﾄﾞｳｶﾅ",
+              "probability": 0.2094,
+              "start": 19,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "まどマギ"
+            },
+            {
+              "end": 48,
+              "start": 35,
+              "tag": "まどマギ好きと繋がりたい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1920693719294242820",
+              "start": 3,
+              "username": "hotateito"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YfrS0DFTWO",
+              "end": 72,
+              "expanded_url": "https://x.com/hotateito/status/2033073964810109238/photo/1",
+              "media_key": "3_2033073959953182720",
+              "start": 49,
+              "url": "https://t.co/YfrS0DFTWO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033105767117762696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033073964810109238",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hotateito: 小悪魔系まどか　ﾄﾞｳｶﾅ ＃まどマギ　＃まどマギ好きと繋がりたい https://t.co/YfrS0DFTWO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033073959953182720"
+          ]
+        },
+        "author_id": "1920693719294242820",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2033073964810109238",
+        "created_at": "2026-03-15T06:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T07:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033073964810109238"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "まどマギ"
+            },
+            {
+              "end": 33,
+              "start": 20,
+              "tag": "まどマギ好きと繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YfrS0DFTWO",
+              "end": 57,
+              "expanded_url": "https://x.com/hotateito/status/2033073964810109238/photo/1",
+              "media_key": "3_2033073959953182720",
+              "start": 34,
+              "url": "https://t.co/YfrS0DFTWO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033073964810109238",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 645,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "小悪魔系まどか　ﾄﾞｳｶﾅ ＃まどマギ　＃まどマギ好きと繋がりたい https://t.co/YfrS0DFTWO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "若有朝一日我欲再获新生那就别犹豫置我于死骸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "see_you_hell.although.here.probably.is",
+                "end": 23,
+                "expanded_url": "http://see_you_hell.although.here.probably.is",
+                "start": 0,
+                "url": "https://t.co/ecUxsPCDIQ"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2028458258697171187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 800,
+          "like_count": 23823,
+          "listed_count": 0,
+          "media_count": 412,
+          "tweet_count": 3111
+        },
+        "url": "https://t.co/ecUxsPCDIQ",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-09T04:14:12.000Z",
+        "description": "フォロワー300人目指してます！\n同人誌サークルナミノハナ→ @kuroesato\nプロフィール欄見てくれてありがとう！部活とバイトをしながらこのアカウントを運営しているので投稿頻度は不定期になりがちです。定期的に初音ミク描きます DMもどんどんして欲しいです！(｡-_-｡)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "kuroesato"
+              }
+            ]
+          }
+        },
+        "id": "1920693719294242820",
+        "name": "ホタテイト　【イラスト描く垢】",
+        "pinned_tweet_id": "2031976229814091793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925462845468418050/7HqlK4aA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 43,
+          "like_count": 18653,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 557
+        },
+        "username": "hotateito",
+        "verified": false
+      }
+    ]
+  }
+}

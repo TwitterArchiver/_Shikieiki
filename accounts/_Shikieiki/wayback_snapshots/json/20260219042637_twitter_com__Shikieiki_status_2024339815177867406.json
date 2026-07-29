@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024193713413484544"
+      ],
+      "media_source_tweet_id": [
+        "2024193720392773931"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2024339815177867406",
+    "created_at": "2026-02-19T04:26:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T05:26:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024339815177867406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1671232690174013443",
+          "start": 3,
+          "username": "Valennnnnn_m"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/caPvNBC9j9",
+          "end": 41,
+          "expanded_url": "https://x.com/Valennnnnn_m/status/2024193720392773931/photo/1",
+          "media_key": "3_2024193713413484544",
+          "start": 18,
+          "url": "https://t.co/caPvNBC9j9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024339815177867406",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2095
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024193720392773931",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Valennnnnn_m: https://t.co/caPvNBC9j9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1264,
+        "media_key": "3_2024193713413484544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBdhdSyW8AABDD6.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024193713413484544"
+          ],
+          "media_source_tweet_id": [
+            "2024193720392773931"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2024339815177867406",
+        "created_at": "2026-02-19T04:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T05:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024339815177867406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1671232690174013443",
+              "start": 3,
+              "username": "Valennnnnn_m"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/caPvNBC9j9",
+              "end": 41,
+              "expanded_url": "https://x.com/Valennnnnn_m/status/2024193720392773931/photo/1",
+              "media_key": "3_2024193713413484544",
+              "start": 18,
+              "url": "https://t.co/caPvNBC9j9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024339815177867406",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2095
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024193720392773931",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Valennnnnn_m: https://t.co/caPvNBC9j9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024193713413484544"
+          ]
+        },
+        "author_id": "1671232690174013443",
+        "conversation_id": "2024193720392773931",
+        "created_at": "2026-02-18T18:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T19:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024193720392773931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/caPvNBC9j9",
+              "end": 23,
+              "expanded_url": "https://x.com/Valennnnnn_m/status/2024193720392773931/photo/1",
+              "media_key": "3_2024193713413484544",
+              "start": 0,
+              "url": "https://t.co/caPvNBC9j9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024193720392773931",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 418,
+          "impression_count": 57588,
+          "like_count": 8792,
+          "quote_count": 17,
+          "reply_count": 12,
+          "retweet_count": 2095
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/caPvNBC9j9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 685,
+          "like_count": 20644,
+          "listed_count": 0,
+          "media_count": 282,
+          "tweet_count": 2257
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-20T19:06:03.000Z",
+        "description": "this nigga so retarded                                          \n@valennnelav\nDALEE BEARMAN CONFIO EN VOS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 65,
+                "username": "valennnelav"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/m_nnnnnnelav?i…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/m_nnnnnnelav?igsh=MW4wbjltcDBldjhyMQ==",
+                "start": 0,
+                "url": "https://t.co/FhspkeZHZT"
+              }
+            ]
+          }
+        },
+        "id": "1671232690174013443",
+        "location": "Tero Violado",
+        "name": "nelav",
+        "pinned_tweet_id": "2022331487748792545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023517985970044928/X63yg5jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 838,
+          "like_count": 214303,
+          "listed_count": 7,
+          "media_count": 626,
+          "tweet_count": 22874
+        },
+        "url": "https://t.co/FhspkeZHZT",
+        "username": "Valennnnnn_m",
+        "verified": false
+      }
+    ]
+  }
+}

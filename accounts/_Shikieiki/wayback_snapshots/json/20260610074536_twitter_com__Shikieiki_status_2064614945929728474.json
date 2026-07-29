@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062727794904494080"
+      ],
+      "media_source_tweet_id": [
+        "2062727801866985963"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2064614945929728474",
+    "created_at": "2026-06-10T07:45:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T08:45:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064614945929728474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1687090838139285504",
+          "start": 3,
+          "username": "ujimiso_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y6zF7cB07E",
+          "end": 37,
+          "expanded_url": "https://x.com/ujimiso_/status/2062727801866985963/photo/1",
+          "media_key": "3_2062727794904494080",
+          "start": 14,
+          "url": "https://t.co/Y6zF7cB07E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064614945929728474",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062727801866985963",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ujimiso_: https://t.co/Y6zF7cB07E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2062727794904494080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBIACubcAAuV0x.jpg",
+        "width": 2972
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062727794904494080"
+          ],
+          "media_source_tweet_id": [
+            "2062727801866985963"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2064614945929728474",
+        "created_at": "2026-06-10T07:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064614945929728474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1687090838139285504",
+              "start": 3,
+              "username": "ujimiso_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y6zF7cB07E",
+              "end": 37,
+              "expanded_url": "https://x.com/ujimiso_/status/2062727801866985963/photo/1",
+              "media_key": "3_2062727794904494080",
+              "start": 14,
+              "url": "https://t.co/Y6zF7cB07E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064614945929728474",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062727801866985963",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ujimiso_: https://t.co/Y6zF7cB07E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062727794904494080"
+          ]
+        },
+        "author_id": "1687090838139285504",
+        "conversation_id": "2062727801866985963",
+        "created_at": "2026-06-05T02:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T03:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062727801866985963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y6zF7cB07E",
+              "end": 23,
+              "expanded_url": "https://x.com/ujimiso_/status/2062727801866985963/photo/1",
+              "media_key": "3_2062727794904494080",
+              "start": 0,
+              "url": "https://t.co/Y6zF7cB07E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062727801866985963",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1783,
+          "like_count": 146,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Y6zF7cB07E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n伴侣 @octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 957,
+          "like_count": 28583,
+          "listed_count": 1,
+          "media_count": 499,
+          "tweet_count": 4212
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-03T13:19:57.000Z",
+        "description": "雑多　期待しないで。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "piku.page/@ujimiso_",
+                "end": 23,
+                "expanded_url": "https://piku.page/@ujimiso_",
+                "start": 0,
+                "url": "https://t.co/tVuVvc9Tia"
+              }
+            ]
+          }
+        },
+        "id": "1687090838139285504",
+        "location": "sub@mizouji_",
+        "name": "宇治味噌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979943014484037633/Y0Je09Zg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2160,
+          "following_count": 422,
+          "like_count": 53485,
+          "listed_count": 5,
+          "media_count": 1288,
+          "tweet_count": 4355
+        },
+        "url": "https://t.co/tVuVvc9Tia",
+        "username": "ujimiso_",
+        "verified": false
+      }
+    ]
+  }
+}

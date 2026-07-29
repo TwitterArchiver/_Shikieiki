@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004949229413040136"
+      ],
+      "media_source_tweet_id": [
+        "2004949323013095675"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2008431801703006659",
+    "created_at": "2026-01-06T06:53:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T07:53:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008431801703006659"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "Bluesky",
+          "probability": 0.5805,
+          "start": 20,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1467095000609849345",
+          "start": 3,
+          "username": "carnagesociety"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "bsky.app/profile/goregi…",
+          "end": 51,
+          "expanded_url": "https://bsky.app/profile/goregirl.bsky.social",
+          "start": 28,
+          "status": 429,
+          "unwound_url": "https://bsky.app/profile/goregirl.bsky.social",
+          "url": "https://t.co/4WzmoskeoE"
+        },
+        {
+          "display_url": "pic.x.com/LTmRoWMWAV",
+          "end": 75,
+          "expanded_url": "https://x.com/carnagesociety/status/2004949323013095675/photo/1",
+          "media_key": "3_2004949229413040136",
+          "start": 52,
+          "url": "https://t.co/LTmRoWMWAV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008431801703006659",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004949323013095675",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @carnagesociety: Bluesky\nhttps://t.co/4WzmoskeoE https://t.co/LTmRoWMWAV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 377,
+        "media_key": "3_2004949229413040136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9MCs5PbgAgs35t.png",
+        "width": 597
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004949229413040136"
+          ],
+          "media_source_tweet_id": [
+            "2004949323013095675"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2008431801703006659",
+        "created_at": "2026-01-06T06:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T07:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008431801703006659"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "Bluesky",
+              "probability": 0.5805,
+              "start": 20,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1467095000609849345",
+              "start": 3,
+              "username": "carnagesociety"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "bsky.app/profile/goregi…",
+              "end": 51,
+              "expanded_url": "https://bsky.app/profile/goregirl.bsky.social",
+              "start": 28,
+              "status": 429,
+              "unwound_url": "https://bsky.app/profile/goregirl.bsky.social",
+              "url": "https://t.co/4WzmoskeoE"
+            },
+            {
+              "display_url": "pic.x.com/LTmRoWMWAV",
+              "end": 75,
+              "expanded_url": "https://x.com/carnagesociety/status/2004949323013095675/photo/1",
+              "media_key": "3_2004949229413040136",
+              "start": 52,
+              "url": "https://t.co/LTmRoWMWAV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008431801703006659",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004949323013095675",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @carnagesociety: Bluesky\nhttps://t.co/4WzmoskeoE https://t.co/LTmRoWMWAV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004949229413040136"
+          ]
+        },
+        "author_id": "1467095000609849345",
+        "conversation_id": "2004949323013095675",
+        "created_at": "2025-12-27T16:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T17:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004949323013095675"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "Bluesky",
+              "probability": 0.4573,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "bsky.app/profile/goregi…",
+              "end": 31,
+              "expanded_url": "https://bsky.app/profile/goregirl.bsky.social",
+              "start": 8,
+              "status": 429,
+              "unwound_url": "https://bsky.app/profile/goregirl.bsky.social",
+              "url": "https://t.co/4WzmoskeoE"
+            },
+            {
+              "display_url": "pic.x.com/LTmRoWMWAV",
+              "end": 55,
+              "expanded_url": "https://x.com/carnagesociety/status/2004949323013095675/photo/1",
+              "media_key": "3_2004949229413040136",
+              "start": 32,
+              "url": "https://t.co/LTmRoWMWAV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004949323013095675",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 5069,
+          "like_count": 70,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "Bluesky\nhttps://t.co/4WzmoskeoE https://t.co/LTmRoWMWAV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 532,
+          "like_count": 16084,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1092
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-04T11:34:48.000Z",
+        "description": "ゴアゾノさんを推せ🩸メタルとV系が好き \n💀commission▶@yuki12278947 \n💀sub account▶@GorezonoNeo \n💀fanart▶#ゴアガールファンアート \n💀link▼",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 95,
+                "start": 83,
+                "tag": "ゴアガールファンアート"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "yuki12278947"
+              },
+              {
+                "end": 73,
+                "start": 61,
+                "username": "GorezonoNeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yukicarnagesoc…",
+                "end": 23,
+                "expanded_url": "https://lit.link/yukicarnagesociety",
+                "start": 0,
+                "url": "https://t.co/ZWgT5VWTU9"
+              }
+            ]
+          }
+        },
+        "id": "1467095000609849345",
+        "location": "ご依頼は(@yuki12278947 )のDMへ",
+        "name": "幽妃-yuki-🫀G0RE-GlRL PR0JECT/流血少女",
+        "pinned_tweet_id": "2000205496859660649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876935508863102976/arithVKG_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40945,
+          "following_count": 758,
+          "like_count": 98334,
+          "listed_count": 178,
+          "media_count": 1508,
+          "tweet_count": 39958
+        },
+        "url": "https://t.co/ZWgT5VWTU9",
+        "username": "carnagesociety",
+        "verified": true
+      }
+    ]
+  }
+}

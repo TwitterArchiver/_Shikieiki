@@ -1,0 +1,123 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Mar 10 15:04:35 +0000 2021",
+  "display_text_range": [
+    16,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/1…",
+        "expanded_url": "https://twitter.com/i/web/status/1369665494333071360",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/iNP9huvCBA"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 1340738225082494976,
+        "id_str": "1340738225082494976",
+        "indices": [
+          0,
+          15
+        ],
+        "name": "곽 청아",
+        "screen_name": "taoist_strayer"
+      }
+    ]
+  },
+  "extended_tweet": {
+    "display_text_range": [
+      16,
+      181
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 1340738225082494976,
+          "id_str": "1340738225082494976",
+          "indices": [
+            0,
+            15
+          ],
+          "name": "곽 청아",
+          "screen_name": "taoist_strayer"
+        }
+      ]
+    },
+    "full_text": "@taoist_strayer (회오의 봉을 턱밑이 살짝 가려보이게 든 상태, 당신께 답으로 본인도 예를 갖추어 고개를 살짝 숙였다.)\n\n간만에 찾아뵈어 드리는 말씀과 오가는 말이 썩 좋지만은 않은 주제였어서 저 조차 마음이 좋지 않습니다. 웃는 얼굴로 뵙길 바라며- 저는 이만.\n\n(뒤로 돈 상태서 고개를 옆으로 돌려 숙여)"
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1369665494333071360,
+  "id_str": "1369665494333071360",
+  "in_reply_to_screen_name": "taoist_strayer",
+  "in_reply_to_status_id": 1369664277573857284,
+  "in_reply_to_status_id_str": "1369664277573857284",
+  "in_reply_to_user_id": 1340738225082494976,
+  "in_reply_to_user_id_str": "1340738225082494976",
+  "is_quote_status": false,
+  "lang": "ko",
+  "place": null,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "@taoist_strayer (회오의 봉을 턱밑이 살짝 가려보이게 든 상태, 당신께 답으로 본인도 예를 갖추어 고개를 살짝 숙였다.)\n\n간만에 찾아뵈어 드리는 말씀과 오가는 말이 썩 좋지만은 않은 주제였어서… https://t.co/iNP9huvCBA",
+  "timestamp_ms": "1615388675660",
+  "truncated": true,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Sat Mar 06 20:34:16 +0000 2021",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "찾아뵈었습니다.",
+    "favourites_count": 86,
+    "follow_request_sent": null,
+    "followers_count": 23,
+    "following": null,
+    "friends_count": 30,
+    "geo_enabled": false,
+    "id": 1368298662070165505,
+    "id_str": "1368298662070165505",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 0,
+    "location": null,
+    "name": "｡四季映姫 。",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368298662070165505/1615063053",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1368613801440931841/Z8YT920A_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1368613801440931841/Z8YT920A_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "_Shikieiki",
+    "statuses_count": 86,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false
+  }
+}

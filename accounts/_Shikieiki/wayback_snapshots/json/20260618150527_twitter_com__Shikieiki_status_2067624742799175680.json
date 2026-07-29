@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2067324731892941282",
+    "created_at": "2026-06-18T15:05:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T16:05:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067624742799175680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489872233984311301",
+          "start": 0,
+          "username": "Aoncshagriuneo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067624742799175680",
+    "in_reply_to_user_id": "1489872233984311301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067594415468892189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aoncshagriuneo 很遗憾没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2067324731892941282",
+        "created_at": "2026-06-18T15:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067624742799175680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489872233984311301",
+              "start": 0,
+              "username": "Aoncshagriuneo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067624742799175680",
+        "in_reply_to_user_id": "1489872233984311301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067594415468892189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aoncshagriuneo 很遗憾没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489872233984311301",
+        "conversation_id": "2067324731892941282",
+        "created_at": "2026-06-18T13:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067594415468892189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1448206950903255040",
+              "start": 0,
+              "username": "_Shikieiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067594415468892189",
+        "in_reply_to_user_id": "1448206950903255040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067324731892941282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Shikieiki 小团体拉我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n伴侣 @octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1127,
+          "following_count": 976,
+          "like_count": 28646,
+          "listed_count": 0,
+          "media_count": 492,
+          "tweet_count": 4255
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-05T08:03:23.000Z",
+        "description": "they/she/he/any \n\n對我而言，成為聖徒就是成為我自己。因此，成聖和拯救的問題其實就是找尋我是誰，以及發現真正的自我的問題\n\n（左翼）自由意志-社会主义者，泛灵论不可知论者弥赛亚，无政府主义，毛自发-自治的情境主义，后无政府主义，德勒兹，左翼市场无政府主义，虚无主义。毛派，造反派，逍遥派",
+        "id": "1489872233984311301",
+        "location": "世界",
+        "name": "安城 上 anjo nokami",
+        "pinned_tweet_id": "1987799848100544516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052637602801741824/nn4Kp9Bv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1220,
+          "following_count": 4693,
+          "like_count": 216140,
+          "listed_count": 5,
+          "media_count": 122,
+          "tweet_count": 58810
+        },
+        "username": "Aoncshagriuneo",
+        "verified": false
+      }
+    ]
+  }
+}

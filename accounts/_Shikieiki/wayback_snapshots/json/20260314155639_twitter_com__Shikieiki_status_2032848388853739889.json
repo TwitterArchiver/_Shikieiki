@@ -1,0 +1,445 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2032848388853739889",
+    "created_at": "2026-03-14T15:56:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T16:56:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032848388853739889"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 13,
+          "tag": "リリカルなのは"
+        },
+        {
+          "end": 29,
+          "start": 22,
+          "tag": "なのは生誕祭"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1940605628",
+          "start": 3,
+          "username": "wwajilu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032848388853739889",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032838258951180494",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wwajilu: #リリカルなのは #なのは生誕祭　ちょうど一年。仕事の合間にちょくちょく進めてた完全版ができまして（３月１５日まで寝かせてた）お誕生日に投稿です☆\n\n前回から改善したり着弾の爆発をつけたり…\n新アニメも楽しみですね！\nおめでとうー！ https://t…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17320,
+        "height": 1080,
+        "media_key": "13_2032837707542704129",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032837707542704129/img/ZIHNxDVGVTD0jgbk.jpg",
+        "public_metrics": {
+          "view_count": 160
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032837707542704129/vid/avc1/640x360/_h4wLapzBy0Wnj3f.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032837707542704129/vid/avc1/1280x720/8UyXawF9HaWggjhS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032837707542704129/pl/tvvTrUgT3XDMV8-k.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032837707542704129/vid/avc1/480x270/fFSNY248Zds1zkQR.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032837707542704129/vid/avc1/1920x1080/6lICFp1wOelWblnP.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2032848388853739889",
+        "created_at": "2026-03-14T15:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T16:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032848388853739889"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 13,
+              "tag": "リリカルなのは"
+            },
+            {
+              "end": 29,
+              "start": 22,
+              "tag": "なのは生誕祭"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1940605628",
+              "start": 3,
+              "username": "wwajilu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032848388853739889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032838258951180494",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wwajilu: #リリカルなのは #なのは生誕祭　ちょうど一年。仕事の合間にちょくちょく進めてた完全版ができまして（３月１５日まで寝かせてた）お誕生日に投稿です☆\n\n前回から改善したり着弾の爆発をつけたり…\n新アニメも楽しみですね！\nおめでとうー！ https://t…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032837707542704129"
+          ]
+        },
+        "author_id": "1940605628",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2032838258951180494",
+        "created_at": "2026-03-14T15:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T16:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032838258951180494"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "リリカルなのは"
+            },
+            {
+              "end": 16,
+              "start": 9,
+              "tag": "なのは生誕祭"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sfVN3m7RRH",
+              "end": 140,
+              "expanded_url": "https://x.com/wwajilu/status/2032838258951180494/video/1",
+              "media_key": "13_2032837707542704129",
+              "start": 117,
+              "url": "https://t.co/sfVN3m7RRH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032838258951180494",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 424,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "#リリカルなのは #なのは生誕祭　ちょうど一年。仕事の合間にちょくちょく進めてた完全版ができまして（３月１５日まで寝かせてた）お誕生日に投稿です☆\n\n前回から改善したり着弾の爆発をつけたり…\n新アニメも楽しみですね！\nおめでとうー！ https://t.co/sfVN3m7RRH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "呼喚我的名字 如同那一日似的展露笑顏吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "see_you_hell.although.here.probably.is",
+                "end": 23,
+                "expanded_url": "http://see_you_hell.although.here.probably.is",
+                "start": 0,
+                "url": "https://t.co/ecUxsPCDIQ"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2028458258697171187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 802,
+          "like_count": 23777,
+          "listed_count": 0,
+          "media_count": 412,
+          "tweet_count": 3091
+        },
+        "url": "https://t.co/ecUxsPCDIQ",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-06T10:59:19.000Z",
+        "description": "https://t.co/du7eRs51wk ←白泉社のWeb漫画賞受賞作品です。商業ゲーム動画クリエイター。2.5Dアニメ＿SpineとSpriteStudioを得意としております。お仕事のご依頼はDMなどでご相談ください。 最近Effekseer（動画ソフト）の扱いも習得しました",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "manga-lab.net/title/35389",
+                "end": 23,
+                "expanded_url": "http://manga-lab.net/title/35389",
+                "start": 0,
+                "url": "https://t.co/du7eRs51wk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "taiyo-sun.wixsite.com/prev",
+                "end": 23,
+                "expanded_url": "https://taiyo-sun.wixsite.com/prev",
+                "start": 0,
+                "url": "https://t.co/5tMCM4sjfX"
+              }
+            ]
+          }
+        },
+        "id": "1940605628",
+        "name": "井口太陽＠秋葉原The_CREATORS_4/18土曜・今回も参加だよ！",
+        "pinned_tweet_id": "1392780836445982730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1011393866031759360/-rL5-CHd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 1619,
+          "like_count": 32155,
+          "listed_count": 30,
+          "media_count": 1237,
+          "tweet_count": 10993
+        },
+        "url": "https://t.co/5tMCM4sjfX",
+        "username": "wwajilu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,625 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2069522701908340736"
+      ],
+      "media_source_tweet_id": [
+        "2069522793633624414"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2070101764016398516",
+    "created_at": "2026-06-25T11:08:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T12:08:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070101764016398516"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 40,
+          "tag": "イラストメイキング"
+        },
+        {
+          "end": 56,
+          "start": 51,
+          "tag": "イラスト"
+        },
+        {
+          "end": 72,
+          "start": 57,
+          "tag": "イラスト好きな人と繋がりたい"
+        },
+        {
+          "end": 85,
+          "start": 73,
+          "tag": "魔法少女リリカルなのは"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1417831545830744068",
+          "start": 3,
+          "username": "CCR0LQWZii5Vkmm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2xWB1yKqGg",
+          "end": 109,
+          "expanded_url": "https://x.com/CCR0LQWZii5Vkmm/status/2069522793633624414/video/1",
+          "media_key": "13_2069522701908340736",
+          "start": 86,
+          "url": "https://t.co/2xWB1yKqGg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070101764016398516",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 94
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069522793633624414",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CCR0LQWZii5Vkmm: 本日は魔法少女リリカルなのはちゃん〜\n#イラストメイキング #イラスト #イラスト好きな人と繋がりたい #魔法少女リリカルなのは https://t.co/2xWB1yKqGg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60000,
+        "height": 720,
+        "media_key": "13_2069522701908340736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069522701908340736/img/gtqHr4bnP-zGJDZi.jpg",
+        "public_metrics": {
+          "view_count": 3743
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069522701908340736/vid/avc1/320x320/sNgQW3i42OThiCsh.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069522701908340736/vid/avc1/540x540/kitlyACNS8BcBDkZ.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069522701908340736/vid/avc1/720x720/uM3m2KxME6lPfflj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069522701908340736/pl/91aUfneORXmzzg3H.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069522701908340736"
+          ],
+          "media_source_tweet_id": [
+            "2069522793633624414"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2070101764016398516",
+        "created_at": "2026-06-25T11:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070101764016398516"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 40,
+              "tag": "イラストメイキング"
+            },
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "イラスト"
+            },
+            {
+              "end": 72,
+              "start": 57,
+              "tag": "イラスト好きな人と繋がりたい"
+            },
+            {
+              "end": 85,
+              "start": 73,
+              "tag": "魔法少女リリカルなのは"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1417831545830744068",
+              "start": 3,
+              "username": "CCR0LQWZii5Vkmm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2xWB1yKqGg",
+              "end": 109,
+              "expanded_url": "https://x.com/CCR0LQWZii5Vkmm/status/2069522793633624414/video/1",
+              "media_key": "13_2069522701908340736",
+              "start": 86,
+              "url": "https://t.co/2xWB1yKqGg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070101764016398516",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 94
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069522793633624414",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CCR0LQWZii5Vkmm: 本日は魔法少女リリカルなのはちゃん〜\n#イラストメイキング #イラスト #イラスト好きな人と繋がりたい #魔法少女リリカルなのは https://t.co/2xWB1yKqGg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069522701908340736"
+          ]
+        },
+        "author_id": "1417831545830744068",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2069522793633624414",
+        "created_at": "2026-06-23T20:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T21:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069522793633624414"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 19,
+              "tag": "イラストメイキング"
+            },
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "イラスト"
+            },
+            {
+              "end": 51,
+              "start": 36,
+              "tag": "イラスト好きな人と繋がりたい"
+            },
+            {
+              "end": 64,
+              "start": 52,
+              "tag": "魔法少女リリカルなのは"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2xWB1yKqGg",
+              "end": 88,
+              "expanded_url": "https://x.com/CCR0LQWZii5Vkmm/status/2069522793633624414/video/1",
+              "media_key": "13_2069522701908340736",
+              "start": 65,
+              "url": "https://t.co/2xWB1yKqGg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069522793633624414",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 12086,
+          "like_count": 528,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "本日は魔法少女リリカルなのはちゃん〜\n#イラストメイキング #イラスト #イラスト好きな人と繋がりたい #魔法少女リリカルなのは https://t.co/2xWB1yKqGg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n伴侣 @octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 969,
+          "like_count": 28649,
+          "listed_count": 1,
+          "media_count": 493,
+          "tweet_count": 4269
+        },
+        "url": "",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-21T13:00:09.000Z",
+        "description": "TikTokとTwitterとpixivとYouTubeでのんびり趣味絵描いてますな〜ご興味持たれた方は是非是非よろしくお願いします〜",
+        "id": "1417831545830744068",
+        "name": "ねこねこにゃーん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1417831929282322437/QMHvQu4q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1637,
+          "following_count": 225,
+          "like_count": 183,
+          "listed_count": 5,
+          "media_count": 212,
+          "tweet_count": 223
+        },
+        "url": "",
+        "username": "CCR0LQWZii5Vkmm",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032345784906403840"
+      ],
+      "media_source_tweet_id": [
+        "2032345788349911520"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2032764820983001230",
+    "created_at": "2026-03-14T10:24:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T11:24:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032764820983001230"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 26,
+          "tag": "なのは"
+        },
+        {
+          "end": 39,
+          "start": 31,
+          "tag": "リリカルなのは"
+        },
+        {
+          "end": 52,
+          "start": 40,
+          "tag": "魔法少女リリカルなのは"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1783435542073597952",
+          "start": 3,
+          "username": "Aoi_Emiya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U7jxH4xHrv",
+          "end": 76,
+          "expanded_url": "https://x.com/Aoi_Emiya/status/2032345788349911520/photo/1",
+          "media_key": "3_2032345784906403840",
+          "start": 53,
+          "url": "https://t.co/U7jxH4xHrv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032764820983001230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032345788349911520",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aoi_Emiya: 敬请期待......\n#なのは\n#リリカルなのは\n#魔法少女リリカルなのは https://t.co/U7jxH4xHrv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2032345784906403840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDRXuTob0AA7jUr.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032345784906403840"
+          ],
+          "media_source_tweet_id": [
+            "2032345788349911520"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032764820983001230",
+        "created_at": "2026-03-14T10:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T11:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032764820983001230"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "なのは"
+            },
+            {
+              "end": 39,
+              "start": 31,
+              "tag": "リリカルなのは"
+            },
+            {
+              "end": 52,
+              "start": 40,
+              "tag": "魔法少女リリカルなのは"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1783435542073597952",
+              "start": 3,
+              "username": "Aoi_Emiya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U7jxH4xHrv",
+              "end": 76,
+              "expanded_url": "https://x.com/Aoi_Emiya/status/2032345788349911520/photo/1",
+              "media_key": "3_2032345784906403840",
+              "start": 53,
+              "url": "https://t.co/U7jxH4xHrv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032764820983001230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032345788349911520",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aoi_Emiya: 敬请期待......\n#なのは\n#リリカルなのは\n#魔法少女リリカルなのは https://t.co/U7jxH4xHrv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032345784906403840"
+          ]
+        },
+        "author_id": "1783435542073597952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032345788349911520",
+        "created_at": "2026-03-13T06:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T07:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032345788349911520"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 11,
+              "tag": "なのは"
+            },
+            {
+              "end": 24,
+              "start": 16,
+              "tag": "リリカルなのは"
+            },
+            {
+              "end": 37,
+              "start": 25,
+              "tag": "魔法少女リリカルなのは"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U7jxH4xHrv",
+              "end": 61,
+              "expanded_url": "https://x.com/Aoi_Emiya/status/2032345788349911520/photo/1",
+              "media_key": "3_2032345784906403840",
+              "start": 38,
+              "url": "https://t.co/U7jxH4xHrv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032345788349911520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1817,
+          "like_count": 109,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "敬请期待......\n#なのは\n#リリカルなのは\n#魔法少女リリカルなのは https://t.co/U7jxH4xHrv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "呼喚我的名字 如同那一日似的展露笑顏吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "see_you_hell.although.here.probably.is",
+                "end": 23,
+                "expanded_url": "http://see_you_hell.although.here.probably.is",
+                "start": 0,
+                "url": "https://t.co/ecUxsPCDIQ"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2028458258697171187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 799,
+          "like_count": 23642,
+          "listed_count": 0,
+          "media_count": 412,
+          "tweet_count": 3062
+        },
+        "url": "https://t.co/ecUxsPCDIQ",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-25T09:59:18.000Z",
+        "description": "全网同名\n努力以平常心踏上人生の人\n各类机战作品绝赞鉴赏ing，高达zz绝赞摸鱼观看ing（喜欢普露姐妹😭），奈叶 战姬 各种美少女机战绝赞绘画ing，感觉很多事情都顾头不顾尾，但画画是一定要继续滴！",
+        "id": "1783435542073597952",
+        "name": "Emiya Aoi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006572642527313920/gPAhWPkp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 1531,
+          "like_count": 3061,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 127
+        },
+        "username": "Aoi_Emiya",
+        "verified": false
+      }
+    ]
+  }
+}

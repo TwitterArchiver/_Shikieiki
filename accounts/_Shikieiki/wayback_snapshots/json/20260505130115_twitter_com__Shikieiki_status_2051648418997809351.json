@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2046618552573300971",
+    "created_at": "2026-05-05T13:01:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T14:01:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051648418997809351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1340215476522106881",
+          "start": 0,
+          "username": "17UwTtB3mTFsPv7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051648418997809351",
+    "in_reply_to_user_id": "1340215476522106881",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051646111430094905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@17UwTtB3mTFsPv7 20-40mg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2046618552573300971",
+        "created_at": "2026-05-05T13:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T14:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051648418997809351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1340215476522106881",
+              "start": 0,
+              "username": "17UwTtB3mTFsPv7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051648418997809351",
+        "in_reply_to_user_id": "1340215476522106881",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051646111430094905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17UwTtB3mTFsPv7 20-40mg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1340215476522106881",
+        "conversation_id": "2046618552573300971",
+        "created_at": "2026-05-05T12:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T13:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051646111430094905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1145563848579006464",
+              "start": 0,
+              "username": "com67673576"
+            },
+            {
+              "end": 24,
+              "id": "1448206950903255040",
+              "start": 13,
+              "username": "_Shikieiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051646111430094905",
+        "in_reply_to_user_id": "1145563848579006464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051584547683434744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@com67673576 @_Shikieiki 第一次应该o多少啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)暂关提问",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2051617505437950457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 915,
+          "like_count": 27787,
+          "listed_count": 1,
+          "media_count": 481,
+          "tweet_count": 3929
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-19T08:40:54.000Z",
+        "description": "我没死我只是进郁期了不想说话",
+        "id": "1340215476522106881",
+        "name": "1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1502785951843594241/v8GdjTrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 168,
+          "like_count": 979,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 34
+        },
+        "username": "17UwTtB3mTFsPv7",
+        "verified": false
+      }
+    ]
+  }
+}

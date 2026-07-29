@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060721891825115136"
+      ],
+      "media_source_tweet_id": [
+        "2060721895700582822"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2060770374384775266",
+    "created_at": "2026-05-30T17:08:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T18:08:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060770374384775266"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 38,
+          "tag": "リリカルなのは"
+        },
+        {
+          "end": 56,
+          "start": 48,
+          "tag": "フェイトちゃん"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "989346358858473472",
+          "start": 3,
+          "username": "chia_skytulip"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LaNpz4YwZ7",
+          "end": 80,
+          "expanded_url": "https://x.com/chia_skytulip/status/2060721895700582822/photo/1",
+          "media_key": "3_2060721891825115136",
+          "start": 57,
+          "url": "https://t.co/LaNpz4YwZ7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060770374384775266",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060721895700582822",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chia_skytulip: 遅れました😭\nお誕生日おめでとう🎉\n\n#リリカルなのは \n#フェイトちゃん https://t.co/LaNpz4YwZ7"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2060770374384775266].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2060770374384775266",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2060770374384775266"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 856,
+        "media_key": "3_2060721891825115136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJknpHcbYAAMz2s.jpg",
+        "width": 856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060721891825115136"
+          ]
+        },
+        "author_id": "989346358858473472",
+        "conversation_id": "2060721895700582822",
+        "created_at": "2026-05-30T13:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T14:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060721895700582822"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 19,
+              "tag": "リリカルなのは"
+            },
+            {
+              "end": 37,
+              "start": 29,
+              "tag": "フェイトちゃん"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LaNpz4YwZ7",
+              "end": 61,
+              "expanded_url": "https://x.com/chia_skytulip/status/2060721895700582822/photo/1",
+              "media_key": "3_2060721891825115136",
+              "start": 38,
+              "url": "https://t.co/LaNpz4YwZ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060721895700582822",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 590,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "遅れました😭\nお誕生日おめでとう🎉\n\n#リリカルなのは \n#フェイトちゃん https://t.co/LaNpz4YwZ7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1114,
+          "following_count": 949,
+          "like_count": 28679,
+          "listed_count": 1,
+          "media_count": 499,
+          "tweet_count": 4178
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-26T03:32:07.000Z",
+        "description": "カワイイは正義❗️ ごく稀に趣味でボカロで歌作ったりMMDで遊んだり、落書き程度の絵で落ち込んだり…基本チキンなもので無言フォローで失礼します、ごめんなさい。 アイコンは氷精そりゅ様から頂きました。ありがと〜。",
+        "id": "989346358858473472",
+        "name": "chia",
+        "pinned_tweet_id": "1970657493362921902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1044242098260602881/YSJFI8rz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3076,
+          "following_count": 5110,
+          "like_count": 223635,
+          "listed_count": 43,
+          "media_count": 260,
+          "tweet_count": 85795
+        },
+        "username": "chia_skytulip",
+        "verified": false
+      }
+    ]
+  }
+}

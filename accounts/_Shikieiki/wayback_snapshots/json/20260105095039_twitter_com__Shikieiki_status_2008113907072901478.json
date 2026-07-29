@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2008113907072901478",
+    "created_at": "2026-01-05T09:50:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T10:50:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008113907072901478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1847176874793095169",
+          "start": 3,
+          "username": "Safarin0208"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/2NKTG",
+          "end": 139,
+          "start": 121,
+          "url": "https://t.co/2NKTG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008113907072901478",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007808802318614871",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Safarin0208: JR乗ってる時にこの本読んでたら隣のおばさんめっちゃジロジロ見てきてたんだけどこの漫画死ぬほど性癖歪みますよ？おばさんの性癖歪ませちゃったかもしれない…\nぜんこわ好きにはたまらない作品でした♡2巻待ってます https://t.co/2NKTG…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2007808800439603201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G90rd1cbEAEHXfT.jpg",
+        "width": 703
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2008113907072901478",
+        "created_at": "2026-01-05T09:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T10:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008113907072901478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1847176874793095169",
+              "start": 3,
+              "username": "Safarin0208"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/2NKTG",
+              "end": 139,
+              "start": 121,
+              "url": "https://t.co/2NKTG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008113907072901478",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007808802318614871",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Safarin0208: JR乗ってる時にこの本読んでたら隣のおばさんめっちゃジロジロ見てきてたんだけどこの漫画死ぬほど性癖歪みますよ？おばさんの性癖歪ませちゃったかもしれない…\nぜんこわ好きにはたまらない作品でした♡2巻待ってます https://t.co/2NKTG…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007808800439603201"
+          ]
+        },
+        "author_id": "1847176874793095169",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2007808802318614871",
+        "created_at": "2026-01-04T13:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T14:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007808802318614871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2NKTGGYRHr",
+              "end": 127,
+              "expanded_url": "https://x.com/Safarin0208/status/2007808802318614871/photo/1",
+              "media_key": "3_2007808800439603201",
+              "start": 104,
+              "url": "https://t.co/2NKTGGYRHr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007808802318614871",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 589,
+          "impression_count": 48072,
+          "like_count": 1612,
+          "quote_count": 10,
+          "reply_count": 1,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "JR乗ってる時にこの本読んでたら隣のおばさんめっちゃジロジロ見てきてたんだけどこの漫画死ぬほど性癖歪みますよ？おばさんの性癖歪ませちゃったかもしれない…\nぜんこわ好きにはたまらない作品でした♡2巻待ってます https://t.co/2NKTGGYRHr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 522,
+          "like_count": 15329,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 973
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T07:24:28.000Z",
+        "description": "百合が大大大大大好きな大学生/色んな百合作品のポストします【最近刺さった百合作品】ぜんこわ/ぜんこわ/ぜんこわ/ぜんこわ/ぜんこわ/ぜんこわ            会計士受験生(短答式試験合格🌸簿記1級合格🌸)",
+        "id": "1847176874793095169",
+        "name": "さふぁりん@百合好き🐱",
+        "pinned_tweet_id": "2003306976927973455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880583652163407872/Cg5-5H5Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1010,
+          "following_count": 567,
+          "like_count": 12107,
+          "listed_count": 2,
+          "media_count": 227,
+          "tweet_count": 1853
+        },
+        "username": "Safarin0208",
+        "verified": false
+      }
+    ]
+  }
+}

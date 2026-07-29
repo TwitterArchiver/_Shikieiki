@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047952395662221312"
+      ],
+      "media_source_tweet_id": [
+        "2047952397834895716"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1311766165065142273",
+          "name": "Higurashi When They Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311766165065142273",
+          "name": "Higurashi When They Cry"
+        }
+      }
+    ],
+    "conversation_id": "2047979986641170754",
+    "created_at": "2026-04-25T10:04:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T11:04:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047979986641170754"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 13,
+          "tag": "ひぐらしのなく頃に"
+        },
+        {
+          "end": 31,
+          "start": 24,
+          "tag": "ひぐらしFA"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1960033845933424640",
+          "start": 3,
+          "username": "rmtstat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oLDtZD5Wg8",
+          "end": 55,
+          "expanded_url": "https://x.com/rmtstat/status/2047952397834895716/photo/1",
+          "media_key": "3_2047952395662221312",
+          "start": 32,
+          "url": "https://t.co/oLDtZD5Wg8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047979986641170754",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 189
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047952397834895716",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rmtstat: #ひぐらしのなく頃に\n#ひぐらしFA https://t.co/oLDtZD5Wg8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1047,
+        "media_key": "3_2047952395662221312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvJ2nRbYAAaEEj.jpg",
+        "width": 1212
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047952395662221312"
+          ],
+          "media_source_tweet_id": [
+            "2047952397834895716"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          }
+        ],
+        "conversation_id": "2047979986641170754",
+        "created_at": "2026-04-25T10:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047979986641170754"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 13,
+              "tag": "ひぐらしのなく頃に"
+            },
+            {
+              "end": 31,
+              "start": 24,
+              "tag": "ひぐらしFA"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1960033845933424640",
+              "start": 3,
+              "username": "rmtstat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oLDtZD5Wg8",
+              "end": 55,
+              "expanded_url": "https://x.com/rmtstat/status/2047952397834895716/photo/1",
+              "media_key": "3_2047952395662221312",
+              "start": 32,
+              "url": "https://t.co/oLDtZD5Wg8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047979986641170754",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 189
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047952397834895716",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rmtstat: #ひぐらしのなく頃に\n#ひぐらしFA https://t.co/oLDtZD5Wg8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047952395662221312"
+          ]
+        },
+        "author_id": "1960033845933424640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          }
+        ],
+        "conversation_id": "2047952397834895716",
+        "created_at": "2026-04-25T08:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T09:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047952397834895716"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "ひぐらしのなく頃に"
+            },
+            {
+              "end": 18,
+              "start": 11,
+              "tag": "ひぐらしFA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oLDtZD5Wg8",
+              "end": 42,
+              "expanded_url": "https://x.com/rmtstat/status/2047952397834895716/photo/1",
+              "media_key": "3_2047952395662221312",
+              "start": 19,
+              "url": "https://t.co/oLDtZD5Wg8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047952397834895716",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 6959,
+          "like_count": 537,
+          "quote_count": 9,
+          "reply_count": 0,
+          "retweet_count": 189
+        },
+        "reply_settings": "everyone",
+        "text": "#ひぐらしのなく頃に\n#ひぐらしFA https://t.co/oLDtZD5Wg8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2047351982030258527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 879,
+          "like_count": 26264,
+          "listed_count": 1,
+          "media_count": 416,
+          "tweet_count": 3503
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T17:37:56.000Z",
+        "description": "ひぐらし · うみねこ · 東方 · FGO +···",
+        "id": "1960033845933424640",
+        "name": "tricot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045125757580857345/_r8DeIfy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 1,
+          "like_count": 41,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 46
+        },
+        "username": "rmtstat",
+        "verified": false
+      }
+    ]
+  }
+}

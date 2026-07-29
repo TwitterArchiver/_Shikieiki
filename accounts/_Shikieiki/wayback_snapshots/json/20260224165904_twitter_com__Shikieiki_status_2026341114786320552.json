@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026112189375848448"
+      ],
+      "media_source_tweet_id": [
+        "2026112191674376213"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2026341114786320552",
+    "created_at": "2026-02-24T16:59:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T17:59:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026341114786320552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1913408598857723904",
+          "start": 3,
+          "username": "DailyMizore"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LgddT1ZyTz",
+          "end": 42,
+          "expanded_url": "https://x.com/DailyMizore/status/2026112191674376213/photo/1",
+          "media_key": "3_2026112189375848448",
+          "start": 19,
+          "url": "https://t.co/LgddT1ZyTz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026341114786320552",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026112191674376213",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DailyMizore: 💖 https://t.co/LgddT1ZyTz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 466,
+        "media_key": "3_2026112189375848448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB4yTSrWIAAa8ru.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026112189375848448"
+          ],
+          "media_source_tweet_id": [
+            "2026112191674376213"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2026341114786320552",
+        "created_at": "2026-02-24T16:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T17:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026341114786320552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1913408598857723904",
+              "start": 3,
+              "username": "DailyMizore"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LgddT1ZyTz",
+              "end": 42,
+              "expanded_url": "https://x.com/DailyMizore/status/2026112191674376213/photo/1",
+              "media_key": "3_2026112189375848448",
+              "start": 19,
+              "url": "https://t.co/LgddT1ZyTz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026341114786320552",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026112191674376213",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DailyMizore: 💖 https://t.co/LgddT1ZyTz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026112189375848448"
+          ]
+        },
+        "author_id": "1913408598857723904",
+        "conversation_id": "2026112191674376213",
+        "created_at": "2026-02-24T01:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T02:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026112191674376213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LgddT1ZyTz",
+              "end": 25,
+              "expanded_url": "https://x.com/DailyMizore/status/2026112191674376213/photo/1",
+              "media_key": "3_2026112189375848448",
+              "start": 2,
+              "url": "https://t.co/LgddT1ZyTz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026112191674376213",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 5687,
+          "like_count": 705,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "💖 https://t.co/LgddT1ZyTz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 695,
+          "like_count": 21344,
+          "listed_count": 0,
+          "media_count": 323,
+          "tweet_count": 2425
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-19T01:45:44.000Z",
+        "description": "EN/ESP fan account dedicated to Hibike! Euphonium's friendliest character, Mizore Yoroizuka the goat.",
+        "id": "1913408598857723904",
+        "name": "Daily Mizore",
+        "pinned_tweet_id": "1913412852137746942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913409271716368384/-_pkjEpD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1704,
+          "following_count": 1,
+          "like_count": 250,
+          "listed_count": 10,
+          "media_count": 310,
+          "tweet_count": 310
+        },
+        "username": "DailyMizore",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022629022581297152"
+      ],
+      "media_source_tweet_id": [
+        "2022629029975855410"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1334945143208611841",
+          "name": "GL"
+        }
+      }
+    ],
+    "conversation_id": "2022861048202535159",
+    "created_at": "2026-02-15T02:30:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T03:30:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022861048202535159"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 31,
+          "tag": "創作百合"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1389844927253602305",
+          "start": 3,
+          "username": "LilyParty777"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7JI7bE2hiP",
+          "end": 60,
+          "expanded_url": "https://x.com/LilyParty777/status/2022629029975855410/photo/1",
+          "media_key": "3_2022629022581297152",
+          "start": 37,
+          "url": "https://t.co/7JI7bE2hiP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022861048202535159",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022629029975855410",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LilyParty777: 幼馴染とバレンタイン🍫\n #創作百合 https://t.co/7JI7bE2hiP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2022629022581297152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBHSYTNakAAbHdo.jpg",
+        "width": 2896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022629022581297152"
+          ],
+          "media_source_tweet_id": [
+            "2022629029975855410"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "2022861048202535159",
+        "created_at": "2026-02-15T02:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T03:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022861048202535159"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "創作百合"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1389844927253602305",
+              "start": 3,
+              "username": "LilyParty777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7JI7bE2hiP",
+              "end": 60,
+              "expanded_url": "https://x.com/LilyParty777/status/2022629029975855410/photo/1",
+              "media_key": "3_2022629022581297152",
+              "start": 37,
+              "url": "https://t.co/7JI7bE2hiP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022861048202535159",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022629029975855410",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LilyParty777: 幼馴染とバレンタイン🍫\n #創作百合 https://t.co/7JI7bE2hiP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022629022581297152"
+          ]
+        },
+        "author_id": "1389844927253602305",
+        "conversation_id": "2022629029975855410",
+        "created_at": "2026-02-14T11:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T12:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022629029975855410"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "創作百合"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7JI7bE2hiP",
+              "end": 42,
+              "expanded_url": "https://x.com/LilyParty777/status/2022629029975855410/photo/1",
+              "media_key": "3_2022629022581297152",
+              "start": 19,
+              "url": "https://t.co/7JI7bE2hiP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022629029975855410",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 5352,
+          "like_count": 502,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "幼馴染とバレンタイン🍫\n #創作百合 https://t.co/7JI7bE2hiP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 636,
+          "like_count": 19369,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 1916
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-05T07:30:43.000Z",
+        "description": "創作の女の子、百合のイラストを描いてます🐱！現在お仕事募集中です！女の子、百合イラスト等々〜✨ ご依頼等は下記アドレス、またはSKIMAにてお願いします。 連絡先→lilyparty7@gmail.com pixiv→https://t.co/giPc9TRoNw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/linorino",
+                "end": 132,
+                "expanded_url": "https://pixiv.me/linorino",
+                "start": 109,
+                "url": "https://t.co/giPc9TRoNw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skima.jp/item/detail/?i…",
+                "end": 23,
+                "expanded_url": "https://skima.jp/item/detail/?item_id=24683",
+                "start": 0,
+                "url": "https://t.co/hSWhXlbgCN"
+              }
+            ]
+          }
+        },
+        "id": "1389844927253602305",
+        "name": "lino😼",
+        "pinned_tweet_id": "1853762988337197151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987283983202439169/oS-EevR8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16215,
+          "following_count": 237,
+          "like_count": 4880,
+          "listed_count": 134,
+          "media_count": 304,
+          "tweet_count": 6273
+        },
+        "url": "https://t.co/hSWhXlbgCN",
+        "username": "LilyParty777",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034195012527808512"
+      ],
+      "media_source_tweet_id": [
+        "2034283695683801147"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2034429702086218112",
+    "created_at": "2026-03-19T00:40:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T01:40:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034429702086218112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2012631283898187776",
+          "start": 3,
+          "username": "youy1qwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TRDQRDlypb",
+          "end": 66,
+          "expanded_url": "https://x.com/youy1qwq/status/2034283695683801147/photo/1",
+          "media_key": "3_2034195012527808512",
+          "start": 43,
+          "url": "https://t.co/TRDQRDlypb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034429702086218112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 137
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034283695683801147",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youy1qwq: 外教带中国学生的工资算工伤了，我们外教每天都哀求我们说话 https://t.co/TRDQRDlypb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034195012527808512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDrplhWXYAAyDue.jpg",
+        "width": 1164
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034195012527808512"
+          ],
+          "media_source_tweet_id": [
+            "2034283695683801147"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2034429702086218112",
+        "created_at": "2026-03-19T00:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T01:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034429702086218112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2012631283898187776",
+              "start": 3,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TRDQRDlypb",
+              "end": 66,
+              "expanded_url": "https://x.com/youy1qwq/status/2034283695683801147/photo/1",
+              "media_key": "3_2034195012527808512",
+              "start": 43,
+              "url": "https://t.co/TRDQRDlypb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034429702086218112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 137
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034283695683801147",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youy1qwq: 外教带中国学生的工资算工伤了，我们外教每天都哀求我们说话 https://t.co/TRDQRDlypb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034195012527808512"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2034283695683801147",
+        "created_at": "2026-03-18T15:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T16:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034283695683801147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TRDQRDlypb",
+              "end": 52,
+              "expanded_url": "https://x.com/youy1qwq/status/2034283695683801147/photo/1",
+              "media_key": "3_2034195012527808512",
+              "start": 29,
+              "url": "https://t.co/TRDQRDlypb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034283695683801147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 283,
+          "impression_count": 200211,
+          "like_count": 2739,
+          "quote_count": 34,
+          "reply_count": 89,
+          "retweet_count": 137
+        },
+        "reply_settings": "everyone",
+        "text": "外教带中国学生的工资算工伤了，我们外教每天都哀求我们说话 https://t.co/TRDQRDlypb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "君が君でいられる場所 \n悪夢-まぼろし-にさらわれぬように  \n消えない雨の苦しみも \n鍵を壊してぶつけてよ 隣にいるから \nすべてを信じて",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "see_you_hell.although.here.probably.is",
+                "end": 23,
+                "expanded_url": "http://see_you_hell.although.here.probably.is",
+                "start": 0,
+                "url": "https://t.co/ecUxsPCDIQ"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2028458258697171187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 805,
+          "like_count": 24554,
+          "listed_count": 0,
+          "media_count": 406,
+          "tweet_count": 3228
+        },
+        "url": "https://t.co/ecUxsPCDIQ",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7485,
+          "following_count": 1319,
+          "like_count": 3151,
+          "listed_count": 10,
+          "media_count": 926,
+          "tweet_count": 1338
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

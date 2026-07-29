@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "1998810919682638294",
+    "created_at": "2026-04-25T12:24:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T13:24:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048015173311779197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1679770533045338112",
+          "start": 0,
+          "username": "koraline_for16"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048015173311779197",
+    "in_reply_to_user_id": "1679770533045338112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048006961946616157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@koraline_for16 具体剂量是多少? 可能是高血压引起的耳朵痛，不属于常见情况"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "1998810919682638294",
+        "created_at": "2026-04-25T12:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048015173311779197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1679770533045338112",
+              "start": 0,
+              "username": "koraline_for16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048015173311779197",
+        "in_reply_to_user_id": "1679770533045338112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048006961946616157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@koraline_for16 具体剂量是多少? 可能是高血压引起的耳朵痛，不属于常见情况"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679770533045338112",
+        "conversation_id": "1998810919682638294",
+        "created_at": "2026-04-25T11:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048006961946616157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1448206950903255040",
+              "start": 0,
+              "username": "_Shikieiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048006961946616157",
+        "in_reply_to_user_id": "1448206950903255040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998810919682638294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Shikieiki o完耳朵好痛是正常现象吗老大😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2047351982030258527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 880,
+          "like_count": 26284,
+          "listed_count": 1,
+          "media_count": 416,
+          "tweet_count": 3512
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T08:31:52.000Z",
+        "description": "no luv,no angel,no cupid,no mutant,no ghost,no atrocity,no registration,no homo,but u 4ever",
+        "id": "1679770533045338112",
+        "name": "imnot_loosena",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979524121449938944/js9ImvG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 117,
+          "like_count": 4042,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 650
+        },
+        "username": "koraline_for16",
+        "verified": false
+      }
+    ]
+  }
+}

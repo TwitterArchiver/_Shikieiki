@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050561092020273153"
+      ],
+      "media_source_tweet_id": [
+        "2050561103512605104"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2050782439019266449",
+    "created_at": "2026-05-03T03:40:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T04:40:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050782439019266449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2027237303085879296",
+          "start": 3,
+          "username": "DailyYuri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z9xMWYgBqm",
+          "end": 38,
+          "expanded_url": "https://x.com/DailyYuri/status/2050561103512605104/photo/1",
+          "media_key": "3_2050561092020273153",
+          "start": 15,
+          "url": "https://t.co/Z9xMWYgBqm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050782439019266449",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 476
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050561103512605104",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DailyYuri: https://t.co/Z9xMWYgBqm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1689,
+        "media_key": "3_2050561092020273153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHUOcugbAAEHQAl.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050561092020273153"
+          ],
+          "media_source_tweet_id": [
+            "2050561103512605104"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2050782439019266449",
+        "created_at": "2026-05-03T03:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T04:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050782439019266449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2027237303085879296",
+              "start": 3,
+              "username": "DailyYuri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z9xMWYgBqm",
+              "end": 38,
+              "expanded_url": "https://x.com/DailyYuri/status/2050561103512605104/photo/1",
+              "media_key": "3_2050561092020273153",
+              "start": 15,
+              "url": "https://t.co/Z9xMWYgBqm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050782439019266449",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 476
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050561103512605104",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DailyYuri: https://t.co/Z9xMWYgBqm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050561092020273153"
+          ]
+        },
+        "author_id": "2027237303085879296",
+        "conversation_id": "2050561103512605104",
+        "created_at": "2026-05-02T13:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T14:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050561103512605104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z9xMWYgBqm",
+              "end": 23,
+              "expanded_url": "https://x.com/DailyYuri/status/2050561103512605104/photo/1",
+              "media_key": "3_2050561092020273153",
+              "start": 0,
+              "url": "https://t.co/Z9xMWYgBqm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050561103512605104",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1059,
+          "impression_count": 68662,
+          "like_count": 8842,
+          "quote_count": 9,
+          "reply_count": 7,
+          "retweet_count": 476
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Z9xMWYgBqm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2050182084808110250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 897,
+          "like_count": 27480,
+          "listed_count": 1,
+          "media_count": 451,
+          "tweet_count": 3773
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T04:20:20.000Z",
+        "description": "Just Posting Yuri Daily",
+        "id": "2027237303085879296",
+        "name": "Daily Yuri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034676613888319491/H9CIalbt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10620,
+          "following_count": 53,
+          "like_count": 134,
+          "listed_count": 7,
+          "media_count": 92,
+          "tweet_count": 156
+        },
+        "username": "DailyYuri",
+        "verified": true
+      }
+    ]
+  }
+}

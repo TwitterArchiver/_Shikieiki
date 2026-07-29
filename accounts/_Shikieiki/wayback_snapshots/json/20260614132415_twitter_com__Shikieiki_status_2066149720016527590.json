@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066022509074661376",
+        "3_2066022509074665472"
+      ],
+      "media_source_tweet_id": [
+        "2066022518125916299",
+        "2066022518125916299"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2066149720016527590",
+    "created_at": "2026-06-14T13:24:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T14:24:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066149720016527590"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 87,
+          "start": 79,
+          "tag": "リリカルなのは"
+        },
+        {
+          "end": 97,
+          "start": 89,
+          "tag": "なのはEXGV"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "4300324040",
+          "start": 3,
+          "username": "takami771251161"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Lj6IA1XKnX",
+          "end": 121,
+          "expanded_url": "https://x.com/takami771251161/status/2066022518125916299/photo/1",
+          "media_key": "3_2066022509074661376",
+          "start": 98,
+          "url": "https://t.co/Lj6IA1XKnX"
+        },
+        {
+          "display_url": "pic.x.com/Lj6IA1XKnX",
+          "end": 121,
+          "expanded_url": "https://x.com/takami771251161/status/2066022518125916299/photo/1",
+          "media_key": "3_2066022509074665472",
+          "start": 98,
+          "url": "https://t.co/Lj6IA1XKnX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066149720016527590",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066022518125916299",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @takami771251161: 以外に悪くないのでは?って思ったけど、\nはやてだけ大きさミスってた\n後ポーズがチャラかったのでは?\nどう思います?\n#リリカルなのは \n#なのはEXGV https://t.co/Lj6IA1XKnX"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2066149720016527590].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2066149720016527590",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2066149720016527590"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1420,
+        "media_key": "3_2066022509074661376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKv8hpdbQAAgCqb.jpg",
+        "width": 2048
+      },
+      {
+        "height": 811,
+        "media_key": "3_2066022509074665472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKv8hpdbUAAH0y3.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066022509074661376",
+            "3_2066022509074665472"
+          ]
+        },
+        "author_id": "4300324040",
+        "conversation_id": "2066022518125916299",
+        "created_at": "2026-06-14T04:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066022518125916299"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 58,
+              "tag": "リリカルなのは"
+            },
+            {
+              "end": 76,
+              "start": 68,
+              "tag": "なのはEXGV"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lj6IA1XKnX",
+              "end": 100,
+              "expanded_url": "https://x.com/takami771251161/status/2066022518125916299/photo/1",
+              "media_key": "3_2066022509074661376",
+              "start": 77,
+              "url": "https://t.co/Lj6IA1XKnX"
+            },
+            {
+              "display_url": "pic.x.com/Lj6IA1XKnX",
+              "end": 100,
+              "expanded_url": "https://x.com/takami771251161/status/2066022518125916299/photo/1",
+              "media_key": "3_2066022509074665472",
+              "start": 77,
+              "url": "https://t.co/Lj6IA1XKnX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066022518125916299",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 1525,
+          "like_count": 146,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "以外に悪くないのでは?って思ったけど、\nはやてだけ大きさミスってた\n後ポーズがチャラかったのでは?\nどう思います?\n#リリカルなのは \n#なのはEXGV https://t.co/Lj6IA1XKnX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n伴侣 @octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1123,
+          "following_count": 963,
+          "like_count": 28588,
+          "listed_count": 1,
+          "media_count": 491,
+          "tweet_count": 4223
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-20T11:20:54.000Z",
+        "description": "アニメと声優と百合とが好きです。ゆるく絵描きます。好きなカプをぐるぐる周しながら描いてます",
+        "id": "4300324040",
+        "location": "大阪府",
+        "name": "くりぼう",
+        "pinned_tweet_id": "2057799929079468156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980909940135862272/E8HBKo92_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 654,
+          "like_count": 25106,
+          "listed_count": 19,
+          "media_count": 2805,
+          "tweet_count": 12502
+        },
+        "username": "takami771251161",
+        "verified": false
+      }
+    ]
+  }
+}

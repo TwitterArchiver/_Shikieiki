@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027178434019868672"
+      ],
+      "media_source_tweet_id": [
+        "2027178441443815586"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2027209843287986322",
+    "created_at": "2026-02-27T02:31:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T03:31:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027209843287986322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1809225283498893317",
+          "start": 3,
+          "username": "HaruhiGroyper"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CjOcYUAi24",
+          "end": 42,
+          "expanded_url": "https://x.com/HaruhiGroyper/status/2027178441443815586/photo/1",
+          "media_key": "3_2027178434019868672",
+          "start": 19,
+          "url": "https://t.co/CjOcYUAi24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027209843287986322",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027178441443815586",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HaruhiGroyper: https://t.co/CjOcYUAi24"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2027178434019868672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCH8C5gWQAAxY0u.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027178434019868672"
+          ],
+          "media_source_tweet_id": [
+            "2027178441443815586"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2027209843287986322",
+        "created_at": "2026-02-27T02:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T03:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027209843287986322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1809225283498893317",
+              "start": 3,
+              "username": "HaruhiGroyper"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CjOcYUAi24",
+              "end": 42,
+              "expanded_url": "https://x.com/HaruhiGroyper/status/2027178441443815586/photo/1",
+              "media_key": "3_2027178434019868672",
+              "start": 19,
+              "url": "https://t.co/CjOcYUAi24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027209843287986322",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027178441443815586",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HaruhiGroyper: https://t.co/CjOcYUAi24"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027178434019868672"
+          ]
+        },
+        "author_id": "1809225283498893317",
+        "conversation_id": "2027178441443815586",
+        "created_at": "2026-02-27T00:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T01:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027178441443815586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CjOcYUAi24",
+              "end": 23,
+              "expanded_url": "https://x.com/HaruhiGroyper/status/2027178441443815586/photo/1",
+              "media_key": "3_2027178434019868672",
+              "start": 0,
+              "url": "https://t.co/CjOcYUAi24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027178441443815586",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 2047,
+          "like_count": 301,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CjOcYUAi24"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 705,
+          "like_count": 21849,
+          "listed_count": 0,
+          "media_count": 351,
+          "tweet_count": 2600
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T13:58:34.000Z",
+        "description": "Haruhiism is a neo-otaku religion encompassing all moe pantheons non-interchangeably",
+        "id": "1809225283498893317",
+        "location": "https://haruhiist.substack.com",
+        "name": "The Author of Haruhiist Canon",
+        "pinned_tweet_id": "1811021344089276579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811020700817195008/zghS0bMj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1448,
+          "following_count": 400,
+          "like_count": 3408,
+          "listed_count": 6,
+          "media_count": 147,
+          "tweet_count": 902
+        },
+        "username": "HaruhiGroyper",
+        "verified": false
+      }
+    ]
+  }
+}

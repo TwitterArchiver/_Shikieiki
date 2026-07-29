@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063521336644014080"
+      ],
+      "media_source_tweet_id": [
+        "2063521341912019434"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2066149537992024067",
+    "created_at": "2026-06-14T13:23:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T14:23:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066149537992024067"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 16,
+          "tag": "フェイト・テスタロッサ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "970587078990774273",
+          "start": 3,
+          "username": "sammback_s"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r35yRmTsFe",
+          "end": 52,
+          "expanded_url": "https://x.com/sammback_s/status/2063521341912019434/photo/1",
+          "media_key": "3_2063521336644014080",
+          "start": 29,
+          "url": "https://t.co/r35yRmTsFe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066149537992024067",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063521341912019434",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sammback_s: #フェイト・テスタロッサ https://t.co/r35yRmTsFe"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2066149537992024067].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2066149537992024067",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2066149537992024067"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1608,
+        "media_key": "3_2063521336644014080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMZuQEbEAAff3r.jpg",
+        "width": 1743
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063521336644014080"
+          ]
+        },
+        "author_id": "970587078990774273",
+        "conversation_id": "2063521341912019434",
+        "created_at": "2026-06-07T07:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T08:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063521341912019434"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "フェイト・テスタロッサ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r35yRmTsFe",
+              "end": 36,
+              "expanded_url": "https://x.com/sammback_s/status/2063521341912019434/photo/1",
+              "media_key": "3_2063521336644014080",
+              "start": 13,
+              "url": "https://t.co/r35yRmTsFe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063521341912019434",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1755,
+          "like_count": 152,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "#フェイト・テスタロッサ https://t.co/r35yRmTsFe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n伴侣 @octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1123,
+          "following_count": 963,
+          "like_count": 28584,
+          "listed_count": 1,
+          "media_count": 491,
+          "tweet_count": 4220
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-05T09:09:27.000Z",
+        "description": "마법소녀 리리컬 나노하 / 페이트 최애 / 같이 나노페이하실 분 구합니다...젭알요.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/124951366",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/124951366",
+                "start": 0,
+                "url": "https://t.co/peSv5oSQ4l"
+              }
+            ]
+          }
+        },
+        "id": "970587078990774273",
+        "name": "불탄 가증 三百",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058163404398108672/FZq5Q5Uq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 441,
+          "like_count": 62305,
+          "listed_count": 10,
+          "media_count": 6755,
+          "tweet_count": 122116
+        },
+        "url": "https://t.co/peSv5oSQ4l",
+        "username": "sammback_s",
+        "verified": false
+      }
+    ]
+  }
+}

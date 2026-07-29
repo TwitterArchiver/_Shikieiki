@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023360583089995776"
+      ],
+      "media_source_tweet_id": [
+        "2023360604925542635"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2023383383544561791",
+    "created_at": "2026-02-16T13:06:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T14:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023383383544561791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1909452304312680450",
+          "start": 3,
+          "username": "rasukaze_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7gcC3IiSPI",
+          "end": 38,
+          "expanded_url": "https://x.com/rasukaze_/status/2023360604925542635/photo/1",
+          "media_key": "3_2023360583089995776",
+          "start": 15,
+          "url": "https://t.co/7gcC3IiSPI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023383383544561791",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023360604925542635",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rasukaze_: https://t.co/7gcC3IiSPI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4093,
+        "media_key": "3_2023360583089995776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBRruuebQAAE0uX.jpg",
+        "width": 2894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023360583089995776"
+          ],
+          "media_source_tweet_id": [
+            "2023360604925542635"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2023383383544561791",
+        "created_at": "2026-02-16T13:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T14:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023383383544561791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1909452304312680450",
+              "start": 3,
+              "username": "rasukaze_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7gcC3IiSPI",
+              "end": 38,
+              "expanded_url": "https://x.com/rasukaze_/status/2023360604925542635/photo/1",
+              "media_key": "3_2023360583089995776",
+              "start": 15,
+              "url": "https://t.co/7gcC3IiSPI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023383383544561791",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023360604925542635",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rasukaze_: https://t.co/7gcC3IiSPI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023360583089995776"
+          ]
+        },
+        "author_id": "1909452304312680450",
+        "conversation_id": "2023360604925542635",
+        "created_at": "2026-02-16T11:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T12:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023360604925542635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7gcC3IiSPI",
+              "end": 23,
+              "expanded_url": "https://x.com/rasukaze_/status/2023360604925542635/photo/1",
+              "media_key": "3_2023360583089995776",
+              "start": 0,
+              "url": "https://t.co/7gcC3IiSPI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023360604925542635",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 354,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7gcC3IiSPI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 678,
+          "like_count": 20120,
+          "listed_count": 0,
+          "media_count": 269,
+          "tweet_count": 2151
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T03:44:50.000Z",
+        "description": "フォロー外通知Off @rasurasu1022👈こっちにいるよ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "rasurasu1022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/rasu26_?igsh=N…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/rasu26_?igsh=NGVkZHhuc2RrY3hp&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/meJG42LYZD"
+              }
+            ]
+          }
+        },
+        "id": "1909452304312680450",
+        "name": "らすちゃん",
+        "pinned_tweet_id": "2012064157668163906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936016317967908864/9rhc2lYP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1511,
+          "following_count": 44,
+          "like_count": 1719,
+          "listed_count": 3,
+          "media_count": 158,
+          "tweet_count": 549
+        },
+        "url": "https://t.co/meJG42LYZD",
+        "username": "rasukaze_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2028283598814711808"
+      ],
+      "media_source_tweet_id": [
+        "2028283672214843770"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2028451583156220241",
+    "created_at": "2026-03-02T12:45:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T13:45:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028451583156220241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1861729083358339073",
+          "start": 3,
+          "username": "7_nolongerhuman"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XePNFyWlE3",
+          "end": 44,
+          "expanded_url": "https://x.com/7_nolongerhuman/status/2028283672214843770/video/1",
+          "media_key": "13_2028283598814711808",
+          "start": 21,
+          "url": "https://t.co/XePNFyWlE3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028451583156220241",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 425
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028283672214843770",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @7_nolongerhuman: https://t.co/XePNFyWlE3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27200,
+        "height": 720,
+        "media_key": "13_2028283598814711808",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2028283598814711808/img/TahD-OKzJSHhGog7.jpg",
+        "public_metrics": {
+          "view_count": 31826
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028283598814711808/vid/avc1/312x270/GcufHxP6zoZHld0K.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028283598814711808/vid/avc1/416x360/z9OqxtiVAUNhu1CY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028283598814711808/vid/avc1/834x720/rat5JIIXJ0VrUi1z.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2028283598814711808/pl/MrD1J77FhroXrrIf.m3u8"
+          }
+        ],
+        "width": 834
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2028283598814711808"
+          ],
+          "media_source_tweet_id": [
+            "2028283672214843770"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2028451583156220241",
+        "created_at": "2026-03-02T12:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T13:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028451583156220241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1861729083358339073",
+              "start": 3,
+              "username": "7_nolongerhuman"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XePNFyWlE3",
+              "end": 44,
+              "expanded_url": "https://x.com/7_nolongerhuman/status/2028283672214843770/video/1",
+              "media_key": "13_2028283598814711808",
+              "start": 21,
+              "url": "https://t.co/XePNFyWlE3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028451583156220241",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 425
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028283672214843770",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @7_nolongerhuman: https://t.co/XePNFyWlE3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2028283598814711808"
+          ]
+        },
+        "author_id": "1861729083358339073",
+        "conversation_id": "2028283672214843770",
+        "created_at": "2026-03-02T01:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T02:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028283672214843770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XePNFyWlE3",
+              "end": 23,
+              "expanded_url": "https://x.com/7_nolongerhuman/status/2028283672214843770/video/1",
+              "media_key": "13_2028283598814711808",
+              "start": 0,
+              "url": "https://t.co/XePNFyWlE3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028283672214843770",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 651,
+          "impression_count": 56575,
+          "like_count": 5304,
+          "quote_count": 5,
+          "reply_count": 21,
+          "retweet_count": 425
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XePNFyWlE3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 782,
+          "like_count": 22984,
+          "listed_count": 0,
+          "media_count": 404,
+          "tweet_count": 2954
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-27T11:09:49.000Z",
+        "description": "ah twitter.. welcome to my inner thoughts. i make youtube videos and stream sometimes ᕦ(ò_óˇ)ᕤ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nolongerhuman77.carrd.co",
+                "end": 23,
+                "expanded_url": "https://nolongerhuman77.carrd.co",
+                "start": 0,
+                "url": "https://t.co/gUxaciYMa9"
+              }
+            ]
+          }
+        },
+        "id": "1861729083358339073",
+        "name": "nolongerhuman_77",
+        "pinned_tweet_id": "2025788199700668693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022170679215632384/5Crctzfj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5168,
+          "following_count": 88,
+          "like_count": 2880,
+          "listed_count": 2,
+          "media_count": 150,
+          "tweet_count": 727
+        },
+        "url": "https://t.co/gUxaciYMa9",
+        "username": "7_nolongerhuman",
+        "verified": false
+      }
+    ]
+  }
+}

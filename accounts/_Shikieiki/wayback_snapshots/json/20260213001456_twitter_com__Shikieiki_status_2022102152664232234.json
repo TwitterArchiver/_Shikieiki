@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021937893997236224"
+      ],
+      "media_source_tweet_id": [
+        "2021937897017159882"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2022102152664232234",
+    "created_at": "2026-02-13T00:14:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T01:14:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022102152664232234"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 14,
+          "tag": "涼宮ハルヒの消失"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1742534840556376064",
+          "start": 3,
+          "username": "uittatia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2WgT73vRJz",
+          "end": 47,
+          "expanded_url": "https://x.com/uittatia/status/2021937897017159882/photo/1",
+          "media_key": "3_2021937893997236224",
+          "start": 24,
+          "url": "https://t.co/2WgT73vRJz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022102152664232234",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021937897017159882",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uittatia: #涼宮ハルヒの消失 https://t.co/2WgT73vRJz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1892,
+        "media_key": "3_2021937893997236224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA9dzUmbUAAAlFO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021937893997236224"
+          ],
+          "media_source_tweet_id": [
+            "2021937897017159882"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2022102152664232234",
+        "created_at": "2026-02-13T00:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T01:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022102152664232234"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 14,
+              "tag": "涼宮ハルヒの消失"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1742534840556376064",
+              "start": 3,
+              "username": "uittatia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2WgT73vRJz",
+              "end": 47,
+              "expanded_url": "https://x.com/uittatia/status/2021937897017159882/photo/1",
+              "media_key": "3_2021937893997236224",
+              "start": 24,
+              "url": "https://t.co/2WgT73vRJz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022102152664232234",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021937897017159882",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uittatia: #涼宮ハルヒの消失 https://t.co/2WgT73vRJz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021937893997236224"
+          ]
+        },
+        "author_id": "1742534840556376064",
+        "conversation_id": "2021937897017159882",
+        "created_at": "2026-02-12T13:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T14:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021937897017159882"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "涼宮ハルヒの消失"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2WgT73vRJz",
+              "end": 33,
+              "expanded_url": "https://x.com/uittatia/status/2021937897017159882/photo/1",
+              "media_key": "3_2021937893997236224",
+              "start": 10,
+              "url": "https://t.co/2WgT73vRJz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021937897017159882",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 4576,
+          "like_count": 553,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "#涼宮ハルヒの消失 https://t.co/2WgT73vRJz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 618,
+          "like_count": 19129,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 1789
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-03T13:14:39.000Z",
+        "description": "",
+        "id": "1742534840556376064",
+        "name": "tia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012378589862449152/7aqxUUNS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 4
+        },
+        "username": "uittatia",
+        "verified": false
+      }
+    ]
+  }
+}

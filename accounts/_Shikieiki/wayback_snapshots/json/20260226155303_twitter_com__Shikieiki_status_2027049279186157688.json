@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026915495430209536"
+      ],
+      "media_source_tweet_id": [
+        "2026915574564233661"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2027049279186157688",
+    "created_at": "2026-02-26T15:53:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T16:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027049279186157688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2023680483922767874",
+          "start": 3,
+          "username": "chamcham031"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jCvXkqXzT7",
+          "end": 44,
+          "expanded_url": "https://x.com/chamcham031/status/2026915574564233661/photo/1",
+          "media_key": "3_2026915495430209536",
+          "start": 21,
+          "url": "https://t.co/jCvXkqXzT7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027049279186157688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 900
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026915574564233661",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chamcham031: 女×男 https://t.co/jCvXkqXzT7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2496,
+        "media_key": "3_2026915495430209536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEM527aQAAOpX4.jpg",
+        "width": 3714
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026915495430209536"
+          ],
+          "media_source_tweet_id": [
+            "2026915574564233661"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2027049279186157688",
+        "created_at": "2026-02-26T15:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T16:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027049279186157688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2023680483922767874",
+              "start": 3,
+              "username": "chamcham031"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jCvXkqXzT7",
+              "end": 44,
+              "expanded_url": "https://x.com/chamcham031/status/2026915574564233661/photo/1",
+              "media_key": "3_2026915495430209536",
+              "start": 21,
+              "url": "https://t.co/jCvXkqXzT7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027049279186157688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 900
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026915574564233661",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chamcham031: 女×男 https://t.co/jCvXkqXzT7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026915495430209536"
+          ]
+        },
+        "author_id": "2023680483922767874",
+        "conversation_id": "2026915574564233661",
+        "created_at": "2026-02-26T07:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T08:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026915574564233661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jCvXkqXzT7",
+              "end": 27,
+              "expanded_url": "https://x.com/chamcham031/status/2026915574564233661/photo/1",
+              "media_key": "3_2026915495430209536",
+              "start": 4,
+              "url": "https://t.co/jCvXkqXzT7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026915574564233661",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1166,
+          "impression_count": 88431,
+          "like_count": 9256,
+          "quote_count": 62,
+          "reply_count": 3,
+          "retweet_count": 900
+        },
+        "reply_settings": "everyone",
+        "text": "女×男 https://t.co/jCvXkqXzT7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 706,
+          "like_count": 21836,
+          "listed_count": 0,
+          "media_count": 347,
+          "tweet_count": 2590
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T08:46:45.000Z",
+        "description": "INTJ Te-ILI(D) 5w6 3w2 8w7 sx/so LFVE",
+        "id": "2023680483922767874",
+        "location": "類型",
+        "name": "カツアゲ放題",
+        "pinned_tweet_id": "2023814491558064162",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 43,
+          "like_count": 380,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 683
+        },
+        "username": "chamcham031",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019849197340835840"
+      ],
+      "media_source_tweet_id": [
+        "2019849248389632331"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2019976243756822616",
+    "created_at": "2026-02-07T03:27:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T04:27:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019976243756822616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1121575448054337536",
+          "start": 3,
+          "username": "kuuma25_kuma"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s4OJkKTCPC",
+          "end": 41,
+          "expanded_url": "https://x.com/kuuma25_kuma/status/2019849248389632331/photo/1",
+          "media_key": "3_2019849197340835840",
+          "start": 18,
+          "url": "https://t.co/s4OJkKTCPC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019976243756822616",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 276
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019849248389632331",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuuma25_kuma: https://t.co/s4OJkKTCPC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 936,
+        "media_key": "3_2019849197340835840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAfyJLNbwAAfbT7.jpg",
+        "width": 724
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019849197340835840"
+          ],
+          "media_source_tweet_id": [
+            "2019849248389632331"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2019976243756822616",
+        "created_at": "2026-02-07T03:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T04:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019976243756822616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1121575448054337536",
+              "start": 3,
+              "username": "kuuma25_kuma"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s4OJkKTCPC",
+              "end": 41,
+              "expanded_url": "https://x.com/kuuma25_kuma/status/2019849248389632331/photo/1",
+              "media_key": "3_2019849197340835840",
+              "start": 18,
+              "url": "https://t.co/s4OJkKTCPC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019976243756822616",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 276
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019849248389632331",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuuma25_kuma: https://t.co/s4OJkKTCPC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019849197340835840"
+          ]
+        },
+        "author_id": "1121575448054337536",
+        "conversation_id": "2019849248389632331",
+        "created_at": "2026-02-06T19:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T20:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019849248389632331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s4OJkKTCPC",
+              "end": 23,
+              "expanded_url": "https://x.com/kuuma25_kuma/status/2019849248389632331/photo/1",
+              "media_key": "3_2019849197340835840",
+              "start": 0,
+              "url": "https://t.co/s4OJkKTCPC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019849248389632331",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 133,
+          "impression_count": 22415,
+          "like_count": 1677,
+          "quote_count": 5,
+          "reply_count": 8,
+          "retweet_count": 276
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/s4OJkKTCPC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 603,
+          "like_count": 18884,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 1561
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-26T00:43:19.000Z",
+        "description": "サークル名『すずらん牧場』 無断転載、画像の編集、AI学習禁止",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/kuuma25kuma",
+                "end": 23,
+                "expanded_url": "https://potofu.me/kuuma25kuma",
+                "start": 0,
+                "url": "https://t.co/Oz9A3EtMTE"
+              }
+            ]
+          }
+        },
+        "id": "1121575448054337536",
+        "location": "ご依頼は現在お受けしておりません🙇",
+        "name": "くまくま",
+        "pinned_tweet_id": "2019391733457645961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839762741818732544/7Yt57xSE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26019,
+          "following_count": 5440,
+          "like_count": 206928,
+          "listed_count": 278,
+          "media_count": 1723,
+          "tweet_count": 88450
+        },
+        "url": "https://t.co/Oz9A3EtMTE",
+        "username": "kuuma25_kuma",
+        "verified": true
+      }
+    ]
+  }
+}

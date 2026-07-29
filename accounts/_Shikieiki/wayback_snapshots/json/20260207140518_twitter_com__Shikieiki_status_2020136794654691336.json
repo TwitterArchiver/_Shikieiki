@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2020076346177892352"
+      ],
+      "media_source_tweet_id": [
+        "2020076412296999121"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2020136794654691336",
+    "created_at": "2026-02-07T14:05:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T15:05:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020136794654691336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "482942874",
+          "start": 3,
+          "username": "magia_nyangorou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x4QwIpghvU",
+          "end": 54,
+          "expanded_url": "https://x.com/magia_nyangorou/status/2020076412296999121/video/1",
+          "media_key": "13_2020076346177892352",
+          "start": 31,
+          "url": "https://t.co/x4QwIpghvU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020136794654691336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020076412296999121",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @magia_nyangorou: ほむふぁさターン💃 https://t.co/x4QwIpghvU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14820,
+        "height": 1920,
+        "media_key": "13_2020076346177892352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020076346177892352/img/a91hMW3JmyYRPmvx.jpg",
+        "public_metrics": {
+          "view_count": 1886
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020076346177892352/vid/avc1/320x568/6bjfk0v4yHNrx4u3.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020076346177892352/vid/avc1/480x852/22-z36HJfTWFyU8K.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020076346177892352/vid/avc1/1080x1920/uOT0i_SMkobtE3ct.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020076346177892352/pl/mnEp3UkBdcZcdLVo.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020076346177892352/vid/avc1/720x1280/uCsW0Bf6tGK4Y9rs.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020076346177892352"
+          ],
+          "media_source_tweet_id": [
+            "2020076412296999121"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2020136794654691336",
+        "created_at": "2026-02-07T14:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T15:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020136794654691336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "482942874",
+              "start": 3,
+              "username": "magia_nyangorou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x4QwIpghvU",
+              "end": 54,
+              "expanded_url": "https://x.com/magia_nyangorou/status/2020076412296999121/video/1",
+              "media_key": "13_2020076346177892352",
+              "start": 31,
+              "url": "https://t.co/x4QwIpghvU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020136794654691336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020076412296999121",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @magia_nyangorou: ほむふぁさターン💃 https://t.co/x4QwIpghvU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020076346177892352"
+          ]
+        },
+        "author_id": "482942874",
+        "conversation_id": "2020076412296999121",
+        "created_at": "2026-02-07T10:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T11:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020076412296999121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x4QwIpghvU",
+              "end": 33,
+              "expanded_url": "https://x.com/magia_nyangorou/status/2020076412296999121/video/1",
+              "media_key": "13_2020076346177892352",
+              "start": 10,
+              "url": "https://t.co/x4QwIpghvU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020076412296999121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 4799,
+          "like_count": 388,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "ほむふぁさターン💃 https://t.co/x4QwIpghvU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 611,
+          "like_count": 18922,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 1586
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-04T13:35:36.000Z",
+        "description": "僕と契約して魔法少女になってよ！ 日常垢@magia_nyangoro2 ゲーム垢@HOYO_nyangorou #あにマルず",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 57,
+                "tag": "あにマルず"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "magia_nyangoro2"
+              },
+              {
+                "end": 56,
+                "start": 41,
+                "username": "HOYO_nyangorou"
+              }
+            ]
+          }
+        },
+        "id": "482942874",
+        "location": "九州",
+        "name": "にゃんごろう😸",
+        "pinned_tweet_id": "2011734058364285337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891820933440208900/L0oKlIuo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18627,
+          "following_count": 684,
+          "like_count": 46219,
+          "listed_count": 172,
+          "media_count": 2488,
+          "tweet_count": 39064
+        },
+        "username": "magia_nyangorou",
+        "verified": true
+      }
+    ]
+  }
+}

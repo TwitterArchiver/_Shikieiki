@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024353483256741888"
+      ],
+      "media_source_tweet_id": [
+        "2024353487450948007"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303483003801202688",
+          "name": "Sake"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "id": "1303483003801202688",
+          "name": "Sake"
+        }
+      }
+    ],
+    "conversation_id": "2024850794827391059",
+    "created_at": "2026-02-20T14:17:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T15:17:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024850794827391059"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 40,
+          "normalized_text": "Magic for Someone's Sake",
+          "probability": 0.9082,
+          "start": 17,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1797477752934666240",
+          "start": 3,
+          "username": "ExedraMedia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KZvxfgjKkm",
+          "end": 65,
+          "expanded_url": "https://x.com/ExedraMedia/status/2024353487450948007/photo/1",
+          "media_key": "3_2024353483256741888",
+          "start": 42,
+          "url": "https://t.co/KZvxfgjKkm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024850794827391059",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 88
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024353487450948007",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ExedraMedia: Magic for Someone's Sake https://t.co/KZvxfgjKkm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 788,
+        "media_key": "3_2024353483256741888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBfyxH1XwAAc03C.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024353483256741888"
+          ],
+          "media_source_tweet_id": [
+            "2024353487450948007"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303483003801202688",
+              "name": "Sake"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1303483003801202688",
+              "name": "Sake"
+            }
+          }
+        ],
+        "conversation_id": "2024850794827391059",
+        "created_at": "2026-02-20T14:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T15:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024850794827391059"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 40,
+              "normalized_text": "Magic for Someone's Sake",
+              "probability": 0.9082,
+              "start": 17,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1797477752934666240",
+              "start": 3,
+              "username": "ExedraMedia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KZvxfgjKkm",
+              "end": 65,
+              "expanded_url": "https://x.com/ExedraMedia/status/2024353487450948007/photo/1",
+              "media_key": "3_2024353483256741888",
+              "start": 42,
+              "url": "https://t.co/KZvxfgjKkm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024850794827391059",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024353487450948007",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ExedraMedia: Magic for Someone's Sake https://t.co/KZvxfgjKkm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024353483256741888"
+          ]
+        },
+        "author_id": "1797477752934666240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303483003801202688",
+              "name": "Sake"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1303483003801202688",
+              "name": "Sake"
+            }
+          }
+        ],
+        "conversation_id": "2024353487450948007",
+        "created_at": "2026-02-19T05:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T06:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024353487450948007"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "Magic for Someone's Sake",
+              "probability": 0.8031,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KZvxfgjKkm",
+              "end": 48,
+              "expanded_url": "https://x.com/ExedraMedia/status/2024353487450948007/photo/1",
+              "media_key": "3_2024353483256741888",
+              "start": 25,
+              "url": "https://t.co/KZvxfgjKkm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024353487450948007",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 4218,
+          "like_count": 501,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "Magic for Someone's Sake https://t.co/KZvxfgjKkm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 690,
+          "like_count": 20808,
+          "listed_count": 0,
+          "media_count": 293,
+          "tweet_count": 2299
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T03:58:10.000Z",
+        "description": "Posting portraits from Magia Exedra every 3 hours! | Made with @GimmickBots",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 63,
+                "username": "GimmickBots"
+              }
+            ]
+          }
+        },
+        "id": "1797477752934666240",
+        "location": "last update: 2/19/26",
+        "name": "Magia Exedra Portrait bot",
+        "pinned_tweet_id": "1909031717576270330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024363933176373248/bD9tFIQ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2584,
+          "following_count": 19,
+          "like_count": 85,
+          "listed_count": 9,
+          "media_count": 2370,
+          "tweet_count": 2437
+        },
+        "username": "ExedraMedia",
+        "verified": false
+      }
+    ]
+  }
+}

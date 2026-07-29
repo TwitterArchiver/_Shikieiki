@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2008967029500354560"
+      ],
+      "media_source_tweet_id": [
+        "2008967068344000660"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2009479037220212907",
+    "created_at": "2026-01-09T04:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T05:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009479037220212907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1119752356831334400",
+          "start": 3,
+          "username": "meduka_ebooks"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GA1KcxSOye",
+          "end": 101,
+          "expanded_url": "https://x.com/meduka_ebooks/status/2008967068344000660/photo/1",
+          "media_key": "16_2008967029500354560",
+          "start": 78,
+          "url": "https://t.co/GA1KcxSOye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009479037220212907",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 288
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008967068344000660",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meduka_ebooks: Happy 15th anniversary to the anime that made me a lesbian https://t.co/GA1KcxSOye"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 338,
+        "media_key": "16_2008967029500354560",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G-FI3o7XIAATsSm.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G-FI3o7XIAATsSm.mp4"
+          }
+        ],
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2008967029500354560"
+          ],
+          "media_source_tweet_id": [
+            "2008967068344000660"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2009479037220212907",
+        "created_at": "2026-01-09T04:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T05:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009479037220212907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1119752356831334400",
+              "start": 3,
+              "username": "meduka_ebooks"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GA1KcxSOye",
+              "end": 101,
+              "expanded_url": "https://x.com/meduka_ebooks/status/2008967068344000660/photo/1",
+              "media_key": "16_2008967029500354560",
+              "start": 78,
+              "url": "https://t.co/GA1KcxSOye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009479037220212907",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 288
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008967068344000660",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meduka_ebooks: Happy 15th anniversary to the anime that made me a lesbian https://t.co/GA1KcxSOye"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2008967029500354560"
+          ]
+        },
+        "author_id": "1119752356831334400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2008967068344000660",
+        "created_at": "2026-01-07T18:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T19:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008967068344000660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GA1KcxSOye",
+              "end": 82,
+              "expanded_url": "https://x.com/meduka_ebooks/status/2008967068344000660/photo/1",
+              "media_key": "16_2008967029500354560",
+              "start": 59,
+              "url": "https://t.co/GA1KcxSOye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008967068344000660",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 21159,
+          "like_count": 2124,
+          "quote_count": 14,
+          "reply_count": 1,
+          "retweet_count": 288
+        },
+        "reply_settings": "everyone",
+        "text": "Happy 15th anniversary to the anime that made me a lesbian https://t.co/GA1KcxSOye"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 571,
+          "like_count": 17629,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1219
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-20T23:59:00.000Z",
+        "description": "Madoka ✧ *:･ﾟ✧*:･ﾟ︵‿︵‿୨♡୧ All content is mine unless stated otherwise, reposts are ok with credit",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "medukaebooks.straw.page",
+                "end": 23,
+                "expanded_url": "https://medukaebooks.straw.page/",
+                "start": 0,
+                "url": "https://t.co/RBytCM8nfQ"
+              }
+            ]
+          }
+        },
+        "id": "1119752356831334400",
+        "location": "mitakihara",
+        "name": "Madoka 💘",
+        "pinned_tweet_id": "1918299674915590594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873041349877891072/qxwucTnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20751,
+          "following_count": 145,
+          "like_count": 5932,
+          "listed_count": 30,
+          "media_count": 2310,
+          "tweet_count": 10518
+        },
+        "url": "https://t.co/RBytCM8nfQ",
+        "username": "meduka_ebooks",
+        "verified": false
+      }
+    ]
+  }
+}

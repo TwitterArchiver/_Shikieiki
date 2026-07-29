@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2026340614061830635",
+    "created_at": "2026-02-24T16:57:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T17:57:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026340614061830635"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 89,
+          "normalized_text": "Homura",
+          "probability": 0.4573,
+          "start": 84,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1564601404580323328",
+          "start": 3,
+          "username": "_veroons_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026340614061830635",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1327
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026005470922654142",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_veroons_: Words cannot express how much this scene devastated me\n\nthe crack in Homura's voice, that audible pain and sorrow during her…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 116565,
+        "height": 720,
+        "media_key": "7_2026005407538229250",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2026005407538229250/pu/img/mrKVaKhRgQHOzAGZ.jpg",
+        "public_metrics": {
+          "view_count": 50656
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026005407538229250/pu/vid/avc1/480x270/8UiiVRJgP4H8rQMp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026005407538229250/pu/vid/avc1/640x360/rqb-2oZ1dQk_hAnl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026005407538229250/pu/vid/avc1/1280x720/XguFm4kKA7fVD7a6.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2026005407538229250/pu/pl/g8x1Aze1eOu_mWWo.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2026340614061830635",
+        "created_at": "2026-02-24T16:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T17:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026340614061830635"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 89,
+              "normalized_text": "Homura",
+              "probability": 0.4573,
+              "start": 84,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1564601404580323328",
+              "start": 3,
+              "username": "_veroons_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026340614061830635",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1327
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026005470922654142",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_veroons_: Words cannot express how much this scene devastated me\n\nthe crack in Homura's voice, that audible pain and sorrow during her…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2026005407538229250"
+          ]
+        },
+        "author_id": "1564601404580323328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2026005470922654142",
+        "created_at": "2026-02-23T18:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T19:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026005470922654142"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 74,
+              "normalized_text": "Homura",
+              "probability": 0.5075,
+              "start": 69,
+              "type": "Person"
+            },
+            {
+              "end": 243,
+              "normalized_text": "madokamagica",
+              "probability": 0.6966,
+              "start": 232,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 244,
+              "start": 231,
+              "tag": "madokamagica"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PAcZRYuajB",
+              "end": 268,
+              "expanded_url": "https://x.com/_veroons_/status/2026005470922654142/video/1",
+              "media_key": "7_2026005407538229250",
+              "start": 245,
+              "url": "https://t.co/PAcZRYuajB"
+            },
+            {
+              "display_url": "x.com/TheCinesthetic…",
+              "end": 292,
+              "expanded_url": "https://twitter.com/TheCinesthetic/status/2025005045918695628",
+              "start": 269,
+              "url": "https://t.co/7a9oFkKGci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026005470922654142",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1525,
+          "impression_count": 140614,
+          "like_count": 7209,
+          "quote_count": 71,
+          "reply_count": 22,
+          "retweet_count": 1327
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025005045918695628",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Words cannot express how much this scene devastated me\n\nthe crack in Homura's voice, that audible pain and sorrow during her monologue, the mesmerizing visuals full of symbolism and the calm but haunting music as the cherry on top\n#madokamagica https://t.co/PAcZRYuajB https://t.co/7a9oFkKGci"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 695,
+          "like_count": 21340,
+          "listed_count": 0,
+          "media_count": 323,
+          "tweet_count": 2423
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-30T13:10:31.000Z",
+        "description": "❝A girl who cannot become a princess is doomed to become a witch.❞    she/her • 22 • lesbian • INFP • taurus • writer • artist • 🇵🇱\n\npl acc : @_veroon_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 142,
+                "username": "_veroon_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "veroons.straw.page",
+                "end": 23,
+                "expanded_url": "https://veroons.straw.page",
+                "start": 0,
+                "url": "https://t.co/TpzRcPpc0H"
+              }
+            ]
+          }
+        },
+        "id": "1564601404580323328",
+        "name": "ver🌹",
+        "pinned_tweet_id": "1854664252037922892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850532851034247168/7ifLKi4g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1989,
+          "following_count": 715,
+          "like_count": 54326,
+          "listed_count": 14,
+          "media_count": 1508,
+          "tweet_count": 10249
+        },
+        "url": "https://t.co/TpzRcPpc0H",
+        "username": "_veroons_",
+        "verified": false
+      }
+    ]
+  }
+}

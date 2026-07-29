@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2008743780627951616"
+      ],
+      "media_source_tweet_id": [
+        "2008788943542653115"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2009179153309061337",
+    "created_at": "2026-01-08T08:23:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T09:23:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009179153309061337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1365328795972952064",
+          "start": 3,
+          "username": "catshealdeprsn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zmO2MkpbIS",
+          "end": 43,
+          "expanded_url": "https://x.com/catshealdeprsn/status/2008788943542653115/video/1",
+          "media_key": "13_2008743780627951616",
+          "start": 20,
+          "url": "https://t.co/zmO2MkpbIS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009179153309061337",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1147
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008788943542653115",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @catshealdeprsn: https://t.co/zmO2MkpbIS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12544,
+        "height": 974,
+        "media_key": "13_2008743780627951616",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2008743780627951616/img/cMIXqrgKu6xa6lyo.jpg",
+        "public_metrics": {
+          "view_count": 47647
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008743780627951616/vid/avc1/320x568/nkW1lE_kRLcfFwO1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008743780627951616/vid/avc1/480x852/cjNHE_Di5pubGIPA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008743780627951616/vid/avc1/548x974/WU0eftr8stjHPLME.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2008743780627951616/pl/sr2ggk3xi8-O5cPA.m3u8"
+          }
+        ],
+        "width": 548
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2008743780627951616"
+          ],
+          "media_source_tweet_id": [
+            "2008788943542653115"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2009179153309061337",
+        "created_at": "2026-01-08T08:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T09:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009179153309061337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1365328795972952064",
+              "start": 3,
+              "username": "catshealdeprsn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zmO2MkpbIS",
+              "end": 43,
+              "expanded_url": "https://x.com/catshealdeprsn/status/2008788943542653115/video/1",
+              "media_key": "13_2008743780627951616",
+              "start": 20,
+              "url": "https://t.co/zmO2MkpbIS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009179153309061337",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1147
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008788943542653115",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @catshealdeprsn: https://t.co/zmO2MkpbIS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2008743780627951616"
+          ]
+        },
+        "author_id": "1365328795972952064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          }
+        ],
+        "conversation_id": "2008788943542653115",
+        "created_at": "2026-01-07T06:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T07:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008788943542653115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zmO2MkpbIS",
+              "end": 23,
+              "expanded_url": "https://x.com/catshealdeprsn/status/2008788943542653115/video/1",
+              "media_key": "13_2008743780627951616",
+              "start": 0,
+              "url": "https://t.co/zmO2MkpbIS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008788943542653115",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 722,
+          "impression_count": 105223,
+          "like_count": 8711,
+          "quote_count": 15,
+          "reply_count": 10,
+          "retweet_count": 1147
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zmO2MkpbIS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 563,
+          "like_count": 17334,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1181
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-26T15:52:20.000Z",
+        "description": "Get your daily dose of cats . i don't own any content. all rights belong to owner. Dm for credit/removal",
+        "id": "1365328795972952064",
+        "location": "United States",
+        "name": "cats with powerful impression 🐾",
+        "pinned_tweet_id": "2008606994538917946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982451693821333504/HdNUEA1c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238317,
+          "following_count": 111,
+          "like_count": 2539,
+          "listed_count": 3093,
+          "media_count": 15623,
+          "tweet_count": 18863
+        },
+        "username": "catshealdeprsn",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2047930489940635649"
+      ],
+      "media_source_tweet_id": [
+        "2047930557003415589"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2048208161019244567",
+    "created_at": "2026-04-26T01:10:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T02:10:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048208161019244567"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 15,
+          "tag": "超コスプレ"
+        },
+        {
+          "end": 34,
+          "start": 22,
+          "tag": "ニコニコ超会議2026"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1675699280806572032",
+          "start": 3,
+          "username": "tuisura21"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sy3MgNqVr5",
+          "end": 58,
+          "expanded_url": "https://x.com/tuisura21/status/2047930557003415589/video/1",
+          "media_key": "13_2047930489940635649",
+          "start": 35,
+          "url": "https://t.co/sy3MgNqVr5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048208161019244567",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2755
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047930557003415589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tuisura21: #超コスプレ\n#ニコニコ超会議2026 https://t.co/sy3MgNqVr5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8533,
+        "height": 1280,
+        "media_key": "13_2047930489940635649",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047930489940635649/img/tInc5e3ly6guThNl.jpg",
+        "public_metrics": {
+          "view_count": 151717
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047930489940635649/vid/avc1/320x568/JJtf8VUNMXl9werb.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047930489940635649/vid/avc1/480x852/gBU0WO2wCnkm15Zw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047930489940635649/vid/avc1/720x1280/iwxMvc60zbAim8Xt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047930489940635649/pl/U0UF_E7upOy1odzw.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047930489940635649"
+          ],
+          "media_source_tweet_id": [
+            "2047930557003415589"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048208161019244567",
+        "created_at": "2026-04-26T01:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T02:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048208161019244567"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "超コスプレ"
+            },
+            {
+              "end": 34,
+              "start": 22,
+              "tag": "ニコニコ超会議2026"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1675699280806572032",
+              "start": 3,
+              "username": "tuisura21"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sy3MgNqVr5",
+              "end": 58,
+              "expanded_url": "https://x.com/tuisura21/status/2047930557003415589/video/1",
+              "media_key": "13_2047930489940635649",
+              "start": 35,
+              "url": "https://t.co/sy3MgNqVr5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048208161019244567",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2755
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047930557003415589",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tuisura21: #超コスプレ\n#ニコニコ超会議2026 https://t.co/sy3MgNqVr5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047930489940635649"
+          ]
+        },
+        "author_id": "1675699280806572032",
+        "conversation_id": "2047930557003415589",
+        "created_at": "2026-04-25T06:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T07:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047930557003415589"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "超コスプレ"
+            },
+            {
+              "end": 19,
+              "start": 7,
+              "tag": "ニコニコ超会議2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sy3MgNqVr5",
+              "end": 43,
+              "expanded_url": "https://x.com/tuisura21/status/2047930557003415589/video/1",
+              "media_key": "13_2047930489940635649",
+              "start": 20,
+              "url": "https://t.co/sy3MgNqVr5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047930557003415589",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1815,
+          "impression_count": 510578,
+          "like_count": 20132,
+          "quote_count": 180,
+          "reply_count": 86,
+          "retweet_count": 2755
+        },
+        "reply_settings": "everyone",
+        "text": "#超コスプレ\n#ニコニコ超会議2026 https://t.co/sy3MgNqVr5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2047351982030258527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 866,
+          "like_count": 26510,
+          "listed_count": 1,
+          "media_count": 418,
+          "tweet_count": 3553
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-03T02:54:44.000Z",
+        "description": "コスプレもうすぐ4年目 なんか物騒なコスプレやってる人です。造形は動かして光らせるを念頭に置いて全力でやってます！ ジャンプ・原神・メイアビのコスプレメインです",
+        "id": "1675699280806572032",
+        "name": "ついすら",
+        "pinned_tweet_id": "1787424525673791867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718674824757993472/spd0QaiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1494,
+          "following_count": 266,
+          "like_count": 5512,
+          "listed_count": 8,
+          "media_count": 369,
+          "tweet_count": 2053
+        },
+        "username": "tuisura21",
+        "verified": false
+      }
+    ]
+  }
+}

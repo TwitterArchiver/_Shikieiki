@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2003123663453950182",
+    "created_at": "2025-12-22T15:21:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T16:21:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003123663453950182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1782767375000969217",
+          "start": 3,
+          "username": "IZAYOI_841"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003123663453950182",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002738666192724365",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IZAYOI_841: 自殺したい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2003123663453950182",
+        "created_at": "2025-12-22T15:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T16:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003123663453950182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1782767375000969217",
+              "start": 3,
+              "username": "IZAYOI_841"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003123663453950182",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002738666192724365",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IZAYOI_841: 自殺したい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782767375000969217",
+        "conversation_id": "2002738666192724365",
+        "created_at": "2025-12-21T13:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T14:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002738666192724365"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002738666192724365",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5069,
+          "like_count": 392,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "自殺したい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "1842867034050441268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 394,
+          "like_count": 7010,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 274
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-23T13:44:11.000Z",
+        "description": "07:死にたい:不登校:高校休学中:",
+        "id": "1782767375000969217",
+        "name": "m",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794805403437629440/hL9kZoM9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 826,
+          "like_count": 43771,
+          "listed_count": 8,
+          "media_count": 9,
+          "tweet_count": 5735
+        },
+        "username": "IZAYOI_841",
+        "verified": false
+      }
+    ]
+  }
+}

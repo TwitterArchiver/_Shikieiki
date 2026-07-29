@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1995274199577899008"
+      ],
+      "media_source_tweet_id": [
+        "1995274216694804904"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1995903580793110703",
+    "created_at": "2025-12-02T17:11:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T18:11:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995903580793110703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2894045490",
+          "start": 3,
+          "username": "real_hotaru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QM24j9szhn",
+          "end": 40,
+          "expanded_url": "https://x.com/real_hotaru/status/1995274216694804904/video/1",
+          "media_key": "13_1995274199577899008",
+          "start": 17,
+          "url": "https://t.co/QM24j9szhn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995903580793110703",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4525
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995274216694804904",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @real_hotaru: https://t.co/QM24j9szhn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6866,
+        "height": 576,
+        "media_key": "13_1995274199577899008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1995274199577899008/img/fM1DxphRFjGTKGWS.jpg",
+        "public_metrics": {
+          "view_count": 101249
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995274199577899008/vid/avc1/320x320/tFsW1kzhVfL7loIg.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995274199577899008/vid/avc1/576x576/i7omDbXsw1SocOXj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1995274199577899008/pl/j_oY5Flrkn1g2_Qd.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1995274199577899008"
+          ],
+          "media_source_tweet_id": [
+            "1995274216694804904"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1995903580793110703",
+        "created_at": "2025-12-02T17:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T18:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995903580793110703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2894045490",
+              "start": 3,
+              "username": "real_hotaru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QM24j9szhn",
+              "end": 40,
+              "expanded_url": "https://x.com/real_hotaru/status/1995274216694804904/video/1",
+              "media_key": "13_1995274199577899008",
+              "start": 17,
+              "url": "https://t.co/QM24j9szhn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995903580793110703",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4525
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995274216694804904",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @real_hotaru: https://t.co/QM24j9szhn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1995274199577899008"
+          ]
+        },
+        "author_id": "2894045490",
+        "conversation_id": "1995274216694804904",
+        "created_at": "2025-11-30T23:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T00:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995274216694804904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QM24j9szhn",
+              "end": 23,
+              "expanded_url": "https://x.com/real_hotaru/status/1995274216694804904/video/1",
+              "media_key": "13_1995274199577899008",
+              "start": 0,
+              "url": "https://t.co/QM24j9szhn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995274216694804904",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1987,
+          "impression_count": 235014,
+          "like_count": 18917,
+          "quote_count": 76,
+          "reply_count": 28,
+          "retweet_count": 4525
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QM24j9szhn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "1842867034050441268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 355,
+          "like_count": 6317,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 152
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-08T20:05:46.000Z",
+        "description": "Busy ｜ Occasional artist｜MMA enthusiast ｜@nbuna_staff ‘s biggest fan ∥ 過労死｜可愛いものが好き｜Likes and retweets ≠ endorsement ｜🌲｜Block = You're Cringe / Fake / Larper",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 41,
+                "username": "nbuna_staff"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/hotaru3art",
+                "end": 23,
+                "expanded_url": "http://ko-fi.com/hotaru3art",
+                "start": 0,
+                "url": "https://t.co/m2PUrLc0oJ"
+              }
+            ]
+          }
+        },
+        "id": "2894045490",
+        "location": "知らん",
+        "name": "唯我独尊・宮内蛍",
+        "pinned_tweet_id": "1673310231927967750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790450224319610881/diz6GDXm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58800,
+          "following_count": 550,
+          "like_count": 144573,
+          "listed_count": 126,
+          "media_count": 13756,
+          "tweet_count": 21336
+        },
+        "url": "https://t.co/m2PUrLc0oJ",
+        "username": "real_hotaru",
+        "verified": true
+      }
+    ]
+  }
+}

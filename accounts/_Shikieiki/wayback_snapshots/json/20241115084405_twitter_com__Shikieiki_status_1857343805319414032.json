@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "1857343805319414032",
+    "created_at": "2024-11-15T08:44:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T09:44:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857343805319414032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "452072245",
+          "start": 3,
+          "username": "lxfater"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857343805319414032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 311
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856883360259609067",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lxfater: 朋友们，我告诉你，把睡眠放在第一位，你生活中的一切都会改善。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "1857343805319414032",
+        "created_at": "2024-11-15T08:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T09:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857343805319414032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "452072245",
+              "start": 3,
+              "username": "lxfater"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857343805319414032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 311
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856883360259609067",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lxfater: 朋友们，我告诉你，把睡眠放在第一位，你生活中的一切都会改善。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "452072245",
+        "conversation_id": "1856883360259609067",
+        "created_at": "2024-11-14T02:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T03:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856883360259609067"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1856883360259609067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 349,
+          "impression_count": 376805,
+          "like_count": 3003,
+          "quote_count": 35,
+          "reply_count": 121,
+          "retweet_count": 311
+        },
+        "reply_settings": "everyone",
+        "text": "朋友们，我告诉你，把睡眠放在第一位，你生活中的一切都会改善。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "1842867034050441268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 272,
+          "like_count": 5078,
+          "listed_count": 0,
+          "tweet_count": 36
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-01T11:26:00.000Z",
+        "description": "铁头程序员在尝试如何赚钱和提问 /\n微信咨询：tiechuiren101 /\n效果最好的批量去背景软件：https://t.co/QzXC0cMvLm /\n最丝滑的录屏软件：https://t.co/ocH0HxCeV2 /\ngithub(9k):  https://t.co/ytvQf2n1Pm /",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tinyeraser.com",
+                "end": 75,
+                "expanded_url": "https://www.tinyeraser.com",
+                "start": 52,
+                "url": "https://t.co/QzXC0cMvLm"
+              },
+              {
+                "display_url": "demoget.com",
+                "end": 110,
+                "expanded_url": "https://www.demoget.com",
+                "start": 87,
+                "url": "https://t.co/ocH0HxCeV2"
+              },
+              {
+                "display_url": "github.com/lxfater",
+                "end": 149,
+                "expanded_url": "https://github.com/lxfater",
+                "start": 126,
+                "url": "https://t.co/ytvQf2n1Pm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/lxfater",
+                "end": 23,
+                "expanded_url": "http://github.com/lxfater",
+                "start": 0,
+                "url": "https://t.co/VZKpvjSs38"
+              }
+            ]
+          }
+        },
+        "id": "452072245",
+        "location": "梦开始的地方",
+        "name": "铁锤人",
+        "pinned_tweet_id": "1849299675284971897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723719195995807744/9JIAjVJr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37340,
+          "following_count": 852,
+          "like_count": 2120,
+          "listed_count": 419,
+          "tweet_count": 5450
+        },
+        "url": "https://t.co/VZKpvjSs38",
+        "username": "lxfater",
+        "verified": false
+      }
+    ]
+  }
+}

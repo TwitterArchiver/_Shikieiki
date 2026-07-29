@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007842605367693312"
+      ],
+      "media_source_tweet_id": [
+        "2007842619267969525"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2008036497912656263",
+    "created_at": "2026-01-05T04:43:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T05:43:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008036497912656263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1950234362319982592",
+          "start": 3,
+          "username": "kitakawadaily"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4PcKwXm5iM",
+          "end": 42,
+          "expanded_url": "https://x.com/kitakawadaily/status/2007842619267969525/photo/1",
+          "media_key": "3_2007842605367693312",
+          "start": 19,
+          "url": "https://t.co/4PcKwXm5iM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008036497912656263",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 401
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007842619267969525",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kitakawadaily: https://t.co/4PcKwXm5iM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2007842605367693312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G91KNinWEAAyCHI.png",
+        "width": 1115
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007842605367693312"
+          ],
+          "media_source_tweet_id": [
+            "2007842619267969525"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2008036497912656263",
+        "created_at": "2026-01-05T04:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T05:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008036497912656263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1950234362319982592",
+              "start": 3,
+              "username": "kitakawadaily"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4PcKwXm5iM",
+              "end": 42,
+              "expanded_url": "https://x.com/kitakawadaily/status/2007842619267969525/photo/1",
+              "media_key": "3_2007842605367693312",
+              "start": 19,
+              "url": "https://t.co/4PcKwXm5iM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008036497912656263",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 401
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007842619267969525",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kitakawadaily: https://t.co/4PcKwXm5iM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007842605367693312"
+          ]
+        },
+        "author_id": "1950234362319982592",
+        "conversation_id": "2007842619267969525",
+        "created_at": "2026-01-04T15:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T16:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007842619267969525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4PcKwXm5iM",
+              "end": 23,
+              "expanded_url": "https://x.com/kitakawadaily/status/2007842619267969525/photo/1",
+              "media_key": "3_2007842605367693312",
+              "start": 0,
+              "url": "https://t.co/4PcKwXm5iM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007842619267969525",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 462,
+          "impression_count": 44530,
+          "like_count": 4741,
+          "quote_count": 15,
+          "reply_count": 7,
+          "retweet_count": 401
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4PcKwXm5iM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 526,
+          "like_count": 15152,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 958
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-29T16:38:15.000Z",
+        "description": "˚.🐰 a #きたかわ fanpage ♡ ⑅ @_0mn0 all credits ꒱ྀི",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 6,
+                "tag": "きたかわ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 30,
+                "start": 24,
+                "username": "_0mn0"
+              }
+            ]
+          }
+        },
+        "id": "1950234362319982592",
+        "location": "ic: y_atenaba ⠀ ♪ ⠀ 1 admin ",
+        "name": "daily kitakawa ❤︎ ᩙ᜔",
+        "pinned_tweet_id": "1992254876869607649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007786043383201792/3TMwox9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2067,
+          "following_count": 7,
+          "like_count": 468,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 59
+        },
+        "username": "kitakawadaily",
+        "verified": false
+      }
+    ]
+  }
+}

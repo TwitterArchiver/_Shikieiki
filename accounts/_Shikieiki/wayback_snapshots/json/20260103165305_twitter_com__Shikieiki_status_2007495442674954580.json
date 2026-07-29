@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2007425037335416836",
+    "created_at": "2026-01-03T16:53:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T17:53:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007495442674954580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1291122811704971264",
+          "start": 0,
+          "username": "lingmengfin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007495442674954580",
+    "in_reply_to_user_id": "1291122811704971264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007495266946166938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingmengfin 哇哇我被控制了💖🥺💖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2007425037335416836",
+        "created_at": "2026-01-03T16:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T17:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007495442674954580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1291122811704971264",
+              "start": 0,
+              "username": "lingmengfin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007495442674954580",
+        "in_reply_to_user_id": "1291122811704971264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007495266946166938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingmengfin 哇哇我被控制了💖🥺💖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1291122811704971264",
+        "conversation_id": "2007425037335416836",
+        "created_at": "2026-01-03T16:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T17:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007495266946166938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1448206950903255040",
+              "start": 0,
+              "username": "_Shikieiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007495266946166938",
+        "in_reply_to_user_id": "1448206950903255040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007425037335416836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Shikieiki 你是吾的所有物✡️  好霸道🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 514,
+          "like_count": 14165,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 849
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-05T21:24:17.000Z",
+        "description": "每天emo中 精品神药收集🐿️ ；",
+        "id": "1291122811704971264",
+        "name": "泠梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844792077462499328/0TxRDFsd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 25,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 155
+        },
+        "username": "lingmengfin",
+        "verified": false
+      }
+    ]
+  }
+}

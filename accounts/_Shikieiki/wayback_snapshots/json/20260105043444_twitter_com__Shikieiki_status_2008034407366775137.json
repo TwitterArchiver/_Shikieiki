@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966167831055073280"
+      ],
+      "media_source_tweet_id": [
+        "1966167837191594039"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2008034407366775137",
+    "created_at": "2026-01-05T04:34:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T05:34:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008034407366775137"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 35,
+          "tag": "きたない君がいちばんかわいい"
+        },
+        {
+          "end": 57,
+          "start": 52,
+          "tag": "きたかわ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1884241146517561344",
+          "start": 3,
+          "username": "kkiinkk"
+        },
+        {
+          "end": 34,
+          "id": "1796097055653249025",
+          "start": 25,
+          "username": "gattani0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4nPXzEm1c3",
+          "end": 81,
+          "expanded_url": "https://x.com/kkiinkk/status/1966167837191594039/photo/1",
+          "media_key": "3_1966167831055073280",
+          "start": 58,
+          "url": "https://t.co/4nPXzEm1c3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008034407366775137",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 322
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966167837191594039",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kkiinkk: ( ꜆⌯' '⌯)꜆♡ @gattani0 #きたない君がいちばんかわいい  #きたかわ https://t.co/4nPXzEm1c3"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [gattani0].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "gattani0",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "gattani0"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1091,
+        "media_key": "3_1966167831055073280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0k7OaLWgAAS8cN.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966167831055073280"
+          ],
+          "media_source_tweet_id": [
+            "1966167837191594039"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2008034407366775137",
+        "created_at": "2026-01-05T04:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T05:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008034407366775137"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 35,
+              "tag": "きたない君がいちばんかわいい"
+            },
+            {
+              "end": 57,
+              "start": 52,
+              "tag": "きたかわ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1884241146517561344",
+              "start": 3,
+              "username": "kkiinkk"
+            },
+            {
+              "end": 34,
+              "id": "1796097055653249025",
+              "start": 25,
+              "username": "gattani0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4nPXzEm1c3",
+              "end": 81,
+              "expanded_url": "https://x.com/kkiinkk/status/1966167837191594039/photo/1",
+              "media_key": "3_1966167831055073280",
+              "start": 58,
+              "url": "https://t.co/4nPXzEm1c3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008034407366775137",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 322
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966167837191594039",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kkiinkk: ( ꜆⌯' '⌯)꜆♡ @gattani0 #きたない君がいちばんかわいい  #きたかわ https://t.co/4nPXzEm1c3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966167831055073280"
+          ]
+        },
+        "author_id": "1884241146517561344",
+        "conversation_id": "1966167837191594039",
+        "created_at": "2025-09-11T15:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T16:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966167837191594039"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 22,
+              "tag": "きたない君がいちばんかわいい"
+            },
+            {
+              "end": 44,
+              "start": 39,
+              "tag": "きたかわ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1796097055653249025",
+              "start": 12,
+              "username": "gattani0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4nPXzEm1c3",
+              "end": 68,
+              "expanded_url": "https://x.com/kkiinkk/status/1966167837191594039/photo/1",
+              "media_key": "3_1966167831055073280",
+              "start": 45,
+              "url": "https://t.co/4nPXzEm1c3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966167837191594039",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 196,
+          "impression_count": 40955,
+          "like_count": 1865,
+          "quote_count": 9,
+          "reply_count": 7,
+          "retweet_count": 322
+        },
+        "reply_settings": "everyone",
+        "text": "( ꜆⌯' '⌯)꜆♡ @gattani0 #きたない君がいちばんかわいい  #きたかわ https://t.co/4nPXzEm1c3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 526,
+          "like_count": 15143,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 954
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-28T14:04:46.000Z",
+        "description": "Matching with my gf @gatttani🫀 big kitakawa fan 🍼🦗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "gatttani"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/kkiinkk",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/kkiinkk",
+                "start": 0,
+                "url": "https://t.co/r0cSlcVdQ9"
+              }
+            ]
+          }
+        },
+        "id": "1884241146517561344",
+        "location": "𝐸  ʚ♡ྀིɞ",
+        "name": "𓊆ྀི𝓗𝓲𝓷𝓪𓊇ྀི",
+        "pinned_tweet_id": "2007593977466544438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988190428215050240/61wY9k7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2398,
+          "following_count": 422,
+          "like_count": 5265,
+          "listed_count": 2,
+          "media_count": 544,
+          "tweet_count": 1286
+        },
+        "url": "https://t.co/r0cSlcVdQ9",
+        "username": "kkiinkk",
+        "verified": false
+      }
+    ]
+  }
+}

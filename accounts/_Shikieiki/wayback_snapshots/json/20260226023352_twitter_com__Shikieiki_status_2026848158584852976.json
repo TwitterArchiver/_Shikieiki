@@ -1,0 +1,483 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026671173887733762"
+      ],
+      "media_source_tweet_id": [
+        "2026671216711577923"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10041843402",
+          "name": "化物語"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1114172178935582720",
+          "name": "Monogatari Series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1114172178935582720",
+          "name": "Monogatari Series"
+        }
+      }
+    ],
+    "conversation_id": "2026848158584852976",
+    "created_at": "2026-02-26T02:33:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T03:33:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026848158584852976"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 12,
+          "tag": "物語シリーズ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1650011657647833088",
+          "start": 3,
+          "username": "NlckTq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ro3gw7PmFP",
+          "end": 43,
+          "expanded_url": "https://x.com/NlckTq/status/2026671216711577923/photo/1",
+          "media_key": "3_2026671173887733762",
+          "start": 20,
+          "url": "https://t.co/Ro3gw7PmFP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026848158584852976",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 370
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026671216711577923",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NlckTq: #物語シリーズ https://t.co/Ro3gw7PmFP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4011,
+        "media_key": "3_2026671173887733762",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCAuseQaMAIKWbY.jpg",
+        "width": 3456
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026671173887733762"
+          ],
+          "media_source_tweet_id": [
+            "2026671216711577923"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10041843402",
+              "name": "化物語"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1114172178935582720",
+              "name": "Monogatari Series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1114172178935582720",
+              "name": "Monogatari Series"
+            }
+          }
+        ],
+        "conversation_id": "2026848158584852976",
+        "created_at": "2026-02-26T02:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T03:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026848158584852976"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 12,
+              "tag": "物語シリーズ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1650011657647833088",
+              "start": 3,
+              "username": "NlckTq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ro3gw7PmFP",
+              "end": 43,
+              "expanded_url": "https://x.com/NlckTq/status/2026671216711577923/photo/1",
+              "media_key": "3_2026671173887733762",
+              "start": 20,
+              "url": "https://t.co/Ro3gw7PmFP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026848158584852976",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 370
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026671216711577923",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NlckTq: #物語シリーズ https://t.co/Ro3gw7PmFP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026671173887733762"
+          ]
+        },
+        "author_id": "1650011657647833088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10041843402",
+              "name": "化物語"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1114172178935582720",
+              "name": "Monogatari Series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1114172178935582720",
+              "name": "Monogatari Series"
+            }
+          }
+        ],
+        "conversation_id": "2026671216711577923",
+        "created_at": "2026-02-25T14:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T15:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026671216711577923"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "物語シリーズ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ro3gw7PmFP",
+              "end": 31,
+              "expanded_url": "https://x.com/NlckTq/status/2026671216711577923/photo/1",
+              "media_key": "3_2026671173887733762",
+              "start": 8,
+              "url": "https://t.co/Ro3gw7PmFP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026671216711577923",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 292,
+          "impression_count": 24620,
+          "like_count": 2331,
+          "quote_count": 17,
+          "reply_count": 2,
+          "retweet_count": 370
+        },
+        "reply_settings": "everyone",
+        "text": "#物語シリーズ https://t.co/Ro3gw7PmFP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 702,
+          "like_count": 21689,
+          "listed_count": 0,
+          "media_count": 337,
+          "tweet_count": 2530
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-23T05:40:17.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/nlcktq?igsh=OH…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/nlcktq?igsh=OHlmNzBmbmM5aHNq",
+                "start": 0,
+                "url": "https://t.co/HKClAQTTB3"
+              }
+            ]
+          }
+        },
+        "id": "1650011657647833088",
+        "name": "은성",
+        "pinned_tweet_id": "2004307375814258797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892295098496667649/NeIV7N6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6861,
+          "following_count": 53,
+          "like_count": 686,
+          "listed_count": 15,
+          "media_count": 33,
+          "tweet_count": 103
+        },
+        "url": "https://t.co/HKClAQTTB3",
+        "username": "NlckTq",
+        "verified": false
+      }
+    ]
+  }
+}

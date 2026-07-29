@@ -1,0 +1,464 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2028340931225960644",
+    "created_at": "2026-03-02T05:25:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T06:25:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028340931225960644"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "homura",
+          "probability": 0.6389,
+          "start": 16,
+          "type": "Other"
+        },
+        {
+          "end": 69,
+          "normalized_text": "madoka",
+          "probability": 0.6692,
+          "start": 64,
+          "type": "Other"
+        },
+        {
+          "end": 86,
+          "normalized_text": "homura",
+          "probability": 0.5967,
+          "start": 81,
+          "type": "Other"
+        },
+        {
+          "end": 126,
+          "normalized_text": "madoka",
+          "probability": 0.5123,
+          "start": 121,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1355386468601102336",
+          "start": 3,
+          "username": "mdhmpilled"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028340931225960644",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028269329234727225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mdhmpilled: homura loves being beaten so much that whenever madoka hits her, homura secretly stops time and purifies madoka soul gem so…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2028340931225960644",
+        "created_at": "2026-03-02T05:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T06:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028340931225960644"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "homura",
+              "probability": 0.6389,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 69,
+              "normalized_text": "madoka",
+              "probability": 0.6692,
+              "start": 64,
+              "type": "Other"
+            },
+            {
+              "end": 86,
+              "normalized_text": "homura",
+              "probability": 0.5967,
+              "start": 81,
+              "type": "Other"
+            },
+            {
+              "end": 126,
+              "normalized_text": "madoka",
+              "probability": 0.5123,
+              "start": 121,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1355386468601102336",
+              "start": 3,
+              "username": "mdhmpilled"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028340931225960644",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028269329234727225",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mdhmpilled: homura loves being beaten so much that whenever madoka hits her, homura secretly stops time and purifies madoka soul gem so…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1355386468601102336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2028269329234727225",
+        "created_at": "2026-03-02T00:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T01:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028269329234727225"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "homura",
+              "probability": 0.6832,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 53,
+              "normalized_text": "madoka",
+              "probability": 0.7002,
+              "start": 48,
+              "type": "Other"
+            },
+            {
+              "end": 70,
+              "normalized_text": "homura",
+              "probability": 0.6232,
+              "start": 65,
+              "type": "Other"
+            },
+            {
+              "end": 110,
+              "normalized_text": "madoka",
+              "probability": 0.5119,
+              "start": 105,
+              "type": "Other"
+            },
+            {
+              "end": 129,
+              "normalized_text": "madoka",
+              "probability": 0.6079,
+              "start": 124,
+              "type": "Other"
+            },
+            {
+              "end": 151,
+              "normalized_text": "homura",
+              "probability": 0.6161,
+              "start": 146,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028269329234727225",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 6368,
+          "like_count": 476,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "homura loves being beaten so much that whenever madoka hits her, homura secretly stops time and purifies madoka soul gem so madoka thinks beating homura is removing her despair 😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 772,
+          "like_count": 22833,
+          "listed_count": 0,
+          "media_count": 398,
+          "tweet_count": 2922
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-30T05:25:00.000Z",
+        "description": "🇻🇳/🇺🇸 21. I am a Normal Person. My close friends call me Jacob! Send me stuff → https://t.co/7v3fB5LwvZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tisarimu.straw.page",
+                "end": 103,
+                "expanded_url": "https://tisarimu.straw.page/",
+                "start": 80,
+                "url": "https://t.co/7v3fB5LwvZ"
+              }
+            ]
+          }
+        },
+        "id": "1355386468601102336",
+        "name": "˚₊‧꒰ა krilly ໒꒱ ‧₊˚",
+        "pinned_tweet_id": "2016580612421804434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889098340521971712/NJeIONK2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2617,
+          "following_count": 586,
+          "like_count": 121602,
+          "listed_count": 9,
+          "media_count": 3369,
+          "tweet_count": 14015
+        },
+        "username": "mdhmpilled",
+        "verified": false
+      }
+    ]
+  }
+}

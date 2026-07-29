@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2051354076013830179",
+    "created_at": "2026-05-04T17:31:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T18:31:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051354076013830179"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_Shikieiki/sta…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/_Shikieiki/status/2051351094614520011",
+          "start": 43,
+          "url": "https://t.co/K7dcEh2kMw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051354076013830179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051351094614520011",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要死了看到一堆没有回的私信 十分抱歉啊、、不是我不想回是这个私信功能真的好烂... https://t.co/K7dcEh2kMw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2051354076013830179",
+        "created_at": "2026-05-04T17:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T18:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051354076013830179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_Shikieiki/sta…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/_Shikieiki/status/2051351094614520011",
+              "start": 43,
+              "url": "https://t.co/K7dcEh2kMw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051354076013830179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051351094614520011",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要死了看到一堆没有回的私信 十分抱歉啊、、不是我不想回是这个私信功能真的好烂... https://t.co/K7dcEh2kMw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2051351094614520011",
+        "created_at": "2026-05-04T17:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T18:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051351094614520011"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051351094614520011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我吐了这个推特私信功能怎么这么垃圾，request之前是刷不出来，现在一刷出来多了一堆垃圾骚扰信息.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2050182084808110250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 903,
+          "like_count": 27592,
+          "listed_count": 1,
+          "media_count": 475,
+          "tweet_count": 3868
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      }
+    ]
+  }
+}

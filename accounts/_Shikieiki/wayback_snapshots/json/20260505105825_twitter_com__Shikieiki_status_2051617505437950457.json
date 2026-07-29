@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2051617505437950457",
+    "created_at": "2026-05-05T10:58:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T11:58:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051617505437950457"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "在这里所有od知识都是自由开源编辑的，你可以来解决你的疑惑，顺便帮我们完善我们的od百科喵！",
+          "display_url": "freeodwiki.org",
+          "end": 72,
+          "expanded_url": "https://freeodwiki.org/",
+          "images": [
+            {
+              "height": 352,
+              "url": "https://pbs.twimg.com/news_img/2051611998870466560/OtPQGGeQ?format=png&name=orig",
+              "width": 459
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2051611998870466560/OtPQGGeQ?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 49,
+          "status": 200,
+          "title": "FreeODWiki主页 - FreeODwiki——可自由编辑的开源Overdose百科",
+          "unwound_url": "https://freeodwiki.org/",
+          "url": "https://t.co/o3qlaNpXcv"
+        },
+        {
+          "display_url": "x.com/_Shikieiki/sta…",
+          "end": 179,
+          "expanded_url": "https://twitter.com/_Shikieiki/status/2050182084808110250",
+          "start": 156,
+          "url": "https://t.co/Fz6yNNsMnL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051617505437950457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050182084808110250",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "近期考试繁忙，暂时关闭提问箱。\n药物的剂量、给药方式、联用和相互作用请查询freeodwiki↓\nhttps://t.co/o3qlaNpXcv\n没有列出的相互作用请询问ai，grok,gemini,claude等\n其他问题请私信问询，没回复很有可能是这个私信系统很烂导致我没看到，请在这条推文下面提示我私信。 https://t.co/Fz6yNNsMnL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2051617505437950457",
+        "created_at": "2026-05-05T10:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T11:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051617505437950457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "在这里所有od知识都是自由开源编辑的，你可以来解决你的疑惑，顺便帮我们完善我们的od百科喵！",
+              "display_url": "freeodwiki.org",
+              "end": 72,
+              "expanded_url": "https://freeodwiki.org/",
+              "images": [
+                {
+                  "height": 352,
+                  "url": "https://pbs.twimg.com/news_img/2051611998870466560/OtPQGGeQ?format=png&name=orig",
+                  "width": 459
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2051611998870466560/OtPQGGeQ?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 49,
+              "status": 200,
+              "title": "FreeODWiki主页 - FreeODwiki——可自由编辑的开源Overdose百科",
+              "unwound_url": "https://freeodwiki.org/",
+              "url": "https://t.co/o3qlaNpXcv"
+            },
+            {
+              "display_url": "x.com/_Shikieiki/sta…",
+              "end": 179,
+              "expanded_url": "https://twitter.com/_Shikieiki/status/2050182084808110250",
+              "start": 156,
+              "url": "https://t.co/Fz6yNNsMnL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051617505437950457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050182084808110250",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "近期考试繁忙，暂时关闭提问箱。\n药物的剂量、给药方式、联用和相互作用请查询freeodwiki↓\nhttps://t.co/o3qlaNpXcv\n没有列出的相互作用请询问ai，grok,gemini,claude等\n其他问题请私信问询，没回复很有可能是这个私信系统很烂导致我没看到，请在这条推文下面提示我私信。 https://t.co/Fz6yNNsMnL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2050182084808110250",
+        "created_at": "2026-05-01T11:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T12:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050182084808110250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_Shikieiki/sta…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/_Shikieiki/status/2046618552573300971",
+              "start": 132,
+              "url": "https://t.co/HUDk5475ib"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050182084808110250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5991,
+          "like_count": 44,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046618552573300971",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我发现一个问题就是很多人不知道美金刚药效持续那么久要怎么阻断)\n推荐的下机药有苯二氮卓类，z药物，喹硫平\n最主要的是要睡着，然后睡起来药效基本就没有了(我个人经历)\n特别是美金刚微弱的兴奋效果可能带来睡眠剥夺，在缺少睡眠的情况下药物代谢更慢，故副作用会持续更久。 https://t.co/HUDk5475ib"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)暂关提问",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2051617505437950457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 915,
+          "like_count": 27730,
+          "listed_count": 1,
+          "media_count": 481,
+          "tweet_count": 3923
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      }
+    ]
+  }
+}

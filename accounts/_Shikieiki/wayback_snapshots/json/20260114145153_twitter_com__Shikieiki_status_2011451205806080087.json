@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2010946966880915772",
+    "created_at": "2026-01-14T14:51:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T15:51:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011451205806080087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1948395176831131648",
+          "start": 0,
+          "username": "zy89644"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011451205806080087",
+    "in_reply_to_user_id": "1948395176831131648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010946966880915772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zy89644 咪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2010946955187290113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-hRme4XgAEcJT4.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2010946966880915772",
+        "created_at": "2026-01-14T14:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T15:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011451205806080087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1948395176831131648",
+              "start": 0,
+              "username": "zy89644"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011451205806080087",
+        "in_reply_to_user_id": "1948395176831131648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010946966880915772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zy89644 咪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010946955187290113"
+          ]
+        },
+        "author_id": "1948395176831131648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2010946966880915772",
+        "created_at": "2026-01-13T05:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T06:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010946966880915772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2010190159309090816/uuNyQexR?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2010190159309090816/uuNyQexR?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/aMJEvkITET"
+            },
+            {
+              "display_url": "pic.x.com/KDA0sT4IMr",
+              "end": 64,
+              "expanded_url": "https://x.com/zy89644/status/2010946966880915772/photo/1",
+              "media_key": "3_2010946955187290113",
+              "start": 41,
+              "url": "https://t.co/KDA0sT4IMr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010946966880915772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 633,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/aMJEvkITET https://t.co/KDA0sT4IMr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 576,
+          "like_count": 18380,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 1291
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T14:50:02.000Z",
+        "description": "邪恶与善良的混合体\n如果有事一定是你的问题\nrealms链接：https://t.co/arsNPa6oYN\n\n服务器：\nhttps://t.co/GRM7pB9H2t\n\nfo我一定不会回fo的（其实会回fo的）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "realms.gg/rpNy5ZkPR8tu94k",
+                "end": 54,
+                "expanded_url": "https://realms.gg/rpNy5ZkPR8tu94k",
+                "start": 31,
+                "url": "https://t.co/arsNPa6oYN"
+              },
+              {
+                "display_url": "no.rainplay.cn:34198",
+                "end": 84,
+                "expanded_url": "http://no.rainplay.cn:34198",
+                "start": 61,
+                "url": "https://t.co/GRM7pB9H2t"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zy89644",
+                "end": 23,
+                "expanded_url": "http://ngl.link/zy89644",
+                "start": 0,
+                "url": "https://t.co/tLgc8L3myJ"
+              }
+            ]
+          }
+        },
+        "id": "1948395176831131648",
+        "location": "阿一丝可丽慕大酒店",
+        "name": "이×3",
+        "pinned_tweet_id": "1996872829674102939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005479109707857920/_8LmH0MV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 184,
+          "like_count": 33919,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 4454
+        },
+        "url": "https://t.co/tLgc8L3myJ",
+        "username": "zy89644",
+        "verified": true
+      }
+    ]
+  }
+}

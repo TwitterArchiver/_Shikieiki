@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2002931558060335513",
+    "created_at": "2025-12-22T02:37:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T03:37:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002931558060335513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1449406493938225155",
+          "start": 3,
+          "username": "ssm_waffle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002931558060335513",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4379
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002578109896536133",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ssm_waffle: \"oh look at me i have people who care about me and get worried if i dont respond\" fuck you"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2002931558060335513",
+        "created_at": "2025-12-22T02:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T03:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002931558060335513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1449406493938225155",
+              "start": 3,
+              "username": "ssm_waffle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002931558060335513",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4379
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002578109896536133",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ssm_waffle: \"oh look at me i have people who care about me and get worried if i dont respond\" fuck you"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1449406493938225155",
+        "conversation_id": "2002578109896536133",
+        "created_at": "2025-12-21T03:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T04:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002578109896536133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/foxgirlfrot/st…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/foxgirlfrot/status/2002529641941352639",
+              "start": 91,
+              "url": "https://t.co/l8lL1ajm8n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002578109896536133",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1301,
+          "impression_count": 598118,
+          "like_count": 34018,
+          "quote_count": 101,
+          "reply_count": 127,
+          "retweet_count": 4379
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002529641941352639",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "\"oh look at me i have people who care about me and get worried if i dont respond\" fuck you https://t.co/l8lL1ajm8n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "1842867034050441268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 384,
+          "like_count": 6828,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 254
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-16T16:07:07.000Z",
+        "description": "minor | I play Geometry Dash | professional white girl music enjoyer | pfp by me, i take requests! | private: @zepancakevictim | asexual",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 110,
+                "username": "zepancakevictim"
+              }
+            ]
+          }
+        },
+        "id": "1449406493938225155",
+        "name": "Waffle",
+        "pinned_tweet_id": "2002582827729367515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984730754140815363/ZVggpdFp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1265,
+          "following_count": 1308,
+          "like_count": 19557,
+          "listed_count": 1,
+          "media_count": 797,
+          "tweet_count": 8357
+        },
+        "username": "ssm_waffle",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027167713421115392"
+      ],
+      "media_source_tweet_id": [
+        "2027167718991085878"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2027238778755219615",
+    "created_at": "2026-02-27T04:26:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T05:26:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027238778755219615"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "ほ",
+          "probability": 0.627,
+          "start": 21,
+          "type": "Person"
+        },
+        {
+          "end": 26,
+          "normalized_text": "むらちゃん",
+          "probability": 0.581,
+          "start": 22,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1937765015341420544",
+          "start": 3,
+          "username": "satellite_333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TRisFJaaVs",
+          "end": 59,
+          "expanded_url": "https://x.com/satellite_333/status/2027167718991085878/photo/1",
+          "media_key": "3_2027167713421115392",
+          "start": 36,
+          "url": "https://t.co/TRisFJaaVs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027238778755219615",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027167718991085878",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @satellite_333: このほむらちゃんホントカッコいい https://t.co/TRisFJaaVs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 597,
+        "media_key": "3_2027167713421115392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCHyS4KbQAAETfW.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027167713421115392"
+          ],
+          "media_source_tweet_id": [
+            "2027167718991085878"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2027238778755219615",
+        "created_at": "2026-02-27T04:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T05:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027238778755219615"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "ほ",
+              "probability": 0.627,
+              "start": 21,
+              "type": "Person"
+            },
+            {
+              "end": 26,
+              "normalized_text": "むらちゃん",
+              "probability": 0.581,
+              "start": 22,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1937765015341420544",
+              "start": 3,
+              "username": "satellite_333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TRisFJaaVs",
+              "end": 59,
+              "expanded_url": "https://x.com/satellite_333/status/2027167718991085878/photo/1",
+              "media_key": "3_2027167713421115392",
+              "start": 36,
+              "url": "https://t.co/TRisFJaaVs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027238778755219615",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027167718991085878",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @satellite_333: このほむらちゃんホントカッコいい https://t.co/TRisFJaaVs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027167713421115392"
+          ]
+        },
+        "author_id": "1937765015341420544",
+        "conversation_id": "2027167718991085878",
+        "created_at": "2026-02-26T23:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T00:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027167718991085878"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "むらちゃん",
+              "probability": 0.5239,
+              "start": 3,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TRisFJaaVs",
+              "end": 40,
+              "expanded_url": "https://x.com/satellite_333/status/2027167718991085878/photo/1",
+              "media_key": "3_2027167713421115392",
+              "start": 17,
+              "url": "https://t.co/TRisFJaaVs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027167718991085878",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3083,
+          "like_count": 275,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "このほむらちゃんホントカッコいい https://t.co/TRisFJaaVs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 708,
+          "like_count": 21873,
+          "listed_count": 0,
+          "media_count": 353,
+          "tweet_count": 2616
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-25T06:49:33.000Z",
+        "description": "",
+        "id": "1937765015341420544",
+        "name": "ふりかけ（株）",
+        "pinned_tweet_id": "2017143074313638238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026007829879099392/WxUC4Jh__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 1285,
+          "like_count": 10316,
+          "listed_count": 2,
+          "media_count": 612,
+          "tweet_count": 5193
+        },
+        "username": "satellite_333",
+        "verified": false
+      }
+    ]
+  }
+}

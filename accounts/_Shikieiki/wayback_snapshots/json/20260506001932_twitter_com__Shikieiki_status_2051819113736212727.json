@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047432132126208000"
+      ],
+      "media_source_tweet_id": [
+        "2047441132389622270"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2051819113736212727",
+    "created_at": "2026-05-06T00:19:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T01:19:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051819113736212727"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 26,
+          "tag": "上伊那ぼたん"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "20219531",
+          "start": 3,
+          "username": "x2525"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fBgWvyhdmC",
+          "end": 57,
+          "expanded_url": "https://x.com/x2525/status/2047441132389622270/photo/1",
+          "media_key": "3_2047432132126208000",
+          "start": 34,
+          "url": "https://t.co/fBgWvyhdmC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051819113736212727",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1141
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047441132389622270",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x2525: 上伊那ぼたんはすごくいいぞ！　#上伊那ぼたん https://t.co/fBgWvyhdmC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2047432132126208000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGnwrSkacAAxCMi.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047432132126208000"
+          ],
+          "media_source_tweet_id": [
+            "2047441132389622270"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2051819113736212727",
+        "created_at": "2026-05-06T00:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T01:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051819113736212727"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 26,
+              "tag": "上伊那ぼたん"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "20219531",
+              "start": 3,
+              "username": "x2525"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fBgWvyhdmC",
+              "end": 57,
+              "expanded_url": "https://x.com/x2525/status/2047441132389622270/photo/1",
+              "media_key": "3_2047432132126208000",
+              "start": 34,
+              "url": "https://t.co/fBgWvyhdmC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051819113736212727",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1141
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047441132389622270",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x2525: 上伊那ぼたんはすごくいいぞ！　#上伊那ぼたん https://t.co/fBgWvyhdmC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047432132126208000"
+          ]
+        },
+        "author_id": "20219531",
+        "conversation_id": "2047441132389622270",
+        "created_at": "2026-04-23T22:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T23:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047441132389622270"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 15,
+              "tag": "上伊那ぼたん"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fBgWvyhdmC",
+              "end": 46,
+              "expanded_url": "https://x.com/x2525/status/2047441132389622270/photo/1",
+              "media_key": "3_2047432132126208000",
+              "start": 23,
+              "url": "https://t.co/fBgWvyhdmC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047441132389622270",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 738,
+          "impression_count": 114174,
+          "like_count": 9384,
+          "quote_count": 6,
+          "reply_count": 2,
+          "retweet_count": 1141
+        },
+        "reply_settings": "everyone",
+        "text": "上伊那ぼたんはすごくいいぞ！　#上伊那ぼたん https://t.co/fBgWvyhdmC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)暂关提问",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2051617505437950457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 915,
+          "like_count": 27828,
+          "listed_count": 1,
+          "media_count": 481,
+          "tweet_count": 3948
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-06T06:04:30.000Z",
+        "description": "小学6年生！ipadで絵をかいてます！👶\nフォローして & イラストいっぱい見てね♩\n\nI’m x-chan, iPad drawing, follow me♩👼\n\nつくったもののお店はこちら♩ → https://t.co/GrswIgjgMl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xoo.booth.pm",
+                "end": 123,
+                "expanded_url": "https://xoo.booth.pm/",
+                "start": 100,
+                "url": "https://t.co/GrswIgjgMl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xoo.booth.pm",
+                "end": 23,
+                "expanded_url": "https://xoo.booth.pm/",
+                "start": 0,
+                "url": "https://t.co/GrswIgjgMl"
+              }
+            ]
+          }
+        },
+        "id": "20219531",
+        "location": "かりふぉるにあ",
+        "name": "x",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842044987514712064/9Noi2fhd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11845,
+          "following_count": 5067,
+          "like_count": 221449,
+          "listed_count": 154,
+          "media_count": 1527,
+          "tweet_count": 31998
+        },
+        "url": "https://t.co/GrswIgjgMl",
+        "username": "x2525",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047944980510158848"
+      ],
+      "media_source_tweet_id": [
+        "2047945282890154424"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2048143092172394571",
+    "created_at": "2026-04-25T20:52:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T21:52:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048143092172394571"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 25,
+          "tag": "真矢クロ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1839215330859823105",
+          "start": 3,
+          "username": "semi_butai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vOdVLPDo1B",
+          "end": 54,
+          "expanded_url": "https://x.com/semi_butai/status/2047945282890154424/photo/1",
+          "media_key": "3_2047944980510158848",
+          "start": 31,
+          "url": "https://t.co/vOdVLPDo1B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048143092172394571",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 128
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047945282890154424",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @semi_butai: 마야클로...🥺 #真矢クロ https://t.co/vOdVLPDo1B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_2047944980510158848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvDG_raMAAtigs.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047944980510158848"
+          ],
+          "media_source_tweet_id": [
+            "2047945282890154424"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2048143092172394571",
+        "created_at": "2026-04-25T20:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T21:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048143092172394571"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "真矢クロ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1839215330859823105",
+              "start": 3,
+              "username": "semi_butai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vOdVLPDo1B",
+              "end": 54,
+              "expanded_url": "https://x.com/semi_butai/status/2047945282890154424/photo/1",
+              "media_key": "3_2047944980510158848",
+              "start": 31,
+              "url": "https://t.co/vOdVLPDo1B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048143092172394571",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 128
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047945282890154424",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @semi_butai: 마야클로...🥺 #真矢クロ https://t.co/vOdVLPDo1B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047944980510158848"
+          ]
+        },
+        "author_id": "1839215330859823105",
+        "conversation_id": "2047945282890154424",
+        "created_at": "2026-04-25T07:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T08:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047945282890154424"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 9,
+              "tag": "真矢クロ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vOdVLPDo1B",
+              "end": 38,
+              "expanded_url": "https://x.com/semi_butai/status/2047945282890154424/photo/1",
+              "media_key": "3_2047944980510158848",
+              "start": 15,
+              "url": "https://t.co/vOdVLPDo1B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047945282890154424",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 4789,
+          "like_count": 629,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 128
+        },
+        "reply_settings": "everyone",
+        "text": "마야클로...🥺 #真矢クロ https://t.co/vOdVLPDo1B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2047351982030258527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 882,
+          "like_count": 26412,
+          "listed_count": 1,
+          "media_count": 417,
+          "tweet_count": 3528
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-26T08:08:10.000Z",
+        "description": "수석과 아기치즈고양이를 사랑하는 수세미",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/semi_butai",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/semi_butai",
+                "start": 0,
+                "url": "https://t.co/t9sweEPiLs"
+              }
+            ]
+          }
+        },
+        "id": "1839215330859823105",
+        "location": "우는얼굴도귀여워요나의클로딘",
+        "name": "🪻수세🌼",
+        "pinned_tweet_id": "1839824361253204276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839502456449064960/hi2Uk2Tp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 11,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 36
+        },
+        "url": "https://t.co/t9sweEPiLs",
+        "username": "semi_butai",
+        "verified": false
+      }
+    ]
+  }
+}

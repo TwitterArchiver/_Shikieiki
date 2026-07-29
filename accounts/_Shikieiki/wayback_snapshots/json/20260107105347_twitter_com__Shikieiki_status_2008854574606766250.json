@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2008854574606766250",
+    "created_at": "2026-01-07T10:53:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T11:53:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008854574606766250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2008851513976979456",
+          "start": 3,
+          "username": "asabamisakimei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008854574606766250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008853710919880978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @asabamisakimei: 还有人记得三崎吧，我不可能因为一个号死了就遗忘在互联网，我来找回我的互关了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2008854574606766250",
+        "created_at": "2026-01-07T10:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T11:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008854574606766250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2008851513976979456",
+              "start": 3,
+              "username": "asabamisakimei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008854574606766250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008853710919880978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @asabamisakimei: 还有人记得三崎吧，我不可能因为一个号死了就遗忘在互联网，我来找回我的互关了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008851513976979456",
+        "conversation_id": "2008853710919880978",
+        "created_at": "2026-01-07T10:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T11:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008853710919880978"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008853710919880978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "还有人记得三崎吧，我不可能因为一个号死了就遗忘在互联网，我来找回我的互关了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 548,
+          "like_count": 16713,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1144
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T10:41:48.000Z",
+        "description": "msk不让我卖媚药，但我就要卖，私信我有惊喜，🚪58，我不论多久依旧还是那个三崎",
+        "id": "2008851513976979456",
+        "name": "浅羽見崎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008851868815175680/2xzbO4Gz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 16,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "asabamisakimei",
+        "verified": false
+      }
+    ]
+  }
+}

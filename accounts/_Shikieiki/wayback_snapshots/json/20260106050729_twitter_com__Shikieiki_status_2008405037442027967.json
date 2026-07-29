@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007933573496795136"
+      ],
+      "media_source_tweet_id": [
+        "2007933579725312331"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1334945143208611841",
+          "name": "GL"
+        }
+      }
+    ],
+    "conversation_id": "2008405037442027967",
+    "created_at": "2026-01-06T05:07:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T06:07:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008405037442027967"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 20,
+          "tag": "創作百合"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1973130872242208769",
+          "start": 3,
+          "username": "mesugakisaikou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PZN5Fv5vC2",
+          "end": 49,
+          "expanded_url": "https://x.com/mesugakisaikou/status/2007933579725312331/photo/1",
+          "media_key": "3_2007933573496795136",
+          "start": 26,
+          "url": "https://t.co/PZN5Fv5vC2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008405037442027967",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 866
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007933579725312331",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mesugakisaikou: #創作百合 https://t.co/PZN5Fv5vC2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2007933573496795136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G92c8lTbcAAfPv6.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007933573496795136"
+          ],
+          "media_source_tweet_id": [
+            "2007933579725312331"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "2008405037442027967",
+        "created_at": "2026-01-06T05:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T06:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008405037442027967"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "創作百合"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1973130872242208769",
+              "start": 3,
+              "username": "mesugakisaikou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PZN5Fv5vC2",
+              "end": 49,
+              "expanded_url": "https://x.com/mesugakisaikou/status/2007933579725312331/photo/1",
+              "media_key": "3_2007933573496795136",
+              "start": 26,
+              "url": "https://t.co/PZN5Fv5vC2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008405037442027967",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 866
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007933579725312331",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mesugakisaikou: #創作百合 https://t.co/PZN5Fv5vC2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007933573496795136"
+          ]
+        },
+        "author_id": "1973130872242208769",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "2007933579725312331",
+        "created_at": "2026-01-04T21:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T22:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007933579725312331"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "創作百合"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PZN5Fv5vC2",
+              "end": 29,
+              "expanded_url": "https://x.com/mesugakisaikou/status/2007933579725312331/photo/1",
+              "media_key": "3_2007933573496795136",
+              "start": 6,
+              "url": "https://t.co/PZN5Fv5vC2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007933579725312331",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1128,
+          "impression_count": 140366,
+          "like_count": 17723,
+          "quote_count": 6,
+          "reply_count": 9,
+          "retweet_count": 866
+        },
+        "reply_settings": "everyone",
+        "text": "#創作百合 https://t.co/PZN5Fv5vC2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 532,
+          "like_count": 15994,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1084
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-30T21:01:02.000Z",
+        "description": "絵を描いてます",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/y2gukm1zas9smi…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/y2gukm1zas9smih?t=MMqVtU&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/89ENJhnoBO"
+              }
+            ]
+          }
+        },
+        "id": "1973130872242208769",
+        "name": "猫田ふぁびゅらす",
+        "pinned_tweet_id": "1992802379100831850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005188442616201220/Uc_e3tyA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9978,
+          "following_count": 156,
+          "like_count": 3348,
+          "listed_count": 54,
+          "media_count": 129,
+          "tweet_count": 431
+        },
+        "url": "https://t.co/89ENJhnoBO",
+        "username": "mesugakisaikou",
+        "verified": false
+      }
+    ]
+  }
+}

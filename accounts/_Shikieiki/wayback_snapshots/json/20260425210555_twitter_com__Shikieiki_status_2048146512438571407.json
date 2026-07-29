@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048094455392329728"
+      ],
+      "media_source_tweet_id": [
+        "2048094461344022927"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2048146512438571407",
+    "created_at": "2026-04-25T21:05:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T22:05:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048146512438571407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1248968869852491778",
+          "start": 3,
+          "username": "330luqyu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nsfNKmg1kh",
+          "end": 37,
+          "expanded_url": "https://x.com/330luqyu/status/2048094461344022927/photo/1",
+          "media_key": "3_2048094455392329728",
+          "start": 14,
+          "url": "https://t.co/nsfNKmg1kh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048146512438571407",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 122
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048094461344022927",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @330luqyu: https://t.co/nsfNKmg1kh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1003,
+        "media_key": "3_2048094455392329728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGxLDlAbYAAMkRY.jpg",
+        "width": 990
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048094455392329728"
+          ],
+          "media_source_tweet_id": [
+            "2048094461344022927"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2048146512438571407",
+        "created_at": "2026-04-25T21:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T22:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048146512438571407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1248968869852491778",
+              "start": 3,
+              "username": "330luqyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nsfNKmg1kh",
+              "end": 37,
+              "expanded_url": "https://x.com/330luqyu/status/2048094461344022927/photo/1",
+              "media_key": "3_2048094455392329728",
+              "start": 14,
+              "url": "https://t.co/nsfNKmg1kh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048146512438571407",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 122
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048094461344022927",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @330luqyu: https://t.co/nsfNKmg1kh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048094455392329728"
+          ]
+        },
+        "author_id": "1248968869852491778",
+        "conversation_id": "2048094461344022927",
+        "created_at": "2026-04-25T17:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T18:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048094461344022927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nsfNKmg1kh",
+              "end": 23,
+              "expanded_url": "https://x.com/330luqyu/status/2048094461344022927/photo/1",
+              "media_key": "3_2048094455392329728",
+              "start": 0,
+              "url": "https://t.co/nsfNKmg1kh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048094461344022927",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 4824,
+          "like_count": 946,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 122
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nsfNKmg1kh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2047351982030258527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 884,
+          "like_count": 26430,
+          "listed_count": 1,
+          "media_count": 417,
+          "tweet_count": 3533
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-11T13:40:06.000Z",
+        "description": "我一直在打暗潮",
+        "id": "1248968869852491778",
+        "location": "🎠🌕/⛪🪓",
+        "name": "quwtu",
+        "pinned_tweet_id": "1748280183352963387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953662851580932096/zNVUivpD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4680,
+          "following_count": 222,
+          "like_count": 11887,
+          "listed_count": 10,
+          "media_count": 287,
+          "tweet_count": 907
+        },
+        "username": "330luqyu",
+        "verified": false
+      }
+    ]
+  }
+}

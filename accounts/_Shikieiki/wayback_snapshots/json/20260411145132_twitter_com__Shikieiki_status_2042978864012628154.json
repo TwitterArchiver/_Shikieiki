@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2042978864012628154",
+    "created_at": "2026-04-11T14:51:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T15:51:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042978864012628154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2041873578334072832",
+          "start": 3,
+          "username": "Futi4444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042978864012628154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 72
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041874169378566195",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Futi4444: 我是扶梯 第四次重生\n再次被恶意举报\n寻回好友中\n请各位帮忙转帖 \n感谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2042978864012628154",
+        "created_at": "2026-04-11T14:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T15:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042978864012628154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2041873578334072832",
+              "start": 3,
+              "username": "Futi4444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042978864012628154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 72
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041874169378566195",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Futi4444: 我是扶梯 第四次重生\n再次被恶意举报\n寻回好友中\n请各位帮忙转帖 \n感谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041873578334072832",
+        "conversation_id": "2041874169378566195",
+        "created_at": "2026-04-08T13:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T14:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041874169378566195"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041874169378566195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 15383,
+          "like_count": 118,
+          "quote_count": 5,
+          "reply_count": 30,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "我是扶梯 第四次重生\n再次被恶意举报\n寻回好友中\n请各位帮忙转帖 \n感谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季映姬 亚玛萨那度",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "see_you_hell.although.here.probably.is",
+                "end": 23,
+                "expanded_url": "http://see_you_hell.although.here.probably.is",
+                "start": 0,
+                "url": "https://t.co/ecUxsPCDIQ"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2040004095713685681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 843,
+          "like_count": 25226,
+          "listed_count": 1,
+          "media_count": 411,
+          "tweet_count": 3330
+        },
+        "url": "https://t.co/ecUxsPCDIQ",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-08T13:40:21.000Z",
+        "description": "扶梯 业余诗人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/futiking",
+                "end": 23,
+                "expanded_url": "https://t.me/futiking",
+                "start": 0,
+                "url": "https://t.co/no3PkhljL1"
+              }
+            ]
+          }
+        },
+        "id": "2041873578334072832",
+        "location": "零食供应➡️",
+        "name": "扶梯四世 好友寻回中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041873811507965954/GYl6UxnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 104,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 10
+        },
+        "url": "https://t.co/no3PkhljL1",
+        "username": "Futi4444",
+        "verified": false
+      }
+    ]
+  }
+}

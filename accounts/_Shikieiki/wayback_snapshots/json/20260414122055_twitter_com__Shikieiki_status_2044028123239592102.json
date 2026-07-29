@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043845938595172352"
+      ],
+      "media_source_tweet_id": [
+        "2043845944626549100"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2044028123239592102",
+    "created_at": "2026-04-14T12:20:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T13:20:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044028123239592102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1947122584862302208",
+          "start": 3,
+          "username": "amalgamatomaton"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/22wUUiPKW6",
+          "end": 50,
+          "expanded_url": "https://x.com/amalgamatomaton/status/2043845944626549100/photo/1",
+          "media_key": "3_2043845938595172352",
+          "start": 27,
+          "url": "https://t.co/22wUUiPKW6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044028123239592102",
+    "lang": "da",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043845944626549100",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amalgamatomaton: Giger https://t.co/22wUUiPKW6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2043845938595172352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF0zDWmXEAA-elw.jpg",
+        "width": 715
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043845938595172352"
+          ],
+          "media_source_tweet_id": [
+            "2043845944626549100"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2044028123239592102",
+        "created_at": "2026-04-14T12:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044028123239592102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1947122584862302208",
+              "start": 3,
+              "username": "amalgamatomaton"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/22wUUiPKW6",
+              "end": 50,
+              "expanded_url": "https://x.com/amalgamatomaton/status/2043845944626549100/photo/1",
+              "media_key": "3_2043845938595172352",
+              "start": 27,
+              "url": "https://t.co/22wUUiPKW6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044028123239592102",
+        "lang": "da",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043845944626549100",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amalgamatomaton: Giger https://t.co/22wUUiPKW6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043845938595172352"
+          ]
+        },
+        "author_id": "1947122584862302208",
+        "conversation_id": "2043845944626549100",
+        "created_at": "2026-04-14T00:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T01:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043845944626549100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/22wUUiPKW6",
+              "end": 29,
+              "expanded_url": "https://x.com/amalgamatomaton/status/2043845944626549100/photo/1",
+              "media_key": "3_2043845938595172352",
+              "start": 6,
+              "url": "https://t.co/22wUUiPKW6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043845944626549100",
+        "lang": "da",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1223,
+          "like_count": 131,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "Giger https://t.co/22wUUiPKW6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季映姬 亚玛萨那度",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/GF0BmV1BiW"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2043396599699968445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 847,
+          "like_count": 25578,
+          "listed_count": 1,
+          "media_count": 411,
+          "tweet_count": 3354
+        },
+        "url": "https://t.co/GF0BmV1BiW",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-21T02:33:07.000Z",
+        "description": ":goth:",
+        "id": "1947122584862302208",
+        "name": "amalgamatomaton",
+        "pinned_tweet_id": "2028579702487585263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980865184231981056/0wK3NN5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10286,
+          "following_count": 49,
+          "like_count": 1868,
+          "listed_count": 44,
+          "media_count": 1029,
+          "tweet_count": 2162
+        },
+        "username": "amalgamatomaton",
+        "verified": false
+      }
+    ]
+  }
+}

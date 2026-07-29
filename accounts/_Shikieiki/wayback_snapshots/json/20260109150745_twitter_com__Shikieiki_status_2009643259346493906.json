@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1987557894091620352"
+      ],
+      "media_source_tweet_id": [
+        "1987558155874886135"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2009643259346493906",
+    "created_at": "2026-01-09T15:07:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T16:07:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009643259346493906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1484072544009347072",
+          "start": 3,
+          "username": "BelovedUren8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ATEn3fd3El",
+          "end": 93,
+          "expanded_url": "https://x.com/BelovedUren8964/status/1987558155874886135/video/1",
+          "media_key": "13_1987557894091620352",
+          "start": 70,
+          "url": "https://t.co/ATEn3fd3El"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009643259346493906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987558155874886135",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BelovedUren8964: 各位请看！！S风的呼唤的Trailer1\n接下来会发Trailer2的，关于游戏机制的介绍！！！ https://t.co/ATEn3fd3El"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 140016,
+        "height": 1080,
+        "media_key": "13_1987557894091620352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1987557894091620352/img/i7maZGw43IMnMkry.jpg",
+        "public_metrics": {
+          "view_count": 2778
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987557894091620352/vid/avc1/480x270/AHhhW6lNyLJALH-U.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987557894091620352/vid/avc1/640x360/QwxX23apaqemDkMa.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987557894091620352/vid/avc1/1280x720/4eniDuM5Bw-shqdf.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1987557894091620352/pl/FHgDzAdYSTYVBOUz.m3u8?tag=14&v=6c1"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1987557894091620352"
+          ],
+          "media_source_tweet_id": [
+            "1987558155874886135"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2009643259346493906",
+        "created_at": "2026-01-09T15:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T16:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009643259346493906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1484072544009347072",
+              "start": 3,
+              "username": "BelovedUren8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ATEn3fd3El",
+              "end": 93,
+              "expanded_url": "https://x.com/BelovedUren8964/status/1987558155874886135/video/1",
+              "media_key": "13_1987557894091620352",
+              "start": 70,
+              "url": "https://t.co/ATEn3fd3El"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009643259346493906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987558155874886135",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BelovedUren8964: 各位请看！！S风的呼唤的Trailer1\n接下来会发Trailer2的，关于游戏机制的介绍！！！ https://t.co/ATEn3fd3El"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1987557894091620352"
+          ]
+        },
+        "author_id": "1484072544009347072",
+        "conversation_id": "1987558155874886135",
+        "created_at": "2025-11-09T16:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T17:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987558155874886135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ATEn3fd3El",
+              "end": 72,
+              "expanded_url": "https://x.com/BelovedUren8964/status/1987558155874886135/video/1",
+              "media_key": "13_1987557894091620352",
+              "start": 49,
+              "url": "https://t.co/ATEn3fd3El"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987558155874886135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 17832,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "各位请看！！S风的呼唤的Trailer1\n接下来会发Trailer2的，关于游戏机制的介绍！！！ https://t.co/ATEn3fd3El"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 572,
+          "like_count": 17998,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1250
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T07:57:36.000Z",
+        "description": "叫我雨怜，我是善良猫猫。 无性别者/💊oder 我支持为OD正名/自由万岁！自由永远高于一切/这还用说吗，我是汉奸哪🇯🇵 / 台湾支那，一边一国🇹🇼 / 反男反女反跨反人类反一切/支那人没有一个是无辜的/@ItoMasako8964 /知音难寻@Psych_Angel",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 102,
+                "username": "ItoMasako8964"
+              },
+              {
+                "end": 134,
+                "start": 122,
+                "username": "Psych_Angel"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uren68329",
+                "end": 23,
+                "expanded_url": "https://ngl.link/uren68329",
+                "start": 0,
+                "url": "https://t.co/DgJHLTrKH9"
+              }
+            ]
+          }
+        },
+        "id": "1484072544009347072",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "滨边雨怜会成为真正的传奇",
+        "pinned_tweet_id": "2009339225901248808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008851962989797378/ePPuSp9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 477,
+          "like_count": 5049,
+          "listed_count": 1,
+          "media_count": 412,
+          "tweet_count": 3715
+        },
+        "url": "https://t.co/DgJHLTrKH9",
+        "username": "BelovedUren8964",
+        "verified": false
+      }
+    ]
+  }
+}

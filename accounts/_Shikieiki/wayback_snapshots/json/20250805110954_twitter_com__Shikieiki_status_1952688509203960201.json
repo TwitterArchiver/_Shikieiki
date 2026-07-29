@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948137577887715328",
+        "3_1948137577929678848",
+        "3_1948137577917136896",
+        "3_1948137577917054976"
+      ],
+      "media_source_tweet_id": [
+        "1948137588189020259",
+        "1948137588189020259",
+        "1948137588189020259",
+        "1948137588189020259"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "1952688509203960201",
+    "created_at": "2025-08-05T11:09:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T12:09:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952688509203960201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1274519740715806728",
+          "start": 3,
+          "username": "daiIymadoka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6iqiD1mj9t",
+          "end": 40,
+          "expanded_url": "https://x.com/daiIymadoka/status/1948137588189020259/photo/1",
+          "media_key": "3_1948137577887715328",
+          "start": 17,
+          "url": "https://t.co/6iqiD1mj9t"
+        },
+        {
+          "display_url": "pic.x.com/6iqiD1mj9t",
+          "end": 40,
+          "expanded_url": "https://x.com/daiIymadoka/status/1948137588189020259/photo/1",
+          "media_key": "3_1948137577929678848",
+          "start": 17,
+          "url": "https://t.co/6iqiD1mj9t"
+        },
+        {
+          "display_url": "pic.x.com/6iqiD1mj9t",
+          "end": 40,
+          "expanded_url": "https://x.com/daiIymadoka/status/1948137588189020259/photo/1",
+          "media_key": "3_1948137577917136896",
+          "start": 17,
+          "url": "https://t.co/6iqiD1mj9t"
+        },
+        {
+          "display_url": "pic.x.com/6iqiD1mj9t",
+          "end": 40,
+          "expanded_url": "https://x.com/daiIymadoka/status/1948137588189020259/photo/1",
+          "media_key": "3_1948137577917054976",
+          "start": 17,
+          "url": "https://t.co/6iqiD1mj9t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952688509203960201",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 229
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948137588189020259",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @daiIymadoka: https://t.co/6iqiD1mj9t"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1952688509203960201].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1952688509203960201",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1952688509203960201"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1948137577887715328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwkszi-WUAAXJTn.jpg",
+        "width": 1280
+      },
+      {
+        "height": 720,
+        "media_key": "3_1948137577929678848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwkszjIWoAAk-vR.jpg",
+        "width": 1280
+      },
+      {
+        "height": 720,
+        "media_key": "3_1948137577917136896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwkszjFXQAASJ3C.jpg",
+        "width": 1280
+      },
+      {
+        "height": 720,
+        "media_key": "3_1948137577917054976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwkszjFWAAAub1W.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948137577887715328",
+            "3_1948137577929678848",
+            "3_1948137577917136896",
+            "3_1948137577917054976"
+          ]
+        },
+        "author_id": "1274519740715806728",
+        "conversation_id": "1948137588189020259",
+        "created_at": "2025-07-23T21:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T22:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948137588189020259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6iqiD1mj9t",
+              "end": 23,
+              "expanded_url": "https://x.com/daiIymadoka/status/1948137588189020259/photo/1",
+              "media_key": "3_1948137577887715328",
+              "start": 0,
+              "url": "https://t.co/6iqiD1mj9t"
+            },
+            {
+              "display_url": "pic.x.com/6iqiD1mj9t",
+              "end": 23,
+              "expanded_url": "https://x.com/daiIymadoka/status/1948137588189020259/photo/1",
+              "media_key": "3_1948137577929678848",
+              "start": 0,
+              "url": "https://t.co/6iqiD1mj9t"
+            },
+            {
+              "display_url": "pic.x.com/6iqiD1mj9t",
+              "end": 23,
+              "expanded_url": "https://x.com/daiIymadoka/status/1948137588189020259/photo/1",
+              "media_key": "3_1948137577917136896",
+              "start": 0,
+              "url": "https://t.co/6iqiD1mj9t"
+            },
+            {
+              "display_url": "pic.x.com/6iqiD1mj9t",
+              "end": 23,
+              "expanded_url": "https://x.com/daiIymadoka/status/1948137588189020259/photo/1",
+              "media_key": "3_1948137577917054976",
+              "start": 0,
+              "url": "https://t.co/6iqiD1mj9t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948137588189020259",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 12984,
+          "like_count": 1255,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 229
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6iqiD1mj9t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "1842867034050441268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 318,
+          "like_count": 5454,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 89
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-21T01:49:42.000Z",
+        "description": "being meguca is suffering, see why daily",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/dailym…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/dailymadoka.bsky.social",
+                "start": 0,
+                "url": "https://t.co/zGIg8yl9kk"
+              }
+            ]
+          }
+        },
+        "id": "1274519740715806728",
+        "name": "daily madoka magica",
+        "pinned_tweet_id": "1465527031093993472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1316141429668958210/V2bxXRag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72417,
+          "following_count": 2,
+          "like_count": 965,
+          "listed_count": 133,
+          "media_count": 1679,
+          "tweet_count": 1966
+        },
+        "url": "https://t.co/zGIg8yl9kk",
+        "username": "daiIymadoka",
+        "verified": false
+      }
+    ]
+  }
+}

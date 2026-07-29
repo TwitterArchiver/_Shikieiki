@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028298387179622400"
+      ],
+      "media_source_tweet_id": [
+        "2028298408159547899"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2028343048787366377",
+    "created_at": "2026-03-02T05:34:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T06:34:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028343048787366377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "716730608433688576",
+          "start": 3,
+          "username": "parabolicjester"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/99UDYV480b",
+          "end": 53,
+          "expanded_url": "https://x.com/parabolicjester/status/2028298408159547899/photo/1",
+          "media_key": "3_2028298387179622400",
+          "start": 30,
+          "url": "https://t.co/99UDYV480b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028343048787366377",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 91
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028298408159547899",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @parabolicjester: even you https://t.co/99UDYV480b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2552,
+        "media_key": "3_2028298387179622400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCX2owJW0AAbsUO.jpg",
+        "width": 1748
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028298387179622400"
+          ],
+          "media_source_tweet_id": [
+            "2028298408159547899"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2028343048787366377",
+        "created_at": "2026-03-02T05:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T06:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028343048787366377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "716730608433688576",
+              "start": 3,
+              "username": "parabolicjester"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/99UDYV480b",
+              "end": 53,
+              "expanded_url": "https://x.com/parabolicjester/status/2028298408159547899/photo/1",
+              "media_key": "3_2028298387179622400",
+              "start": 30,
+              "url": "https://t.co/99UDYV480b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028343048787366377",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 91
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028298408159547899",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @parabolicjester: even you https://t.co/99UDYV480b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028298387179622400"
+          ]
+        },
+        "author_id": "716730608433688576",
+        "conversation_id": "2028298408159547899",
+        "created_at": "2026-03-02T02:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T03:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028298408159547899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/99UDYV480b",
+              "end": 32,
+              "expanded_url": "https://x.com/parabolicjester/status/2028298408159547899/photo/1",
+              "media_key": "3_2028298387179622400",
+              "start": 9,
+              "url": "https://t.co/99UDYV480b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028298408159547899",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 4386,
+          "like_count": 656,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "even you https://t.co/99UDYV480b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 775,
+          "like_count": 22862,
+          "listed_count": 0,
+          "media_count": 398,
+          "tweet_count": 2925
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-03T20:54:28.000Z",
+        "description": "squeak …⁠ᘛ⁠⁐̤⁠ᕐ⁠ᐷ                                                                                      \n\ncheck link for comm info and more!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "parabolicjester.straw.page",
+                "end": 23,
+                "expanded_url": "https://parabolicjester.straw.page",
+                "start": 0,
+                "url": "https://t.co/5fj0Al0495"
+              }
+            ]
+          }
+        },
+        "id": "716730608433688576",
+        "name": "maus",
+        "pinned_tweet_id": "2022073643996795186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007957294546329600/8xpxF0Lo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1367,
+          "following_count": 855,
+          "like_count": 210930,
+          "listed_count": 3,
+          "media_count": 62,
+          "tweet_count": 9751
+        },
+        "url": "https://t.co/5fj0Al0495",
+        "username": "parabolicjester",
+        "verified": false
+      }
+    ]
+  }
+}

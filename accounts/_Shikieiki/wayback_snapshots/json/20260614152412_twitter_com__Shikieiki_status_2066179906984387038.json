@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066125268587274240"
+      ],
+      "media_source_tweet_id": [
+        "2066125648515780778"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "2012年から始まった人気シリーズの第5期。主人公・立花響を中心に、人類の脅威と戦う少女たちの物語。人を飲み込み、炭素に変えてしまう未知の生命体・ノイズや敵対する存在に対し、響たちは歌声を力に変える鎧(よろい)型武装・シンフォギアを装着して立ち向かう。シリーズ最大スケールのドラマとバトルで、物語はXV(エクシヴ)に収束していく。",
+          "id": "10038571606",
+          "name": "戦姫絶唱シンフォギアXV"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1296307498547212288",
+          "name": "Symphogear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296307498547212288",
+          "name": "Symphogear"
+        }
+      }
+    ],
+    "conversation_id": "2066179906984387038",
+    "created_at": "2026-06-14T15:24:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T16:24:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066179906984387038"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 26,
+          "tag": "symphogear"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "24389016",
+          "start": 3,
+          "username": "nullmiya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xZ2jtHEiae",
+          "end": 61,
+          "expanded_url": "https://x.com/nullmiya/status/2066125648515780778/photo/1",
+          "media_key": "3_2066125268587274240",
+          "start": 38,
+          "url": "https://t.co/xZ2jtHEiae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066179906984387038",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066125648515780778",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nullmiya: カラビニエリつばマリ！\n#symphogear https://t.co/xZ2jtHEiae"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2479,
+        "media_key": "3_2066125268587274240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxZ_CeaYAAvvRp.jpg",
+        "width": 1756
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066125268587274240"
+          ],
+          "media_source_tweet_id": [
+            "2066125648515780778"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "2012年から始まった人気シリーズの第5期。主人公・立花響を中心に、人類の脅威と戦う少女たちの物語。人を飲み込み、炭素に変えてしまう未知の生命体・ノイズや敵対する存在に対し、響たちは歌声を力に変える鎧(よろい)型武装・シンフォギアを装着して立ち向かう。シリーズ最大スケールのドラマとバトルで、物語はXV(エクシヴ)に収束していく。",
+              "id": "10038571606",
+              "name": "戦姫絶唱シンフォギアXV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1296307498547212288",
+              "name": "Symphogear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296307498547212288",
+              "name": "Symphogear"
+            }
+          }
+        ],
+        "conversation_id": "2066179906984387038",
+        "created_at": "2026-06-14T15:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066179906984387038"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 26,
+              "tag": "symphogear"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "24389016",
+              "start": 3,
+              "username": "nullmiya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xZ2jtHEiae",
+              "end": 61,
+              "expanded_url": "https://x.com/nullmiya/status/2066125648515780778/photo/1",
+              "media_key": "3_2066125268587274240",
+              "start": 38,
+              "url": "https://t.co/xZ2jtHEiae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066179906984387038",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066125648515780778",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nullmiya: カラビニエリつばマリ！\n#symphogear https://t.co/xZ2jtHEiae"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066125268587274240"
+          ]
+        },
+        "author_id": "24389016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "2012年から始まった人気シリーズの第5期。主人公・立花響を中心に、人類の脅威と戦う少女たちの物語。人を飲み込み、炭素に変えてしまう未知の生命体・ノイズや敵対する存在に対し、響たちは歌声を力に変える鎧(よろい)型武装・シンフォギアを装着して立ち向かう。シリーズ最大スケールのドラマとバトルで、物語はXV(エクシヴ)に収束していく。",
+              "id": "10038571606",
+              "name": "戦姫絶唱シンフォギアXV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1296307498547212288",
+              "name": "Symphogear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296307498547212288",
+              "name": "Symphogear"
+            }
+          }
+        ],
+        "conversation_id": "2066125648515780778",
+        "created_at": "2026-06-14T11:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T12:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066125648515780778"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 12,
+              "tag": "symphogear"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xZ2jtHEiae",
+              "end": 47,
+              "expanded_url": "https://x.com/nullmiya/status/2066125648515780778/photo/1",
+              "media_key": "3_2066125268587274240",
+              "start": 24,
+              "url": "https://t.co/xZ2jtHEiae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066125648515780778",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 1756,
+          "like_count": 139,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "カラビニエリつばマリ！\n#symphogear https://t.co/xZ2jtHEiae"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n伴侣 @octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 963,
+          "like_count": 28592,
+          "listed_count": 1,
+          "media_count": 491,
+          "tweet_count": 4224
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-14T16:14:45.000Z",
+        "description": "雑多二次創作お絵描き。主にシンフォギア！　\n無言フォローで失礼しています\n▼R18/NSFWサブ（開店休業中） @0x00miya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 56,
+                "username": "0x00miya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/470238",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/470238",
+                "start": 0,
+                "url": "https://t.co/IGUDhbwF70"
+              }
+            ]
+          }
+        },
+        "id": "24389016",
+        "name": "nullmiya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885574231955824643/3hO2n-fS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1116,
+          "following_count": 374,
+          "like_count": 11149,
+          "listed_count": 5,
+          "media_count": 208,
+          "tweet_count": 6506
+        },
+        "url": "https://t.co/IGUDhbwF70",
+        "username": "nullmiya",
+        "verified": false
+      }
+    ]
+  }
+}

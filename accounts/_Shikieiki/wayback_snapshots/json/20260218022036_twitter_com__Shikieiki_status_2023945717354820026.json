@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023841551437492229"
+      ],
+      "media_source_tweet_id": [
+        "2023841559440159066"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2023945717354820026",
+    "created_at": "2026-02-18T02:20:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T03:20:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023945717354820026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1912411999243288577",
+          "start": 3,
+          "username": "bebemahoshojo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p6UT0A2maN",
+          "end": 42,
+          "expanded_url": "https://x.com/bebemahoshojo/status/2023841559440159066/photo/1",
+          "media_key": "3_2023841551437492229",
+          "start": 19,
+          "url": "https://t.co/p6UT0A2maN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023945717354820026",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 214
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023841559440159066",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bebemahoshojo: https://t.co/p6UT0A2maN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3106,
+        "media_key": "3_2023841551437492229",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBYhKxMbcAU8utB.jpg",
+        "width": 2220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023841551437492229"
+          ],
+          "media_source_tweet_id": [
+            "2023841559440159066"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2023945717354820026",
+        "created_at": "2026-02-18T02:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T03:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023945717354820026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1912411999243288577",
+              "start": 3,
+              "username": "bebemahoshojo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p6UT0A2maN",
+              "end": 42,
+              "expanded_url": "https://x.com/bebemahoshojo/status/2023841559440159066/photo/1",
+              "media_key": "3_2023841551437492229",
+              "start": 19,
+              "url": "https://t.co/p6UT0A2maN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023945717354820026",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 214
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023841559440159066",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bebemahoshojo: https://t.co/p6UT0A2maN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023841551437492229"
+          ]
+        },
+        "author_id": "1912411999243288577",
+        "conversation_id": "2023841559440159066",
+        "created_at": "2026-02-17T19:26:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T20:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023841559440159066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p6UT0A2maN",
+              "end": 23,
+              "expanded_url": "https://x.com/bebemahoshojo/status/2023841559440159066/photo/1",
+              "media_key": "3_2023841551437492229",
+              "start": 0,
+              "url": "https://t.co/p6UT0A2maN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023841559440159066",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 6841,
+          "like_count": 1007,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 214
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/p6UT0A2maN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 683,
+          "like_count": 20559,
+          "listed_count": 0,
+          "media_count": 277,
+          "tweet_count": 2237
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-16T07:46:24.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "markitten.straw.page",
+                "end": 23,
+                "expanded_url": "https://markitten.straw.page/",
+                "start": 0,
+                "url": "https://t.co/MRrtTVlehv"
+              }
+            ]
+          }
+        },
+        "id": "1912411999243288577",
+        "location": "Español/English/Português",
+        "name": "Markitten ✘ ˵ ╹ ◡ ╹ ˶ ✘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023855610266050560/G6-0sJTe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 455,
+          "like_count": 16978,
+          "listed_count": 0,
+          "media_count": 458,
+          "tweet_count": 882
+        },
+        "url": "https://t.co/MRrtTVlehv",
+        "username": "bebemahoshojo",
+        "verified": true
+      }
+    ]
+  }
+}

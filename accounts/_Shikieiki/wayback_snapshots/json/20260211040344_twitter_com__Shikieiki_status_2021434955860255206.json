@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020384280464224257"
+      ],
+      "media_source_tweet_id": [
+        "2020384286407524501"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2021434955860255206",
+    "created_at": "2026-02-11T04:03:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T05:03:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021434955860255206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1701555310006308864",
+          "start": 3,
+          "username": "Eternal1uv9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pOzWdBXN09",
+          "end": 91,
+          "expanded_url": "https://x.com/Eternal1uv9/status/2020384286407524501/photo/1",
+          "media_key": "3_2020384280464224257",
+          "start": 68,
+          "url": "https://t.co/pOzWdBXN09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021434955860255206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020384286407524501",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Eternal1uv9: 真的…所有oder的归宿都应该是镇静类药物…这太棒了，，吃完一遍兴奋剂致幻剂阿片大麻还是最喜欢bzd https://t.co/pOzWdBXN09"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2021434955860255206].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2021434955860255206",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2021434955860255206"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020384280464224257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAnYzHLacAEGIST.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020384280464224257"
+          ]
+        },
+        "author_id": "1701555310006308864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020384286407524501",
+        "created_at": "2026-02-08T06:28:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T07:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020384286407524501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pOzWdBXN09",
+              "end": 74,
+              "expanded_url": "https://x.com/Eternal1uv9/status/2020384286407524501/photo/1",
+              "media_key": "3_2020384280464224257",
+              "start": 51,
+              "url": "https://t.co/pOzWdBXN09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020384286407524501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 390,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的…所有oder的归宿都应该是镇静类药物…这太棒了，，吃完一遍兴奋剂致幻剂阿片大麻还是最喜欢bzd https://t.co/pOzWdBXN09"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 614,
+          "like_count": 19002,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 1667
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T11:16:56.000Z",
+        "description": "请给我一支永远不会熄灭的香烟",
+        "id": "1701555310006308864",
+        "location": "地霊殿",
+        "name": "シャナ",
+        "pinned_tweet_id": "2020864767166906550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014338019982184449/xKE1wxP9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 191,
+          "like_count": 736,
+          "listed_count": 1,
+          "media_count": 286,
+          "tweet_count": 1818
+        },
+        "username": "Eternal1uv9",
+        "verified": false
+      }
+    ]
+  }
+}

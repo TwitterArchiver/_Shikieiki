@@ -1,0 +1,486 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026844341831184384"
+      ],
+      "media_source_tweet_id": [
+        "2026844347208183857"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2026884404979941666",
+    "created_at": "2026-02-26T04:57:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T05:57:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026884404979941666"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 28,
+          "tag": "今月描いた絵を晒そう"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1361450713386127360",
+          "start": 3,
+          "username": "uya__yuu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iwY8dGSS6h",
+          "end": 63,
+          "expanded_url": "https://x.com/uya__yuu/status/2026844347208183857/photo/1",
+          "media_key": "3_2026844341831184384",
+          "start": 40,
+          "url": "https://t.co/iwY8dGSS6h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026884404979941666",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026844347208183857",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uya__yuu: 2月に描いたイラストです🐰\n#今月描いた絵を晒そう https://t.co/iwY8dGSS6h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1392,
+        "media_key": "3_2026844341831184384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCDMMLHbsAA0bsI.jpg",
+        "width": 986
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026844341831184384"
+          ],
+          "media_source_tweet_id": [
+            "2026844347208183857"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2026884404979941666",
+        "created_at": "2026-02-26T04:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T05:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026884404979941666"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 28,
+              "tag": "今月描いた絵を晒そう"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1361450713386127360",
+              "start": 3,
+              "username": "uya__yuu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iwY8dGSS6h",
+              "end": 63,
+              "expanded_url": "https://x.com/uya__yuu/status/2026844347208183857/photo/1",
+              "media_key": "3_2026844341831184384",
+              "start": 40,
+              "url": "https://t.co/iwY8dGSS6h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026884404979941666",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026844347208183857",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uya__yuu: 2月に描いたイラストです🐰\n#今月描いた絵を晒そう https://t.co/iwY8dGSS6h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026844341831184384"
+          ]
+        },
+        "author_id": "1361450713386127360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2026844347208183857",
+        "created_at": "2026-02-26T02:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T03:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026844347208183857"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 14,
+              "tag": "今月描いた絵を晒そう"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iwY8dGSS6h",
+              "end": 49,
+              "expanded_url": "https://x.com/uya__yuu/status/2026844347208183857/photo/1",
+              "media_key": "3_2026844341831184384",
+              "start": 26,
+              "url": "https://t.co/iwY8dGSS6h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026844347208183857",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 3026,
+          "like_count": 229,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "2月に描いたイラストです🐰\n#今月描いた絵を晒そう https://t.co/iwY8dGSS6h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 702,
+          "like_count": 21721,
+          "listed_count": 0,
+          "media_count": 340,
+          "tweet_count": 2545
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-15T23:02:07.000Z",
+        "description": "神奈川在住の同人作家（イラスト、漫画）🖊️サークル「悠ごはん」/ 「きらりま（一次創作）」をXで投稿中🐰可愛い女の子を描くのが得意です/ファンボックス→ https://t.co/lf1vkqoWJm  skeb→https://t.co/KDAlIDIaMU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "uyauu1014fan.fanbox.cc",
+                "end": 100,
+                "expanded_url": "https://uyauu1014fan.fanbox.cc/",
+                "start": 77,
+                "url": "https://t.co/lf1vkqoWJm"
+              },
+              {
+                "display_url": "skeb.jp/@uya__yuu/order",
+                "end": 130,
+                "expanded_url": "https://skeb.jp/@uya__yuu/order",
+                "start": 107,
+                "url": "https://t.co/KDAlIDIaMU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/66129990",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/66129990",
+                "start": 0,
+                "url": "https://t.co/rqpLCrfxc4"
+              }
+            ]
+          }
+        },
+        "id": "1361450713386127360",
+        "name": "卯屋悠　同人作家",
+        "pinned_tweet_id": "2013547918301765665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700862163437645824/wC8h4S3j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2226,
+          "following_count": 552,
+          "like_count": 17556,
+          "listed_count": 25,
+          "media_count": 1335,
+          "tweet_count": 8186
+        },
+        "url": "https://t.co/rqpLCrfxc4",
+        "username": "uya__yuu",
+        "verified": false
+      }
+    ]
+  }
+}

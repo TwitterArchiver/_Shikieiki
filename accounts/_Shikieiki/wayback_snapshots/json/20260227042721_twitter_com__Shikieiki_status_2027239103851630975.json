@@ -1,0 +1,676 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027055041090318336"
+      ],
+      "media_source_tweet_id": [
+        "2027217373489684601"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1206704182717104128",
+          "name": "Model figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1206704182717104128",
+          "name": "Model figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278061468265508864",
+          "name": "Collectibles"
+        }
+      }
+    ],
+    "conversation_id": "2027239103851630975",
+    "created_at": "2026-02-27T04:27:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T05:27:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027239103851630975"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 45,
+          "normalized_text": "ねんどろいど 暁美ほむら",
+          "probability": 0.0465,
+          "start": 34,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 78,
+          "start": 71,
+          "tag": "まどかマギカ"
+        },
+        {
+          "end": 86,
+          "start": 79,
+          "tag": "ねんどろいど"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "547299604",
+          "start": 3,
+          "username": "gsc_kahotan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/abWIjSNwkb",
+          "end": 110,
+          "expanded_url": "https://x.com/gsc_kahotan/status/2027217373489684601/photo/1",
+          "media_key": "3_2027055041090318336",
+          "start": 87,
+          "url": "https://t.co/abWIjSNwkb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027239103851630975",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 458
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027217373489684601",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gsc_kahotan: 🌟　彩色原型初公開　🌟\n／\n　ねんどろいど 暁美ほむら\n　〈ワルプルギスの廻天〉Ver. べーしっく\n＼\n\n#まどかマギカ #ねんどろいど https://t.co/abWIjSNwkb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 746,
+        "media_key": "3_2027055041090318336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCGL0fBacAAnbO5.jpg",
+        "width": 650
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027055041090318336"
+          ],
+          "media_source_tweet_id": [
+            "2027217373489684601"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278061468265508864",
+              "name": "Collectibles"
+            }
+          }
+        ],
+        "conversation_id": "2027239103851630975",
+        "created_at": "2026-02-27T04:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T05:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027239103851630975"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "ねんどろいど 暁美ほむら",
+              "probability": 0.0465,
+              "start": 34,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 78,
+              "start": 71,
+              "tag": "まどかマギカ"
+            },
+            {
+              "end": 86,
+              "start": 79,
+              "tag": "ねんどろいど"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "547299604",
+              "start": 3,
+              "username": "gsc_kahotan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/abWIjSNwkb",
+              "end": 110,
+              "expanded_url": "https://x.com/gsc_kahotan/status/2027217373489684601/photo/1",
+              "media_key": "3_2027055041090318336",
+              "start": 87,
+              "url": "https://t.co/abWIjSNwkb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027239103851630975",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 458
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027217373489684601",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gsc_kahotan: 🌟　彩色原型初公開　🌟\n／\n　ねんどろいど 暁美ほむら\n　〈ワルプルギスの廻天〉Ver. べーしっく\n＼\n\n#まどかマギカ #ねんどろいど https://t.co/abWIjSNwkb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027055041090318336"
+          ]
+        },
+        "author_id": "547299604",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278061468265508864",
+              "name": "Collectibles"
+            }
+          }
+        ],
+        "conversation_id": "2027217373489684601",
+        "created_at": "2026-02-27T03:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T04:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027217373489684601"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "ねんどろいど 暁美ほむら",
+              "probability": 0.0955,
+              "start": 17,
+              "type": "Person"
+            },
+            {
+              "end": 40,
+              "normalized_text": "ワルプルギスの廻天",
+              "probability": 0.3577,
+              "start": 32,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 54,
+              "tag": "まどかマギカ"
+            },
+            {
+              "end": 69,
+              "start": 62,
+              "tag": "ねんどろいど"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/abWIjSNwkb",
+              "end": 93,
+              "expanded_url": "https://x.com/gsc_kahotan/status/2027217373489684601/photo/1",
+              "media_key": "3_2027055041090318336",
+              "start": 70,
+              "url": "https://t.co/abWIjSNwkb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027217373489684601",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 164,
+          "impression_count": 41537,
+          "like_count": 1730,
+          "quote_count": 92,
+          "reply_count": 8,
+          "retweet_count": 458
+        },
+        "reply_settings": "everyone",
+        "text": "🌟　彩色原型初公開　🌟\n／\n　ねんどろいど 暁美ほむら\n　〈ワルプルギスの廻天〉Ver. べーしっく\n＼\n\n#まどかマギカ #ねんどろいど https://t.co/abWIjSNwkb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 708,
+          "like_count": 21877,
+          "listed_count": 0,
+          "media_count": 353,
+          "tweet_count": 2619
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-07T03:50:58.000Z",
+        "description": "グッドスマイルカンパニーの企画部所属。フィギュア商品企画の他にブログも担当しております！どうぞよろしくお願いいたします◎\n\nグッスマ公式サイト：https://t.co/B3NQgLiiqg\nマシュマロ： https://t.co/bnSJnl4Jnx…",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "goodsmile.com/ja",
+                "end": 95,
+                "expanded_url": "https://www.goodsmile.com/ja",
+                "start": 72,
+                "url": "https://t.co/B3NQgLiiqg"
+              },
+              {
+                "display_url": "marshmallow-qa.com/gsc_kahotan?ut",
+                "end": 126,
+                "expanded_url": "http://marshmallow-qa.com/gsc_kahotan?ut",
+                "start": 103,
+                "url": "https://t.co/bnSJnl4Jnx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "goodsmile.jp/kahotan",
+                "end": 23,
+                "expanded_url": "http://goodsmile.jp/kahotan",
+                "start": 0,
+                "url": "https://t.co/KkUNvZ4p7W"
+              }
+            ]
+          }
+        },
+        "id": "547299604",
+        "location": "秋葉原の程近く",
+        "name": "カホタン＠グッスマのすみっこ",
+        "pinned_tweet_id": "2026930234948251900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1557060860631138304/DNcidBzz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301252,
+          "following_count": 347,
+          "like_count": 3833,
+          "listed_count": 2735,
+          "media_count": 39851,
+          "tweet_count": 76032
+        },
+        "url": "https://t.co/KkUNvZ4p7W",
+        "username": "gsc_kahotan",
+        "verified": true
+      }
+    ]
+  }
+}

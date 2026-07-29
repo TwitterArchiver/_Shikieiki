@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028449970584698880"
+      ],
+      "media_source_tweet_id": [
+        "2028449979304747479"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2028451004421992606",
+    "created_at": "2026-03-02T12:43:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T13:43:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028451004421992606"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 66,
+          "normalized_text": "Japan",
+          "probability": 0.9751,
+          "start": 62,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2192605531",
+          "start": 3,
+          "username": "tani_takuma"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/izIWaRcItj",
+          "end": 92,
+          "expanded_url": "https://x.com/tani_takuma/status/2028449979304747479/photo/1",
+          "media_key": "3_2028449970584698880",
+          "start": 69,
+          "url": "https://t.co/izIWaRcItj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028451004421992606",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028449979304747479",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tani_takuma: Hello. I'm a father raising two daughters in Japan. https://t.co/izIWaRcItj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3761,
+        "media_key": "3_2028449970584698880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCaAgEVaQAA6MTX.jpg",
+        "width": 1742
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028449970584698880"
+          ],
+          "media_source_tweet_id": [
+            "2028449979304747479"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2028451004421992606",
+        "created_at": "2026-03-02T12:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T13:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028451004421992606"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 66,
+              "normalized_text": "Japan",
+              "probability": 0.9751,
+              "start": 62,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2192605531",
+              "start": 3,
+              "username": "tani_takuma"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/izIWaRcItj",
+              "end": 92,
+              "expanded_url": "https://x.com/tani_takuma/status/2028449979304747479/photo/1",
+              "media_key": "3_2028449970584698880",
+              "start": 69,
+              "url": "https://t.co/izIWaRcItj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028451004421992606",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028449979304747479",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tani_takuma: Hello. I'm a father raising two daughters in Japan. https://t.co/izIWaRcItj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028449970584698880"
+          ]
+        },
+        "author_id": "2192605531",
+        "conversation_id": "2028449979304747479",
+        "created_at": "2026-03-02T12:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T13:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028449979304747479"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 49,
+              "normalized_text": "Japan",
+              "probability": 0.9654,
+              "start": 45,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/izIWaRcItj",
+              "end": 75,
+              "expanded_url": "https://x.com/tani_takuma/status/2028449979304747479/photo/1",
+              "media_key": "3_2028449970584698880",
+              "start": 52,
+              "url": "https://t.co/izIWaRcItj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028449979304747479",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 644,
+          "like_count": 98,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "Hello. I'm a father raising two daughters in Japan. https://t.co/izIWaRcItj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 782,
+          "like_count": 22980,
+          "listed_count": 0,
+          "media_count": 404,
+          "tweet_count": 2953
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2013-11-13T16:53:30.000Z",
+        "description": "お父さんです。48歳。『実モル』『ハイダンシークドロシー』『廻想列車に僕と猫』の歌の人。モデル、タレント、絵描きとして活動。 フジTV『バイキング』女装コンテスト優勝。TV朝日『お願い！ランキング』ゲスト出演。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tanitakuma.stores.jp",
+                "end": 23,
+                "expanded_url": "https://tanitakuma.stores.jp",
+                "start": 0,
+                "url": "https://t.co/mcCT761Zjx"
+              }
+            ]
+          }
+        },
+        "id": "2192605531",
+        "location": "日本 東京",
+        "name": "谷琢磨 Takuma Tani",
+        "pinned_tweet_id": "1668817751056715776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966886378744279042/aQZgvF6M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124858,
+          "following_count": 561,
+          "like_count": 20734,
+          "listed_count": 384,
+          "media_count": 5867,
+          "tweet_count": 18436
+        },
+        "url": "https://t.co/mcCT761Zjx",
+        "username": "tani_takuma",
+        "verified": true
+      }
+    ]
+  }
+}

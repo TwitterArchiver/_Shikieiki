@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032774904647712768"
+      ],
+      "media_source_tweet_id": [
+        "2032774977611772066"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2032790486847770654",
+    "created_at": "2026-03-14T12:06:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T13:06:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032790486847770654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "106250445",
+          "start": 3,
+          "username": "higayukari"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p7CMgrCGS1",
+          "end": 50,
+          "expanded_url": "https://x.com/higayukari/status/2032774977611772066/photo/1",
+          "media_key": "3_2032774904647712768",
+          "start": 27,
+          "url": "https://t.co/p7CMgrCGS1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032790486847770654",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032774977611772066",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @higayukari: 「卒業おめでとう🌸」 https://t.co/p7CMgrCGS1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2032774904647712768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDXeAXPbAAA0ROa.jpg",
+        "width": 899
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032774904647712768"
+          ],
+          "media_source_tweet_id": [
+            "2032774977611772066"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2032790486847770654",
+        "created_at": "2026-03-14T12:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T13:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032790486847770654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "106250445",
+              "start": 3,
+              "username": "higayukari"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p7CMgrCGS1",
+              "end": 50,
+              "expanded_url": "https://x.com/higayukari/status/2032774977611772066/photo/1",
+              "media_key": "3_2032774904647712768",
+              "start": 27,
+              "url": "https://t.co/p7CMgrCGS1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032790486847770654",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032774977611772066",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @higayukari: 「卒業おめでとう🌸」 https://t.co/p7CMgrCGS1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032774904647712768"
+          ]
+        },
+        "author_id": "106250445",
+        "conversation_id": "2032774977611772066",
+        "created_at": "2026-03-14T11:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T12:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032774977611772066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p7CMgrCGS1",
+              "end": 34,
+              "expanded_url": "https://x.com/higayukari/status/2032774977611772066/photo/1",
+              "media_key": "3_2032774904647712768",
+              "start": 11,
+              "url": "https://t.co/p7CMgrCGS1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032774977611772066",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 2420,
+          "like_count": 182,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "「卒業おめでとう🌸」 https://t.co/p7CMgrCGS1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "呼喚我的名字 如同那一日似的展露笑顏吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "see_you_hell.although.here.probably.is",
+                "end": 23,
+                "expanded_url": "http://see_you_hell.although.here.probably.is",
+                "start": 0,
+                "url": "https://t.co/ecUxsPCDIQ"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2028458258697171187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 800,
+          "like_count": 23655,
+          "listed_count": 0,
+          "media_count": 412,
+          "tweet_count": 3066
+        },
+        "url": "https://t.co/ecUxsPCDIQ",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-18T23:52:09.000Z",
+        "description": "漫画家_イラストレーター🍎連載中 ・アニメ化企画進行中！KADOKAWA『マジカル☆エクスプローラー』#マジエク ・TOブックス『元貴族令嬢で未婚の母ですが、娘たちが可愛すぎて冒険者業も苦になりません』/ 🍏【まとめ】→ https://t.co/xIY7PxJVRS / 同人→@higayukari2nd",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 51,
+                "tag": "マジエク"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 154,
+                "start": 140,
+                "username": "higayukari2nd"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/higayukari",
+                "end": 134,
+                "expanded_url": "http://lit.link/higayukari",
+                "start": 111,
+                "url": "https://t.co/xIY7PxJVRS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mekapen.blog116.fc2.com",
+                "end": 23,
+                "expanded_url": "http://mekapen.blog116.fc2.com",
+                "start": 0,
+                "url": "https://t.co/nj3zaw6Khd"
+              }
+            ]
+          }
+        },
+        "id": "106250445",
+        "location": "お仕事の問い合わせ先→https://x.gd/XZW95",
+        "name": "緋賀ゆかり🍎マジエク3巻発売＆元むす連載中！・C107新刊委託中！",
+        "pinned_tweet_id": "2030940560014684391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690966973927378944/XzD51Rtv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56463,
+          "following_count": 24498,
+          "like_count": 8850,
+          "listed_count": 1295,
+          "media_count": 3806,
+          "tweet_count": 24488
+        },
+        "url": "https://t.co/nj3zaw6Khd",
+        "username": "higayukari",
+        "verified": true
+      }
+    ]
+  }
+}

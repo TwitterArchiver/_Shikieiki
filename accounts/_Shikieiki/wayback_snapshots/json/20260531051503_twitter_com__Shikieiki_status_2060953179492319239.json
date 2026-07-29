@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2060934942612389966",
+    "created_at": "2026-05-31T05:15:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T06:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060953179492319239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1667129907795886081",
+          "start": 0,
+          "username": "mods999_"
+        },
+        {
+          "end": 21,
+          "id": "1598949754854985728",
+          "start": 10,
+          "username": "mods999run"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060953179492319239",
+    "in_reply_to_user_id": "1667129907795886081",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060934942612389966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mods999_ @mods999run 祝没事"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2060934942612389966].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2060934942612389966",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2060934942612389966"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2060934942612389966",
+        "created_at": "2026-05-31T05:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T06:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060953179492319239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1667129907795886081",
+              "start": 0,
+              "username": "mods999_"
+            },
+            {
+              "end": 21,
+              "id": "1598949754854985728",
+              "start": 10,
+              "username": "mods999run"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060953179492319239",
+        "in_reply_to_user_id": "1667129907795886081",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060934942612389966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mods999_ @mods999run 祝没事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n伴侣 @octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1117,
+          "following_count": 952,
+          "like_count": 28699,
+          "listed_count": 1,
+          "media_count": 499,
+          "tweet_count": 4185
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-09T11:22:09.000Z",
+        "description": "常用id：mods999/网友夏顺亚，基本都会回fo.成分Oder/🎌自由意志，其他自行判断，键政的傻逼东西自觉屏蔽我别恶心你野爹",
+        "id": "1667129907795886081",
+        "location": "阿克西斯",
+        "name": "网友夏顺亚",
+        "pinned_tweet_id": "2037120174533579253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040975317486186496/Dx6Wt3_R_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 475,
+          "like_count": 37627,
+          "listed_count": 1,
+          "media_count": 1457,
+          "tweet_count": 6459
+        },
+        "username": "mods999_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T07:58:32.000Z",
+        "description": "",
+        "id": "1598949754854985728",
+        "location": "香港",
+        "name": "网友卡顺缪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830149514176708610/B_fnEp09_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 19,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 12
+        },
+        "username": "mods999run",
+        "verified": false
+      }
+    ]
+  }
+}

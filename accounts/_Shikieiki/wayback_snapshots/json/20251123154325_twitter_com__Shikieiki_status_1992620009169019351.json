@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "1992620009169019351",
+    "created_at": "2025-11-23T15:43:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T16:43:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992620009169019351"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 109,
+          "start": 105,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 113,
+          "start": 110,
+          "tag": "线下"
+        },
+        {
+          "end": 117,
+          "start": 114,
+          "tag": "非绿"
+        },
+        {
+          "end": 121,
+          "start": 118,
+          "tag": "萝莉"
+        },
+        {
+          "end": 126,
+          "start": 122,
+          "tag": "地雷系"
+        },
+        {
+          "end": 130,
+          "start": 127,
+          "tag": "半绿"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "740787879597735936",
+          "start": 3,
+          "username": "xuelianyilinliu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992620009169019351",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983939717336072422",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuelianyilinliu: 我是小雪 坐标武汉 支持语音视频验证 \n因为生活原因所以来做援交了 我很需要钱🥺\n欢迎可爱小女孩们互转互fo 一起玩呢( ´▽｀) 希望有好多喜欢我给我过门约我的爸爸 ＃门槛妹 ＃线下 #非绿 #萝莉 #地雷系 #半绿 https://…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1992620009169019351].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1992620009169019351",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1992620009169019351"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 947,
+        "media_key": "3_1983939669864992768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4henk4b0AAvHR-.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1983939669843963905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4henkza8AEiqcZ.jpg",
+        "width": 1542
+      },
+      {
+        "height": 1279,
+        "media_key": "3_1983939669873303552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4henk6aoAA_qlZ.jpg",
+        "width": 1706
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1983939669856522240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4henk2akAAxcvt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983939669864992768",
+            "3_1983939669843963905",
+            "3_1983939669873303552",
+            "3_1983939669856522240"
+          ]
+        },
+        "author_id": "740787879597735936",
+        "conversation_id": "1983939717336072422",
+        "created_at": "2025-10-30T16:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T17:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983939717336072422"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 88,
+              "start": 84,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "线下"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "非绿"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "萝莉"
+            },
+            {
+              "end": 105,
+              "start": 101,
+              "tag": "地雷系"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "半绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2bJKLAmeg4",
+              "end": 133,
+              "expanded_url": "https://x.com/xuelianyilinliu/status/1983939717336072422/photo/1",
+              "media_key": "3_1983939669864992768",
+              "start": 110,
+              "url": "https://t.co/2bJKLAmeg4"
+            },
+            {
+              "display_url": "pic.x.com/2bJKLAmeg4",
+              "end": 133,
+              "expanded_url": "https://x.com/xuelianyilinliu/status/1983939717336072422/photo/1",
+              "media_key": "3_1983939669843963905",
+              "start": 110,
+              "url": "https://t.co/2bJKLAmeg4"
+            },
+            {
+              "display_url": "pic.x.com/2bJKLAmeg4",
+              "end": 133,
+              "expanded_url": "https://x.com/xuelianyilinliu/status/1983939717336072422/photo/1",
+              "media_key": "3_1983939669873303552",
+              "start": 110,
+              "url": "https://t.co/2bJKLAmeg4"
+            },
+            {
+              "display_url": "pic.x.com/2bJKLAmeg4",
+              "end": 133,
+              "expanded_url": "https://x.com/xuelianyilinliu/status/1983939717336072422/photo/1",
+              "media_key": "3_1983939669856522240",
+              "start": 110,
+              "url": "https://t.co/2bJKLAmeg4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983939717336072422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 14482,
+          "like_count": 62,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "我是小雪 坐标武汉 支持语音视频验证 \n因为生活原因所以来做援交了 我很需要钱🥺\n欢迎可爱小女孩们互转互fo 一起玩呢( ´▽｀) 希望有好多喜欢我给我过门约我的爸爸 ＃门槛妹 ＃线下 #非绿 #萝莉 #地雷系 #半绿 https://t.co/2bJKLAmeg4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "1842867034050441268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 355,
+          "like_count": 6243,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 144
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-09T06:09:28.000Z",
+        "description": "我是一个很可爱很善良的小女孩 等待一个爱我的金主哥哥",
+        "id": "740787879597735936",
+        "location": "Tokyo-to, Japan",
+        "name": "小雪",
+        "pinned_tweet_id": "1983939717336072422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969015973685436417/8kNMBhdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 67,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 150
+        },
+        "username": "xuelianyilinliu",
+        "verified": false
+      }
+    ]
+  }
+}

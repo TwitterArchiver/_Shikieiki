@@ -1,0 +1,448 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027376571896758273",
+        "3_2027376571896745984",
+        "3_2027376571896700928",
+        "3_2027376571900981248"
+      ],
+      "media_source_tweet_id": [
+        "2027376582055350495",
+        "2027376582055350495",
+        "2027376582055350495",
+        "2027376582055350495"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2027391270776385888",
+    "created_at": "2026-02-27T14:32:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T15:32:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027391270776385888"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "ほ",
+          "probability": 0.6736,
+          "start": 33,
+          "type": "Person"
+        },
+        {
+          "end": 38,
+          "normalized_text": "むらちゃん",
+          "probability": 0.5545,
+          "start": 34,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 61,
+          "start": 47,
+          "tag": "今月描いたイラストを晒そう"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "955393651554664448",
+          "start": 3,
+          "username": "Riuriumagi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XQxpsDPIL3",
+          "end": 85,
+          "expanded_url": "https://x.com/Riuriumagi/status/2027376582055350495/photo/1",
+          "media_key": "3_2027376571896758273",
+          "start": 62,
+          "url": "https://t.co/XQxpsDPIL3"
+        },
+        {
+          "display_url": "pic.x.com/XQxpsDPIL3",
+          "end": 85,
+          "expanded_url": "https://x.com/Riuriumagi/status/2027376582055350495/photo/1",
+          "media_key": "3_2027376571896745984",
+          "start": 62,
+          "url": "https://t.co/XQxpsDPIL3"
+        },
+        {
+          "display_url": "pic.x.com/XQxpsDPIL3",
+          "end": 85,
+          "expanded_url": "https://x.com/Riuriumagi/status/2027376582055350495/photo/1",
+          "media_key": "3_2027376571896700928",
+          "start": 62,
+          "url": "https://t.co/XQxpsDPIL3"
+        },
+        {
+          "display_url": "pic.x.com/XQxpsDPIL3",
+          "end": 85,
+          "expanded_url": "https://x.com/Riuriumagi/status/2027376582055350495/photo/1",
+          "media_key": "3_2027376571900981248",
+          "start": 62,
+          "url": "https://t.co/XQxpsDPIL3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027391270776385888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027376582055350495",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Riuriumagi: 今月もたくさん描きました✨\n来月もほむらちゃん描きまくるぞ！\n#今月描いたイラストを晒そう https://t.co/XQxpsDPIL3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1487,
+        "media_key": "3_2027376571896758273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKwQCnbAAEZ2bu.jpg",
+        "width": 1450
+      },
+      {
+        "height": 1543,
+        "media_key": "3_2027376571896745984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKwQCna0AAuLhh.jpg",
+        "width": 1450
+      },
+      {
+        "height": 1372,
+        "media_key": "3_2027376571896700928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKwQCnaIAAutbZ.jpg",
+        "width": 1450
+      },
+      {
+        "height": 1359,
+        "media_key": "3_2027376571900981248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKwQCobcAAizlU.jpg",
+        "width": 1450
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027376571896758273",
+            "3_2027376571896745984",
+            "3_2027376571896700928",
+            "3_2027376571900981248"
+          ],
+          "media_source_tweet_id": [
+            "2027376582055350495",
+            "2027376582055350495",
+            "2027376582055350495",
+            "2027376582055350495"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2027391270776385888",
+        "created_at": "2026-02-27T14:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T15:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027391270776385888"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "ほ",
+              "probability": 0.6736,
+              "start": 33,
+              "type": "Person"
+            },
+            {
+              "end": 38,
+              "normalized_text": "むらちゃん",
+              "probability": 0.5545,
+              "start": 34,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 47,
+              "tag": "今月描いたイラストを晒そう"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "955393651554664448",
+              "start": 3,
+              "username": "Riuriumagi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XQxpsDPIL3",
+              "end": 85,
+              "expanded_url": "https://x.com/Riuriumagi/status/2027376582055350495/photo/1",
+              "media_key": "3_2027376571896758273",
+              "start": 62,
+              "url": "https://t.co/XQxpsDPIL3"
+            },
+            {
+              "display_url": "pic.x.com/XQxpsDPIL3",
+              "end": 85,
+              "expanded_url": "https://x.com/Riuriumagi/status/2027376582055350495/photo/1",
+              "media_key": "3_2027376571896745984",
+              "start": 62,
+              "url": "https://t.co/XQxpsDPIL3"
+            },
+            {
+              "display_url": "pic.x.com/XQxpsDPIL3",
+              "end": 85,
+              "expanded_url": "https://x.com/Riuriumagi/status/2027376582055350495/photo/1",
+              "media_key": "3_2027376571896700928",
+              "start": 62,
+              "url": "https://t.co/XQxpsDPIL3"
+            },
+            {
+              "display_url": "pic.x.com/XQxpsDPIL3",
+              "end": 85,
+              "expanded_url": "https://x.com/Riuriumagi/status/2027376582055350495/photo/1",
+              "media_key": "3_2027376571900981248",
+              "start": 62,
+              "url": "https://t.co/XQxpsDPIL3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027391270776385888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027376582055350495",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Riuriumagi: 今月もたくさん描きました✨\n来月もほむらちゃん描きまくるぞ！\n#今月描いたイラストを晒そう https://t.co/XQxpsDPIL3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027376571896758273",
+            "3_2027376571896745984",
+            "3_2027376571896700928",
+            "3_2027376571900981248"
+          ]
+        },
+        "author_id": "955393651554664448",
+        "conversation_id": "2027376582055350495",
+        "created_at": "2026-02-27T13:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T14:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027376582055350495"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "ほむらちゃん",
+              "probability": 0.3042,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 31,
+              "tag": "今月描いたイラストを晒そう"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XQxpsDPIL3",
+              "end": 69,
+              "expanded_url": "https://x.com/Riuriumagi/status/2027376582055350495/photo/1",
+              "media_key": "3_2027376571896758273",
+              "start": 46,
+              "url": "https://t.co/XQxpsDPIL3"
+            },
+            {
+              "display_url": "pic.x.com/XQxpsDPIL3",
+              "end": 69,
+              "expanded_url": "https://x.com/Riuriumagi/status/2027376582055350495/photo/1",
+              "media_key": "3_2027376571896745984",
+              "start": 46,
+              "url": "https://t.co/XQxpsDPIL3"
+            },
+            {
+              "display_url": "pic.x.com/XQxpsDPIL3",
+              "end": 69,
+              "expanded_url": "https://x.com/Riuriumagi/status/2027376582055350495/photo/1",
+              "media_key": "3_2027376571896700928",
+              "start": 46,
+              "url": "https://t.co/XQxpsDPIL3"
+            },
+            {
+              "display_url": "pic.x.com/XQxpsDPIL3",
+              "end": 69,
+              "expanded_url": "https://x.com/Riuriumagi/status/2027376582055350495/photo/1",
+              "media_key": "3_2027376571900981248",
+              "start": 46,
+              "url": "https://t.co/XQxpsDPIL3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027376582055350495",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 708,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "今月もたくさん描きました✨\n来月もほむらちゃん描きまくるぞ！\n#今月描いたイラストを晒そう https://t.co/XQxpsDPIL3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 717,
+          "like_count": 22000,
+          "listed_count": 0,
+          "media_count": 357,
+          "tweet_count": 2682
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-22T10:56:11.000Z",
+        "description": "イラストレーター。ファンアート、二次創作イラストを描きます。 お仕事やご依頼はmailやDMにて受け付けております。Skeb募集中です。過去実績https://t.co/nWJWT1CWbN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fori.io/riuriumagi",
+                "end": 95,
+                "expanded_url": "https://fori.io/riuriumagi",
+                "start": 72,
+                "url": "https://t.co/nWJWT1CWbN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Riuriumagi",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@Riuriumagi",
+                "start": 0,
+                "url": "https://t.co/vQHwRwYln6"
+              }
+            ]
+          }
+        },
+        "id": "955393651554664448",
+        "location": "riuillustration@gmail.com",
+        "name": "リう",
+        "pinned_tweet_id": "2017176397052248203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917223473468121089/zBHEISNj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8143,
+          "following_count": 1688,
+          "like_count": 72295,
+          "listed_count": 59,
+          "media_count": 3588,
+          "tweet_count": 26189
+        },
+        "url": "https://t.co/vQHwRwYln6",
+        "username": "Riuriumagi",
+        "verified": true
+      }
+    ]
+  }
+}

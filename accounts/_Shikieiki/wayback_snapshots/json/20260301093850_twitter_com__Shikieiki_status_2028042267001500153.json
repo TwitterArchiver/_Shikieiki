@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027939130131521536"
+      ],
+      "media_source_tweet_id": [
+        "2027939137668715006"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2028042267001500153",
+    "created_at": "2026-03-01T09:38:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T10:38:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028042267001500153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1666905628655382528",
+          "start": 3,
+          "username": "aki26428"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E2iC9vscft",
+          "end": 37,
+          "expanded_url": "https://x.com/aki26428/status/2027939137668715006/photo/1",
+          "media_key": "3_2027939130131521536",
+          "start": 14,
+          "url": "https://t.co/E2iC9vscft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028042267001500153",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027939137668715006",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aki26428: https://t.co/E2iC9vscft"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2027939130131521536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCSv5PWaoAAPP24.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027939130131521536"
+          ],
+          "media_source_tweet_id": [
+            "2027939137668715006"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2028042267001500153",
+        "created_at": "2026-03-01T09:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T10:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028042267001500153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1666905628655382528",
+              "start": 3,
+              "username": "aki26428"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E2iC9vscft",
+              "end": 37,
+              "expanded_url": "https://x.com/aki26428/status/2027939137668715006/photo/1",
+              "media_key": "3_2027939130131521536",
+              "start": 14,
+              "url": "https://t.co/E2iC9vscft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028042267001500153",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027939137668715006",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aki26428: https://t.co/E2iC9vscft"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027939130131521536"
+          ]
+        },
+        "author_id": "1666905628655382528",
+        "conversation_id": "2027939137668715006",
+        "created_at": "2026-03-01T02:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T03:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027939137668715006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E2iC9vscft",
+              "end": 23,
+              "expanded_url": "https://x.com/aki26428/status/2027939137668715006/photo/1",
+              "media_key": "3_2027939130131521536",
+              "start": 0,
+              "url": "https://t.co/E2iC9vscft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027939137668715006",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 4634,
+          "like_count": 445,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/E2iC9vscft"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 745,
+          "like_count": 22409,
+          "listed_count": 0,
+          "media_count": 374,
+          "tweet_count": 2802
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T20:30:58.000Z",
+        "description": "無言フォロー失礼します🙇‍♂️無断転載🚫AI学習🚫。。イラスト描きます。 https://t.co/Upz0eQal79  https://t.co/P6JbWYSIkr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/aki26428",
+                "end": 60,
+                "expanded_url": "https://odaibako.net/u/aki26428",
+                "start": 37,
+                "url": "https://t.co/Upz0eQal79"
+              },
+              {
+                "display_url": "pixiv.net/users/95094937",
+                "end": 85,
+                "expanded_url": "https://www.pixiv.net/users/95094937",
+                "start": 62,
+                "url": "https://t.co/P6JbWYSIkr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/aki_26428?igsh…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/aki_26428?igshid=YTQwZjQ0NmI0OA==",
+                "start": 0,
+                "url": "https://t.co/zjZYtmSUHa"
+              }
+            ]
+          }
+        },
+        "id": "1666905628655382528",
+        "name": "明/Aki",
+        "pinned_tweet_id": "1971127392694567330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001515558714646528/lwzHltCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6534,
+          "following_count": 716,
+          "like_count": 55749,
+          "listed_count": 59,
+          "media_count": 929,
+          "tweet_count": 7889
+        },
+        "url": "https://t.co/zjZYtmSUHa",
+        "username": "aki26428",
+        "verified": true
+      }
+    ]
+  }
+}

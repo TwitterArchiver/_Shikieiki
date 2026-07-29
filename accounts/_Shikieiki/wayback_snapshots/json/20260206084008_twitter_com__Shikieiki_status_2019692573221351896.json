@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018968661923610624"
+      ],
+      "media_source_tweet_id": [
+        "2018968675521618122"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2019692573221351896",
+    "created_at": "2026-02-06T08:40:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T09:40:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019692573221351896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1968293841703989248",
+          "start": 3,
+          "username": "nyansterchan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/63optX113U",
+          "end": 41,
+          "expanded_url": "https://x.com/nyansterchan/status/2018968675521618122/photo/1",
+          "media_key": "3_2018968661923610624",
+          "start": 18,
+          "url": "https://t.co/63optX113U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019692573221351896",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3139
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018968675521618122",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyansterchan: https://t.co/63optX113U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 601,
+        "media_key": "3_2018968661923610624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HATRTRKaQAAG_W2.png",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018968661923610624"
+          ],
+          "media_source_tweet_id": [
+            "2018968675521618122"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2019692573221351896",
+        "created_at": "2026-02-06T08:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T09:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019692573221351896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1968293841703989248",
+              "start": 3,
+              "username": "nyansterchan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/63optX113U",
+              "end": 41,
+              "expanded_url": "https://x.com/nyansterchan/status/2018968675521618122/photo/1",
+              "media_key": "3_2018968661923610624",
+              "start": 18,
+              "url": "https://t.co/63optX113U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019692573221351896",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3139
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018968675521618122",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyansterchan: https://t.co/63optX113U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018968661923610624"
+          ]
+        },
+        "author_id": "1968293841703989248",
+        "conversation_id": "2018968675521618122",
+        "created_at": "2026-02-04T08:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T09:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018968675521618122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/63optX113U",
+              "end": 23,
+              "expanded_url": "https://x.com/nyansterchan/status/2018968675521618122/photo/1",
+              "media_key": "3_2018968661923610624",
+              "start": 0,
+              "url": "https://t.co/63optX113U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018968675521618122",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 617,
+          "impression_count": 110421,
+          "like_count": 14105,
+          "quote_count": 61,
+          "reply_count": 26,
+          "retweet_count": 3139
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/63optX113U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 601,
+          "like_count": 18818,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 1542
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T12:40:06.000Z",
+        "description": "the original evil and mischievous catgirl | j*ws and n*zis hate me :c | i am cia and i want to die",
+        "id": "1968293841703989248",
+        "name": "nyan",
+        "pinned_tweet_id": "1981347188434452701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017972492405702657/WSU8W9hr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 154,
+          "like_count": 5058,
+          "listed_count": 2,
+          "media_count": 336,
+          "tweet_count": 4220
+        },
+        "username": "nyansterchan",
+        "verified": false
+      }
+    ]
+  }
+}

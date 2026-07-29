@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027760725729705984"
+      ],
+      "media_source_tweet_id": [
+        "2028402434725597334"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2028440706491335045",
+    "created_at": "2026-03-02T12:02:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T13:02:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028440706491335045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1724664306527277056",
+          "start": 3,
+          "username": "hakanai_story"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FRH9l4mPzC",
+          "end": 42,
+          "expanded_url": "https://x.com/hakanai_story/status/2028402434725597334/photo/1",
+          "media_key": "3_2027760725729705984",
+          "start": 19,
+          "url": "https://t.co/FRH9l4mPzC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028440706491335045",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028402434725597334",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hakanai_story: https://t.co/FRH9l4mPzC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2027760725729705984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCQNovKbgAA3YbW.jpg",
+        "width": 2728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027760725729705984"
+          ],
+          "media_source_tweet_id": [
+            "2028402434725597334"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2028440706491335045",
+        "created_at": "2026-03-02T12:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T13:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028440706491335045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1724664306527277056",
+              "start": 3,
+              "username": "hakanai_story"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FRH9l4mPzC",
+              "end": 42,
+              "expanded_url": "https://x.com/hakanai_story/status/2028402434725597334/photo/1",
+              "media_key": "3_2027760725729705984",
+              "start": 19,
+              "url": "https://t.co/FRH9l4mPzC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028440706491335045",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028402434725597334",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hakanai_story: https://t.co/FRH9l4mPzC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027760725729705984"
+          ]
+        },
+        "author_id": "1724664306527277056",
+        "conversation_id": "2028402434725597334",
+        "created_at": "2026-03-02T09:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T10:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028402434725597334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FRH9l4mPzC",
+              "end": 23,
+              "expanded_url": "https://x.com/hakanai_story/status/2028402434725597334/photo/1",
+              "media_key": "3_2027760725729705984",
+              "start": 0,
+              "url": "https://t.co/FRH9l4mPzC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028402434725597334",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 4021,
+          "like_count": 429,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FRH9l4mPzC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 781,
+          "like_count": 22941,
+          "listed_count": 0,
+          "media_count": 403,
+          "tweet_count": 2944
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-15T05:43:25.000Z",
+        "description": "終末世界に取り残された「私」が、過去の後悔や忘れ物を探して何度も夏をループするセカイ系ライブアイドル。🎧 ▶︎ https://t.co/GebwAnVqI6 🗓️ ▶︎ @hakanai_info ✉️ ▶︎  hakanai.information@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hakanai_info"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linkco.re/xyGnCYY6?lang=…",
+                "end": 79,
+                "expanded_url": "https://linkco.re/xyGnCYY6?lang=ja",
+                "start": 56,
+                "url": "https://t.co/GebwAnVqI6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hakanai-official.com",
+                "end": 23,
+                "expanded_url": "https://hakanai-official.com",
+                "start": 0,
+                "url": "https://t.co/lRTgnsShd7"
+              }
+            ]
+          }
+        },
+        "id": "1724664306527277056",
+        "location": "OTONA CHILD.",
+        "name": "hakanai",
+        "pinned_tweet_id": "2014315340289953929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1737804777000697856/3TbGCbVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17609,
+          "following_count": 9,
+          "like_count": 207,
+          "listed_count": 104,
+          "media_count": 965,
+          "tweet_count": 1256
+        },
+        "url": "https://t.co/lRTgnsShd7",
+        "username": "hakanai_story",
+        "verified": true
+      }
+    ]
+  }
+}

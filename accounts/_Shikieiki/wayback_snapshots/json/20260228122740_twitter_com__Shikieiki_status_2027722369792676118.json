@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027433130886307840"
+      ],
+      "media_source_tweet_id": [
+        "2027433134820556834"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2027722369792676118",
+    "created_at": "2026-02-28T12:27:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T13:27:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027722369792676118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1947122584862302208",
+          "start": 3,
+          "username": "amalgamatomaton"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/St7P0RKCRv",
+          "end": 50,
+          "expanded_url": "https://x.com/amalgamatomaton/status/2027433134820556834/photo/1",
+          "media_key": "3_2027433130886307840",
+          "start": 27,
+          "url": "https://t.co/St7P0RKCRv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027722369792676118",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027433134820556834",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amalgamatomaton: Nihei https://t.co/St7P0RKCRv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2027433130886307840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCLjsNRWIAACANo.jpg",
+        "width": 769
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027433130886307840"
+          ],
+          "media_source_tweet_id": [
+            "2027433134820556834"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2027722369792676118",
+        "created_at": "2026-02-28T12:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T13:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027722369792676118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1947122584862302208",
+              "start": 3,
+              "username": "amalgamatomaton"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/St7P0RKCRv",
+              "end": 50,
+              "expanded_url": "https://x.com/amalgamatomaton/status/2027433134820556834/photo/1",
+              "media_key": "3_2027433130886307840",
+              "start": 27,
+              "url": "https://t.co/St7P0RKCRv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027722369792676118",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027433134820556834",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amalgamatomaton: Nihei https://t.co/St7P0RKCRv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027433130886307840"
+          ]
+        },
+        "author_id": "1947122584862302208",
+        "conversation_id": "2027433134820556834",
+        "created_at": "2026-02-27T17:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027433134820556834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/St7P0RKCRv",
+              "end": 29,
+              "expanded_url": "https://x.com/amalgamatomaton/status/2027433134820556834/photo/1",
+              "media_key": "3_2027433130886307840",
+              "start": 6,
+              "url": "https://t.co/St7P0RKCRv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027433134820556834",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 3270,
+          "like_count": 299,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "Nihei https://t.co/St7P0RKCRv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 731,
+          "like_count": 22201,
+          "listed_count": 0,
+          "media_count": 364,
+          "tweet_count": 2743
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-21T02:33:07.000Z",
+        "description": ":goth:",
+        "id": "1947122584862302208",
+        "name": "amalgamatomaton",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980865184231981056/0wK3NN5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6948,
+          "following_count": 36,
+          "like_count": 902,
+          "listed_count": 32,
+          "media_count": 513,
+          "tweet_count": 1240
+        },
+        "username": "amalgamatomaton",
+        "verified": false
+      }
+    ]
+  }
+}

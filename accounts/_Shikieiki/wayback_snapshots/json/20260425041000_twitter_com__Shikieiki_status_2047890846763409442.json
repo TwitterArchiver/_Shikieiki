@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930901426429198336"
+      ],
+      "media_source_tweet_id": [
+        "1930901431894352037"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2047890846763409442",
+    "created_at": "2026-04-25T04:10:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T05:10:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047890846763409442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1903024436745469952",
+          "start": 3,
+          "username": "ku_sabi_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uNoKhyib0n",
+          "end": 37,
+          "expanded_url": "https://x.com/kusabi___/status/1930901431894352037/photo/1",
+          "media_key": "3_1930901426429198336",
+          "start": 14,
+          "url": "https://t.co/uNoKhyib0n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047890846763409442",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1089
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930901431894352037",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @ku_sabi_: https://t.co/uNoKhyib0n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1930901426429198336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsvwnfKbgAAqJlt.jpg",
+        "width": 1709
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930901426429198336"
+          ],
+          "media_source_tweet_id": [
+            "1930901431894352037"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2047890846763409442",
+        "created_at": "2026-04-25T04:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T05:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047890846763409442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1903024436745469952",
+              "start": 3,
+              "username": "ku_sabi_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uNoKhyib0n",
+              "end": 37,
+              "expanded_url": "https://x.com/kusabi___/status/1930901431894352037/photo/1",
+              "media_key": "3_1930901426429198336",
+              "start": 14,
+              "url": "https://t.co/uNoKhyib0n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047890846763409442",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1089
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930901431894352037",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @ku_sabi_: https://t.co/uNoKhyib0n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930901426429198336"
+          ]
+        },
+        "author_id": "1903024436745469952",
+        "conversation_id": "1930901431894352037",
+        "created_at": "2025-06-06T08:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T09:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930901431894352037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uNoKhyib0n",
+              "end": 23,
+              "expanded_url": "https://x.com/kusabi___/status/1930901431894352037/photo/1",
+              "media_key": "3_1930901426429198336",
+              "start": 0,
+              "url": "https://t.co/uNoKhyib0n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930901431894352037",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 426,
+          "impression_count": 110250,
+          "like_count": 6130,
+          "quote_count": 14,
+          "reply_count": 0,
+          "retweet_count": 1089
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/uNoKhyib0n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2047351982030258527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 879,
+          "like_count": 26228,
+          "listed_count": 1,
+          "media_count": 416,
+          "tweet_count": 3498
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T10:02:48.000Z",
+        "description": "風景絵@utututuna",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "utututuna"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ku_sabi?si=l1…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@ku_sabi?si=l1JKef1TrkhKi_-4",
+                "start": 0,
+                "url": "https://t.co/gMpTj5Wrh1"
+              }
+            ]
+          }
+        },
+        "id": "1903024436745469952",
+        "name": "楔しお",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022299394658488320/yDbPHUvV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6791,
+          "following_count": 62,
+          "like_count": 3399,
+          "listed_count": 31,
+          "media_count": 101,
+          "tweet_count": 228
+        },
+        "url": "https://t.co/gMpTj5Wrh1",
+        "username": "ku_sabi_",
+        "verified": false
+      }
+    ]
+  }
+}

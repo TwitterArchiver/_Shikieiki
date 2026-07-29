@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2007507912386850865",
+    "created_at": "2026-01-03T17:54:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T18:54:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007510907090579505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1444360814576615426",
+          "start": 0,
+          "username": "gdjdwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007510907090579505",
+    "in_reply_to_user_id": "1444360814576615426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007510593079836777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gdjdwww 部分归于前人的错误宣传吧...我也不想单纯怪罪某个人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2007507912386850865",
+        "created_at": "2026-01-03T17:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T18:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007510907090579505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1444360814576615426",
+              "start": 0,
+              "username": "gdjdwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007510907090579505",
+        "in_reply_to_user_id": "1444360814576615426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007510593079836777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdjdwww 部分归于前人的错误宣传吧...我也不想单纯怪罪某个人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1444360814576615426",
+        "conversation_id": "2007507912386850865",
+        "created_at": "2026-01-03T17:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T18:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007510593079836777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1448206950903255040",
+              "start": 0,
+              "username": "_Shikieiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007510593079836777",
+        "in_reply_to_user_id": "1448206950903255040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007510221317685281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Shikieiki 我觉得这个东西要怪后藤，真的会造成这样的认知错觉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 514,
+          "like_count": 14267,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 872
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-02T17:57:26.000Z",
+        "description": "188 80kg\n有三只猫一只会叫主人，一只暹罗，一只布偶 简 EN jp 最爱的人https://t.co/ku3HrWDRgR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/Sex_QAQ",
+                "end": 65,
+                "expanded_url": "https://x.com/Sex_QAQ",
+                "start": 42,
+                "url": "https://t.co/ku3HrWDRgR"
+              }
+            ]
+          }
+        },
+        "id": "1444360814576615426",
+        "location": "昆明  曼谷 多伦多",
+        "name": "卿のDaddy",
+        "pinned_tweet_id": "2002733204961407190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956122542906990596/n7ClHDjU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 27,
+          "like_count": 918,
+          "listed_count": 3,
+          "media_count": 9,
+          "tweet_count": 77
+        },
+        "username": "gdjdwww",
+        "verified": false
+      }
+    ]
+  }
+}

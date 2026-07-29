@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023216562786996224"
+      ],
+      "media_source_tweet_id": [
+        "2023216565567488309"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2023253333973270984",
+    "created_at": "2026-02-16T04:29:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T05:29:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023253333973270984"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "Yuki",
+          "probability": 0.4719,
+          "start": 20,
+          "type": "Person"
+        },
+        {
+          "end": 31,
+          "normalized_text": "Mik",
+          "probability": 0.606,
+          "start": 29,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1529514413287526401",
+          "start": 3,
+          "username": "Joshhhqq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/335dJFQ43O",
+          "end": 61,
+          "expanded_url": "https://x.com/Joshhhqq/status/2023216565567488309/photo/1",
+          "media_key": "3_2023216562786996224",
+          "start": 38,
+          "url": "https://t.co/335dJFQ43O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023253333973270984",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023216565567488309",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Joshhhqq: Daily Yuki and Mik #248 https://t.co/335dJFQ43O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2023216562786996224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBPovpCbEAAZBJZ.jpg",
+        "width": 1590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023216562786996224"
+          ],
+          "media_source_tweet_id": [
+            "2023216565567488309"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2023253333973270984",
+        "created_at": "2026-02-16T04:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T05:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023253333973270984"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "Yuki",
+              "probability": 0.4719,
+              "start": 20,
+              "type": "Person"
+            },
+            {
+              "end": 31,
+              "normalized_text": "Mik",
+              "probability": 0.606,
+              "start": 29,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1529514413287526401",
+              "start": 3,
+              "username": "Joshhhqq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/335dJFQ43O",
+              "end": 61,
+              "expanded_url": "https://x.com/Joshhhqq/status/2023216565567488309/photo/1",
+              "media_key": "3_2023216562786996224",
+              "start": 38,
+              "url": "https://t.co/335dJFQ43O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023253333973270984",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023216565567488309",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Joshhhqq: Daily Yuki and Mik #248 https://t.co/335dJFQ43O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023216562786996224"
+          ]
+        },
+        "author_id": "1529514413287526401",
+        "conversation_id": "2023216565567488309",
+        "created_at": "2026-02-16T02:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T03:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023216565567488309"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "Yuki",
+              "probability": 0.4337,
+              "start": 6,
+              "type": "Person"
+            },
+            {
+              "end": 17,
+              "normalized_text": "Mik",
+              "probability": 0.6034,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/335dJFQ43O",
+              "end": 47,
+              "expanded_url": "https://x.com/Joshhhqq/status/2023216565567488309/photo/1",
+              "media_key": "3_2023216562786996224",
+              "start": 24,
+              "url": "https://t.co/335dJFQ43O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023216565567488309",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 774,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "Daily Yuki and Mik #248 https://t.co/335dJFQ43O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 671,
+          "like_count": 19820,
+          "listed_count": 0,
+          "media_count": 266,
+          "tweet_count": 2071
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-25T17:27:23.000Z",
+        "description": "I'm a massive cute anime girls enjoyer, and proud of it • All art I post isn't mine.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Joshhhp",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Joshhhp",
+                "start": 0,
+                "url": "https://t.co/ssaJfE4Zyb"
+              }
+            ]
+          }
+        },
+        "id": "1529514413287526401",
+        "location": "The Pizza Land",
+        "name": "Joshhhp",
+        "pinned_tweet_id": "2008493782204109208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949023117126299648/G_q3lnAA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3240,
+          "following_count": 402,
+          "like_count": 71377,
+          "listed_count": 9,
+          "media_count": 4879,
+          "tweet_count": 10822
+        },
+        "url": "https://t.co/ssaJfE4Zyb",
+        "username": "Joshhhqq",
+        "verified": false
+      }
+    ]
+  }
+}

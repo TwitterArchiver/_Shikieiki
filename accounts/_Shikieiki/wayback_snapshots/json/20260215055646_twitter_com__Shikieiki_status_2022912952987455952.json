@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022876670458552320"
+      ],
+      "media_source_tweet_id": [
+        "2022876681636319309"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2022912952987455952",
+    "created_at": "2026-02-15T05:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T06:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022912952987455952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "829222052833927168",
+          "start": 3,
+          "username": "and_y_u"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ua34uApLxM",
+          "end": 40,
+          "expanded_url": "https://x.com/and_y_u/status/2022876681636319309/photo/1",
+          "media_key": "3_2022876670458552320",
+          "start": 17,
+          "url": "https://t.co/ua34uApLxM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022912952987455952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022876681636319309",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @and_y_u: さよ教 https://t.co/ua34uApLxM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1900,
+        "media_key": "3_2022876670458552320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBKznTcbYAApN2v.jpg",
+        "width": 1085
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022876670458552320"
+          ],
+          "media_source_tweet_id": [
+            "2022876681636319309"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2022912952987455952",
+        "created_at": "2026-02-15T05:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T06:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022912952987455952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "829222052833927168",
+              "start": 3,
+              "username": "and_y_u"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ua34uApLxM",
+              "end": 40,
+              "expanded_url": "https://x.com/and_y_u/status/2022876681636319309/photo/1",
+              "media_key": "3_2022876670458552320",
+              "start": 17,
+              "url": "https://t.co/ua34uApLxM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022912952987455952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022876681636319309",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @and_y_u: さよ教 https://t.co/ua34uApLxM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022876670458552320"
+          ]
+        },
+        "author_id": "829222052833927168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2022876681636319309",
+        "created_at": "2026-02-15T03:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T04:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022876681636319309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ua34uApLxM",
+              "end": 27,
+              "expanded_url": "https://x.com/and_y_u/status/2022876681636319309/photo/1",
+              "media_key": "3_2022876670458552320",
+              "start": 4,
+              "url": "https://t.co/ua34uApLxM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022876681636319309",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1259,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "さよ教 https://t.co/ua34uApLxM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 645,
+          "like_count": 19511,
+          "listed_count": 1,
+          "media_count": 257,
+          "tweet_count": 1961
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-08T06:55:18.000Z",
+        "description": "天国いきは保証するぜ",
+        "id": "829222052833927168",
+        "location": "コホリント島",
+        "name": "安藤",
+        "pinned_tweet_id": "1945275540199628938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022124597492297728/HLrI2ovC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3089,
+          "following_count": 8,
+          "like_count": 1668,
+          "listed_count": 14,
+          "media_count": 200,
+          "tweet_count": 37667
+        },
+        "username": "and_y_u",
+        "verified": false
+      }
+    ]
+  }
+}

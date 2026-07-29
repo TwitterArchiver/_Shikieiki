@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2033689595150307328"
+      ],
+      "media_source_tweet_id": [
+        "2033691914550042734"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2033726659766194189",
+    "created_at": "2026-03-17T02:06:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T03:06:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033726659766194189"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "Homura",
+          "probability": 0.7346,
+          "start": 23,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1874612902721941504",
+          "start": 3,
+          "username": "DailyYuriGL"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pRMXmTh2Gj",
+          "end": 59,
+          "expanded_url": "https://x.com/DailyYuriGL/status/2033691914550042734/video/1",
+          "media_key": "13_2033689595150307328",
+          "start": 36,
+          "url": "https://t.co/pRMXmTh2Gj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033726659766194189",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 85
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033691914550042734",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DailyYuriGL: Happy Homura Day 💜 https://t.co/pRMXmTh2Gj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 64766,
+        "height": 1080,
+        "media_key": "13_2033689595150307328",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2033689595150307328/img/IwUsLJdfhOYuu2XN.jpg",
+        "public_metrics": {
+          "view_count": 1974
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033689595150307328/vid/avc1/480x270/rV5l7_05VGHos3he.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033689595150307328/vid/avc1/640x360/M7d7eoUgCZ7JM8N-.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033689595150307328/vid/avc1/1280x720/LgtAcCR58uqxp47C.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2033689595150307328/pl/zk21j9Wq0LF1Or2V.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033689595150307328"
+          ],
+          "media_source_tweet_id": [
+            "2033691914550042734"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033726659766194189",
+        "created_at": "2026-03-17T02:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T03:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033726659766194189"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "Homura",
+              "probability": 0.7346,
+              "start": 23,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1874612902721941504",
+              "start": 3,
+              "username": "DailyYuriGL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pRMXmTh2Gj",
+              "end": 59,
+              "expanded_url": "https://x.com/DailyYuriGL/status/2033691914550042734/video/1",
+              "media_key": "13_2033689595150307328",
+              "start": 36,
+              "url": "https://t.co/pRMXmTh2Gj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033726659766194189",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 85
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033691914550042734",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DailyYuriGL: Happy Homura Day 💜 https://t.co/pRMXmTh2Gj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033689595150307328"
+          ]
+        },
+        "author_id": "1874612902721941504",
+        "conversation_id": "2033691914550042734",
+        "created_at": "2026-03-16T23:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T00:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033691914550042734"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "Homura",
+              "probability": 0.7337,
+              "start": 6,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pRMXmTh2Gj",
+              "end": 42,
+              "expanded_url": "https://x.com/DailyYuriGL/status/2033691914550042734/video/1",
+              "media_key": "13_2033689595150307328",
+              "start": 19,
+              "url": "https://t.co/pRMXmTh2Gj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033691914550042734",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 4403,
+          "like_count": 406,
+          "quote_count": 4,
+          "reply_count": 6,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "Happy Homura Day 💜 https://t.co/pRMXmTh2Gj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "君が君でいられる場所 \n悪夢-まぼろし-にさらわれぬように  \n消えない雨の苦しみも \n鍵を壊してぶつけてよ 隣にいるから \nすべてを信じて",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "see_you_hell.although.here.probably.is",
+                "end": 23,
+                "expanded_url": "http://see_you_hell.although.here.probably.is",
+                "start": 0,
+                "url": "https://t.co/ecUxsPCDIQ"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2028458258697171187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 805,
+          "like_count": 24353,
+          "listed_count": 0,
+          "media_count": 406,
+          "tweet_count": 3191
+        },
+        "url": "https://t.co/ecUxsPCDIQ",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T00:25:26.000Z",
+        "description": "Daily Girls Love Content! 👩‍❤️‍💋‍👩\nDMs Open for Submissions!! ❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "DailyYuri.straw.page",
+                "end": 23,
+                "expanded_url": "http://DailyYuri.straw.page",
+                "start": 0,
+                "url": "https://t.co/ZdxxUSHSjq"
+              }
+            ]
+          }
+        },
+        "id": "1874612902721941504",
+        "location": "Yuri! 💞",
+        "name": "Daily Yuri Content",
+        "pinned_tweet_id": "2032159983849079182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874618092707307520/icIge1sF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61253,
+          "following_count": 3607,
+          "like_count": 16263,
+          "listed_count": 51,
+          "media_count": 460,
+          "tweet_count": 2154
+        },
+        "url": "https://t.co/ZdxxUSHSjq",
+        "username": "DailyYuriGL",
+        "verified": false
+      }
+    ]
+  }
+}

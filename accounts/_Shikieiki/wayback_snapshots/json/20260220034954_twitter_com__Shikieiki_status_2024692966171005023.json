@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024386119354417152"
+      ],
+      "media_source_tweet_id": [
+        "2024386265584718114"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2024692966171005023",
+    "created_at": "2026-02-20T03:49:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T04:49:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024692966171005023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "74716669",
+          "start": 3,
+          "username": "hakusai_hiro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7QqwS5gpZZ",
+          "end": 41,
+          "expanded_url": "https://x.com/hakusai_hiro/status/2024386265584718114/photo/1",
+          "media_key": "3_2024386119354417152",
+          "start": 18,
+          "url": "https://t.co/7QqwS5gpZZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024692966171005023",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 705
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024386265584718114",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hakusai_hiro: https://t.co/7QqwS5gpZZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1138,
+        "media_key": "3_2024386119354417152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgQcyxaAAAvv-k.jpg",
+        "width": 1116
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024386119354417152"
+          ],
+          "media_source_tweet_id": [
+            "2024386265584718114"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2024692966171005023",
+        "created_at": "2026-02-20T03:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T04:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024692966171005023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "74716669",
+              "start": 3,
+              "username": "hakusai_hiro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7QqwS5gpZZ",
+              "end": 41,
+              "expanded_url": "https://x.com/hakusai_hiro/status/2024386265584718114/photo/1",
+              "media_key": "3_2024386119354417152",
+              "start": 18,
+              "url": "https://t.co/7QqwS5gpZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024692966171005023",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 705
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024386265584718114",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hakusai_hiro: https://t.co/7QqwS5gpZZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024386119354417152"
+          ]
+        },
+        "author_id": "74716669",
+        "conversation_id": "2024386265584718114",
+        "created_at": "2026-02-19T07:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T08:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024386265584718114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7QqwS5gpZZ",
+              "end": 23,
+              "expanded_url": "https://x.com/hakusai_hiro/status/2024386265584718114/photo/1",
+              "media_key": "3_2024386119354417152",
+              "start": 0,
+              "url": "https://t.co/7QqwS5gpZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024386265584718114",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 395,
+          "impression_count": 51074,
+          "like_count": 5758,
+          "quote_count": 11,
+          "reply_count": 3,
+          "retweet_count": 705
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7QqwS5gpZZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 688,
+          "like_count": 20724,
+          "listed_count": 0,
+          "media_count": 290,
+          "tweet_count": 2282
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2009-09-16T12:19:28.000Z",
+        "description": "https://t.co/s88dHIcWX0   hakusai_hiro@naver.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/tiahszld",
+                "end": 23,
+                "expanded_url": "http://pixiv.me/tiahszld",
+                "start": 0,
+                "url": "https://t.co/s88dHIcWX0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.naver.com/hakusai_hiro",
+                "end": 23,
+                "expanded_url": "https://blog.naver.com/hakusai_hiro",
+                "start": 0,
+                "url": "https://t.co/35fqOLzayB"
+              }
+            ]
+          }
+        },
+        "id": "74716669",
+        "name": "hakusai",
+        "pinned_tweet_id": "1606505365218418689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1494659360399962113/kcY0huZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115410,
+          "following_count": 1448,
+          "like_count": 2982,
+          "listed_count": 1252,
+          "media_count": 2523,
+          "tweet_count": 6364
+        },
+        "url": "https://t.co/35fqOLzayB",
+        "username": "hakusai_hiro",
+        "verified": false
+      }
+    ]
+  }
+}

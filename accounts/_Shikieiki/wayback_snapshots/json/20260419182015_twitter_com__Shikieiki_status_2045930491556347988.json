@@ -1,0 +1,475 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045877965419110400"
+      ],
+      "media_source_tweet_id": [
+        "2045877977230229508"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1017115427795681281",
+          "name": "Shojo Kageki Revue Starlight"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1017115427795681281",
+          "name": "Shojo Kageki Revue Starlight"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2045930491556347988",
+    "created_at": "2026-04-19T18:20:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T19:20:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045930491556347988"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 17,
+          "tag": "スタァライト"
+        },
+        {
+          "end": 40,
+          "start": 25,
+          "tag": "RevueStarlight"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1890404312989212672",
+          "start": 3,
+          "username": "Daojun_Strr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c84H5nuNNj",
+          "end": 64,
+          "expanded_url": "https://x.com/Daojun_Strr/status/2045877977230229508/photo/1",
+          "media_key": "3_2045877965419110400",
+          "start": 41,
+          "url": "https://t.co/c84H5nuNNj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045930491556347988",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045877977230229508",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Daojun_Strr: #スタァライト #RevueStarlight https://t.co/c84H5nuNNj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 722,
+        "media_key": "3_2045877965419110400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRrK4aa4AA7M78.jpg",
+        "width": 488
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045877965419110400"
+          ],
+          "media_source_tweet_id": [
+            "2045877977230229508"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2045930491556347988",
+        "created_at": "2026-04-19T18:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T19:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045930491556347988"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 17,
+              "tag": "スタァライト"
+            },
+            {
+              "end": 40,
+              "start": 25,
+              "tag": "RevueStarlight"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1890404312989212672",
+              "start": 3,
+              "username": "Daojun_Strr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c84H5nuNNj",
+              "end": 64,
+              "expanded_url": "https://x.com/Daojun_Strr/status/2045877977230229508/photo/1",
+              "media_key": "3_2045877965419110400",
+              "start": 41,
+              "url": "https://t.co/c84H5nuNNj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045930491556347988",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045877977230229508",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Daojun_Strr: #スタァライト #RevueStarlight https://t.co/c84H5nuNNj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045877965419110400"
+          ]
+        },
+        "author_id": "1890404312989212672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2045877977230229508",
+        "created_at": "2026-04-19T14:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045877977230229508"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "スタァライト"
+            },
+            {
+              "end": 23,
+              "start": 8,
+              "tag": "RevueStarlight"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c84H5nuNNj",
+              "end": 47,
+              "expanded_url": "https://x.com/Daojun_Strr/status/2045877977230229508/photo/1",
+              "media_key": "3_2045877965419110400",
+              "start": 24,
+              "url": "https://t.co/c84H5nuNNj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045877977230229508",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 940,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "#スタァライト #RevueStarlight https://t.co/c84H5nuNNj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Have.a.nice.life",
+                "end": 23,
+                "expanded_url": "http://Have.a.nice.life",
+                "start": 0,
+                "url": "https://t.co/78TH5GeWCd"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2034690854695379175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 848,
+          "like_count": 25381,
+          "listed_count": 1,
+          "media_count": 412,
+          "tweet_count": 3371
+        },
+        "url": "https://t.co/78TH5GeWCd",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-14T14:14:55.000Z",
+        "description": "专门用来搞少女歌剧的账号。  （@Daojun_Eclp是我的另一个账号，用来搞Eclipse）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Daojun_Eclp"
+              }
+            ]
+          }
+        },
+        "id": "1890404312989212672",
+        "name": "Daojun",
+        "pinned_tweet_id": "2022880849470079234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022875730833784832/p6eFTnk4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 18,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 26
+        },
+        "username": "Daojun_Strr",
+        "verified": false
+      }
+    ]
+  }
+}

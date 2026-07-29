@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2033727498929017153",
+    "created_at": "2026-03-17T02:09:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T03:09:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033727498929017153"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 49,
+          "normalized_text": "homura",
+          "probability": 0.5082,
+          "start": 44,
+          "type": "Other"
+        },
+        {
+          "end": 128,
+          "normalized_text": "homura",
+          "probability": 0.5291,
+          "start": 123,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1274519740715806728",
+          "start": 3,
+          "username": "daiIymadoka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033727498929017153",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6693
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033516542885843243",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @daiIymadoka: today is march 16, the day homura is released from the hospital and the first day of her time loop\n\nhappy homura day https…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 270,
+        "media_key": "16_2033516532873990144",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HDiAgzrWkAANoFf.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HDiAgzrWkAANoFf.mp4"
+          }
+        ],
+        "width": 480
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2033516533171814400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDiAg0yXAAAWxng.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2033727498929017153",
+        "created_at": "2026-03-17T02:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T03:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033727498929017153"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 49,
+              "normalized_text": "homura",
+              "probability": 0.5082,
+              "start": 44,
+              "type": "Other"
+            },
+            {
+              "end": 128,
+              "normalized_text": "homura",
+              "probability": 0.5291,
+              "start": 123,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1274519740715806728",
+              "start": 3,
+              "username": "daiIymadoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033727498929017153",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6693
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033516542885843243",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @daiIymadoka: today is march 16, the day homura is released from the hospital and the first day of her time loop\n\nhappy homura day https…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2033516532873990144",
+            "3_2033516533171814400"
+          ]
+        },
+        "author_id": "1274519740715806728",
+        "conversation_id": "2033516542885843243",
+        "created_at": "2026-03-16T12:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T13:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033516542885843243"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "homura",
+              "probability": 0.5407,
+              "start": 27,
+              "type": "Other"
+            },
+            {
+              "end": 111,
+              "normalized_text": "homura",
+              "probability": 0.5985,
+              "start": 106,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OJBEk092rs",
+              "end": 140,
+              "expanded_url": "https://x.com/daiIymadoka/status/2033516542885843243/photo/1",
+              "media_key": "16_2033516532873990144",
+              "start": 117,
+              "url": "https://t.co/OJBEk092rs"
+            },
+            {
+              "display_url": "pic.x.com/OJBEk092rs",
+              "end": 140,
+              "expanded_url": "https://x.com/daiIymadoka/status/2033516542885843243/photo/1",
+              "media_key": "3_2033516533171814400",
+              "start": 117,
+              "url": "https://t.co/OJBEk092rs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033516542885843243",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1510,
+          "impression_count": 267037,
+          "like_count": 27162,
+          "quote_count": 172,
+          "reply_count": 51,
+          "retweet_count": 6693
+        },
+        "reply_settings": "everyone",
+        "text": "today is march 16, the day homura is released from the hospital and the first day of her time loop\n\nhappy homura day https://t.co/OJBEk092rs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "君が君でいられる場所 \n悪夢-まぼろし-にさらわれぬように  \n消えない雨の苦しみも \n鍵を壊してぶつけてよ 隣にいるから \nすべてを信じて",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "see_you_hell.although.here.probably.is",
+                "end": 23,
+                "expanded_url": "http://see_you_hell.although.here.probably.is",
+                "start": 0,
+                "url": "https://t.co/ecUxsPCDIQ"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2028458258697171187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 805,
+          "like_count": 24354,
+          "listed_count": 0,
+          "media_count": 406,
+          "tweet_count": 3193
+        },
+        "url": "https://t.co/ecUxsPCDIQ",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-21T01:49:42.000Z",
+        "description": "being meguca is suffering, see why daily",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/dailym…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/dailymadoka.bsky.social",
+                "start": 0,
+                "url": "https://t.co/zGIg8yl9kk"
+              }
+            ]
+          }
+        },
+        "id": "1274519740715806728",
+        "name": "daily madoka magica",
+        "pinned_tweet_id": "1465527031093993472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1316141429668958210/V2bxXRag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74057,
+          "following_count": 2,
+          "like_count": 1026,
+          "listed_count": 138,
+          "media_count": 1792,
+          "tweet_count": 2087
+        },
+        "url": "https://t.co/zGIg8yl9kk",
+        "username": "daiIymadoka",
+        "verified": false
+      }
+    ]
+  }
+}

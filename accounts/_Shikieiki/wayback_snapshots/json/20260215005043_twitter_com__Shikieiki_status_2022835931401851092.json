@@ -1,0 +1,449 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022558005901103104"
+      ],
+      "media_source_tweet_id": [
+        "2022558010405781644"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+          "id": "1205247603799019520",
+          "name": "Haruhi Suzumiya"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+          "id": "1205247603799019520",
+          "name": "Haruhi Suzumiya"
+        }
+      }
+    ],
+    "conversation_id": "2022835931401851092",
+    "created_at": "2026-02-15T00:50:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T01:50:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022835931401851092"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "涼宮ハルヒ",
+          "probability": 0.3894,
+          "start": 14,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "181193106",
+          "start": 3,
+          "username": "21magnet"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mxWOo8MZQU",
+          "end": 59,
+          "expanded_url": "https://x.com/21magnet/status/2022558010405781644/photo/1",
+          "media_key": "3_2022558005901103104",
+          "start": 36,
+          "url": "https://t.co/mxWOo8MZQU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022835931401851092",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022558010405781644",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @21magnet: 涼宮ハルヒの消失また映画館で見れてハッピー https://t.co/mxWOo8MZQU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1623,
+        "media_key": "3_2022558005901103104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBGRyldbkAAQr7f.jpg",
+        "width": 1111
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022558005901103104"
+          ],
+          "media_source_tweet_id": [
+            "2022558010405781644"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1205247603799019520",
+              "name": "Haruhi Suzumiya"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1205247603799019520",
+              "name": "Haruhi Suzumiya"
+            }
+          }
+        ],
+        "conversation_id": "2022835931401851092",
+        "created_at": "2026-02-15T00:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T01:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022835931401851092"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "涼宮ハルヒ",
+              "probability": 0.3894,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "181193106",
+              "start": 3,
+              "username": "21magnet"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mxWOo8MZQU",
+              "end": 59,
+              "expanded_url": "https://x.com/21magnet/status/2022558010405781644/photo/1",
+              "media_key": "3_2022558005901103104",
+              "start": 36,
+              "url": "https://t.co/mxWOo8MZQU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022835931401851092",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022558010405781644",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @21magnet: 涼宮ハルヒの消失また映画館で見れてハッピー https://t.co/mxWOo8MZQU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022558005901103104"
+          ]
+        },
+        "author_id": "181193106",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1205247603799019520",
+              "name": "Haruhi Suzumiya"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1205247603799019520",
+              "name": "Haruhi Suzumiya"
+            }
+          }
+        ],
+        "conversation_id": "2022558010405781644",
+        "created_at": "2026-02-14T06:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T07:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022558010405781644"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "涼宮ハルヒ",
+              "probability": 0.4455,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mxWOo8MZQU",
+              "end": 45,
+              "expanded_url": "https://x.com/21magnet/status/2022558010405781644/photo/1",
+              "media_key": "3_2022558005901103104",
+              "start": 22,
+              "url": "https://t.co/mxWOo8MZQU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022558010405781644",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3100,
+          "like_count": 179,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "涼宮ハルヒの消失また映画館で見れてハッピー https://t.co/mxWOo8MZQU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 636,
+          "like_count": 19351,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 1900
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-21T15:00:49.000Z",
+        "description": "成人済🍠🦊好きなものを節操無く描きます。プリの垢@shimazey",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "shimazey"
+              }
+            ]
+          }
+        },
+        "id": "181193106",
+        "location": "新潟県",
+        "name": "しまじぃ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841499958635360256/gRm08lSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 234,
+          "like_count": 5833,
+          "listed_count": 15,
+          "media_count": 941,
+          "tweet_count": 32519
+        },
+        "username": "21magnet",
+        "verified": false
+      }
+    ]
+  }
+}

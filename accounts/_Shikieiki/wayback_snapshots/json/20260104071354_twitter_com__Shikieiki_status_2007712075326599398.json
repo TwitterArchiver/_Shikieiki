@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2007485313976021381",
+    "created_at": "2026-01-04T07:13:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T08:13:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007712075326599398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1990626286168064000",
+          "start": 0,
+          "username": "061122mz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007712075326599398",
+    "in_reply_to_user_id": "1990626286168064000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007485313976021381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@061122mz 居然有小四季💖💖💖"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2007485301351186433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9wFPtbbAAESHAQ.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2007485313976021381",
+        "created_at": "2026-01-04T07:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T08:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007712075326599398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1990626286168064000",
+              "start": 0,
+              "username": "061122mz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007712075326599398",
+        "in_reply_to_user_id": "1990626286168064000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007485313976021381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@061122mz 居然有小四季💖💖💖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007485301351186433"
+          ]
+        },
+        "author_id": "1990626286168064000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2007485313976021381",
+        "created_at": "2026-01-03T16:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T17:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007485313976021381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2007647610782236672/nCG-V18Q?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2007647610782236672/nCG-V18Q?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/x7GxlFn2hZ"
+            },
+            {
+              "display_url": "pic.x.com/BQovPLaXEK",
+              "end": 64,
+              "expanded_url": "https://x.com/061122mz/status/2007485313976021381/photo/1",
+              "media_key": "3_2007485301351186433",
+              "start": 41,
+              "url": "https://t.co/BQovPLaXEK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007485313976021381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/x7GxlFn2hZ https://t.co/BQovPLaXEK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 519,
+          "like_count": 14579,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 913
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-18T03:41:17.000Z",
+        "description": "建制派/不喜欢吵架/发点日常/已被开除左籍/写写画画/一起互fo/有没有可爱的东西主动让我来捏捏🥰/被限制了(悲)小号在这@xng1065727",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "xng1065727"
+              }
+            ]
+          }
+        },
+        "id": "1990626286168064000",
+        "location": "佛山市",
+        "name": "阿星ONONE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001334365587226624/GUjSZo40_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 114,
+          "like_count": 764,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 287
+        },
+        "username": "061122mz",
+        "verified": false
+      }
+    ]
+  }
+}

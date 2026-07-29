@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2031983662368244204",
+    "created_at": "2026-03-12T06:40:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T07:40:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031983662368244204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1817244141115609088",
+          "start": 3,
+          "username": "Nijika_Dark"
+        },
+        {
+          "end": 51,
+          "id": "1609844142313553921",
+          "start": 35,
+          "username": "Nijika_overdose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031983662368244204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031979271053541450",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nijika_Dark: 解锁，私信已开，我是虹夏\n碎碎念大号@Nijika_overdose已死\n在这立个招魂幡，寻回失散亲友\n过去的碎碎念没了😿过去的碎碎念没了😿过去的碎碎念没了😿过去的碎碎念没了😿过去的碎碎念没了😿过去的碎碎念没了😿\n养了好久的号就跟那个盘久了的核…"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Nijika_overdose].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Nijika_overdose",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Nijika_overdose"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2031983662368244204",
+        "created_at": "2026-03-12T06:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T07:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031983662368244204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1817244141115609088",
+              "start": 3,
+              "username": "Nijika_Dark"
+            },
+            {
+              "end": 51,
+              "id": "1609844142313553921",
+              "start": 35,
+              "username": "Nijika_overdose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031983662368244204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031979271053541450",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nijika_Dark: 解锁，私信已开，我是虹夏\n碎碎念大号@Nijika_overdose已死\n在这立个招魂幡，寻回失散亲友\n过去的碎碎念没了😿过去的碎碎念没了😿过去的碎碎念没了😿过去的碎碎念没了😿过去的碎碎念没了😿过去的碎碎念没了😿\n养了好久的号就跟那个盘久了的核…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817244141115609088",
+        "conversation_id": "2031979271053541450",
+        "created_at": "2026-03-12T06:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T07:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031979271053541450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "1609844142313553921",
+              "start": 18,
+              "username": "Nijika_overdose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031979271053541450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "解锁，私信已开，我是虹夏\n碎碎念大号@Nijika_overdose已死\n在这立个招魂幡，寻回失散亲友\n过去的碎碎念没了😿过去的碎碎念没了😿过去的碎碎念没了😿过去的碎碎念没了😿过去的碎碎念没了😿过去的碎碎念没了😿\n养了好久的号就跟那个盘久了的核桃碎了一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "see_you_hell.although.here.probably.is",
+                "end": 23,
+                "expanded_url": "http://see_you_hell.although.here.probably.is",
+                "start": 0,
+                "url": "https://t.co/ecUxsPCDIQ"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2028458258697171187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 797,
+          "like_count": 23528,
+          "listed_count": 0,
+          "media_count": 412,
+          "tweet_count": 3030
+        },
+        "url": "https://t.co/ecUxsPCDIQ",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T17:02:37.000Z",
+        "description": "@Nijika_overdose的附庸丨应该是虹夏丨我的大脑空空如也丨❛˓◞˂̵✧❤️💙💜🖤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Super_Bocchi_t…",
+                "end": 23,
+                "expanded_url": "https://t.me/Super_Bocchi_therock",
+                "start": 0,
+                "url": "https://t.co/nr17X991hT"
+              }
+            ]
+          }
+        },
+        "id": "1817244141115609088",
+        "location": "参宿四",
+        "name": "Nijika_Overdose",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817245083672145920/_Mn08Zha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 33,
+          "like_count": 12,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 27
+        },
+        "url": "https://t.co/nr17X991hT",
+        "username": "Nijika_Dark",
+        "verified": false
+      }
+    ]
+  }
+}

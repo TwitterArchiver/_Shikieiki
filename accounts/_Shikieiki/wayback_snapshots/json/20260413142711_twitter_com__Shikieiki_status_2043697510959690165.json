@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2043697510959690165",
+    "created_at": "2026-04-13T14:27:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T15:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043697510959690165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1574621581606850560",
+          "start": 3,
+          "username": "LibertyU36"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043697510959690165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043549326656561465",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LibertyU36: 请大家票投OD党喵！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2043697510959690165",
+        "created_at": "2026-04-13T14:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043697510959690165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1574621581606850560",
+              "start": 3,
+              "username": "LibertyU36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043697510959690165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043549326656561465",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LibertyU36: 请大家票投OD党喵！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1574621581606850560",
+        "conversation_id": "2043549326656561465",
+        "created_at": "2026-04-13T04:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T05:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043549326656561465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/asanagiyori486…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/asanagiyori486/status/2043352016622325999",
+              "start": 11,
+              "url": "https://t.co/kxXkkip03k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043549326656561465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 211,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043352016622325999",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请大家票投OD党喵！ https://t.co/kxXkkip03k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季映姬 亚玛萨那度",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/GF0BmV1BiW"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2043396599699968445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 841,
+          "like_count": 25326,
+          "listed_count": 1,
+          "media_count": 411,
+          "tweet_count": 3342
+        },
+        "url": "https://t.co/GF0BmV1BiW",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-27T04:47:24.000Z",
+        "description": "世界如此乏味，那么不妨让祂寂静。",
+        "id": "1574621581606850560",
+        "name": "Ultraman Liberty",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1574622025963954176/4MmLXrDu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 86,
+          "like_count": 7060,
+          "listed_count": 5,
+          "media_count": 122,
+          "tweet_count": 11003
+        },
+        "username": "LibertyU36",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017654374059925504"
+      ],
+      "media_source_tweet_id": [
+        "2023396964289655059"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2023681246426271777",
+    "created_at": "2026-02-17T08:49:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T09:49:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023681246426271777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1249607798221967360",
+          "start": 3,
+          "username": "57ame"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GNdtDNpVo4",
+          "end": 39,
+          "expanded_url": "https://x.com/57ame/status/2023396964289655059/photo/1",
+          "media_key": "3_2017654374059925504",
+          "start": 16,
+          "url": "https://t.co/GNdtDNpVo4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023681246426271777",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023396964289655059",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @57ame: 2025 https://t.co/GNdtDNpVo4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2017654374059925504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAAl9pVa4AALL5a.jpg",
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017654374059925504"
+          ],
+          "media_source_tweet_id": [
+            "2023396964289655059"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2023681246426271777",
+        "created_at": "2026-02-17T08:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T09:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023681246426271777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1249607798221967360",
+              "start": 3,
+              "username": "57ame"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GNdtDNpVo4",
+              "end": 39,
+              "expanded_url": "https://x.com/57ame/status/2023396964289655059/photo/1",
+              "media_key": "3_2017654374059925504",
+              "start": 16,
+              "url": "https://t.co/GNdtDNpVo4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023681246426271777",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023396964289655059",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @57ame: 2025 https://t.co/GNdtDNpVo4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017654374059925504"
+          ]
+        },
+        "author_id": "1249607798221967360",
+        "conversation_id": "2023396964289655059",
+        "created_at": "2026-02-16T14:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T15:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023396964289655059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GNdtDNpVo4",
+              "end": 28,
+              "expanded_url": "https://x.com/57ame/status/2023396964289655059/photo/1",
+              "media_key": "3_2017654374059925504",
+              "start": 5,
+              "url": "https://t.co/GNdtDNpVo4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023396964289655059",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 7406,
+          "like_count": 871,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "2025 https://t.co/GNdtDNpVo4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 679,
+          "like_count": 20415,
+          "listed_count": 0,
+          "media_count": 273,
+          "tweet_count": 2210
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T07:58:22.000Z",
+        "description": "つゆりです（╹◡╹）\n\nサブ　@sgw_ghost\n働　@szm8_bot\n　　https://t.co/rKj9Pn4LpZ\n͏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "sgw_ghost"
+              },
+              {
+                "end": 37,
+                "start": 28,
+                "username": "szm8_bot"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/57ame_szm8",
+                "end": 63,
+                "expanded_url": "https://www.instagram.com/57ame_szm8",
+                "start": 40,
+                "url": "https://t.co/rKj9Pn4LpZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "57ame.base.shop",
+                "end": 23,
+                "expanded_url": "http://57ame.base.shop",
+                "start": 0,
+                "url": "https://t.co/rYueIJsshO"
+              }
+            ]
+          }
+        },
+        "id": "1249607798221967360",
+        "name": "5月7日／COMITIA155　あ12a",
+        "pinned_tweet_id": "2021222632222491102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831704718684647426/2T_1dqGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5530,
+          "following_count": 94,
+          "like_count": 10751,
+          "listed_count": 46,
+          "media_count": 436,
+          "tweet_count": 709
+        },
+        "url": "https://t.co/rYueIJsshO",
+        "username": "57ame",
+        "verified": false
+      }
+    ]
+  }
+}

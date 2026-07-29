@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070102933652582401"
+      ],
+      "media_source_tweet_id": [
+        "2070114799845818538"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2070194515466666462",
+    "created_at": "2026-06-25T17:16:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T18:16:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070194515466666462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1373623993371041796",
+          "start": 3,
+          "username": "Ma5puvRW3EZIOIG"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KYkz45lE0u",
+          "end": 60,
+          "expanded_url": "https://x.com/Ma5puvRW3EZIOIG/status/2070114799845818538/photo/1",
+          "media_key": "3_2070102933652582401",
+          "start": 37,
+          "url": "https://t.co/KYkz45lE0u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070194515466666462",
+    "lang": "it",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 182
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070114799845818538",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ma5puvRW3EZIOIG: Fate Testarossa https://t.co/KYkz45lE0u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2070102933652582401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLp7pnjbMAEBWqN.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070102933652582401"
+          ],
+          "media_source_tweet_id": [
+            "2070114799845818538"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070194515466666462",
+        "created_at": "2026-06-25T17:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T18:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070194515466666462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1373623993371041796",
+              "start": 3,
+              "username": "Ma5puvRW3EZIOIG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KYkz45lE0u",
+              "end": 60,
+              "expanded_url": "https://x.com/Ma5puvRW3EZIOIG/status/2070114799845818538/photo/1",
+              "media_key": "3_2070102933652582401",
+              "start": 37,
+              "url": "https://t.co/KYkz45lE0u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070194515466666462",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 182
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070114799845818538",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ma5puvRW3EZIOIG: Fate Testarossa https://t.co/KYkz45lE0u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070102933652582401"
+          ]
+        },
+        "author_id": "1373623993371041796",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070114799845818538",
+        "created_at": "2026-06-25T12:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070114799845818538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KYkz45lE0u",
+              "end": 39,
+              "expanded_url": "https://x.com/Ma5puvRW3EZIOIG/status/2070114799845818538/photo/1",
+              "media_key": "3_2070102933652582401",
+              "start": 16,
+              "url": "https://t.co/KYkz45lE0u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070114799845818538",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 7882,
+          "like_count": 689,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 182
+        },
+        "reply_settings": "everyone",
+        "text": "Fate Testarossa https://t.co/KYkz45lE0u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n伴侣 @octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1130,
+          "following_count": 969,
+          "like_count": 28650,
+          "listed_count": 1,
+          "media_count": 493,
+          "tweet_count": 4271
+        },
+        "url": "",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-21T13:14:36.000Z",
+        "description": "毎週木曜21時頃更新予定◆\nFANBOX：原寸PNG◆\nPixiv：1/5JPEG◆\nX：1/10JPGE・WM有り◆\n\nFanbox ：https://t.co/gJNiF38AV8 ◆\nPixiv：https://t.co/Huj2Y1UDfx ◆\n\n◇イラストの無断利用禁止◇",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "aotk5714.fanbox.cc",
+                "end": 92,
+                "expanded_url": "http://aotk5714.fanbox.cc",
+                "start": 69,
+                "url": "https://t.co/gJNiF38AV8"
+              },
+              {
+                "display_url": "pixiv.net/users/299691",
+                "end": 124,
+                "expanded_url": "http://pixiv.net/users/299691",
+                "start": 101,
+                "url": "https://t.co/Huj2Y1UDfx"
+              }
+            ]
+          }
+        },
+        "id": "1373623993371041796",
+        "name": "碧月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961807414715699200/1rAQev4l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5743,
+          "following_count": 0,
+          "like_count": 263,
+          "listed_count": 61,
+          "media_count": 335,
+          "tweet_count": 4229
+        },
+        "url": "",
+        "username": "Ma5puvRW3EZIOIG",
+        "verified": false
+      }
+    ]
+  }
+}

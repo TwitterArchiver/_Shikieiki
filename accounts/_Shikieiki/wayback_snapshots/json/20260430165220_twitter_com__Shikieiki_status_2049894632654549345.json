@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049782870273855489",
+        "3_2049782870282264576"
+      ],
+      "media_source_tweet_id": [
+        "2049782874464010413",
+        "2049782874464010413"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2049894632654549345",
+    "created_at": "2026-04-30T16:52:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T17:52:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049894632654549345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1583097136069349376",
+          "start": 3,
+          "username": "xpe06"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/huJWdv0Xlv",
+          "end": 55,
+          "expanded_url": "https://x.com/xpe06/status/2049782874464010413/photo/1",
+          "media_key": "3_2049782870273855489",
+          "start": 32,
+          "url": "https://t.co/huJWdv0Xlv"
+        },
+        {
+          "display_url": "pic.x.com/huJWdv0Xlv",
+          "end": 55,
+          "expanded_url": "https://x.com/xpe06/status/2049782874464010413/photo/1",
+          "media_key": "3_2049782870282264576",
+          "start": 32,
+          "url": "https://t.co/huJWdv0Xlv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049894632654549345",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 315
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049782874464010413",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xpe06: さやか〜！！！！！！！！！！😭😭💙💙💙💙 https://t.co/huJWdv0Xlv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 666,
+        "media_key": "3_2049782870273855489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJKqQlakAEl6Aw.jpg",
+        "width": 1010
+      },
+      {
+        "height": 496,
+        "media_key": "3_2049782870282264576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJKqQna4AAU_K4.jpg",
+        "width": 682
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049782870273855489",
+            "3_2049782870282264576"
+          ],
+          "media_source_tweet_id": [
+            "2049782874464010413",
+            "2049782874464010413"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049894632654549345",
+        "created_at": "2026-04-30T16:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T17:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049894632654549345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1583097136069349376",
+              "start": 3,
+              "username": "xpe06"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/huJWdv0Xlv",
+              "end": 55,
+              "expanded_url": "https://x.com/xpe06/status/2049782874464010413/photo/1",
+              "media_key": "3_2049782870273855489",
+              "start": 32,
+              "url": "https://t.co/huJWdv0Xlv"
+            },
+            {
+              "display_url": "pic.x.com/huJWdv0Xlv",
+              "end": 55,
+              "expanded_url": "https://x.com/xpe06/status/2049782874464010413/photo/1",
+              "media_key": "3_2049782870282264576",
+              "start": 32,
+              "url": "https://t.co/huJWdv0Xlv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049894632654549345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 315
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049782874464010413",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xpe06: さやか〜！！！！！！！！！！😭😭💙💙💙💙 https://t.co/huJWdv0Xlv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049782870273855489",
+            "3_2049782870282264576"
+          ]
+        },
+        "author_id": "1583097136069349376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049782874464010413",
+        "created_at": "2026-04-30T09:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T10:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049782874464010413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/huJWdv0Xlv",
+              "end": 44,
+              "expanded_url": "https://x.com/xpe06/status/2049782874464010413/photo/1",
+              "media_key": "3_2049782870273855489",
+              "start": 21,
+              "url": "https://t.co/huJWdv0Xlv"
+            },
+            {
+              "display_url": "pic.x.com/huJWdv0Xlv",
+              "end": 44,
+              "expanded_url": "https://x.com/xpe06/status/2049782874464010413/photo/1",
+              "media_key": "3_2049782870282264576",
+              "start": 21,
+              "url": "https://t.co/huJWdv0Xlv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049782874464010413",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 40486,
+          "like_count": 1843,
+          "quote_count": 24,
+          "reply_count": 5,
+          "retweet_count": 315
+        },
+        "reply_settings": "everyone",
+        "text": "さやか〜！！！！！！！！！！😭😭💙💙💙💙 https://t.co/huJWdv0Xlv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2047351982030258527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 887,
+          "like_count": 27038,
+          "listed_count": 1,
+          "media_count": 439,
+          "tweet_count": 3679
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-20T14:06:21.000Z",
+        "description": "絵描き￤AI・無断転載🚫￤🗝@a57x_x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 14,
+                "username": "a57x_x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/xpe06",
+                "end": 23,
+                "expanded_url": "https://lit.link/xpe06",
+                "start": 0,
+                "url": "https://t.co/n0BGF6A5Jn"
+              }
+            ]
+          }
+        },
+        "id": "1583097136069349376",
+        "location": "北の大地",
+        "name": "前髪 @プリレコ16 C-18",
+        "pinned_tweet_id": "2045430760119890118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030535195078918144/GdEvtqsy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 88,
+          "like_count": 9687,
+          "listed_count": 6,
+          "media_count": 59,
+          "tweet_count": 6341
+        },
+        "url": "https://t.co/n0BGF6A5Jn",
+        "username": "xpe06",
+        "verified": false
+      }
+    ]
+  }
+}

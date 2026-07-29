@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026623665039880192"
+      ],
+      "media_source_tweet_id": [
+        "2026623670727401523"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2026881967409766817",
+    "created_at": "2026-02-26T04:48:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T05:48:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026881967409766817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1551106824799387648",
+          "start": 3,
+          "username": "harumashi12"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7AG1JToH1Z",
+          "end": 62,
+          "expanded_url": "https://x.com/harumashi12/status/2026623670727401523/photo/1",
+          "media_key": "3_2026623665039880192",
+          "start": 39,
+          "url": "https://t.co/7AG1JToH1Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026881967409766817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 235
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026623670727401523",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @harumashi12: 画質いいバージョンも一応貼っておきます！👍 https://t.co/7AG1JToH1Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026623665039880192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCADfGAaMAAIAc-.jpg",
+        "width": 759
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026623665039880192"
+          ],
+          "media_source_tweet_id": [
+            "2026623670727401523"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2026881967409766817",
+        "created_at": "2026-02-26T04:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T05:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026881967409766817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1551106824799387648",
+              "start": 3,
+              "username": "harumashi12"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7AG1JToH1Z",
+              "end": 62,
+              "expanded_url": "https://x.com/harumashi12/status/2026623670727401523/photo/1",
+              "media_key": "3_2026623665039880192",
+              "start": 39,
+              "url": "https://t.co/7AG1JToH1Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026881967409766817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 235
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026623670727401523",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @harumashi12: 画質いいバージョンも一応貼っておきます！👍 https://t.co/7AG1JToH1Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026623665039880192"
+          ]
+        },
+        "author_id": "1551106824799387648",
+        "conversation_id": "2026623670727401523",
+        "created_at": "2026-02-25T11:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T12:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026623670727401523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7AG1JToH1Z",
+              "end": 45,
+              "expanded_url": "https://x.com/harumashi12/status/2026623670727401523/photo/1",
+              "media_key": "3_2026623665039880192",
+              "start": 22,
+              "url": "https://t.co/7AG1JToH1Z"
+            },
+            {
+              "display_url": "x.com/harumashi12/st…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/harumashi12/status/2026599546839773419",
+              "start": 46,
+              "url": "https://t.co/Wo1SiGUpgW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026623670727401523",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 318,
+          "impression_count": 35368,
+          "like_count": 2796,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 235
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026599546839773419",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "画質いいバージョンも一応貼っておきます！👍 https://t.co/7AG1JToH1Z https://t.co/Wo1SiGUpgW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 701,
+          "like_count": 21705,
+          "listed_count": 0,
+          "media_count": 340,
+          "tweet_count": 2540
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-24T07:28:06.000Z",
+        "description": "成人済み 20↑ 百合が好きです",
+        "id": "1551106824799387648",
+        "location": "国際百合愛護団体",
+        "name": "さかい",
+        "pinned_tweet_id": "2008898750174126524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007462284051001349/1mgiVIzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3311,
+          "following_count": 58,
+          "like_count": 1691,
+          "listed_count": 17,
+          "media_count": 46,
+          "tweet_count": 193
+        },
+        "username": "harumashi12",
+        "verified": false
+      }
+    ]
+  }
+}

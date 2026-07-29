@@ -1,0 +1,572 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2027367526402072761",
+    "created_at": "2026-02-27T12:57:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T13:57:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027367526402072761"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 122,
+          "start": 118,
+          "tag": "LCB"
+        },
+        {
+          "end": 127,
+          "start": 123,
+          "tag": "림버스"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1407670091588669444",
+          "start": 3,
+          "username": "LimbusCompany_B"
+        }
+      ],
+      "urls": [
+        {
+          "description": "3주년 기념 애니메이션 / 3周年記念アニメ / 3rd Anniversary Animation",
+          "display_url": "youtu.be/NtvbDGnRT-g",
+          "end": 116,
+          "expanded_url": "https://youtu.be/NtvbDGnRT-g",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2027349140469092352/a_WZk0Of?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2027349140469092352/a_WZk0Of?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 93,
+          "status": 200,
+          "title": "[Limbus Company] 3주년 기념 애니메이션 / 3周年記念アニメ / 3rd Anniversary Animation",
+          "unwound_url": "https://www.youtube.com/watch?v=NtvbDGnRT-g&feature=youtu.be",
+          "url": "https://t.co/NgMc76snzR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027367526402072761",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12105
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027349545219469329",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LimbusCompany_B: [Limbus Company] \n\n3주년 기념 애니메이션 / 3周年記念アニメ / 3rd Anniversary Animation\n\nhttps://t.co/NgMc76snzR\n\n#LCB #림버스 #LimbusComp…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30000,
+        "height": 2160,
+        "media_key": "13_2027337174929272833",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027337174929272833/img/utplbD5y39tJUJSL.jpg",
+        "public_metrics": {
+          "view_count": 123800
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027337174929272833/vid/avc1/1280x720/QptuXjMk6ky33JR3.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027337174929272833/vid/avc1/1920x1080/dFKDeC30WHuwGGzZ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027337174929272833/vid/avc1/640x360/-fgPhTrpIhFuVskR.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027337174929272833/vid/avc1/3840x2160/EAUoQPRi86JD-bcF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027337174929272833/pl/ePgCKDsNuic6nBb5.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027337174929272833/vid/avc1/480x270/TDm52jYHCW3Sh9VR.mp4"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2027367526402072761",
+        "created_at": "2026-02-27T12:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T13:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027367526402072761"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 122,
+              "start": 118,
+              "tag": "LCB"
+            },
+            {
+              "end": 127,
+              "start": 123,
+              "tag": "림버스"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1407670091588669444",
+              "start": 3,
+              "username": "LimbusCompany_B"
+            }
+          ],
+          "urls": [
+            {
+              "description": "3주년 기념 애니메이션 / 3周年記念アニメ / 3rd Anniversary Animation",
+              "display_url": "youtu.be/NtvbDGnRT-g",
+              "end": 116,
+              "expanded_url": "https://youtu.be/NtvbDGnRT-g",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2027349140469092352/a_WZk0Of?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2027349140469092352/a_WZk0Of?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 93,
+              "status": 200,
+              "title": "[Limbus Company] 3주년 기념 애니메이션 / 3周年記念アニメ / 3rd Anniversary Animation",
+              "unwound_url": "https://www.youtube.com/watch?v=NtvbDGnRT-g&feature=youtu.be",
+              "url": "https://t.co/NgMc76snzR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027367526402072761",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12105
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027349545219469329",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LimbusCompany_B: [Limbus Company] \n\n3주년 기념 애니메이션 / 3周年記念アニメ / 3rd Anniversary Animation\n\nhttps://t.co/NgMc76snzR\n\n#LCB #림버스 #LimbusComp…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027337174929272833"
+          ]
+        },
+        "author_id": "1407670091588669444",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2027349545219469329",
+        "created_at": "2026-02-27T11:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T12:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027349545219469329"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 101,
+              "start": 97,
+              "tag": "LCB"
+            },
+            {
+              "end": 106,
+              "start": 102,
+              "tag": "림버스"
+            },
+            {
+              "end": 121,
+              "start": 107,
+              "tag": "LimbusCompany"
+            },
+            {
+              "end": 127,
+              "start": 122,
+              "tag": "リンバス"
+            }
+          ],
+          "urls": [
+            {
+              "description": "3주년 기념 애니메이션 / 3周年記念アニメ / 3rd Anniversary Animation",
+              "display_url": "youtu.be/NtvbDGnRT-g",
+              "end": 95,
+              "expanded_url": "https://youtu.be/NtvbDGnRT-g",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2027349140469092352/a_WZk0Of?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2027349140469092352/a_WZk0Of?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 72,
+              "status": 200,
+              "title": "[Limbus Company] 3주년 기념 애니메이션 / 3周年記念アニメ / 3rd Anniversary Animation",
+              "unwound_url": "https://www.youtube.com/watch?v=NtvbDGnRT-g&feature=youtu.be",
+              "url": "https://t.co/NgMc76snzR"
+            },
+            {
+              "display_url": "pic.x.com/AoB2mTBT7l",
+              "end": 151,
+              "expanded_url": "https://x.com/LimbusCompany_B/status/2027349545219469329/video/1",
+              "media_key": "13_2027337174929272833",
+              "start": 128,
+              "url": "https://t.co/AoB2mTBT7l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027349545219469329",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5010,
+          "impression_count": 563989,
+          "like_count": 25458,
+          "quote_count": 1634,
+          "reply_count": 219,
+          "retweet_count": 12105
+        },
+        "reply_settings": "everyone",
+        "text": "[Limbus Company] \n\n3주년 기념 애니메이션 / 3周年記念アニメ / 3rd Anniversary Animation\n\nhttps://t.co/NgMc76snzR\n\n#LCB #림버스 #LimbusCompany #リンバス https://t.co/AoB2mTBT7l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 715,
+          "like_count": 21968,
+          "listed_count": 0,
+          "media_count": 357,
+          "tweet_count": 2666
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-23T12:01:57.000Z",
+        "description": "Lasciate ogni speranza, voi ch'entrate \n\n문의 / お問い合わせ / Support : https://t.co/MFEWp5SLHV\n\nMature 17+\n\n#LCB  #림버스\n#LimbusCompany \n#リンバス",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 102,
+                "tag": "LCB"
+              },
+              {
+                "end": 112,
+                "start": 108,
+                "tag": "림버스"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "tag": "LimbusCompany"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "リンバス"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "faq.limbuscompany.site",
+                "end": 88,
+                "expanded_url": "https://faq.limbuscompany.site/",
+                "start": 65,
+                "url": "https://t.co/MFEWp5SLHV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "limbuscompany.global",
+                "end": 23,
+                "expanded_url": "https://limbuscompany.global/",
+                "start": 0,
+                "url": "https://t.co/GJS3bxmThY"
+              }
+            ]
+          }
+        },
+        "id": "1407670091588669444",
+        "location": "City",
+        "name": "Limbus Company",
+        "pinned_tweet_id": "1989318804606701845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509485712550535168/q_SnRdGP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372412,
+          "following_count": 2,
+          "like_count": 382,
+          "listed_count": 804,
+          "media_count": 1362,
+          "tweet_count": 1997
+        },
+        "url": "https://t.co/GJS3bxmThY",
+        "username": "LimbusCompany_B",
+        "verified": true
+      }
+    ]
+  }
+}

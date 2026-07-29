@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043260488675700736"
+      ],
+      "media_source_tweet_id": [
+        "2043260496946790507"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2043345505032528068",
+    "created_at": "2026-04-12T15:08:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T16:08:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043345505032528068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1887254175031173121",
+          "start": 3,
+          "username": "mainichishiawa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vEKPfDt0Vk",
+          "end": 43,
+          "expanded_url": "https://x.com/mainichishiawa/status/2043260496946790507/photo/1",
+          "media_key": "3_2043260488675700736",
+          "start": 20,
+          "url": "https://t.co/vEKPfDt0Vk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043345505032528068",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 249
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043260496946790507",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mainichishiawa: https://t.co/vEKPfDt0Vk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043260488675700736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFselrsbMAAi2y3.jpg",
+        "width": 1656
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043260488675700736"
+          ],
+          "media_source_tweet_id": [
+            "2043260496946790507"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2043345505032528068",
+        "created_at": "2026-04-12T15:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T16:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043345505032528068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1887254175031173121",
+              "start": 3,
+              "username": "mainichishiawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vEKPfDt0Vk",
+              "end": 43,
+              "expanded_url": "https://x.com/mainichishiawa/status/2043260496946790507/photo/1",
+              "media_key": "3_2043260488675700736",
+              "start": 20,
+              "url": "https://t.co/vEKPfDt0Vk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043345505032528068",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 249
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043260496946790507",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mainichishiawa: https://t.co/vEKPfDt0Vk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043260488675700736"
+          ]
+        },
+        "author_id": "1887254175031173121",
+        "conversation_id": "2043260496946790507",
+        "created_at": "2026-04-12T09:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T10:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043260496946790507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vEKPfDt0Vk",
+              "end": 23,
+              "expanded_url": "https://x.com/mainichishiawa/status/2043260496946790507/photo/1",
+              "media_key": "3_2043260488675700736",
+              "start": 0,
+              "url": "https://t.co/vEKPfDt0Vk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043260496946790507",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 150,
+          "impression_count": 22307,
+          "like_count": 2726,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 249
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vEKPfDt0Vk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季映姬 亚玛萨那度",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "see_you_hell.although.here.probably.is",
+                "end": 23,
+                "expanded_url": "http://see_you_hell.although.here.probably.is",
+                "start": 0,
+                "url": "https://t.co/ecUxsPCDIQ"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2040004095713685681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 841,
+          "like_count": 25245,
+          "listed_count": 1,
+          "media_count": 411,
+          "tweet_count": 3335
+        },
+        "url": "https://t.co/ecUxsPCDIQ",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T21:37:30.000Z",
+        "description": "サブ垢____ @nan3s8m/本垢 @GwTe243/サブサブ垢 @a_ty1924427/アニメーション・グループ制作垢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "nan3s8m"
+              },
+              {
+                "end": 28,
+                "start": 20,
+                "username": "GwTe243"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "a_ty1924427"
+              }
+            ]
+          }
+        },
+        "id": "1887254175031173121",
+        "name": "～完～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961641891264696321/-I5ANFkg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9759,
+          "following_count": 58,
+          "like_count": 824,
+          "listed_count": 41,
+          "media_count": 137,
+          "tweet_count": 307
+        },
+        "username": "mainichishiawa",
+        "verified": false
+      }
+    ]
+  }
+}

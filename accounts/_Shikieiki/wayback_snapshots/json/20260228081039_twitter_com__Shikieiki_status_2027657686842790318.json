@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2027418951979036672"
+      ],
+      "media_source_tweet_id": [
+        "2027419023001235716"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2027657686842790318",
+    "created_at": "2026-02-28T08:10:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T09:10:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027657686842790318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1610049689923244032",
+          "start": 3,
+          "username": "maboroshi855"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2I53BaFTZc",
+          "end": 51,
+          "expanded_url": "https://x.com/maboroshi855/status/2027419023001235716/video/1",
+          "media_key": "13_2027418951979036672",
+          "start": 28,
+          "url": "https://t.co/2I53BaFTZc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027657686842790318",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 138
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027419023001235716",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maboroshi855: 最近の遊び\n放課後 https://t.co/2I53BaFTZc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10041,
+        "height": 1280,
+        "media_key": "13_2027418951979036672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027418951979036672/img/3Ok1V_EEPeHZ7ou_.jpg",
+        "public_metrics": {
+          "view_count": 124773
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027418951979036672/vid/avc1/320x568/Wx4gukMNP3QX3Mf2.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027418951979036672/vid/avc1/480x852/IHGtBbUMxmUUsbQi.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027418951979036672/vid/avc1/720x1280/dnmUtws8s3BPKZkv.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027418951979036672/pl/gzIn0Oky8d0r4575.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027418951979036672"
+          ],
+          "media_source_tweet_id": [
+            "2027419023001235716"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2027657686842790318",
+        "created_at": "2026-02-28T08:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T09:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027657686842790318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1610049689923244032",
+              "start": 3,
+              "username": "maboroshi855"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2I53BaFTZc",
+              "end": 51,
+              "expanded_url": "https://x.com/maboroshi855/status/2027419023001235716/video/1",
+              "media_key": "13_2027418951979036672",
+              "start": 28,
+              "url": "https://t.co/2I53BaFTZc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027657686842790318",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 138
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027419023001235716",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maboroshi855: 最近の遊び\n放課後 https://t.co/2I53BaFTZc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027418951979036672"
+          ]
+        },
+        "author_id": "1610049689923244032",
+        "conversation_id": "2027419023001235716",
+        "created_at": "2026-02-27T16:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T17:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027419023001235716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2I53BaFTZc",
+              "end": 33,
+              "expanded_url": "https://x.com/maboroshi855/status/2027419023001235716/video/1",
+              "media_key": "13_2027418951979036672",
+              "start": 10,
+              "url": "https://t.co/2I53BaFTZc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027419023001235716",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1158,
+          "impression_count": 251211,
+          "like_count": 3514,
+          "quote_count": 4,
+          "reply_count": 30,
+          "retweet_count": 138
+        },
+        "reply_settings": "everyone",
+        "text": "最近の遊び\n放課後 https://t.co/2I53BaFTZc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 721,
+          "like_count": 22081,
+          "listed_count": 0,
+          "media_count": 361,
+          "tweet_count": 2716
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T23:05:51.000Z",
+        "description": "AI画像の美しさを見せたいと思います。\nI want to show you the beauty of AI images.\n\n画像で出ている人は存在しません。\nPeople in the images do not exist.\n\nhttps://t.co/jdheNGuNtf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/MaboroshiAI",
+                "end": 141,
+                "expanded_url": "http://patreon.com/MaboroshiAI",
+                "start": 118,
+                "url": "https://t.co/jdheNGuNtf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/MaboroshiAI",
+                "end": 23,
+                "expanded_url": "https://www.patreon.com/MaboroshiAI",
+                "start": 0,
+                "url": "https://t.co/jtxPOrYdpx"
+              }
+            ]
+          }
+        },
+        "id": "1610049689923244032",
+        "name": "Maboroshi",
+        "pinned_tweet_id": "1666720742015381504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610422588987281408/Z2IZtKwE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24703,
+          "following_count": 39,
+          "like_count": 68,
+          "listed_count": 107,
+          "media_count": 91,
+          "tweet_count": 105
+        },
+        "url": "https://t.co/jtxPOrYdpx",
+        "username": "maboroshi855",
+        "verified": false
+      }
+    ]
+  }
+}

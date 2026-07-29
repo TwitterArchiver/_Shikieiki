@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009339768547758084"
+      ],
+      "media_source_tweet_id": [
+        "2009422367584608498"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2009423510800838877",
+    "created_at": "2026-01-09T00:34:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T01:34:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009423510800838877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1450640115085111300",
+          "start": 3,
+          "username": "PowerfulAuraX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uwLQtk0Vzn",
+          "end": 42,
+          "expanded_url": "https://x.com/PowerfulAuraX/status/2009422367584608498/photo/1",
+          "media_key": "3_2009339768547758084",
+          "start": 19,
+          "url": "https://t.co/uwLQtk0Vzn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009423510800838877",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009422367584608498",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PowerfulAuraX: https://t.co/uwLQtk0Vzn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 813,
+        "media_key": "3_2009339768547758084",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Kb36Fa0AQNHG3.jpg",
+        "width": 1028
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009339768547758084"
+          ],
+          "media_source_tweet_id": [
+            "2009422367584608498"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2009423510800838877",
+        "created_at": "2026-01-09T00:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T01:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009423510800838877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1450640115085111300",
+              "start": 3,
+              "username": "PowerfulAuraX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uwLQtk0Vzn",
+              "end": 42,
+              "expanded_url": "https://x.com/PowerfulAuraX/status/2009422367584608498/photo/1",
+              "media_key": "3_2009339768547758084",
+              "start": 19,
+              "url": "https://t.co/uwLQtk0Vzn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009423510800838877",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009422367584608498",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PowerfulAuraX: https://t.co/uwLQtk0Vzn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009339768547758084"
+          ]
+        },
+        "author_id": "1450640115085111300",
+        "conversation_id": "2009422367584608498",
+        "created_at": "2026-01-09T00:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T01:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009422367584608498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uwLQtk0Vzn",
+              "end": 23,
+              "expanded_url": "https://x.com/PowerfulAuraX/status/2009422367584608498/photo/1",
+              "media_key": "3_2009339768547758084",
+              "start": 0,
+              "url": "https://t.co/uwLQtk0Vzn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009422367584608498",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uwLQtk0Vzn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 570,
+          "like_count": 17536,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1204
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-20T01:49:02.000Z",
+        "description": "these cats are powerful. Bringing the best on your feed. Dm for credit/removal.",
+        "id": "1450640115085111300",
+        "name": "cats with powerful aura",
+        "pinned_tweet_id": "2008747540771205143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945936553642995712/1aKLVi1l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269848,
+          "following_count": 10410,
+          "like_count": 1759,
+          "listed_count": 989,
+          "media_count": 5510,
+          "tweet_count": 6820
+        },
+        "username": "PowerfulAuraX",
+        "verified": true
+      }
+    ]
+  }
+}

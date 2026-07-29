@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062126716387233792"
+      ],
+      "media_source_tweet_id": [
+        "2062126746674368822"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2066587437196009540",
+    "created_at": "2026-06-15T18:23:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T19:23:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066587437196009540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1467095000609849345",
+          "start": 3,
+          "username": "carnagesociety"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XCJMlsTvjS",
+          "end": 60,
+          "expanded_url": "https://x.com/carnagesociety/status/2062126746674368822/photo/1",
+          "media_key": "3_2062126716387233792",
+          "start": 37,
+          "url": "https://t.co/XCJMlsTvjS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066587437196009540",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 221
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062126746674368822",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @carnagesociety: 一部の層に需要がある抱き枕カバー https://t.co/XCJMlsTvjS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2066587437196009540].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2066587437196009540",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2066587437196009540"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062126716387233792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4lUqwakAAD7PD.jpg",
+        "width": 1499
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062126716387233792"
+          ]
+        },
+        "author_id": "1467095000609849345",
+        "conversation_id": "2062126746674368822",
+        "created_at": "2026-06-03T10:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062126746674368822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XCJMlsTvjS",
+              "end": 40,
+              "expanded_url": "https://x.com/carnagesociety/status/2062126746674368822/photo/1",
+              "media_key": "3_2062126716387233792",
+              "start": 17,
+              "url": "https://t.co/XCJMlsTvjS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062126746674368822",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 246,
+          "impression_count": 41533,
+          "like_count": 1854,
+          "quote_count": 6,
+          "reply_count": 11,
+          "retweet_count": 221
+        },
+        "reply_settings": "everyone",
+        "text": "一部の層に需要がある抱き枕カバー https://t.co/XCJMlsTvjS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n伴侣 @octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1123,
+          "following_count": 972,
+          "like_count": 28664,
+          "listed_count": 0,
+          "media_count": 492,
+          "tweet_count": 4250
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-04T11:34:48.000Z",
+        "description": "ゴアゾノさんを推せ🩸メタルとV系が好き \n💀commission▶@yuki12278947 \n💀sub account▶@GorezonoNeo \n💀fanart▶#ゴアガールファンアート \n💀link▼",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 95,
+                "start": 83,
+                "tag": "ゴアガールファンアート"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "yuki12278947"
+              },
+              {
+                "end": 73,
+                "start": 61,
+                "username": "GorezonoNeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yukicarnagesoc…",
+                "end": 23,
+                "expanded_url": "https://lit.link/yukicarnagesociety",
+                "start": 0,
+                "url": "https://t.co/ZWgT5VWTU9"
+              }
+            ]
+          }
+        },
+        "id": "1467095000609849345",
+        "location": "ご依頼は(@yuki12278947 )のDMへ",
+        "name": "幽妃-yuki-🫀GORE−GlRL PROJECT / 流血少女",
+        "pinned_tweet_id": "2060678628032315774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059214465842008064/axp9MpAz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42112,
+          "following_count": 764,
+          "like_count": 99912,
+          "listed_count": 174,
+          "media_count": 1588,
+          "tweet_count": 41062
+        },
+        "url": "https://t.co/ZWgT5VWTU9",
+        "username": "carnagesociety",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025534885587460096",
+        "3_2025534886229196800"
+      ],
+      "media_source_tweet_id": [
+        "2025534888347328931",
+        "2025534888347328931"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2025615421983039963",
+    "created_at": "2026-02-22T16:55:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T17:55:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025615421983039963"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 15,
+          "tag": "ゆめにっき"
+        },
+        {
+          "end": 28,
+          "start": 22,
+          "tag": "ゆめ2っき"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1674738615539367941",
+          "start": 3,
+          "username": "Mazero414"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pfmTsCElAK",
+          "end": 52,
+          "expanded_url": "https://x.com/Mazero414/status/2025534888347328931/photo/1",
+          "media_key": "3_2025534885587460096",
+          "start": 29,
+          "url": "https://t.co/pfmTsCElAK"
+        },
+        {
+          "display_url": "pic.x.com/pfmTsCElAK",
+          "end": 52,
+          "expanded_url": "https://x.com/Mazero414/status/2025534888347328931/photo/1",
+          "media_key": "3_2025534886229196800",
+          "start": 29,
+          "url": "https://t.co/pfmTsCElAK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025615421983039963",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025534888347328931",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mazero414: #ゆめにっき #ゆめ2っき https://t.co/pfmTsCElAK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_2025534885587460096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBwlPyeaIAAXDCY.jpg",
+        "width": 600
+      },
+      {
+        "height": 750,
+        "media_key": "3_2025534886229196800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBwlP03aQAAKmN6.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025534885587460096",
+            "3_2025534886229196800"
+          ],
+          "media_source_tweet_id": [
+            "2025534888347328931",
+            "2025534888347328931"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2025615421983039963",
+        "created_at": "2026-02-22T16:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T17:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025615421983039963"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "ゆめにっき"
+            },
+            {
+              "end": 28,
+              "start": 22,
+              "tag": "ゆめ2っき"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1674738615539367941",
+              "start": 3,
+              "username": "Mazero414"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pfmTsCElAK",
+              "end": 52,
+              "expanded_url": "https://x.com/Mazero414/status/2025534888347328931/photo/1",
+              "media_key": "3_2025534885587460096",
+              "start": 29,
+              "url": "https://t.co/pfmTsCElAK"
+            },
+            {
+              "display_url": "pic.x.com/pfmTsCElAK",
+              "end": 52,
+              "expanded_url": "https://x.com/Mazero414/status/2025534888347328931/photo/1",
+              "media_key": "3_2025534886229196800",
+              "start": 29,
+              "url": "https://t.co/pfmTsCElAK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025615421983039963",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025534888347328931",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mazero414: #ゆめにっき #ゆめ2っき https://t.co/pfmTsCElAK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025534885587460096",
+            "3_2025534886229196800"
+          ]
+        },
+        "author_id": "1674738615539367941",
+        "conversation_id": "2025534888347328931",
+        "created_at": "2026-02-22T11:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T12:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025534888347328931"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "ゆめにっき"
+            },
+            {
+              "end": 13,
+              "start": 7,
+              "tag": "ゆめ2っき"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pfmTsCElAK",
+              "end": 37,
+              "expanded_url": "https://x.com/Mazero414/status/2025534888347328931/photo/1",
+              "media_key": "3_2025534885587460096",
+              "start": 14,
+              "url": "https://t.co/pfmTsCElAK"
+            },
+            {
+              "display_url": "pic.x.com/pfmTsCElAK",
+              "end": 37,
+              "expanded_url": "https://x.com/Mazero414/status/2025534888347328931/photo/1",
+              "media_key": "3_2025534886229196800",
+              "start": 14,
+              "url": "https://t.co/pfmTsCElAK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025534888347328931",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 3855,
+          "like_count": 443,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "#ゆめにっき #ゆめ2っき https://t.co/pfmTsCElAK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 690,
+          "like_count": 21131,
+          "listed_count": 0,
+          "media_count": 310,
+          "tweet_count": 2368
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-30T11:16:33.000Z",
+        "description": "低浮上｜成分杂多 中文/ENG\n发布的作品使用🆗 AI🚫\n2026年画30张同人插图计划(1/30)",
+        "id": "1674738615539367941",
+        "name": "MazeroX0X",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020130025467703298/RBXUaAGm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 281,
+          "like_count": 1410,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 59
+        },
+        "username": "Mazero414",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2011332906162192386",
+        "3_2011332906158030848",
+        "3_2011332904576827393",
+        "3_2011332907659640833"
+      ],
+      "media_source_tweet_id": [
+        "2011332913225433543",
+        "2011332913225433543",
+        "2011332913225433543",
+        "2011332913225433543"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2011451013312766094",
+    "created_at": "2026-01-14T14:51:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T15:51:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011451013312766094"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "縦長マミさん",
+          "probability": 0.275,
+          "start": 22,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1345927306078949377",
+          "start": 3,
+          "username": "wakikamaboko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P437TwykCN",
+          "end": 52,
+          "expanded_url": "https://x.com/wakikamaboko/status/2011332913225433543/photo/1",
+          "media_key": "3_2011332906162192386",
+          "start": 29,
+          "url": "https://t.co/P437TwykCN"
+        },
+        {
+          "display_url": "pic.x.com/P437TwykCN",
+          "end": 52,
+          "expanded_url": "https://x.com/wakikamaboko/status/2011332913225433543/photo/1",
+          "media_key": "3_2011332906158030848",
+          "start": 29,
+          "url": "https://t.co/P437TwykCN"
+        },
+        {
+          "display_url": "pic.x.com/P437TwykCN",
+          "end": 52,
+          "expanded_url": "https://x.com/wakikamaboko/status/2011332913225433543/photo/1",
+          "media_key": "3_2011332904576827393",
+          "start": 29,
+          "url": "https://t.co/P437TwykCN"
+        },
+        {
+          "display_url": "pic.x.com/P437TwykCN",
+          "end": 52,
+          "expanded_url": "https://x.com/wakikamaboko/status/2011332913225433543/photo/1",
+          "media_key": "3_2011332907659640833",
+          "start": 29,
+          "url": "https://t.co/P437TwykCN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011451013312766094",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1048
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011332913225433543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wakikamaboko: タップで縦長マミさん https://t.co/P437TwykCN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 533,
+        "media_key": "3_2011332906162192386",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-mwnyTaAAIhWVI.jpg",
+        "width": 1199
+      },
+      {
+        "height": 533,
+        "media_key": "3_2011332906158030848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-mwnySagAA0svi.jpg",
+        "width": 1199
+      },
+      {
+        "height": 533,
+        "media_key": "3_2011332904576827393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-mwnsZbQAEkUH8.jpg",
+        "width": 1199
+      },
+      {
+        "height": 533,
+        "media_key": "3_2011332907659640833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-mwn34bQAEDqQi.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011332906162192386",
+            "3_2011332906158030848",
+            "3_2011332904576827393",
+            "3_2011332907659640833"
+          ],
+          "media_source_tweet_id": [
+            "2011332913225433543",
+            "2011332913225433543",
+            "2011332913225433543",
+            "2011332913225433543"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2011451013312766094",
+        "created_at": "2026-01-14T14:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T15:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011451013312766094"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "縦長マミさん",
+              "probability": 0.275,
+              "start": 22,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1345927306078949377",
+              "start": 3,
+              "username": "wakikamaboko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P437TwykCN",
+              "end": 52,
+              "expanded_url": "https://x.com/wakikamaboko/status/2011332913225433543/photo/1",
+              "media_key": "3_2011332906162192386",
+              "start": 29,
+              "url": "https://t.co/P437TwykCN"
+            },
+            {
+              "display_url": "pic.x.com/P437TwykCN",
+              "end": 52,
+              "expanded_url": "https://x.com/wakikamaboko/status/2011332913225433543/photo/1",
+              "media_key": "3_2011332906158030848",
+              "start": 29,
+              "url": "https://t.co/P437TwykCN"
+            },
+            {
+              "display_url": "pic.x.com/P437TwykCN",
+              "end": 52,
+              "expanded_url": "https://x.com/wakikamaboko/status/2011332913225433543/photo/1",
+              "media_key": "3_2011332904576827393",
+              "start": 29,
+              "url": "https://t.co/P437TwykCN"
+            },
+            {
+              "display_url": "pic.x.com/P437TwykCN",
+              "end": 52,
+              "expanded_url": "https://x.com/wakikamaboko/status/2011332913225433543/photo/1",
+              "media_key": "3_2011332907659640833",
+              "start": 29,
+              "url": "https://t.co/P437TwykCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011451013312766094",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1048
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011332913225433543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wakikamaboko: タップで縦長マミさん https://t.co/P437TwykCN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011332906162192386",
+            "3_2011332906158030848",
+            "3_2011332904576827393",
+            "3_2011332907659640833"
+          ]
+        },
+        "author_id": "1345927306078949377",
+        "conversation_id": "2011332913225433543",
+        "created_at": "2026-01-14T07:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T08:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011332913225433543"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "縦長マミさん",
+              "probability": 0.2842,
+              "start": 4,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P437TwykCN",
+              "end": 34,
+              "expanded_url": "https://x.com/wakikamaboko/status/2011332913225433543/photo/1",
+              "media_key": "3_2011332906162192386",
+              "start": 11,
+              "url": "https://t.co/P437TwykCN"
+            },
+            {
+              "display_url": "pic.x.com/P437TwykCN",
+              "end": 34,
+              "expanded_url": "https://x.com/wakikamaboko/status/2011332913225433543/photo/1",
+              "media_key": "3_2011332906158030848",
+              "start": 11,
+              "url": "https://t.co/P437TwykCN"
+            },
+            {
+              "display_url": "pic.x.com/P437TwykCN",
+              "end": 34,
+              "expanded_url": "https://x.com/wakikamaboko/status/2011332913225433543/photo/1",
+              "media_key": "3_2011332904576827393",
+              "start": 11,
+              "url": "https://t.co/P437TwykCN"
+            },
+            {
+              "display_url": "pic.x.com/P437TwykCN",
+              "end": 34,
+              "expanded_url": "https://x.com/wakikamaboko/status/2011332913225433543/photo/1",
+              "media_key": "3_2011332907659640833",
+              "start": 11,
+              "url": "https://t.co/P437TwykCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011332913225433543",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "タップで縦長マミさん"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1615,
+          "impression_count": 1749585,
+          "like_count": 15785,
+          "quote_count": 85,
+          "reply_count": 90,
+          "retweet_count": 1048
+        },
+        "reply_settings": "everyone",
+        "text": "タップで縦長マミさん https://t.co/P437TwykCN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 576,
+          "like_count": 18376,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 1290
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-04T03:02:42.000Z",
+        "description": "【illustrator】太線POPなイラスト💙WAKI ILLSTRATION💙〖work〗初音ミク、ホロライブ、にじさんじ、ぶいすぽっ!、超てんちゃんetc.（AI学習、指示禁止✖） ましゅまろhttps://t.co/PErWOROk24 インスタ https://t.co/6nbbt7wFO5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/kAuHn",
+                "end": 122,
+                "expanded_url": "https://x.gd/kAuHn",
+                "start": 99,
+                "url": "https://t.co/PErWOROk24"
+              },
+              {
+                "display_url": "x.gd/ljnUI",
+                "end": 151,
+                "expanded_url": "https://x.gd/ljnUI",
+                "start": 128,
+                "url": "https://t.co/6nbbt7wFO5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fluffyfluffy.jimdofree.com",
+                "end": 23,
+                "expanded_url": "https://fluffyfluffy.jimdofree.com/",
+                "start": 0,
+                "url": "https://t.co/FzY1iSRlo0"
+              }
+            ]
+          }
+        },
+        "id": "1345927306078949377",
+        "location": "ご依頼受付、スケジュールはHPをご確認ください。",
+        "name": "わき",
+        "pinned_tweet_id": "2011332913225433543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945071680600035328/5Tzde29F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140839,
+          "following_count": 1151,
+          "like_count": 19712,
+          "listed_count": 1205,
+          "media_count": 717,
+          "tweet_count": 13032
+        },
+        "url": "https://t.co/FzY1iSRlo0",
+        "username": "wakikamaboko",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2049026190665761201",
+    "created_at": "2026-04-28T07:21:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T08:21:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049026190665761201"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tangyuan412/st…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/tangyuan412/status/2047809069076128172",
+          "start": 17,
+          "url": "https://t.co/fWaBWy1B6D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049026190665761201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047809069076128172",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一直觉得这种混合语言很好玩来着 https://t.co/fWaBWy1B6D"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2049026190665761201",
+        "created_at": "2026-04-28T07:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049026190665761201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tangyuan412/st…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/tangyuan412/status/2047809069076128172",
+              "start": 17,
+              "url": "https://t.co/fWaBWy1B6D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049026190665761201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047809069076128172",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直觉得这种混合语言很好玩来着 https://t.co/fWaBWy1B6D"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813256777334726659",
+        "conversation_id": "2047714522002300973",
+        "created_at": "2026-04-24T22:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T23:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047809069076128172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "193648759",
+              "start": 0,
+              "username": "ripo0079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047809069076128172",
+        "in_reply_to_user_id": "193648759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 261,
+          "impression_count": 568278,
+          "like_count": 2225,
+          "quote_count": 121,
+          "reply_count": 30,
+          "retweet_count": 293
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047714522002300973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ripo0079 中国语and日本语are同一but文法and副词完全different。\nso借用some 副词from英语，中国人and日本人can相互交流"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2047351982030258527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 883,
+          "like_count": 26810,
+          "listed_count": 1,
+          "media_count": 431,
+          "tweet_count": 3622
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T16:58:12.000Z",
+        "description": "假面骑士/崩坏：星穹铁道/明日方舟🥰🥰🥰\n讨厌战争🈲🈲🈲",
+        "id": "1813256777334726659",
+        "location": "Shanghai，China",
+        "name": "tyyyyyy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813257380651548672/2jQDmJ4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 28,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 75
+        },
+        "username": "tangyuan412",
+        "verified": false
+      }
+    ]
+  }
+}

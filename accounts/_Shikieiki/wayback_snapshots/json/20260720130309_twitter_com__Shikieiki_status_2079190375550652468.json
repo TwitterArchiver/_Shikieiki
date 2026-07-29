@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2079190375550652468",
+    "created_at": "2026-07-20T13:03:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T14:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079190375550652468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "73876279",
+          "start": 3,
+          "username": "SCA_DI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079190375550652468",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078861223597404504",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SCA_DI: Bilibili上出现了一个自称“sca自_すかぢ”的新账号。\n该账号收到了大量“这是真的吗？”的询问。\n由于数量过多，无法一一回复。非常抱歉。\n\n大概是真的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2079190375550652468",
+        "created_at": "2026-07-20T13:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079190375550652468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "73876279",
+              "start": 3,
+              "username": "SCA_DI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079190375550652468",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078861223597404504",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SCA_DI: Bilibili上出现了一个自称“sca自_すかぢ”的新账号。\n该账号收到了大量“这是真的吗？”的询问。\n由于数量过多，无法一一回复。非常抱歉。\n\n大概是真的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "73876279",
+        "conversation_id": "2078861223597404504",
+        "created_at": "2026-07-19T15:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078861223597404504"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078861223597404504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 127552,
+          "like_count": 1114,
+          "quote_count": 1,
+          "reply_count": 35,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "Bilibili上出现了一个自称“sca自_すかぢ”的新账号。\n该账号收到了大量“这是真的吗？”的询问。\n由于数量过多，无法一一回复。非常抱歉。\n\n大概是真的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n伴侣 @octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 974,
+          "like_count": 28534,
+          "listed_count": 1,
+          "media_count": 494,
+          "tweet_count": 4316
+        },
+        "url": "",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2009-09-13T12:48:05.000Z",
+        "description": "片腕に五本の指を持つ男。 満三歳で独学によって言語習得（日本語）。 思索https://t.co/T4C7MUpDGW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitter.com/scadithink",
+                "end": 59,
+                "expanded_url": "https://twitter.com/scadithink",
+                "start": 36,
+                "url": "https://t.co/T4C7MUpDGW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "keromakura.net",
+                "end": 23,
+                "expanded_url": "http://www.keromakura.net/",
+                "start": 0,
+                "url": "https://t.co/9p3c8DNBgD"
+              }
+            ]
+          }
+        },
+        "id": "73876279",
+        "location": "ケロQ　枕",
+        "name": "SCA自（すかぢ）",
+        "pinned_tweet_id": "1640806796746166272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078927241724284928/ALhav1E5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93196,
+          "following_count": 1711,
+          "like_count": 85626,
+          "listed_count": 1224,
+          "media_count": 342,
+          "tweet_count": 57769
+        },
+        "url": "https://t.co/9p3c8DNBgD",
+        "username": "SCA_DI",
+        "verified": true
+      }
+    ]
+  }
+}

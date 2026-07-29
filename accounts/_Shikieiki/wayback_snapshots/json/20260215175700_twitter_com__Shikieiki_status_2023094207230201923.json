@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022710303302258688"
+      ],
+      "media_source_tweet_id": [
+        "2022710309119783016"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2023094207230201923",
+    "created_at": "2026-02-15T17:57:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T18:57:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023094207230201923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "338833679",
+          "start": 3,
+          "username": "blueramen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jOpaxsRkf8",
+          "end": 50,
+          "expanded_url": "https://x.com/blueramen/status/2022710309119783016/photo/1",
+          "media_key": "3_2022710303302258688",
+          "start": 27,
+          "url": "https://t.co/jOpaxsRkf8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023094207230201923",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022710309119783016",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @blueramen: Gペンにまだ慣れてない https://t.co/jOpaxsRkf8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1566,
+        "media_key": "3_2022710303302258688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBIcTdfakAAM4zW.jpg",
+        "width": 1239
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022710303302258688"
+          ],
+          "media_source_tweet_id": [
+            "2022710309119783016"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2023094207230201923",
+        "created_at": "2026-02-15T17:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T18:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023094207230201923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "338833679",
+              "start": 3,
+              "username": "blueramen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jOpaxsRkf8",
+              "end": 50,
+              "expanded_url": "https://x.com/blueramen/status/2022710309119783016/photo/1",
+              "media_key": "3_2022710303302258688",
+              "start": 27,
+              "url": "https://t.co/jOpaxsRkf8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023094207230201923",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022710309119783016",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @blueramen: Gペンにまだ慣れてない https://t.co/jOpaxsRkf8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022710303302258688"
+          ]
+        },
+        "author_id": "338833679",
+        "conversation_id": "2022710309119783016",
+        "created_at": "2026-02-14T16:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T17:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022710309119783016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jOpaxsRkf8",
+              "end": 35,
+              "expanded_url": "https://x.com/blueramen/status/2022710309119783016/photo/1",
+              "media_key": "3_2022710303302258688",
+              "start": 12,
+              "url": "https://t.co/jOpaxsRkf8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022710309119783016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 3987,
+          "like_count": 416,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "Gペンにまだ慣れてない https://t.co/jOpaxsRkf8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 665,
+          "like_count": 19734,
+          "listed_count": 1,
+          "media_count": 263,
+          "tweet_count": 2048
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-20T04:54:09.000Z",
+        "description": "I doodle sometimes. たまに絵を描きます⚠️🔞GL/百合｜バンドリ｜G_Witch ｜リコリコ｜スタァライト｜English/日本語OK｜🍟🐥さよひな4コマ(進行中) do not repost w/o permission｜https://t.co/nvwbjZeDPV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "blueramen.bsky.social",
+                "end": 145,
+                "expanded_url": "http://blueramen.bsky.social",
+                "start": 122,
+                "url": "https://t.co/nvwbjZeDPV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/blueramen",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/blueramen",
+                "start": 0,
+                "url": "https://t.co/tH7jfzgDNy"
+              }
+            ]
+          }
+        },
+        "id": "338833679",
+        "location": "pixiv.me/blueramen",
+        "name": "xin🍅",
+        "pinned_tweet_id": "2017907127130714314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642371980006670336/DwOaA28Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6269,
+          "following_count": 1021,
+          "like_count": 39736,
+          "listed_count": 61,
+          "media_count": 4032,
+          "tweet_count": 62066
+        },
+        "url": "https://t.co/tH7jfzgDNy",
+        "username": "blueramen",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027767251668201472"
+      ],
+      "media_source_tweet_id": [
+        "2027767259465412930"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2027815728171319555",
+    "created_at": "2026-02-28T18:38:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T19:38:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027815728171319555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1545392016049475584",
+          "start": 3,
+          "username": "Wonderia427"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S6yUPOT7Sw",
+          "end": 40,
+          "expanded_url": "https://x.com/Wonderia427/status/2027767259465412930/photo/1",
+          "media_key": "3_2027767251668201472",
+          "start": 17,
+          "url": "https://t.co/S6yUPOT7Sw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027815728171319555",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027767259465412930",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Wonderia427: https://t.co/S6yUPOT7Sw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1640,
+        "media_key": "3_2027767251668201472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCQTkmLacAAWSgZ.jpg",
+        "width": 2360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027767251668201472"
+          ],
+          "media_source_tweet_id": [
+            "2027767259465412930"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2027815728171319555",
+        "created_at": "2026-02-28T18:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T19:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027815728171319555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1545392016049475584",
+              "start": 3,
+              "username": "Wonderia427"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S6yUPOT7Sw",
+              "end": 40,
+              "expanded_url": "https://x.com/Wonderia427/status/2027767259465412930/photo/1",
+              "media_key": "3_2027767251668201472",
+              "start": 17,
+              "url": "https://t.co/S6yUPOT7Sw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027815728171319555",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027767259465412930",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Wonderia427: https://t.co/S6yUPOT7Sw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027767251668201472"
+          ]
+        },
+        "author_id": "1545392016049475584",
+        "conversation_id": "2027767259465412930",
+        "created_at": "2026-02-28T15:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T16:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027767259465412930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S6yUPOT7Sw",
+              "end": 23,
+              "expanded_url": "https://x.com/Wonderia427/status/2027767259465412930/photo/1",
+              "media_key": "3_2027767251668201472",
+              "start": 0,
+              "url": "https://t.co/S6yUPOT7Sw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027767259465412930",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 967,
+          "like_count": 103,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/S6yUPOT7Sw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 738,
+          "like_count": 22256,
+          "listed_count": 0,
+          "media_count": 367,
+          "tweet_count": 2763
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T12:59:50.000Z",
+        "description": "絵を描きます　18↑\nイラストの無断転載AI学習禁止です\nFAタグ　#薄い青色同好会\nリンクまとめなど→ https://t.co/OAGxgrWS5X\n虚無ツイ→ @threethreemaso",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 34,
+                "tag": "薄い青色同好会"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 98,
+                "start": 83,
+                "username": "threethreemaso"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "wonderia427.wixsite.com/mimiportal",
+                "end": 76,
+                "expanded_url": "https://wonderia427.wixsite.com/mimiportal",
+                "start": 53,
+                "url": "https://t.co/OAGxgrWS5X"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/106035278",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/106035278",
+                "start": 0,
+                "url": "https://t.co/tY5HbznLM6"
+              }
+            ]
+          }
+        },
+        "id": "1545392016049475584",
+        "location": "ミミマンクレイジーバス送り界隈",
+        "name": "ミミマン",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958560580933197824/_rLdTTzC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 104,
+          "like_count": 5289,
+          "listed_count": 5,
+          "media_count": 377,
+          "tweet_count": 1294
+        },
+        "url": "https://t.co/tY5HbznLM6",
+        "username": "Wonderia427",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025092720973545478"
+      ],
+      "media_source_tweet_id": [
+        "2025168623149486266"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2025192755438448987",
+    "created_at": "2026-02-21T12:55:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T13:55:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025192755438448987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1706582410211770368",
+          "start": 3,
+          "username": "22_rink"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dFlqMDTV6B",
+          "end": 43,
+          "expanded_url": "https://x.com/22_rink/status/2025168623149486266/photo/1",
+          "media_key": "3_2025092720973545478",
+          "start": 20,
+          "url": "https://t.co/dFlqMDTV6B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025192755438448987",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025168623149486266",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @22_rink: うちよそ百合 https://t.co/dFlqMDTV6B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025092720973545478",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqTGa7bgAYEHtz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025092720973545478"
+          ],
+          "media_source_tweet_id": [
+            "2025168623149486266"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2025192755438448987",
+        "created_at": "2026-02-21T12:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T13:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025192755438448987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1706582410211770368",
+              "start": 3,
+              "username": "22_rink"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dFlqMDTV6B",
+              "end": 43,
+              "expanded_url": "https://x.com/22_rink/status/2025168623149486266/photo/1",
+              "media_key": "3_2025092720973545478",
+              "start": 20,
+              "url": "https://t.co/dFlqMDTV6B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025192755438448987",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025168623149486266",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @22_rink: うちよそ百合 https://t.co/dFlqMDTV6B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025092720973545478"
+          ]
+        },
+        "author_id": "1706582410211770368",
+        "conversation_id": "2025168623149486266",
+        "created_at": "2026-02-21T11:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T12:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025168623149486266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dFlqMDTV6B",
+              "end": 30,
+              "expanded_url": "https://x.com/22_rink/status/2025168623149486266/photo/1",
+              "media_key": "3_2025092720973545478",
+              "start": 7,
+              "url": "https://t.co/dFlqMDTV6B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025168623149486266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 5855,
+          "like_count": 708,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "うちよそ百合 https://t.co/dFlqMDTV6B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 691,
+          "like_count": 20990,
+          "listed_count": 0,
+          "media_count": 302,
+          "tweet_count": 2344
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-26T08:12:15.000Z",
+        "description": "スマホ指描き｜gnsn✍🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/00185",
+                "end": 23,
+                "expanded_url": "https://lit.link/00185",
+                "start": 0,
+                "url": "https://t.co/WojYoOeODA"
+              }
+            ]
+          }
+        },
+        "id": "1706582410211770368",
+        "location": "🔄❌",
+        "name": "🅰️",
+        "pinned_tweet_id": "2024804942511554984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994659269137108992/0zOwjGar_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15112,
+          "following_count": 84,
+          "like_count": 14493,
+          "listed_count": 37,
+          "media_count": 155,
+          "tweet_count": 1526
+        },
+        "url": "https://t.co/WojYoOeODA",
+        "username": "22_rink",
+        "verified": false
+      }
+    ]
+  }
+}

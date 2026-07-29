@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076221292379062272"
+      ],
+      "media_source_tweet_id": [
+        "2076223398615949607"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2076327039062466718",
+    "created_at": "2026-07-12T15:25:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T16:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076327039062466718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "99984718",
+          "start": 3,
+          "username": "thief090"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z2L4dfC1B7",
+          "end": 96,
+          "expanded_url": "https://x.com/thief090/status/2076223398615949607/photo/1",
+          "media_key": "3_2076221292379062272",
+          "start": 73,
+          "url": "https://t.co/z2L4dfC1B7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076327039062466718",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 794
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076223398615949607",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thief090: コラボキービジュで初めて描いたんですけど、深夜アニメに触れ始めた当時のことを思い出してしまったので9歳verも描いた https://t.co/z2L4dfC1B7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1684,
+        "media_key": "3_2076221292379062272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNA4Q99bQAAxfDD.jpg",
+        "width": 1191
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076221292379062272"
+          ],
+          "media_source_tweet_id": [
+            "2076223398615949607"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2076327039062466718",
+        "created_at": "2026-07-12T15:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076327039062466718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "99984718",
+              "start": 3,
+              "username": "thief090"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z2L4dfC1B7",
+              "end": 96,
+              "expanded_url": "https://x.com/thief090/status/2076223398615949607/photo/1",
+              "media_key": "3_2076221292379062272",
+              "start": 73,
+              "url": "https://t.co/z2L4dfC1B7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076327039062466718",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 794
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076223398615949607",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thief090: コラボキービジュで初めて描いたんですけど、深夜アニメに触れ始めた当時のことを思い出してしまったので9歳verも描いた https://t.co/z2L4dfC1B7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076221292379062272"
+          ]
+        },
+        "author_id": "99984718",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2076223398615949607",
+        "created_at": "2026-07-12T08:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076223398615949607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z2L4dfC1B7",
+              "end": 82,
+              "expanded_url": "https://x.com/thief090/status/2076223398615949607/photo/1",
+              "media_key": "3_2076221292379062272",
+              "start": 59,
+              "url": "https://t.co/z2L4dfC1B7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076223398615949607",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 267,
+          "impression_count": 45641,
+          "like_count": 2900,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 794
+        },
+        "reply_settings": "everyone",
+        "text": "コラボキービジュで初めて描いたんですけど、深夜アニメに触れ始めた当時のことを思い出してしまったので9歳verも描いた https://t.co/z2L4dfC1B7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n伴侣 @octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1144,
+          "following_count": 969,
+          "like_count": 28647,
+          "listed_count": 1,
+          "media_count": 493,
+          "tweet_count": 4293
+        },
+        "url": "",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-28T16:06:44.000Z",
+        "description": "岡野です。アニメの絵を描きます。原画、作監、キャラクターデザイン。たまに誤いいねする多忙な暇人",
+        "id": "99984718",
+        "location": "青森→仙台→東京",
+        "name": "きてRe:2/オカノ",
+        "pinned_tweet_id": "1984368098791837773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/525373379860520960/bPramFHT_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4282,
+          "following_count": 3421,
+          "like_count": 39,
+          "listed_count": 93,
+          "media_count": 2793,
+          "tweet_count": 48544
+        },
+        "url": "",
+        "username": "thief090",
+        "verified": false
+      }
+    ]
+  }
+}

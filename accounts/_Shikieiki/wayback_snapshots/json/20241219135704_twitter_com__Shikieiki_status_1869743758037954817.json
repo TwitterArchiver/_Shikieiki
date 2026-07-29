@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "1860645274840125893",
+    "created_at": "2024-12-19T13:57:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T14:57:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869743758037954817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1818107582117994496",
+          "start": 0,
+          "username": "CypressAlbert"
+        },
+        {
+          "end": 28,
+          "id": "1869684241283391488",
+          "start": 15,
+          "username": "CypressAlber"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869743758037954817",
+    "in_reply_to_user_id": "1818107582117994496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869739909654958320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CypressAlbert @CypressAlber 谢谢 不过这人的回复好像被屏蔽了所以我没看到 真搞笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "1860645274840125893",
+        "created_at": "2024-12-19T13:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T14:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869743758037954817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1818107582117994496",
+              "start": 0,
+              "username": "CypressAlbert"
+            },
+            {
+              "end": 28,
+              "id": "1869684241283391488",
+              "start": 15,
+              "username": "CypressAlber"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869743758037954817",
+        "in_reply_to_user_id": "1818107582117994496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869739909654958320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CypressAlbert @CypressAlber 谢谢 不过这人的回复好像被屏蔽了所以我没看到 真搞笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818107582117994496",
+        "conversation_id": "1860645274840125893",
+        "created_at": "2024-12-19T13:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T14:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869739909654958320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1869684241283391488",
+              "start": 0,
+              "username": "CypressAlber"
+            },
+            {
+              "end": 25,
+              "id": "1448206950903255040",
+              "start": 14,
+              "username": "_Shikieiki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/CypressAlbert/…",
+              "end": 91,
+              "expanded_url": "https://x.com/CypressAlbert/status/1866403262162952218",
+              "start": 68,
+              "url": "https://t.co/csAvcK6Chi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869739909654958320",
+        "in_reply_to_user_id": "1869684241283391488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866403262162952218",
+            "type": "quoted"
+          },
+          {
+            "id": "1869701950465597900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CypressAlber @_Shikieiki 不好意思，这不是我的账号，我被zyn套皮了，如果您不知道zyn是谁的话请看这个帖子\nhttps://t.co/csAvcK6Chi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "1842867034050441268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 275,
+          "like_count": 5129,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 63
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T02:13:32.000Z",
+        "description": "你好我是柏树/Albert|精神状态是量子叠加态|成分复杂|分裂情感性障碍|INFJ-T 5w6-tritype593-sp/so|FtX🏳‍⚧️无性别&无性恋，双性浪漫|查成分回fo|屏蔽必回敬|点赞不代表本人观点|欢迎理性讨论|攻击我的死全家哈|看我不爽建议您去死捏|第二人格\n@theDarkCypress",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 141,
+                "username": "theDarkCypress"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cypressalbert1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cypressalbert1",
+                "start": 0,
+                "url": "https://t.co/iBEVtehwcv"
+              }
+            ]
+          }
+        },
+        "id": "1818107582117994496",
+        "location": "我才知道星期八的真名叫作Schizophrenia ",
+        "name": "住在星期八的柏树（又双叒叕重生版）",
+        "pinned_tweet_id": "1869043923282440681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834602959516409856/nwmpqBZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 677,
+          "like_count": 9482,
+          "listed_count": 1,
+          "media_count": 293,
+          "tweet_count": 2063
+        },
+        "url": "https://t.co/iBEVtehwcv",
+        "username": "CypressAlbert",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-19T10:00:43.000Z",
+        "description": "你好我是柏树/Albert|精神状态是量子叠加态|成分复杂|分裂情感性障碍|INFJ-T 5w6-tritype593-sp/so|FtX🏳‍⚧️无性别&无性恋，双性浪漫|查成分回fo|屏蔽必回敬|点赞不代表本人观点|欢迎理性讨论|攻击我的死全家哈|看我不爽建议您去死捏|第二人格\n@theDarkCypress",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 141,
+                "username": "theDarkCypress"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cypressalbert1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/cypressalbert1",
+                "start": 0,
+                "url": "https://t.co/mhuIFPFnAZ"
+              }
+            ]
+          }
+        },
+        "id": "1869684241283391488",
+        "location": "我才知道星期八的真名叫作Schizophrenia",
+        "name": "住在星期八的柏树（又双叒叕重生版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869684714572828687/tatHzLmE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 77,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 29
+        },
+        "url": "https://t.co/mhuIFPFnAZ",
+        "username": "CypressAlber",
+        "verified": false
+      }
+    ]
+  }
+}

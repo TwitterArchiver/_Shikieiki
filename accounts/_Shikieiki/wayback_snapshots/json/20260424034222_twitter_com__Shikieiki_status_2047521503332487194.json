@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047410516625162241"
+      ],
+      "media_source_tweet_id": [
+        "2047410521918353729"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2047521503332487194",
+    "created_at": "2026-04-24T03:42:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T04:42:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047521503332487194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1978261373416005632",
+          "start": 3,
+          "username": "exctizh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X45ejN65mE",
+          "end": 36,
+          "expanded_url": "https://x.com/exctizh/status/2047410521918353729/photo/1",
+          "media_key": "3_2047410516625162241",
+          "start": 13,
+          "url": "https://t.co/X45ejN65mE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047521503332487194",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 362
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047410521918353729",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @exctizh: https://t.co/X45ejN65mE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 666,
+        "media_key": "3_2047410516625162241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGndBGjXgAE20Ze.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047410516625162241"
+          ],
+          "media_source_tweet_id": [
+            "2047410521918353729"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2047521503332487194",
+        "created_at": "2026-04-24T03:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T04:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047521503332487194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1978261373416005632",
+              "start": 3,
+              "username": "exctizh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X45ejN65mE",
+              "end": 36,
+              "expanded_url": "https://x.com/exctizh/status/2047410521918353729/photo/1",
+              "media_key": "3_2047410516625162241",
+              "start": 13,
+              "url": "https://t.co/X45ejN65mE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047521503332487194",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 362
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047410521918353729",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @exctizh: https://t.co/X45ejN65mE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047410516625162241"
+          ]
+        },
+        "author_id": "1978261373416005632",
+        "conversation_id": "2047410521918353729",
+        "created_at": "2026-04-23T20:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T21:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047410521918353729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X45ejN65mE",
+              "end": 23,
+              "expanded_url": "https://x.com/exctizh/status/2047410521918353729/photo/1",
+              "media_key": "3_2047410516625162241",
+              "start": 0,
+              "url": "https://t.co/X45ejN65mE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047410521918353729",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 156,
+          "impression_count": 25551,
+          "like_count": 2823,
+          "quote_count": 19,
+          "reply_count": 11,
+          "retweet_count": 362
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/X45ejN65mE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2047351982030258527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 879,
+          "like_count": 26049,
+          "listed_count": 1,
+          "media_count": 415,
+          "tweet_count": 3473
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-15T00:47:31.000Z",
+        "description": ":3",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/exctizh",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/exctizh",
+                "start": 0,
+                "url": "https://t.co/Rhb9El2dUF"
+              }
+            ]
+          }
+        },
+        "id": "1978261373416005632",
+        "name": "necro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047490426324602880/hbExvs4r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3284,
+          "following_count": 188,
+          "like_count": 4240,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 774
+        },
+        "url": "https://t.co/Rhb9El2dUF",
+        "username": "exctizh",
+        "verified": false
+      }
+    ]
+  }
+}

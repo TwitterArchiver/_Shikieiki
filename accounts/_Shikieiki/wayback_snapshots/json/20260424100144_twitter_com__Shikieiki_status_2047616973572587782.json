@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047507263678779392"
+      ],
+      "media_source_tweet_id": [
+        "2047507268485423270"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2047616973572587782",
+    "created_at": "2026-04-24T10:01:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T11:01:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047616973572587782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1687275933605195776",
+          "start": 3,
+          "username": "eru_621"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UwqUy5DGzv",
+          "end": 43,
+          "expanded_url": "https://x.com/eru_621/status/2047507268485423270/photo/1",
+          "media_key": "3_2047507263678779392",
+          "start": 20,
+          "url": "https://t.co/UwqUy5DGzv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047616973572587782",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047507268485423270",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eru_621: 死んじゃだめ https://t.co/UwqUy5DGzv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047507263678779392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGo1AhabEAA0APZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047507263678779392"
+          ],
+          "media_source_tweet_id": [
+            "2047507268485423270"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2047616973572587782",
+        "created_at": "2026-04-24T10:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047616973572587782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1687275933605195776",
+              "start": 3,
+              "username": "eru_621"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UwqUy5DGzv",
+              "end": 43,
+              "expanded_url": "https://x.com/eru_621/status/2047507268485423270/photo/1",
+              "media_key": "3_2047507263678779392",
+              "start": 20,
+              "url": "https://t.co/UwqUy5DGzv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047616973572587782",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047507268485423270",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eru_621: 死んじゃだめ https://t.co/UwqUy5DGzv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047507263678779392"
+          ]
+        },
+        "author_id": "1687275933605195776",
+        "conversation_id": "2047507268485423270",
+        "created_at": "2026-04-24T02:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T03:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047507268485423270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UwqUy5DGzv",
+              "end": 30,
+              "expanded_url": "https://x.com/eru_621/status/2047507268485423270/photo/1",
+              "media_key": "3_2047507263678779392",
+              "start": 7,
+              "url": "https://t.co/UwqUy5DGzv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047507268485423270",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 4101,
+          "like_count": 640,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "死んじゃだめ https://t.co/UwqUy5DGzv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2047351982030258527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 880,
+          "like_count": 26133,
+          "listed_count": 1,
+          "media_count": 415,
+          "tweet_count": 3481
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T01:35:37.000Z",
+        "description": "✧ #異星fa ☁️自我@eru_jg 無断転載禁止☁️これは自傷行為を推奨するものではありません。☁https://t.co/uJuairtvZe",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 2,
+                "tag": "異星fa"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 19,
+                "start": 12,
+                "username": "eru_jg"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/fgu7minr7lu7kj…",
+                "end": 74,
+                "expanded_url": "https://marshmallow-qa.com/fgu7minr7lu7kjb?t=wZxcwg&utm_medium=url_text&utm_source=promotion",
+                "start": 51,
+                "url": "https://t.co/uJuairtvZe"
+              }
+            ]
+          }
+        },
+        "id": "1687275933605195776",
+        "name": "える",
+        "pinned_tweet_id": "2019362709972873544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735191628170805248/pKOku_YZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3779,
+          "following_count": 567,
+          "like_count": 28654,
+          "listed_count": 16,
+          "media_count": 257,
+          "tweet_count": 1120
+        },
+        "username": "eru_621",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001761164204675072"
+      ],
+      "media_source_tweet_id": [
+        "2001761172190535966"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2001973797357064215",
+    "created_at": "2025-12-19T11:12:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T12:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001973797357064215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1973492339403530248",
+          "start": 3,
+          "username": "violet_franz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/72gGatBuVB",
+          "end": 41,
+          "expanded_url": "https://x.com/violet_franz/status/2001761172190535966/photo/1",
+          "media_key": "3_2001761164204675072",
+          "start": 18,
+          "url": "https://t.co/72gGatBuVB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001973797357064215",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1400
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001761172190535966",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @violet_franz: https://t.co/72gGatBuVB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 473,
+        "media_key": "3_2001761164204675072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8evLE2XkAAWsUw.png",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001761164204675072"
+          ],
+          "media_source_tweet_id": [
+            "2001761172190535966"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2001973797357064215",
+        "created_at": "2025-12-19T11:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T12:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001973797357064215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1973492339403530248",
+              "start": 3,
+              "username": "violet_franz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/72gGatBuVB",
+              "end": 41,
+              "expanded_url": "https://x.com/violet_franz/status/2001761172190535966/photo/1",
+              "media_key": "3_2001761164204675072",
+              "start": 18,
+              "url": "https://t.co/72gGatBuVB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001973797357064215",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1400
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001761172190535966",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @violet_franz: https://t.co/72gGatBuVB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001761164204675072"
+          ]
+        },
+        "author_id": "1973492339403530248",
+        "conversation_id": "2001761172190535966",
+        "created_at": "2025-12-18T21:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T22:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001761172190535966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/72gGatBuVB",
+              "end": 23,
+              "expanded_url": "https://x.com/violet_franz/status/2001761172190535966/photo/1",
+              "media_key": "3_2001761164204675072",
+              "start": 0,
+              "url": "https://t.co/72gGatBuVB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001761172190535966",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 168,
+          "impression_count": 41865,
+          "like_count": 6162,
+          "quote_count": 10,
+          "reply_count": 3,
+          "retweet_count": 1400
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/72gGatBuVB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "1842867034050441268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 378,
+          "like_count": 6692,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 235
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T20:57:28.000Z",
+        "description": "talking and writing about lesbians is my job ♡ taken by my god, my universe: @lulu_sillyy  ♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "lulu_sillyy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "violetfranz.carrd.co/#",
+                "end": 23,
+                "expanded_url": "https://violetfranz.carrd.co/#",
+                "start": 0,
+                "url": "https://t.co/01t3eDaxbU"
+              }
+            ]
+          }
+        },
+        "id": "1973492339403530248",
+        "location": "she/they",
+        "name": "violet ⚢",
+        "pinned_tweet_id": "1977169101190574452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973840994115125249/XIQwVuCH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3467,
+          "following_count": 939,
+          "like_count": 5894,
+          "listed_count": 17,
+          "media_count": 143,
+          "tweet_count": 1307
+        },
+        "url": "https://t.co/01t3eDaxbU",
+        "username": "violet_franz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2028095157443207168"
+      ],
+      "media_source_tweet_id": [
+        "2028095172425162810"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2028140917056852242",
+    "created_at": "2026-03-01T16:10:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T17:10:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028140917056852242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1951097375168311296",
+          "start": 3,
+          "username": "marifetter"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oBWAkAaIBp",
+          "end": 39,
+          "expanded_url": "https://x.com/marifetter/status/2028095172425162810/video/1",
+          "media_key": "7_2028095157443207168",
+          "start": 16,
+          "url": "https://t.co/oBWAkAaIBp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028140917056852242",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028095172425162810",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @marifetter: https://t.co/oBWAkAaIBp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7571,
+        "height": 450,
+        "media_key": "7_2028095157443207168",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2028095157443207168/pu/img/Ujkq-CAQk2zlIoM5.jpg",
+        "public_metrics": {
+          "view_count": 1294
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028095157443207168/pu/vid/avc1/432x270/ZZUu39SKS4jfSfiM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028095157443207168/pu/vid/avc1/720x450/XZE_335Xtb9U3ocZ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2028095157443207168/pu/pl/1KiLrHfhg6s4tyrk.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2028095157443207168"
+          ],
+          "media_source_tweet_id": [
+            "2028095172425162810"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2028140917056852242",
+        "created_at": "2026-03-01T16:10:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T17:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028140917056852242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1951097375168311296",
+              "start": 3,
+              "username": "marifetter"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oBWAkAaIBp",
+              "end": 39,
+              "expanded_url": "https://x.com/marifetter/status/2028095172425162810/video/1",
+              "media_key": "7_2028095157443207168",
+              "start": 16,
+              "url": "https://t.co/oBWAkAaIBp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028140917056852242",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028095172425162810",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @marifetter: https://t.co/oBWAkAaIBp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2028095157443207168"
+          ]
+        },
+        "author_id": "1951097375168311296",
+        "conversation_id": "2028095172425162810",
+        "created_at": "2026-03-01T13:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T14:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028095172425162810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oBWAkAaIBp",
+              "end": 23,
+              "expanded_url": "https://x.com/marifetter/status/2028095172425162810/video/1",
+              "media_key": "7_2028095157443207168",
+              "start": 0,
+              "url": "https://t.co/oBWAkAaIBp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028095172425162810",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 3203,
+          "like_count": 349,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oBWAkAaIBp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 759,
+          "like_count": 22610,
+          "listed_count": 0,
+          "media_count": 389,
+          "tweet_count": 2860
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-01T01:47:48.000Z",
+        "description": "father of eight, I run @Project2025Bot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "Project2025Bot"
+              }
+            ]
+          }
+        },
+        "id": "1951097375168311296",
+        "location": "discord: userzone",
+        "name": "Marifet",
+        "pinned_tweet_id": "2017812581533012371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020503276446269440/ZDVIi5AO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 45,
+          "like_count": 14693,
+          "listed_count": 8,
+          "media_count": 1348,
+          "tweet_count": 5001
+        },
+        "username": "marifetter",
+        "verified": false
+      }
+    ]
+  }
+}

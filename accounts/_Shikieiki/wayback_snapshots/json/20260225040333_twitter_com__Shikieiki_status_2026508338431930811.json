@@ -1,0 +1,556 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026140132483690496",
+        "3_2026140149009289216",
+        "3_2026140159599894528",
+        "3_2026140169624342529"
+      ],
+      "media_source_tweet_id": [
+        "2026140173004841128",
+        "2026140173004841128",
+        "2026140173004841128",
+        "2026140173004841128"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2026508338431930811",
+    "created_at": "2026-02-25T04:03:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T05:03:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026508338431930811"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 42,
+          "normalized_text": "Albina",
+          "probability": 0.4965,
+          "start": 37,
+          "type": "Person"
+        },
+        {
+          "end": 50,
+          "normalized_text": "Ren",
+          "probability": 0.4652,
+          "start": 48,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757110943971151872",
+          "start": 3,
+          "username": "89dzhongta"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LekJzyXYjE",
+          "end": 136,
+          "expanded_url": "https://x.com/89dzhongta/status/2026140173004841128/photo/1",
+          "media_key": "3_2026140132483690496",
+          "start": 113,
+          "url": "https://t.co/LekJzyXYjE"
+        },
+        {
+          "display_url": "pic.x.com/LekJzyXYjE",
+          "end": 136,
+          "expanded_url": "https://x.com/89dzhongta/status/2026140173004841128/photo/1",
+          "media_key": "3_2026140149009289216",
+          "start": 113,
+          "url": "https://t.co/LekJzyXYjE"
+        },
+        {
+          "display_url": "pic.x.com/LekJzyXYjE",
+          "end": 136,
+          "expanded_url": "https://x.com/89dzhongta/status/2026140173004841128/photo/1",
+          "media_key": "3_2026140159599894528",
+          "start": 113,
+          "url": "https://t.co/LekJzyXYjE"
+        },
+        {
+          "display_url": "pic.x.com/LekJzyXYjE",
+          "end": 136,
+          "expanded_url": "https://x.com/89dzhongta/status/2026140173004841128/photo/1",
+          "media_key": "3_2026140169624342529",
+          "start": 113,
+          "url": "https://t.co/LekJzyXYjE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026508338431930811",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026140173004841128",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @89dzhongta: I create content for Albina and Ren. No set dynamic, just enjoying their relationship.☺️\n漫画（1/3） https://t.co/LekJzyXYjE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026140132483690496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB5Lty3acAAfWYO.jpg",
+        "width": 1450
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026140149009289216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB5LuwbbEAAnhZG.jpg",
+        "width": 1451
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026140159599894528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB5LvX4a4AAUHhm.jpg",
+        "width": 1450
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026140169624342529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB5Lv9Ob0AExsvb.jpg",
+        "width": 1451
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026140132483690496",
+            "3_2026140149009289216",
+            "3_2026140159599894528",
+            "3_2026140169624342529"
+          ],
+          "media_source_tweet_id": [
+            "2026140173004841128",
+            "2026140173004841128",
+            "2026140173004841128",
+            "2026140173004841128"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2026508338431930811",
+        "created_at": "2026-02-25T04:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T05:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026508338431930811"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "Albina",
+              "probability": 0.4965,
+              "start": 37,
+              "type": "Person"
+            },
+            {
+              "end": 50,
+              "normalized_text": "Ren",
+              "probability": 0.4652,
+              "start": 48,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757110943971151872",
+              "start": 3,
+              "username": "89dzhongta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LekJzyXYjE",
+              "end": 136,
+              "expanded_url": "https://x.com/89dzhongta/status/2026140173004841128/photo/1",
+              "media_key": "3_2026140132483690496",
+              "start": 113,
+              "url": "https://t.co/LekJzyXYjE"
+            },
+            {
+              "display_url": "pic.x.com/LekJzyXYjE",
+              "end": 136,
+              "expanded_url": "https://x.com/89dzhongta/status/2026140173004841128/photo/1",
+              "media_key": "3_2026140149009289216",
+              "start": 113,
+              "url": "https://t.co/LekJzyXYjE"
+            },
+            {
+              "display_url": "pic.x.com/LekJzyXYjE",
+              "end": 136,
+              "expanded_url": "https://x.com/89dzhongta/status/2026140173004841128/photo/1",
+              "media_key": "3_2026140159599894528",
+              "start": 113,
+              "url": "https://t.co/LekJzyXYjE"
+            },
+            {
+              "display_url": "pic.x.com/LekJzyXYjE",
+              "end": 136,
+              "expanded_url": "https://x.com/89dzhongta/status/2026140173004841128/photo/1",
+              "media_key": "3_2026140169624342529",
+              "start": 113,
+              "url": "https://t.co/LekJzyXYjE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026508338431930811",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026140173004841128",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @89dzhongta: I create content for Albina and Ren. No set dynamic, just enjoying their relationship.☺️\n漫画（1/3） https://t.co/LekJzyXYjE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026140132483690496",
+            "3_2026140149009289216",
+            "3_2026140159599894528",
+            "3_2026140169624342529"
+          ]
+        },
+        "author_id": "1757110943971151872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2026140173004841128",
+        "created_at": "2026-02-24T03:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T04:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026140173004841128"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "Albina",
+              "probability": 0.5121,
+              "start": 21,
+              "type": "Person"
+            },
+            {
+              "end": 34,
+              "normalized_text": "Ren",
+              "probability": 0.4683,
+              "start": 32,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LekJzyXYjE",
+              "end": 120,
+              "expanded_url": "https://x.com/89dzhongta/status/2026140173004841128/photo/1",
+              "media_key": "3_2026140132483690496",
+              "start": 97,
+              "url": "https://t.co/LekJzyXYjE"
+            },
+            {
+              "display_url": "pic.x.com/LekJzyXYjE",
+              "end": 120,
+              "expanded_url": "https://x.com/89dzhongta/status/2026140173004841128/photo/1",
+              "media_key": "3_2026140149009289216",
+              "start": 97,
+              "url": "https://t.co/LekJzyXYjE"
+            },
+            {
+              "display_url": "pic.x.com/LekJzyXYjE",
+              "end": 120,
+              "expanded_url": "https://x.com/89dzhongta/status/2026140173004841128/photo/1",
+              "media_key": "3_2026140159599894528",
+              "start": 97,
+              "url": "https://t.co/LekJzyXYjE"
+            },
+            {
+              "display_url": "pic.x.com/LekJzyXYjE",
+              "end": 120,
+              "expanded_url": "https://x.com/89dzhongta/status/2026140173004841128/photo/1",
+              "media_key": "3_2026140169624342529",
+              "start": 97,
+              "url": "https://t.co/LekJzyXYjE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026140173004841128",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 246,
+          "impression_count": 27715,
+          "like_count": 981,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "I create content for Albina and Ren. No set dynamic, just enjoying their relationship.☺️\n漫画（1/3） https://t.co/LekJzyXYjE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 697,
+          "like_count": 21425,
+          "listed_count": 0,
+          "media_count": 323,
+          "tweet_count": 2445
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T18:34:40.000Z",
+        "description": "我爱着一个橘色头发雀斑女孩❤️⛪️",
+        "id": "1757110943971151872",
+        "name": "89d",
+        "pinned_tweet_id": "1956513134648471911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019422545699827718/pA081abA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 86,
+          "like_count": 2121,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 1698
+        },
+        "username": "89dzhongta",
+        "verified": false
+      }
+    ]
+  }
+}

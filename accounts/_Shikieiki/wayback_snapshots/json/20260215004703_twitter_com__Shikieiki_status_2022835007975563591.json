@@ -1,0 +1,600 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022611686491045888"
+      ],
+      "media_source_tweet_id": [
+        "2022611689116701151"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "this entity for all conversations for valentine's day all year ",
+          "id": "1201528585682423809",
+          "name": "Valentine's Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "this entity for all conversations for valentine's day all year ",
+          "id": "1201528585682423809",
+          "name": "Valentine's Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "this entity for all conversations for valentine's day all year ",
+          "id": "1201528585682423809",
+          "name": "Valentine's Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      }
+    ],
+    "conversation_id": "2022835007975563591",
+    "created_at": "2026-02-15T00:47:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T01:47:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022835007975563591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1311983775836852225",
+          "start": 3,
+          "username": "_u____nn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hflszc8OHX",
+          "end": 133,
+          "expanded_url": "https://x.com/_u____nn/status/2022611689116701151/photo/1",
+          "media_key": "3_2022611686491045888",
+          "start": 110,
+          "url": "https://t.co/hflszc8OHX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022835007975563591",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 447
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022611689116701151",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_u____nn: 사기 주의⚠️\n\n'여성을 위한 발렌타인데이 선물은 핸드크림이나 화장품을 추천'이라는 루머가 돌고 있습니다만, \n절대 믿지 마세요‼️\n\n여성이 정말로 원하는 것은⬇️⬇️⬇️ https://t.co/hflszc8OHX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1679,
+        "media_key": "3_2022611686491045888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBHCnNPaQAA_5at.jpg",
+        "width": 1466
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022611686491045888"
+          ],
+          "media_source_tweet_id": [
+            "2022611689116701151"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "this entity for all conversations for valentine's day all year ",
+              "id": "1201528585682423809",
+              "name": "Valentine's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "this entity for all conversations for valentine's day all year ",
+              "id": "1201528585682423809",
+              "name": "Valentine's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "this entity for all conversations for valentine's day all year ",
+              "id": "1201528585682423809",
+              "name": "Valentine's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          }
+        ],
+        "conversation_id": "2022835007975563591",
+        "created_at": "2026-02-15T00:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T01:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022835007975563591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1311983775836852225",
+              "start": 3,
+              "username": "_u____nn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hflszc8OHX",
+              "end": 133,
+              "expanded_url": "https://x.com/_u____nn/status/2022611689116701151/photo/1",
+              "media_key": "3_2022611686491045888",
+              "start": 110,
+              "url": "https://t.co/hflszc8OHX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022835007975563591",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 447
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022611689116701151",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_u____nn: 사기 주의⚠️\n\n'여성을 위한 발렌타인데이 선물은 핸드크림이나 화장품을 추천'이라는 루머가 돌고 있습니다만, \n절대 믿지 마세요‼️\n\n여성이 정말로 원하는 것은⬇️⬇️⬇️ https://t.co/hflszc8OHX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022611686491045888"
+          ]
+        },
+        "author_id": "1311983775836852225",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "this entity for all conversations for valentine's day all year ",
+              "id": "1201528585682423809",
+              "name": "Valentine's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "this entity for all conversations for valentine's day all year ",
+              "id": "1201528585682423809",
+              "name": "Valentine's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "this entity for all conversations for valentine's day all year ",
+              "id": "1201528585682423809",
+              "name": "Valentine's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          }
+        ],
+        "conversation_id": "2022611689116701151",
+        "created_at": "2026-02-14T09:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T10:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022611689116701151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hflszc8OHX",
+              "end": 119,
+              "expanded_url": "https://x.com/_u____nn/status/2022611689116701151/photo/1",
+              "media_key": "3_2022611686491045888",
+              "start": 96,
+              "url": "https://t.co/hflszc8OHX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022611689116701151",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 340,
+          "impression_count": 31999,
+          "like_count": 2261,
+          "quote_count": 30,
+          "reply_count": 1,
+          "retweet_count": 447
+        },
+        "reply_settings": "everyone",
+        "text": "사기 주의⚠️\n\n'여성을 위한 발렌타인데이 선물은 핸드크림이나 화장품을 추천'이라는 루머가 돌고 있습니다만, \n절대 믿지 마세요‼️\n\n여성이 정말로 원하는 것은⬇️⬇️⬇️ https://t.co/hflszc8OHX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 636,
+          "like_count": 19335,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 1891
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-02T10:59:10.000Z",
+        "description": "그렇게 난폭하면 신앙이 모이지 않아요. 좀 더 신성하게 보여야 한답니다.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "litt.ly/shion_love._.u…",
+                "end": 23,
+                "expanded_url": "https://litt.ly/shion_love._.unn",
+                "start": 0,
+                "url": "https://t.co/j8zgckuzqo"
+              }
+            ]
+          }
+        },
+        "id": "1311983775836852225",
+        "location": "WTC • 東方",
+        "name": "💚종다니07🩷",
+        "pinned_tweet_id": "1776869037483479472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021757147617628160/GY-dn2El_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 114,
+          "like_count": 105188,
+          "listed_count": 4,
+          "media_count": 28674,
+          "tweet_count": 182434
+        },
+        "url": "https://t.co/j8zgckuzqo",
+        "username": "_u____nn",
+        "verified": false
+      }
+    ]
+  }
+}

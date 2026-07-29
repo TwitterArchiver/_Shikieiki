@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066486772541132800"
+      ],
+      "media_source_tweet_id": [
+        "2066486780128584006"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2066858862565814439",
+    "created_at": "2026-06-16T12:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T13:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066858862565814439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "106860350",
+          "start": 3,
+          "username": "mi_me_i"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/56CVTc2tcq",
+          "end": 40,
+          "expanded_url": "https://x.com/mi_me_i/status/2066486780128584006/photo/1",
+          "media_key": "3_2066486772541132800",
+          "start": 17,
+          "url": "https://t.co/56CVTc2tcq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066858862565814439",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 595
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066486780128584006",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mi_me_i: な✌️ https://t.co/56CVTc2tcq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066486772541132800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2ixVpbkAAOCqA.jpg",
+        "width": 1722
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066486772541132800"
+          ],
+          "media_source_tweet_id": [
+            "2066486780128584006"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2066858862565814439",
+        "created_at": "2026-06-16T12:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T13:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066858862565814439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "106860350",
+              "start": 3,
+              "username": "mi_me_i"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/56CVTc2tcq",
+              "end": 40,
+              "expanded_url": "https://x.com/mi_me_i/status/2066486780128584006/photo/1",
+              "media_key": "3_2066486772541132800",
+              "start": 17,
+              "url": "https://t.co/56CVTc2tcq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066858862565814439",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 595
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066486780128584006",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mi_me_i: な✌️ https://t.co/56CVTc2tcq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066486772541132800"
+          ]
+        },
+        "author_id": "106860350",
+        "conversation_id": "2066486780128584006",
+        "created_at": "2026-06-15T11:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T12:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066486780128584006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/56CVTc2tcq",
+              "end": 27,
+              "expanded_url": "https://x.com/mi_me_i/status/2066486780128584006/photo/1",
+              "media_key": "3_2066486772541132800",
+              "start": 4,
+              "url": "https://t.co/56CVTc2tcq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066486780128584006",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 192,
+          "impression_count": 33595,
+          "like_count": 2383,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 595
+        },
+        "reply_settings": "everyone",
+        "text": "な✌️ https://t.co/56CVTc2tcq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n伴侣 @octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 970,
+          "like_count": 28689,
+          "listed_count": 0,
+          "media_count": 492,
+          "tweet_count": 4252
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-20T22:46:40.000Z",
+        "description": "🐻‍❄️🖤🥞フリーの漫画描き｜相方@yuki_kisyuと漫画やイラストを描いてます｜#ちいぱと｜お仕事のご依頼はHPの✉まで｜DON'T RE-UPLOAD.｜\nFANBOX🎁https://t.co/EMSqH7WAUo \nSkeb👐https://t.co/CxEi4W95eS",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 43,
+                "tag": "ちいぱと"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_kisyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mimei.fanbox.cc",
+                "end": 112,
+                "expanded_url": "http://mimei.fanbox.cc",
+                "start": 89,
+                "url": "https://t.co/EMSqH7WAUo"
+              },
+              {
+                "display_url": "skeb.jp/@mi_me_i",
+                "end": 142,
+                "expanded_url": "http://skeb.jp/@mi_me_i",
+                "start": 119,
+                "url": "https://t.co/CxEi4W95eS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "reineru.com",
+                "end": 23,
+                "expanded_url": "http://reineru.com",
+                "start": 0,
+                "url": "https://t.co/kaQk0L6Cr2"
+              }
+            ]
+          }
+        },
+        "id": "106860350",
+        "location": "うみとやまのあいだ",
+        "name": "黒井みめい",
+        "pinned_tweet_id": "2060851909435732357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959768657271324672/9Xuiyivn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54790,
+          "following_count": 98,
+          "like_count": 17849,
+          "listed_count": 963,
+          "media_count": 2625,
+          "tweet_count": 17191
+        },
+        "url": "https://t.co/kaQk0L6Cr2",
+        "username": "mi_me_i",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2008290951857627136"
+      ],
+      "media_source_tweet_id": [
+        "2008395602275565855"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2008397193108222368",
+    "created_at": "2026-01-06T04:36:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T05:36:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008397193108222368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1450640115085111300",
+          "start": 3,
+          "username": "PowerfulAuraX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SN0ACcyk5d",
+          "end": 42,
+          "expanded_url": "https://x.com/PowerfulAuraX/status/2008395602275565855/video/1",
+          "media_key": "13_2008290951857627136",
+          "start": 19,
+          "url": "https://t.co/SN0ACcyk5d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008397193108222368",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008395602275565855",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PowerfulAuraX: https://t.co/SN0ACcyk5d"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4643,
+        "height": 720,
+        "media_key": "13_2008290951857627136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2008290951857627136/img/taoSQmI-H5IDb0kR.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008290951857627136/vid/avc1/320x320/riIc1mv1CsXNRIfS.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008290951857627136/vid/avc1/540x540/JJh59ybE2C-Hahjf.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008290951857627136/vid/avc1/720x720/rByrIEjgZ0rGi3_i.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2008290951857627136/pl/DWYg021VDKh8ZEWm.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2008290951857627136"
+          ],
+          "media_source_tweet_id": [
+            "2008395602275565855"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2008397193108222368",
+        "created_at": "2026-01-06T04:36:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T05:36:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008397193108222368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1450640115085111300",
+              "start": 3,
+              "username": "PowerfulAuraX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SN0ACcyk5d",
+              "end": 42,
+              "expanded_url": "https://x.com/PowerfulAuraX/status/2008395602275565855/video/1",
+              "media_key": "13_2008290951857627136",
+              "start": 19,
+              "url": "https://t.co/SN0ACcyk5d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008397193108222368",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008395602275565855",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PowerfulAuraX: https://t.co/SN0ACcyk5d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2008290951857627136"
+          ]
+        },
+        "author_id": "1450640115085111300",
+        "conversation_id": "2008395602275565855",
+        "created_at": "2026-01-06T04:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T05:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008395602275565855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SN0ACcyk5d",
+              "end": 23,
+              "expanded_url": "https://x.com/PowerfulAuraX/status/2008395602275565855/video/1",
+              "media_key": "13_2008290951857627136",
+              "start": 0,
+              "url": "https://t.co/SN0ACcyk5d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008395602275565855",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SN0ACcyk5d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 532,
+          "like_count": 15968,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1081
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-20T01:49:02.000Z",
+        "description": "these cats are powerful. Bringing the best on your feed. Dm for credit/removal.",
+        "id": "1450640115085111300",
+        "name": "cats with powerful aura",
+        "pinned_tweet_id": "2007205877527523677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945936553642995712/1aKLVi1l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269769,
+          "following_count": 10415,
+          "like_count": 1754,
+          "listed_count": 989,
+          "media_count": 5448,
+          "tweet_count": 6757
+        },
+        "username": "PowerfulAuraX",
+        "verified": true
+      }
+    ]
+  }
+}

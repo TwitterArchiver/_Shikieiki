@@ -1,0 +1,588 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1270060459413004288",
+          "name": "Kanon Takao"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "id": "1270060459413004288",
+          "name": "Kanon Takao"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1270060459413004288",
+          "name": "Kanon Takao"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2006308415770079424",
+    "created_at": "2025-12-31T10:16:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T11:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006308415770079424"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 73,
+          "normalized_text": "ひーちゃん",
+          "probability": 0.3515,
+          "start": 69,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 18,
+          "tag": "こひなたぼっこ"
+        },
+        {
+          "end": 102,
+          "start": 96,
+          "tag": "こひなた民"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1359055471106134016",
+          "start": 3,
+          "username": "kohinatamika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006308415770079424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 236
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005882432764137981",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kohinatamika: #こひなたぼっこ 2部🍊☀️\n学力テストの罰ゲーム📖✒️\n『SNSに動画投稿』\n\n悔しい！！次こそひーちゃんに勝つぞー！！\n改めて、イベント見守ってくれた #こひなた民 の皆、ありがとう！！\n来年もイベントするぞ…！！\n\n撮影者:生産者さん🎥…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26700,
+        "height": 720,
+        "media_key": "13_2005882341617774592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2005882341617774592/img/0YJzIzQdmCRorMRZ.jpg",
+        "public_metrics": {
+          "view_count": 9995
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005882341617774592/vid/avc1/480x270/HRatocAHEwSEjWIP.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005882341617774592/vid/avc1/640x360/o1dFclTT7IsgRCXH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005882341617774592/vid/avc1/1280x720/4nsyv4_DvKVBCTtF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2005882341617774592/pl/2ifeD--24dS-MhUa.m3u8?v=688"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2006308415770079424",
+        "created_at": "2025-12-31T10:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T11:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006308415770079424"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 73,
+              "normalized_text": "ひーちゃん",
+              "probability": 0.3515,
+              "start": 69,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 18,
+              "tag": "こひなたぼっこ"
+            },
+            {
+              "end": 102,
+              "start": 96,
+              "tag": "こひなた民"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1359055471106134016",
+              "start": 3,
+              "username": "kohinatamika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006308415770079424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 236
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005882432764137981",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kohinatamika: #こひなたぼっこ 2部🍊☀️\n学力テストの罰ゲーム📖✒️\n『SNSに動画投稿』\n\n悔しい！！次こそひーちゃんに勝つぞー！！\n改めて、イベント見守ってくれた #こひなた民 の皆、ありがとう！！\n来年もイベントするぞ…！！\n\n撮影者:生産者さん🎥…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2005882341617774592"
+          ]
+        },
+        "author_id": "1359055471106134016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2005882432764137981",
+        "created_at": "2025-12-30T06:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T07:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005882432764137981"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 55,
+              "normalized_text": "ひーちゃん",
+              "probability": 0.3499,
+              "start": 51,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "こひなたぼっこ"
+            },
+            {
+              "end": 84,
+              "start": 78,
+              "tag": "こひなた民"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gLrLw6YwmR",
+              "end": 145,
+              "expanded_url": "https://x.com/kohinatamika/status/2005882432764137981/video/1",
+              "media_key": "13_2005882341617774592",
+              "start": 122,
+              "url": "https://t.co/gLrLw6YwmR"
+            },
+            {
+              "display_url": "x.com/hinatabokko082…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/hinatabokko0825/status/2002343278050750735",
+              "start": 146,
+              "url": "https://t.co/IGnGi6YcpO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005882432764137981",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 136,
+          "impression_count": 58110,
+          "like_count": 1836,
+          "quote_count": 10,
+          "reply_count": 33,
+          "retweet_count": 236
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002343278050750735",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#こひなたぼっこ 2部🍊☀️\n学力テストの罰ゲーム📖✒️\n『SNSに動画投稿』\n\n悔しい！！次こそひーちゃんに勝つぞー！！\n改めて、イベント見守ってくれた #こひなた民 の皆、ありがとう！！\n来年もイベントするぞ…！！\n\n撮影者:生産者さん🎥 https://t.co/gLrLw6YwmR https://t.co/IGnGi6YcpO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 451,
+          "like_count": 10340,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 529
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-09T08:25:02.000Z",
+        "description": "S所属の小日向美香です🍊 【アニメ】＃バンドリ #MyGO !!!!!/Ba.長崎そよ【ゲーム】#少女とドラゴン /レテ【舞台】#春風外伝2021 /黒子と #少ステ再演 /スオウ #散る君うらら/脇沸きわ 【ラジオ】#小日向美香のラジラブ！ #イマ2 【配信】#こひなたぼっこ #こひチャン",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 18,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 29,
+                "start": 24,
+                "tag": "MyGO"
+              },
+              {
+                "end": 56,
+                "start": 48,
+                "tag": "少女とドラゴン"
+              },
+              {
+                "end": 73,
+                "start": 64,
+                "tag": "春風外伝2021"
+              },
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "少ステ再演"
+              },
+              {
+                "end": 98,
+                "start": 91,
+                "tag": "散る君うらら"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "tag": "小日向美香のラジラブ"
+              },
+              {
+                "end": 126,
+                "start": 122,
+                "tag": "イマ2"
+              },
+              {
+                "end": 139,
+                "start": 131,
+                "tag": "こひなたぼっこ"
+              },
+              {
+                "end": 146,
+                "start": 140,
+                "tag": "こひチャン"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kohinata_mika",
+                "end": 23,
+                "expanded_url": "http://instagram.com/kohinata_mika",
+                "start": 0,
+                "url": "https://t.co/55PTrk2Xws"
+              }
+            ]
+          }
+        },
+        "id": "1359055471106134016",
+        "location": "DMは事務所が管理しています。",
+        "name": "小日向美香",
+        "pinned_tweet_id": "1952709238498984233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952701283900772352/nGxs0NJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113869,
+          "following_count": 486,
+          "like_count": 6371,
+          "listed_count": 834,
+          "media_count": 1497,
+          "tweet_count": 5387
+        },
+        "url": "https://t.co/55PTrk2Xws",
+        "username": "kohinatamika",
+        "verified": true
+      }
+    ]
+  }
+}

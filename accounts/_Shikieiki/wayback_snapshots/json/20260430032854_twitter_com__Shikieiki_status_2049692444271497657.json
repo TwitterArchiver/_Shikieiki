@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2049692444271497657",
+    "created_at": "2026-04-30T03:28:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T04:28:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049692444271497657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1537800740969672709",
+          "start": 3,
+          "username": "zhiyishuyuese3"
+        },
+        {
+          "end": 34,
+          "id": "1748755970636038144",
+          "start": 22,
+          "username": "er_zuo96208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049692444271497657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049368054812066152",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhiyishuyuese3: 我是@er_zuo96208 的二世 那个号被封了一周 新互fo的宝宝我一周后回"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2049692444271497657",
+        "created_at": "2026-04-30T03:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T04:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049692444271497657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1537800740969672709",
+              "start": 3,
+              "username": "zhiyishuyuese3"
+            },
+            {
+              "end": 34,
+              "id": "1748755970636038144",
+              "start": 22,
+              "username": "er_zuo96208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049692444271497657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049368054812066152",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhiyishuyuese3: 我是@er_zuo96208 的二世 那个号被封了一周 新互fo的宝宝我一周后回"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1537800740969672709",
+        "conversation_id": "2049368054812066152",
+        "created_at": "2026-04-29T05:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T06:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049368054812066152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748755970636038144",
+              "start": 2,
+              "username": "er_zuo96208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049368054812066152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 821,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我是@er_zuo96208 的二世 那个号被封了一周 新互fo的宝宝我一周后回"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2047351982030258527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 888,
+          "like_count": 26959,
+          "listed_count": 1,
+          "media_count": 436,
+          "tweet_count": 3659
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-17T14:14:14.000Z",
+        "description": "@er_zuo96208  被封七天 巡回互关中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "er_zuo96208"
+              }
+            ]
+          }
+        },
+        "id": "1537800740969672709",
+        "name": "老公孩子在天堂（二世巡回互关中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049366686600712192/66ahbrly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 7,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "username": "zhiyishuyuese3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:15:06.000Z",
+        "description": "od自残 看不了血图屏蔽我 爱我请给钱 被b了自己找原因 fo你是喜欢你 脾气不好别犯贱 提问箱⏬️ 欢迎来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B7%A6%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B7%A6%E8%80%B31",
+                "start": 0,
+                "url": "https://t.co/T6lnnI9h8q"
+              }
+            ]
+          }
+        },
+        "id": "1748755970636038144",
+        "location": "純綠🚪188/288➕半绿🚪520➕",
+        "name": "老公孩子在天堂",
+        "pinned_tweet_id": "2047656403721171089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049097812126953472/7qsiStF8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 571,
+          "like_count": 1257,
+          "listed_count": 1,
+          "media_count": 278,
+          "tweet_count": 1933
+        },
+        "url": "https://t.co/T6lnnI9h8q",
+        "username": "er_zuo96208",
+        "verified": false
+      }
+    ]
+  }
+}

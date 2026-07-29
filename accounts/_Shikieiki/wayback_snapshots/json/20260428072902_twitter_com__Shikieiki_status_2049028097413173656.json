@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048760470224732160"
+      ],
+      "media_source_tweet_id": [
+        "2048760517427384655"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2049028097413173656",
+    "created_at": "2026-04-28T07:29:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T08:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049028097413173656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2609171432",
+          "start": 3,
+          "username": "Takano_DDKR"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YFMhknBy45",
+          "end": 44,
+          "expanded_url": "https://x.com/Takano_DDKR/status/2048760517427384655/photo/1",
+          "media_key": "3_2048760470224732160",
+          "start": 21,
+          "url": "https://t.co/YFMhknBy45"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049028097413173656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 124
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048760517427384655",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Takano_DDKR: 教教我 https://t.co/YFMhknBy45"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_2048760470224732160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6oyvmbgAAhpXt.jpg",
+        "width": 1291
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048760470224732160"
+          ],
+          "media_source_tweet_id": [
+            "2048760517427384655"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2049028097413173656",
+        "created_at": "2026-04-28T07:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049028097413173656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2609171432",
+              "start": 3,
+              "username": "Takano_DDKR"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YFMhknBy45",
+              "end": 44,
+              "expanded_url": "https://x.com/Takano_DDKR/status/2048760517427384655/photo/1",
+              "media_key": "3_2048760470224732160",
+              "start": 21,
+              "url": "https://t.co/YFMhknBy45"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049028097413173656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 124
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048760517427384655",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Takano_DDKR: 教教我 https://t.co/YFMhknBy45"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048760470224732160"
+          ]
+        },
+        "author_id": "2609171432",
+        "conversation_id": "2048760517427384655",
+        "created_at": "2026-04-27T13:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048760517427384655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YFMhknBy45",
+              "end": 27,
+              "expanded_url": "https://x.com/Takano_DDKR/status/2048760517427384655/photo/1",
+              "media_key": "3_2048760470224732160",
+              "start": 4,
+              "url": "https://t.co/YFMhknBy45"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048760517427384655",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 5630,
+          "like_count": 554,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "教教我 https://t.co/YFMhknBy45"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2047351982030258527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 883,
+          "like_count": 26817,
+          "listed_count": 1,
+          "media_count": 431,
+          "tweet_count": 3625
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-07T08:05:22.000Z",
+        "description": "20+ | 百合 | 露崎まひる | カプ、左右非固定 🔞: @Ptt_ura Booth: https://t.co/HaqoexTo9S お題箱: https://t.co/scHk1jCxEp マシュマロ: https://t.co/OIlkRE3z3S",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "Ptt_ura"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "potatokingdom.booth.pm",
+                "end": 70,
+                "expanded_url": "https://potatokingdom.booth.pm",
+                "start": 47,
+                "url": "https://t.co/HaqoexTo9S"
+              },
+              {
+                "display_url": "odaibako.net/u/Takano_DDKR",
+                "end": 99,
+                "expanded_url": "https://odaibako.net/u/Takano_DDKR",
+                "start": 76,
+                "url": "https://t.co/scHk1jCxEp"
+              },
+              {
+                "display_url": "reurl.cc/Rqye29",
+                "end": 130,
+                "expanded_url": "https://reurl.cc/Rqye29",
+                "start": 107,
+                "url": "https://t.co/OIlkRE3z3S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@TKN_DDKR",
+                "end": 23,
+                "expanded_url": "http://skeb.jp/@TKN_DDKR",
+                "start": 0,
+                "url": "https://t.co/q9e75sM2yP"
+              }
+            ]
+          }
+        },
+        "id": "2609171432",
+        "location": "つゆざきファーム",
+        "name": "高野🍅🌊",
+        "pinned_tweet_id": "1918681963407311117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930596657324085248/7Ns31l3Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7339,
+          "following_count": 1412,
+          "like_count": 77082,
+          "listed_count": 58,
+          "media_count": 3547,
+          "tweet_count": 15095
+        },
+        "url": "https://t.co/q9e75sM2yP",
+        "username": "Takano_DDKR",
+        "verified": false
+      }
+    ]
+  }
+}

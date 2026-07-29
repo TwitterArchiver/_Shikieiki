@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2007491187956166739",
+    "created_at": "2026-01-03T17:02:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T18:02:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007497868106706978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1829181212323434497",
+          "start": 0,
+          "username": "xxxx532118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007497868106706978",
+    "in_reply_to_user_id": "1829181212323434497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007491187956166739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxxx532118 其实大家都是)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2007491187956166739",
+        "created_at": "2026-01-03T17:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T18:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007497868106706978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1829181212323434497",
+              "start": 0,
+              "username": "xxxx532118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007497868106706978",
+        "in_reply_to_user_id": "1829181212323434497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007491187956166739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxx532118 其实大家都是)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829181212323434497",
+        "conversation_id": "2007491187956166739",
+        "created_at": "2026-01-03T16:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T17:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007491187956166739"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007491187956166739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直想自己是友跨还是反跨。现在明白了应该是友正常人反煞笔吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 514,
+          "like_count": 14181,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 852
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T15:36:23.000Z",
+        "description": "有病有病有病",
+        "id": "1829181212323434497",
+        "location": "Kyoto-fu, Japan",
+        "name": "17672987468",
+        "pinned_tweet_id": "1882115261488374208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891534074055098371/XTjBY9ro_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 32,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 342
+        },
+        "username": "xxxx532118",
+        "verified": false
+      }
+    ]
+  }
+}

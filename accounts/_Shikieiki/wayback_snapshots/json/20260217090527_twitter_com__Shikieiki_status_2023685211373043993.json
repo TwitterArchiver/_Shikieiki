@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2023130423417511936"
+      ],
+      "media_source_tweet_id": [
+        "2023131144351551662"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2023685211373043993",
+    "created_at": "2026-02-17T09:05:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T10:05:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023685211373043993"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "zunda",
+          "probability": 0.356,
+          "start": 26,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 32,
+          "tag": "ずんだもん"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1875600603063189504",
+          "start": 3,
+          "username": "nyanpasu_guh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/asKbybOzDd",
+          "end": 62,
+          "expanded_url": "https://x.com/nyanpasu_guh/status/2023131144351551662/photo/1",
+          "media_key": "16_2023130423417511936",
+          "start": 39,
+          "url": "https://t.co/asKbybOzDd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023685211373043993",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2708
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023131144351551662",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyanpasu_guh: pet the zunda\n#ずんだもん https://t.co/asKbybOzDd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 524,
+        "media_key": "16_2023130423417511936",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HBOaZq4WIAAMhxQ.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HBOaZq4WIAAMhxQ.mp4"
+          }
+        ],
+        "width": 560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2023130423417511936"
+          ],
+          "media_source_tweet_id": [
+            "2023131144351551662"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2023685211373043993",
+        "created_at": "2026-02-17T09:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T10:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023685211373043993"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "zunda",
+              "probability": 0.356,
+              "start": 26,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 32,
+              "tag": "ずんだもん"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1875600603063189504",
+              "start": 3,
+              "username": "nyanpasu_guh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/asKbybOzDd",
+              "end": 62,
+              "expanded_url": "https://x.com/nyanpasu_guh/status/2023131144351551662/photo/1",
+              "media_key": "16_2023130423417511936",
+              "start": 39,
+              "url": "https://t.co/asKbybOzDd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023685211373043993",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2708
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023131144351551662",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyanpasu_guh: pet the zunda\n#ずんだもん https://t.co/asKbybOzDd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2023130423417511936"
+          ]
+        },
+        "author_id": "1875600603063189504",
+        "conversation_id": "2023131144351551662",
+        "created_at": "2026-02-15T20:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T21:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023131144351551662"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "pet the zunda",
+              "probability": 0.4915,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "ずんだもん"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/asKbybOzDd",
+              "end": 44,
+              "expanded_url": "https://x.com/nyanpasu_guh/status/2023131144351551662/photo/1",
+              "media_key": "16_2023130423417511936",
+              "start": 21,
+              "url": "https://t.co/asKbybOzDd"
+            },
+            {
+              "display_url": "x.com/moldynerves/st…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/moldynerves/status/2021689981291376836",
+              "start": 45,
+              "url": "https://t.co/ou3S7hVsPh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023131144351551662",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2739,
+          "impression_count": 280741,
+          "like_count": 17871,
+          "quote_count": 27,
+          "reply_count": 20,
+          "retweet_count": 2708
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021689981291376836",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "pet the zunda\n#ずんだもん https://t.co/asKbybOzDd https://t.co/ou3S7hVsPh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 681,
+          "like_count": 20460,
+          "listed_count": 0,
+          "media_count": 274,
+          "tweet_count": 2214
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-04T17:50:21.000Z",
+        "description": "art art\nIn my way to success through foreign pain and girl blood\n\nabout me and other socials (send me questions there)\nhttps://t.co/X2Os5eIrpU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jojacopas.straw.page",
+                "end": 142,
+                "expanded_url": "https://jojacopas.straw.page",
+                "start": 119,
+                "url": "https://t.co/X2Os5eIrpU"
+              }
+            ]
+          }
+        },
+        "id": "1875600603063189504",
+        "location": "house",
+        "name": "Joja Copas",
+        "pinned_tweet_id": "2023534651529458161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956469063380512769/8B0IK2lC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 76,
+          "like_count": 1668,
+          "listed_count": 7,
+          "media_count": 55,
+          "tweet_count": 88
+        },
+        "username": "nyanpasu_guh",
+        "verified": false
+      }
+    ]
+  }
+}

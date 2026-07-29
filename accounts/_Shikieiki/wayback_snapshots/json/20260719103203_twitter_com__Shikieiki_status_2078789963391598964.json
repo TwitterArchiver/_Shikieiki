@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078666791430324224"
+      ],
+      "media_source_tweet_id": [
+        "2078666796811644975"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2078789963391598964",
+    "created_at": "2026-07-19T10:32:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T11:32:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078789963391598964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "371056613",
+          "start": 3,
+          "username": "en_sakurada"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jJ8sqSioAa",
+          "end": 130,
+          "expanded_url": "https://x.com/en_sakurada/status/2078666796811644975/photo/1",
+          "media_key": "3_2078666791430324224",
+          "start": 107,
+          "url": "https://t.co/jJ8sqSioAa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078789963391598964",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 262
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078666796811644975",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @en_sakurada: なのフェイちゃんOPのアレ。\nたまに気配バリバリに出して行っても受け入れてくれるフェイトちゃんって本当なのはに甘いよねぇ〜って本人思ってて欲しい。\nそしてフェイトちゃんは無自覚。 https://t.co/jJ8sqSioAa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2078666791430324224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNjobv2bAAAXIqo.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078666791430324224"
+          ]
+        },
+        "author_id": "371056613",
+        "conversation_id": "2078666796811644975",
+        "created_at": "2026-07-19T02:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T03:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078666796811644975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jJ8sqSioAa",
+              "end": 113,
+              "expanded_url": "https://x.com/en_sakurada/status/2078666796811644975/photo/1",
+              "media_key": "3_2078666791430324224",
+              "start": 90,
+              "url": "https://t.co/jJ8sqSioAa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078666796811644975",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 13804,
+          "like_count": 1373,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 262
+        },
+        "reply_settings": "everyone",
+        "text": "なのフェイちゃんOPのアレ。\nたまに気配バリバリに出して行っても受け入れてくれるフェイトちゃんって本当なのはに甘いよねぇ〜って本人思ってて欲しい。\nそしてフェイトちゃんは無自覚。 https://t.co/jJ8sqSioAa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078666791430324224"
+          ],
+          "media_source_tweet_id": [
+            "2078666796811644975"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2078789963391598964",
+        "created_at": "2026-07-19T10:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T11:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078789963391598964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "371056613",
+              "start": 3,
+              "username": "en_sakurada"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jJ8sqSioAa",
+              "end": 130,
+              "expanded_url": "https://x.com/en_sakurada/status/2078666796811644975/photo/1",
+              "media_key": "3_2078666791430324224",
+              "start": 107,
+              "url": "https://t.co/jJ8sqSioAa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078789963391598964",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 262
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078666796811644975",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @en_sakurada: なのフェイちゃんOPのアレ。\nたまに気配バリバリに出して行っても受け入れてくれるフェイトちゃんって本当なのはに甘いよねぇ〜って本人思ってて欲しい。\nそしてフェイトちゃんは無自覚。 https://t.co/jJ8sqSioAa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n伴侣 @octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1152,
+          "following_count": 973,
+          "like_count": 28523,
+          "listed_count": 1,
+          "media_count": 494,
+          "tweet_count": 4311
+        },
+        "url": "",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-10T03:38:55.000Z",
+        "description": "百合が主食。でもNLもBLも美味しくいただけます。人見知りです。アイコンやヘッダー・SNS等でのイラストの無断使用・無断転載はご遠慮下さい。ゆるゆり(結あか固定)、ななみずき、ゆかりん、にゅうすちゃん(シゲ担)、ホラゲーが好き。リはtkcs、ゾは純愛推し。ナマモノ用垢はこちら→@sakurada_nama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 139,
+                "username": "sakurada_nama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://pixiv.net/member.php?id=1861068",
+                "start": 0,
+                "url": "https://t.co/hyxObCXdvY"
+              }
+            ]
+          }
+        },
+        "id": "371056613",
+        "location": "2.5次元",
+        "name": "櫻田 円",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1359130547058999299/pgLZF-FG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13718,
+          "following_count": 752,
+          "like_count": 6577,
+          "listed_count": 208,
+          "media_count": 11447,
+          "tweet_count": 130042
+        },
+        "url": "https://t.co/hyxObCXdvY",
+        "username": "en_sakurada",
+        "verified": false
+      }
+    ]
+  }
+}

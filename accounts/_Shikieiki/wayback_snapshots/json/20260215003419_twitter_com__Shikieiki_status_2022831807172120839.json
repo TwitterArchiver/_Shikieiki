@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2022644865750962181"
+      ],
+      "media_source_tweet_id": [
+        "2022644963398549569"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2022831807172120839",
+    "created_at": "2026-02-15T00:34:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T01:34:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022831807172120839"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 13,
+          "tag": "豊川祥子生誕祭2026"
+        },
+        {
+          "end": 31,
+          "start": 26,
+          "tag": "ういさき"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1361879881626312705",
+          "start": 3,
+          "username": "_Meiems"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eASKqHwDvc",
+          "end": 55,
+          "expanded_url": "https://x.com/_Meiems/status/2022644963398549569/video/1",
+          "media_key": "13_2022644865750962181",
+          "start": 32,
+          "url": "https://t.co/eASKqHwDvc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022831807172120839",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 95
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022644963398549569",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Meiems: #豊川祥子生誕祭2026 #ういさき https://t.co/eASKqHwDvc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 220352,
+        "height": 1080,
+        "media_key": "13_2022644865750962181",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2022644865750962181/img/gfq02cOAF5lMDGNS.jpg",
+        "public_metrics": {
+          "view_count": 2064
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022644865750962181/vid/avc1/480x270/4FctN-4CoqnsUjb6.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022644865750962181/vid/avc1/640x360/oCoo3YtaGaTnKt3q.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022644865750962181/vid/avc1/1280x720/BPH0Q-zJ03294BTZ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2022644865750962181/pl/6Jb2yaAvhmDyCgLM.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022644865750962181"
+          ],
+          "media_source_tweet_id": [
+            "2022644963398549569"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2022831807172120839",
+        "created_at": "2026-02-15T00:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T01:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022831807172120839"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 13,
+              "tag": "豊川祥子生誕祭2026"
+            },
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "ういさき"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1361879881626312705",
+              "start": 3,
+              "username": "_Meiems"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eASKqHwDvc",
+              "end": 55,
+              "expanded_url": "https://x.com/_Meiems/status/2022644963398549569/video/1",
+              "media_key": "13_2022644865750962181",
+              "start": 32,
+              "url": "https://t.co/eASKqHwDvc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022831807172120839",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 95
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022644963398549569",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Meiems: #豊川祥子生誕祭2026 #ういさき https://t.co/eASKqHwDvc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022644865750962181"
+          ]
+        },
+        "author_id": "1361879881626312705",
+        "conversation_id": "2022644963398549569",
+        "created_at": "2026-02-14T12:11:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T13:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022644963398549569"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "豊川祥子生誕祭2026"
+            },
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "ういさき"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eASKqHwDvc",
+              "end": 42,
+              "expanded_url": "https://x.com/_Meiems/status/2022644963398549569/video/1",
+              "media_key": "13_2022644865750962181",
+              "start": 19,
+              "url": "https://t.co/eASKqHwDvc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022644963398549569",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 5738,
+          "like_count": 328,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "#豊川祥子生誕祭2026 #ういさき https://t.co/eASKqHwDvc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 635,
+          "like_count": 19303,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 1880
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-17T03:27:32.000Z",
+        "description": "死鱼眼 日照不足 随时去世",
+        "id": "1361879881626312705",
+        "name": "MEEEEEi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861370591124824065/l97n2ntG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2368,
+          "following_count": 527,
+          "like_count": 8112,
+          "listed_count": 10,
+          "media_count": 134,
+          "tweet_count": 320
+        },
+        "username": "_Meiems",
+        "verified": false
+      }
+    ]
+  }
+}

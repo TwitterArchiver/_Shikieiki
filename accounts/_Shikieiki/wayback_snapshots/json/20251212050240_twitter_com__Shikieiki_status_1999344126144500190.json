@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998810195946844160"
+      ],
+      "media_source_tweet_id": [
+        "1998810198736028158"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1537182142450372608",
+          "name": "AI image generation"
+        }
+      }
+    ],
+    "conversation_id": "1999344126144500190",
+    "created_at": "2025-12-12T05:02:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T06:02:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999344126144500190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1492677599390322689",
+          "start": 3,
+          "username": "nocontextmemes"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mYsiPu7m9S",
+          "end": 43,
+          "expanded_url": "https://x.com/nocontextmemes/status/1998810198736028158/photo/1",
+          "media_key": "3_1998810195946844160",
+          "start": 20,
+          "url": "https://t.co/mYsiPu7m9S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999344126144500190",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1118
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998810198736028158",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nocontextmemes: https://t.co/mYsiPu7m9S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 762,
+        "media_key": "3_1998810195946844160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G70zSHbXMAAYiXX.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998810195946844160"
+          ],
+          "media_source_tweet_id": [
+            "1998810198736028158"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1999344126144500190",
+        "created_at": "2025-12-12T05:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T06:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999344126144500190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1492677599390322689",
+              "start": 3,
+              "username": "nocontextmemes"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mYsiPu7m9S",
+              "end": 43,
+              "expanded_url": "https://x.com/nocontextmemes/status/1998810198736028158/photo/1",
+              "media_key": "3_1998810195946844160",
+              "start": 20,
+              "url": "https://t.co/mYsiPu7m9S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999344126144500190",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1118
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998810198736028158",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nocontextmemes: https://t.co/mYsiPu7m9S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998810195946844160"
+          ]
+        },
+        "author_id": "1492677599390322689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1998810198736028158",
+        "created_at": "2025-12-10T17:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T18:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998810198736028158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mYsiPu7m9S",
+              "end": 23,
+              "expanded_url": "https://x.com/nocontextmemes/status/1998810198736028158/photo/1",
+              "media_key": "3_1998810195946844160",
+              "start": 0,
+              "url": "https://t.co/mYsiPu7m9S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998810198736028158",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 653,
+          "impression_count": 97756,
+          "like_count": 8509,
+          "quote_count": 24,
+          "reply_count": 56,
+          "retweet_count": 1118
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mYsiPu7m9S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "1842867034050441268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 370,
+          "like_count": 6410,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 195
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T01:50:55.000Z",
+        "description": "making memes at @memelordtech | dm for promo | create your own memes easily here 👇 try for free",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "memelordtech"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "signup.memelord.com/weirddalle",
+                "end": 23,
+                "expanded_url": "http://signup.memelord.com/weirddalle",
+                "start": 0,
+                "url": "https://t.co/pVXiY2uBJp"
+              }
+            ]
+          }
+        },
+        "id": "1492677599390322689",
+        "name": "no context memes",
+        "pinned_tweet_id": "1997627788590010569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1694331764091564032/My5iC3pg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2204371,
+          "following_count": 606,
+          "like_count": 41144,
+          "listed_count": 3807,
+          "media_count": 30586,
+          "tweet_count": 33096
+        },
+        "url": "https://t.co/pVXiY2uBJp",
+        "username": "nocontextmemes",
+        "verified": true
+      }
+    ]
+  }
+}

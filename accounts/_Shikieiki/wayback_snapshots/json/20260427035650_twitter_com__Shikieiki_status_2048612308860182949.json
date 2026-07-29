@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048325576822513664"
+      ],
+      "media_source_tweet_id": [
+        "2048325581260161535"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2048612308860182949",
+    "created_at": "2026-04-27T03:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T04:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048612308860182949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "377368035",
+          "start": 3,
+          "username": "clarinht"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U4w0hs1px2",
+          "end": 37,
+          "expanded_url": "https://x.com/clarinht/status/2048325581260161535/photo/1",
+          "media_key": "3_2048325576822513664",
+          "start": 14,
+          "url": "https://t.co/U4w0hs1px2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048612308860182949",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 125
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048325581260161535",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @clarinht: https://t.co/U4w0hs1px2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048325576822513664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0dQnbaYAAYN_5.jpg",
+        "width": 1062
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048325576822513664"
+          ],
+          "media_source_tweet_id": [
+            "2048325581260161535"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2048612308860182949",
+        "created_at": "2026-04-27T03:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T04:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048612308860182949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "377368035",
+              "start": 3,
+              "username": "clarinht"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U4w0hs1px2",
+              "end": 37,
+              "expanded_url": "https://x.com/clarinht/status/2048325581260161535/photo/1",
+              "media_key": "3_2048325576822513664",
+              "start": 14,
+              "url": "https://t.co/U4w0hs1px2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048612308860182949",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 125
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048325581260161535",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @clarinht: https://t.co/U4w0hs1px2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048325576822513664"
+          ]
+        },
+        "author_id": "377368035",
+        "conversation_id": "2048325581260161535",
+        "created_at": "2026-04-26T08:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T09:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048325581260161535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U4w0hs1px2",
+              "end": 23,
+              "expanded_url": "https://x.com/clarinht/status/2048325581260161535/photo/1",
+              "media_key": "3_2048325576822513664",
+              "start": 0,
+              "url": "https://t.co/U4w0hs1px2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048325581260161535",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 31468,
+          "like_count": 1610,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 125
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/U4w0hs1px2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2047351982030258527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 877,
+          "like_count": 26698,
+          "listed_count": 1,
+          "media_count": 425,
+          "tweet_count": 3592
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-21T13:27:14.000Z",
+        "description": "1994 / 写真・旅・アニメ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/3OQYE2GW8C8KM?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/Rh7nC1rtCA"
+              }
+            ]
+          }
+        },
+        "id": "377368035",
+        "name": "くらりん",
+        "pinned_tweet_id": "2032087890474487830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1455160947488997376/ySc1Ef82_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7014,
+          "following_count": 739,
+          "like_count": 162723,
+          "listed_count": 176,
+          "media_count": 218,
+          "tweet_count": 94022
+        },
+        "url": "https://t.co/Rh7nC1rtCA",
+        "username": "clarinht",
+        "verified": true
+      }
+    ]
+  }
+}

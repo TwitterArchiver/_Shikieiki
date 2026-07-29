@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2073804311038222545",
+    "created_at": "2026-07-05T16:20:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T17:20:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073804311038222545"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 124,
+          "start": 105,
+          "tag": "魔法少女リリカルなのはEXCEEDS"
+        },
+        {
+          "end": 137,
+          "start": 125,
+          "tag": "魔法少女リリカルなのは"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1783435542073597952",
+          "start": 3,
+          "username": "Aoi_Emiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073804311038222545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073546089639321699",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aoi_Emiya: 古人云\n  魔法少女奈叶...一定要有奈叶......（什\n  嘛，释怀了\n不过嘛，总而言之...\n能再看到奈叶真是太好了\n（啪叽啪叽啪叽啪叽啪叽～）\n还有七个世纪\n好难熬...\n#魔法少女リリカルなのはEXCEEDS\n#魔法少女リリカルなのは\n#…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073546086229417984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMa3LecbIAAf6jw.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1237,
+        "media_key": "3_2073546083066937345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMa3LSqbgAE0umx.jpg",
+        "width": 919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2073804311038222545",
+        "created_at": "2026-07-05T16:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073804311038222545"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 124,
+              "start": 105,
+              "tag": "魔法少女リリカルなのはEXCEEDS"
+            },
+            {
+              "end": 137,
+              "start": 125,
+              "tag": "魔法少女リリカルなのは"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1783435542073597952",
+              "start": 3,
+              "username": "Aoi_Emiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073804311038222545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073546089639321699",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aoi_Emiya: 古人云\n  魔法少女奈叶...一定要有奈叶......（什\n  嘛，释怀了\n不过嘛，总而言之...\n能再看到奈叶真是太好了\n（啪叽啪叽啪叽啪叽啪叽～）\n还有七个世纪\n好难熬...\n#魔法少女リリカルなのはEXCEEDS\n#魔法少女リリカルなのは\n#…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073546086229417984",
+            "3_2073546083066937345"
+          ]
+        },
+        "author_id": "1783435542073597952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2073546089639321699",
+        "created_at": "2026-07-04T23:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T00:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073546089639321699"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 109,
+              "start": 90,
+              "tag": "魔法少女リリカルなのはEXCEEDS"
+            },
+            {
+              "end": 122,
+              "start": 110,
+              "tag": "魔法少女リリカルなのは"
+            },
+            {
+              "end": 129,
+              "start": 123,
+              "tag": "八神はやて"
+            },
+            {
+              "end": 136,
+              "start": 130,
+              "tag": "高町なのは"
+            },
+            {
+              "end": 155,
+              "start": 137,
+              "tag": "フェイト·テスタロッサ·ハラオウン"
+            },
+            {
+              "end": 164,
+              "start": 156,
+              "tag": "なのはEXGV"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hc56AO7q27",
+              "end": 188,
+              "expanded_url": "https://x.com/Aoi_Emiya/status/2073546089639321699/photo/1",
+              "media_key": "3_2073546086229417984",
+              "start": 165,
+              "url": "https://t.co/hc56AO7q27"
+            },
+            {
+              "display_url": "pic.x.com/hc56AO7q27",
+              "end": 188,
+              "expanded_url": "https://x.com/Aoi_Emiya/status/2073546089639321699/photo/1",
+              "media_key": "3_2073546083066937345",
+              "start": 165,
+              "url": "https://t.co/hc56AO7q27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073546089639321699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 1842,
+          "like_count": 128,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "古人云\n  魔法少女奈叶...一定要有奈叶......（什\n  嘛，释怀了\n不过嘛，总而言之...\n能再看到奈叶真是太好了\n（啪叽啪叽啪叽啪叽啪叽～）\n还有七个世纪\n好难熬...\n#魔法少女リリカルなのはEXCEEDS\n#魔法少女リリカルなのは\n#八神はやて\n#高町なのは\n#フェイト·テスタロッサ·ハラオウン\n#なのはEXGV https://t.co/hc56AO7q27"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n伴侣 @octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 968,
+          "like_count": 28637,
+          "listed_count": 0,
+          "media_count": 493,
+          "tweet_count": 4280
+        },
+        "url": "",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-25T09:59:18.000Z",
+        "description": "全网同名\n努力以平常心踏上人生の人\n各类机战作品绝赞鉴赏ing，高达zz绝赞摸鱼观看ing（喜欢普露姐妹😭），奈叶 战姬 各种美少女机战绝赞绘画ing，感觉很多事情都顾头不顾尾，但画画是一定要继续滴！",
+        "id": "1783435542073597952",
+        "name": "Emiya Aoi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070399116862013440/3Scl0_5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 1982,
+          "like_count": 3384,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 195
+        },
+        "url": "",
+        "username": "Aoi_Emiya",
+        "verified": false
+      }
+    ]
+  }
+}

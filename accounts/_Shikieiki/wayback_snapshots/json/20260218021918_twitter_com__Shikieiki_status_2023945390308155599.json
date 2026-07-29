@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023912892316450816"
+      ],
+      "media_source_tweet_id": [
+        "2023913083866058787"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2023945390308155599",
+    "created_at": "2026-02-18T02:19:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T03:19:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023945390308155599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1846188581905485828",
+          "start": 3,
+          "username": "aaaa____dry"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yf8LI76sTc",
+          "end": 46,
+          "expanded_url": "https://x.com/aaaa____dry/status/2023913083866058787/photo/1",
+          "media_key": "3_2023912892316450816",
+          "start": 23,
+          "url": "https://t.co/yf8LI76sTc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023945390308155599",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023913083866058787",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aaaa____dry: もういいや https://t.co/yf8LI76sTc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2023912892316450816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBZiDWrbAAAf5FX.jpg",
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023912892316450816"
+          ],
+          "media_source_tweet_id": [
+            "2023913083866058787"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2023945390308155599",
+        "created_at": "2026-02-18T02:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T03:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023945390308155599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1846188581905485828",
+              "start": 3,
+              "username": "aaaa____dry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yf8LI76sTc",
+              "end": 46,
+              "expanded_url": "https://x.com/aaaa____dry/status/2023913083866058787/photo/1",
+              "media_key": "3_2023912892316450816",
+              "start": 23,
+              "url": "https://t.co/yf8LI76sTc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023945390308155599",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023913083866058787",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aaaa____dry: もういいや https://t.co/yf8LI76sTc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023912892316450816"
+          ]
+        },
+        "author_id": "1846188581905485828",
+        "conversation_id": "2023913083866058787",
+        "created_at": "2026-02-18T00:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T01:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023913083866058787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yf8LI76sTc",
+              "end": 29,
+              "expanded_url": "https://x.com/aaaa____dry/status/2023913083866058787/photo/1",
+              "media_key": "3_2023912892316450816",
+              "start": 6,
+              "url": "https://t.co/yf8LI76sTc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023913083866058787",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 840,
+          "like_count": 143,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "もういいや https://t.co/yf8LI76sTc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 683,
+          "like_count": 20551,
+          "listed_count": 0,
+          "media_count": 277,
+          "tweet_count": 2236
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-15T13:57:35.000Z",
+        "description": "🐇⋆✴︎˚｡⋆感情と子供たちの絵*･ﾟ❤︎ 𝐡_ @9_Un_ya__ ❤︎.*･ﾟ┆日常アカウント@mosohk_sub┊依頼等DM⭕️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 25,
+                "username": "9_Un_ya__"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "mosohk_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aaaa_dry",
+                "end": 23,
+                "expanded_url": "https://lit.link/aaaa_dry",
+                "start": 0,
+                "url": "https://t.co/t6kH1MCquz"
+              }
+            ]
+          }
+        },
+        "id": "1846188581905485828",
+        "name": "妄想癖 @COMITIA155 B26b",
+        "pinned_tweet_id": "2015409396889911495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928593953114435584/vsRqgJsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5903,
+          "following_count": 128,
+          "like_count": 10765,
+          "listed_count": 31,
+          "media_count": 1249,
+          "tweet_count": 2894
+        },
+        "url": "https://t.co/t6kH1MCquz",
+        "username": "aaaa____dry",
+        "verified": true
+      }
+    ]
+  }
+}

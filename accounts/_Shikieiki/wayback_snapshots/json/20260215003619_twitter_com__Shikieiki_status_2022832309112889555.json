@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022633368819826688"
+      ],
+      "media_source_tweet_id": [
+        "2022633374695985348"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2022832309112889555",
+    "created_at": "2026-02-15T00:36:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T01:36:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022832309112889555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1846188581905485828",
+          "start": 3,
+          "username": "aaaa____dry"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MS5vmsfxQw",
+          "end": 40,
+          "expanded_url": "https://x.com/aaaa____dry/status/2022633374695985348/photo/1",
+          "media_key": "3_2022633368819826688",
+          "start": 17,
+          "url": "https://t.co/MS5vmsfxQw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022832309112889555",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022633374695985348",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aaaa____dry: https://t.co/MS5vmsfxQw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022633368819826688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBHWVSNbgAAvt7i.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022633368819826688"
+          ],
+          "media_source_tweet_id": [
+            "2022633374695985348"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2022832309112889555",
+        "created_at": "2026-02-15T00:36:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T01:36:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022832309112889555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1846188581905485828",
+              "start": 3,
+              "username": "aaaa____dry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MS5vmsfxQw",
+              "end": 40,
+              "expanded_url": "https://x.com/aaaa____dry/status/2022633374695985348/photo/1",
+              "media_key": "3_2022633368819826688",
+              "start": 17,
+              "url": "https://t.co/MS5vmsfxQw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022832309112889555",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022633374695985348",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aaaa____dry: https://t.co/MS5vmsfxQw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022633368819826688"
+          ]
+        },
+        "author_id": "1846188581905485828",
+        "conversation_id": "2022633374695985348",
+        "created_at": "2026-02-14T11:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T12:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022633374695985348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MS5vmsfxQw",
+              "end": 23,
+              "expanded_url": "https://x.com/aaaa____dry/status/2022633374695985348/photo/1",
+              "media_key": "3_2022633368819826688",
+              "start": 0,
+              "url": "https://t.co/MS5vmsfxQw"
+            },
+            {
+              "display_url": "x.com/aaaa____dry/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/aaaa____dry/status/2022632276090380513",
+              "start": 24,
+              "url": "https://t.co/txthOjXT1I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022633374695985348",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1041,
+          "like_count": 97,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022632276090380513",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/MS5vmsfxQw https://t.co/txthOjXT1I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 635,
+          "like_count": 19308,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 1882
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-15T13:57:35.000Z",
+        "description": "🐇⋆✴︎˚｡⋆感情と子供たちの絵*･ﾟ❤︎ 𝐡_ @9_Un_ya__ ❤︎.*･ﾟ┆日常アカウント@mosohk_sub┊依頼等DM⭕️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 25,
+                "username": "9_Un_ya__"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "mosohk_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aaaa_dry",
+                "end": 23,
+                "expanded_url": "https://lit.link/aaaa_dry",
+                "start": 0,
+                "url": "https://t.co/t6kH1MCquz"
+              }
+            ]
+          }
+        },
+        "id": "1846188581905485828",
+        "name": "妄想癖 @COMITIA155 B26b",
+        "pinned_tweet_id": "2015409396889911495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928593953114435584/vsRqgJsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5695,
+          "following_count": 128,
+          "like_count": 10702,
+          "listed_count": 31,
+          "media_count": 1236,
+          "tweet_count": 2870
+        },
+        "url": "https://t.co/t6kH1MCquz",
+        "username": "aaaa____dry",
+        "verified": true
+      }
+    ]
+  }
+}

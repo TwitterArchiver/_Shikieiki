@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2033123421077254144"
+      ],
+      "media_source_tweet_id": [
+        "2034211961920176427"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2034520403809550569",
+    "created_at": "2026-03-19T06:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T07:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034520403809550569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1897012607690924036",
+          "start": 3,
+          "username": "shitpost_game"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XZS8Ty5Qzh",
+          "end": 42,
+          "expanded_url": "https://x.com/shitpost_game/status/2034211961920176427/video/1",
+          "media_key": "13_2033123421077254144",
+          "start": 19,
+          "url": "https://t.co/XZS8Ty5Qzh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034520403809550569",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1089
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034211961920176427",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shitpost_game: https://t.co/XZS8Ty5Qzh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25076,
+        "height": 1080,
+        "media_key": "13_2033123421077254144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2033123421077254144/img/ozL71FV1v_NeUR77.jpg",
+        "public_metrics": {
+          "view_count": 101267
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2033123421077254144/pl/21HchcIpRh0nVytt.m3u8?v=719"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033123421077254144/vid/avc1/540x540/XIrt4vEJvtAZGxY1.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033123421077254144/vid/avc1/320x320/OZ36O6tXW28A4Vyr.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033123421077254144/vid/avc1/1080x1080/sJAV3HrdxvxZGLE6.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033123421077254144/vid/avc1/720x720/ncDad4OZHfEQSrKV.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033123421077254144"
+          ],
+          "media_source_tweet_id": [
+            "2034211961920176427"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2034520403809550569",
+        "created_at": "2026-03-19T06:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T07:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034520403809550569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1897012607690924036",
+              "start": 3,
+              "username": "shitpost_game"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XZS8Ty5Qzh",
+              "end": 42,
+              "expanded_url": "https://x.com/shitpost_game/status/2034211961920176427/video/1",
+              "media_key": "13_2033123421077254144",
+              "start": 19,
+              "url": "https://t.co/XZS8Ty5Qzh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034520403809550569",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1089
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034211961920176427",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shitpost_game: https://t.co/XZS8Ty5Qzh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033123421077254144"
+          ]
+        },
+        "author_id": "1897012607690924036",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2034211961920176427",
+        "created_at": "2026-03-18T10:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T11:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034211961920176427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XZS8Ty5Qzh",
+              "end": 23,
+              "expanded_url": "https://x.com/shitpost_game/status/2034211961920176427/video/1",
+              "media_key": "13_2033123421077254144",
+              "start": 0,
+              "url": "https://t.co/XZS8Ty5Qzh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034211961920176427",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 860,
+          "impression_count": 260597,
+          "like_count": 4587,
+          "quote_count": 127,
+          "reply_count": 12,
+          "retweet_count": 1089
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XZS8Ty5Qzh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "君が君でいられる場所 \n悪夢-まぼろし-にさらわれぬように  \n消えない雨の苦しみも \n鍵を壊してぶつけてよ 隣にいるから \nすべてを信じて",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "see_you_hell.although.here.probably.is",
+                "end": 23,
+                "expanded_url": "http://see_you_hell.although.here.probably.is",
+                "start": 0,
+                "url": "https://t.co/ecUxsPCDIQ"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2028458258697171187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 805,
+          "like_count": 24610,
+          "listed_count": 0,
+          "media_count": 406,
+          "tweet_count": 3239
+        },
+        "url": "https://t.co/ecUxsPCDIQ",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T19:54:07.000Z",
+        "description": "shitpost game | Dm for credit and removals \n| NO PROMOS/ADS",
+        "id": "1897012607690924036",
+        "name": "shitpost game",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897013201855823873/b5nmfD1C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37815,
+          "following_count": 3834,
+          "like_count": 704,
+          "listed_count": 51,
+          "media_count": 292,
+          "tweet_count": 293
+        },
+        "username": "shitpost_game",
+        "verified": true
+      }
+    ]
+  }
+}

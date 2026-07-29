@@ -1,0 +1,454 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045149834961928192"
+      ],
+      "media_source_tweet_id": [
+        "2045149840129298505"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2045846635943714873",
+    "created_at": "2026-04-19T12:47:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T13:47:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045846635943714873"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 32,
+          "tag": "まどマギ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2482744070",
+          "start": 3,
+          "username": "yuimura3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Jgp52MoIxa",
+          "end": 61,
+          "expanded_url": "https://x.com/yuimura3/status/2045149840129298505/photo/1",
+          "media_key": "3_2045149834961928192",
+          "start": 38,
+          "url": "https://t.co/Jgp52MoIxa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045846635943714873",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 562
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045149840129298505",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuimura3: 愛を歌うしかない\n愛は偽れないから　#まどマギ https://t.co/Jgp52MoIxa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_2045149834961928192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHU8HFawAARmH-.jpg",
+        "width": 1161
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045149834961928192"
+          ],
+          "media_source_tweet_id": [
+            "2045149840129298505"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2045846635943714873",
+        "created_at": "2026-04-19T12:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T13:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045846635943714873"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "まどマギ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2482744070",
+              "start": 3,
+              "username": "yuimura3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jgp52MoIxa",
+              "end": 61,
+              "expanded_url": "https://x.com/yuimura3/status/2045149840129298505/photo/1",
+              "media_key": "3_2045149834961928192",
+              "start": 38,
+              "url": "https://t.co/Jgp52MoIxa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045846635943714873",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 562
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045149840129298505",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuimura3: 愛を歌うしかない\n愛は偽れないから　#まどマギ https://t.co/Jgp52MoIxa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045149834961928192"
+          ]
+        },
+        "author_id": "2482744070",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2045149840129298505",
+        "created_at": "2026-04-17T14:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T15:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045149840129298505"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "まどマギ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jgp52MoIxa",
+              "end": 47,
+              "expanded_url": "https://x.com/yuimura3/status/2045149840129298505/photo/1",
+              "media_key": "3_2045149834961928192",
+              "start": 24,
+              "url": "https://t.co/Jgp52MoIxa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045149840129298505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 222,
+          "impression_count": 41512,
+          "like_count": 3594,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 562
+        },
+        "reply_settings": "everyone",
+        "text": "愛を歌うしかない\n愛は偽れないから　#まどマギ https://t.co/Jgp52MoIxa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季映姬 亚玛萨那度",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Have.a.nice.life",
+                "end": 23,
+                "expanded_url": "http://Have.a.nice.life",
+                "start": 0,
+                "url": "https://t.co/78TH5GeWCd"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2034690854695379175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 849,
+          "like_count": 25349,
+          "listed_count": 1,
+          "media_count": 412,
+          "tweet_count": 3359
+        },
+        "url": "https://t.co/78TH5GeWCd",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-07T20:55:51.000Z",
+        "description": "たまに絵を描く。オタク。@unti_mgmg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "unti_mgmg"
+              }
+            ]
+          }
+        },
+        "id": "2482744070",
+        "name": "やさしい👼🏻🎀🤍",
+        "pinned_tweet_id": "1994021683871797612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/935505333513961472/G2y3Iyh1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4948,
+          "following_count": 2962,
+          "like_count": 90515,
+          "listed_count": 104,
+          "media_count": 1438,
+          "tweet_count": 12775
+        },
+        "username": "yuimura3",
+        "verified": false
+      }
+    ]
+  }
+}

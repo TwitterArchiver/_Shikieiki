@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005582940567441408"
+      ],
+      "media_source_tweet_id": [
+        "2005582948758954021"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2005619837369008598",
+    "created_at": "2025-12-29T12:40:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T13:40:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005619837369008598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "40228805",
+          "start": 3,
+          "username": "shirofox"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xthnbJkDYJ",
+          "end": 37,
+          "expanded_url": "https://x.com/shirofox/status/2005582948758954021/photo/1",
+          "media_key": "3_2005582940567441408",
+          "start": 14,
+          "url": "https://t.co/xthnbJkDYJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005619837369008598",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 288
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005582948758954021",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shirofox: https://t.co/xthnbJkDYJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2005582940567441408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9VDDvQbEAAZ6EK.jpg",
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005582940567441408"
+          ],
+          "media_source_tweet_id": [
+            "2005582948758954021"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2005619837369008598",
+        "created_at": "2025-12-29T12:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T13:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005619837369008598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "40228805",
+              "start": 3,
+              "username": "shirofox"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xthnbJkDYJ",
+              "end": 37,
+              "expanded_url": "https://x.com/shirofox/status/2005582948758954021/photo/1",
+              "media_key": "3_2005582940567441408",
+              "start": 14,
+              "url": "https://t.co/xthnbJkDYJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005619837369008598",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 288
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005582948758954021",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shirofox: https://t.co/xthnbJkDYJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005582940567441408"
+          ]
+        },
+        "author_id": "40228805",
+        "conversation_id": "2005582948758954021",
+        "created_at": "2025-12-29T10:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T11:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005582948758954021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xthnbJkDYJ",
+              "end": 23,
+              "expanded_url": "https://x.com/shirofox/status/2005582948758954021/photo/1",
+              "media_key": "3_2005582940567441408",
+              "start": 0,
+              "url": "https://t.co/xthnbJkDYJ"
+            },
+            {
+              "display_url": "x.com/shirofox/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/shirofox/status/2005485218074136934",
+              "start": 24,
+              "url": "https://t.co/vIrFub46Jl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005582948758954021",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 265,
+          "impression_count": 47633,
+          "like_count": 2323,
+          "quote_count": 12,
+          "reply_count": 0,
+          "retweet_count": 288
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005485218074136934",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/xthnbJkDYJ https://t.co/vIrFub46Jl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 441,
+          "like_count": 9189,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 441
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-15T12:25:16.000Z",
+        "description": "一迅社百合姫「Roid-ロイド-」全2巻他読切\nshiro_stray_fox@hotmail.co.jp\nFANBOX(水曜更新): https://t.co/N3Dl0Bmnin　Skeb: https://t.co/CdJK1Dcli2　Booth: https://t.co/zJCdlMlxUb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "shirofox.fanbox.cc",
+                "end": 91,
+                "expanded_url": "https://shirofox.fanbox.cc",
+                "start": 68,
+                "url": "https://t.co/N3Dl0Bmnin"
+              },
+              {
+                "display_url": "skeb.jp/@shirofox",
+                "end": 121,
+                "expanded_url": "https://skeb.jp/@shirofox",
+                "start": 98,
+                "url": "https://t.co/CdJK1Dcli2"
+              },
+              {
+                "display_url": "shirofox.booth.pm",
+                "end": 152,
+                "expanded_url": "https://shirofox.booth.pm/",
+                "start": 129,
+                "url": "https://t.co/zJCdlMlxUb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "http://www.pixiv.net/member.php?id=76048",
+                "start": 0,
+                "url": "https://t.co/ylZUAObOoN"
+              }
+            ]
+          }
+        },
+        "id": "40228805",
+        "location": "電派絵師団　https://x.gd/v3Tvz",
+        "name": "しろし@二日目シ-38a",
+        "pinned_tweet_id": "2003755998998352342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/847823948679004162/ROiPKdsf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81192,
+          "following_count": 265,
+          "like_count": 5798,
+          "listed_count": 1160,
+          "media_count": 3215,
+          "tweet_count": 20171
+        },
+        "url": "https://t.co/ylZUAObOoN",
+        "username": "shirofox",
+        "verified": false
+      }
+    ]
+  }
+}

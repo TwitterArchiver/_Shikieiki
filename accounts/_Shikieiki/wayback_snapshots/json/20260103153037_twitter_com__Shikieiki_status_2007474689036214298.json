@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2007473992773566717",
+    "created_at": "2026-01-03T15:30:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T16:30:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007474689036214298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1762531379898994688",
+          "start": 0,
+          "username": "Hello_THX_Bye"
+        },
+        {
+          "end": 26,
+          "id": "1912109703133646848",
+          "start": 15,
+          "username": "jzm1919810"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007474689036214298",
+    "in_reply_to_user_id": "1762531379898994688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007474444772446257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hello_THX_Bye @jzm1919810 💖💖💖严肃回复中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2007473992773566717",
+        "created_at": "2026-01-03T15:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T16:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007474689036214298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1762531379898994688",
+              "start": 0,
+              "username": "Hello_THX_Bye"
+            },
+            {
+              "end": 26,
+              "id": "1912109703133646848",
+              "start": 15,
+              "username": "jzm1919810"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007474689036214298",
+        "in_reply_to_user_id": "1762531379898994688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007474444772446257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hello_THX_Bye @jzm1919810 💖💖💖严肃回复中"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762531379898994688",
+        "conversation_id": "2007473992773566717",
+        "created_at": "2026-01-03T15:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T16:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007474444772446257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1448206950903255040",
+              "start": 0,
+              "username": "_Shikieiki"
+            },
+            {
+              "end": 23,
+              "id": "1912109703133646848",
+              "start": 12,
+              "username": "jzm1919810"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007474444772446257",
+        "in_reply_to_user_id": "1448206950903255040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007473992773566717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Shikieiki @jzm1919810 我来了！www"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 513,
+          "like_count": 14126,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 831
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T17:34:15.000Z",
+        "description": "飛び込んでみたいと 思う｜=核子｜20⬆️｜非二元｜any pronouns｜持证AuDHD｜中/Eng｜泛术力口｜精神药理学习中｜不在中国大陆｜不卖药｜人类到底是怎么社交的呢？好奇怪，我搞不明白，但我想和你交朋友。",
+        "id": "1762531379898994688",
+        "location": "眠れない 午前二時",
+        "name": "核子融合炉",
+        "pinned_tweet_id": "2002715727737065672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994170922090016768/g3q4Z68e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 180,
+          "like_count": 3747,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 195
+        },
+        "username": "Hello_THX_Bye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T11:44:19.000Z",
+        "description": "瞳逸らさないで 大きく手を伸ばす 雪解けを待ってる\nsignal nanacan.58   注册signal不收费，大家都来用它，让sb杜洛夫爬爬",
+        "id": "1912109703133646848",
+        "name": "Zemin Jiang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994454700624928768/48DA8PMu_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 202,
+          "like_count": 321,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1380
+        },
+        "username": "jzm1919810",
+        "verified": false
+      }
+    ]
+  }
+}

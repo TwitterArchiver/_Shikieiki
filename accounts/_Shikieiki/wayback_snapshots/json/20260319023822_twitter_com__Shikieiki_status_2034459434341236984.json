@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974524573543723008"
+      ],
+      "media_source_tweet_id": [
+        "1974524909184549253"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2034459434341236984",
+    "created_at": "2026-03-19T02:38:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T03:38:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034459434341236984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1467095000609849345",
+          "start": 3,
+          "username": "carnagesociety"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UpUQMBgUeR",
+          "end": 139,
+          "expanded_url": "https://x.com/carnagesociety/status/1974524909184549253/photo/1",
+          "media_key": "3_1974524573543723008",
+          "start": 116,
+          "url": "https://t.co/UpUQMBgUeR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034459434341236984",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 497
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974524909184549253",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @carnagesociety: If you like grotesque motifs but dislike seeing subjects in pain, you should check out my work. https://t.co/UpUQMBgUeR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2034459434341236984].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2034459434341236984",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2034459434341236984"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1974524573543723008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2bro15acAAjHTc.jpg",
+        "width": 1253
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974524573543723008"
+          ]
+        },
+        "author_id": "1467095000609849345",
+        "conversation_id": "1974524909184549253",
+        "created_at": "2025-10-04T17:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T18:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974524909184549253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UpUQMBgUeR",
+              "end": 119,
+              "expanded_url": "https://x.com/carnagesociety/status/1974524909184549253/photo/1",
+              "media_key": "3_1974524573543723008",
+              "start": 96,
+              "url": "https://t.co/UpUQMBgUeR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974524909184549253",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 490,
+          "impression_count": 75036,
+          "like_count": 4218,
+          "quote_count": 16,
+          "reply_count": 27,
+          "retweet_count": 497
+        },
+        "reply_settings": "everyone",
+        "text": "If you like grotesque motifs but dislike seeing subjects in pain, you should check out my work. https://t.co/UpUQMBgUeR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "君が君でいられる場所 \n悪夢-まぼろし-にさらわれぬように  \n消えない雨の苦しみも \n鍵を壊してぶつけてよ 隣にいるから \nすべてを信じて",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "see_you_hell.although.here.probably.is",
+                "end": 23,
+                "expanded_url": "http://see_you_hell.although.here.probably.is",
+                "start": 0,
+                "url": "https://t.co/ecUxsPCDIQ"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2028458258697171187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 805,
+          "like_count": 24574,
+          "listed_count": 0,
+          "media_count": 406,
+          "tweet_count": 3233
+        },
+        "url": "https://t.co/ecUxsPCDIQ",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-04T11:34:48.000Z",
+        "description": "ゴアゾノさんを推せ🩸メタルとV系が好き \n💀commission▶@yuki12278947 \n💀sub account▶@GorezonoNeo \n💀fanart▶#ゴアガールファンアート \n💀link▼",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 95,
+                "start": 83,
+                "tag": "ゴアガールファンアート"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "yuki12278947"
+              },
+              {
+                "end": 73,
+                "start": 61,
+                "username": "GorezonoNeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yukicarnagesoc…",
+                "end": 23,
+                "expanded_url": "https://lit.link/yukicarnagesociety",
+                "start": 0,
+                "url": "https://t.co/ZWgT5VWTU9"
+              }
+            ]
+          }
+        },
+        "id": "1467095000609849345",
+        "location": "ご依頼は(@yuki12278947 )のDMへ",
+        "name": "幽妃-yuki-🫀4/29 艶惨24(ハイライフプラザいたばし)",
+        "pinned_tweet_id": "2033121270079099266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876935508863102976/arithVKG_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41838,
+          "following_count": 769,
+          "like_count": 99101,
+          "listed_count": 175,
+          "media_count": 1541,
+          "tweet_count": 40539
+        },
+        "url": "https://t.co/ZWgT5VWTU9",
+        "username": "carnagesociety",
+        "verified": true
+      }
+    ]
+  }
+}

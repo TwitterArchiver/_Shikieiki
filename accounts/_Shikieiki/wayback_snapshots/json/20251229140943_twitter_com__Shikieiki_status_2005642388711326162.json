@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005184636813803520"
+      ],
+      "media_source_tweet_id": [
+        "2005511597939384758"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2005642388711326162",
+    "created_at": "2025-12-29T14:09:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T15:09:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005642388711326162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "925200409739771905",
+          "start": 3,
+          "username": "hurtingtextmsgs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F7enYNCZgj",
+          "end": 44,
+          "expanded_url": "https://x.com/hurtingtextmsgs/status/2005511597939384758/photo/1",
+          "media_key": "3_2005184636813803520",
+          "start": 21,
+          "url": "https://t.co/F7enYNCZgj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005642388711326162",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 94
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005511597939384758",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hurtingtextmsgs: https://t.co/F7enYNCZgj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2005184636813803520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9PYzaJbgAAIu4x.jpg",
+        "width": 693
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005184636813803520"
+          ],
+          "media_source_tweet_id": [
+            "2005511597939384758"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2005642388711326162",
+        "created_at": "2025-12-29T14:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T15:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005642388711326162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "925200409739771905",
+              "start": 3,
+              "username": "hurtingtextmsgs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F7enYNCZgj",
+              "end": 44,
+              "expanded_url": "https://x.com/hurtingtextmsgs/status/2005511597939384758/photo/1",
+              "media_key": "3_2005184636813803520",
+              "start": 21,
+              "url": "https://t.co/F7enYNCZgj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005642388711326162",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 94
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005511597939384758",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hurtingtextmsgs: https://t.co/F7enYNCZgj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005184636813803520"
+          ]
+        },
+        "author_id": "925200409739771905",
+        "conversation_id": "2005511597939384758",
+        "created_at": "2025-12-29T05:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T06:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005511597939384758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F7enYNCZgj",
+              "end": 23,
+              "expanded_url": "https://x.com/hurtingtextmsgs/status/2005511597939384758/photo/1",
+              "media_key": "3_2005184636813803520",
+              "start": 0,
+              "url": "https://t.co/F7enYNCZgj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005511597939384758",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 8946,
+          "like_count": 622,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/F7enYNCZgj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 442,
+          "like_count": 9246,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 444
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-31T03:19:01.000Z",
+        "description": "Follow our page and enable notification🔔",
+        "id": "925200409739771905",
+        "location": "🌎",
+        "name": "hurting feelings",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896807392484233216/yxpNsmOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50757,
+          "following_count": 10837,
+          "like_count": 1327,
+          "listed_count": 32,
+          "media_count": 4699,
+          "tweet_count": 7687
+        },
+        "username": "hurtingtextmsgs",
+        "verified": true
+      }
+    ]
+  }
+}

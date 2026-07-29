@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047295646005391360"
+      ],
+      "media_source_tweet_id": [
+        "2047295651973824536"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2047536512003416433",
+    "created_at": "2026-04-24T04:42:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T05:42:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047536512003416433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1746681589155975168",
+          "start": 3,
+          "username": "aonowa1tz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JmMrBfe1TK",
+          "end": 38,
+          "expanded_url": "https://x.com/aonowa1tz/status/2047295651973824536/photo/1",
+          "media_key": "3_2047295646005391360",
+          "start": 15,
+          "url": "https://t.co/JmMrBfe1TK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047536512003416433",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 273
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047295651973824536",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aonowa1tz: https://t.co/JmMrBfe1TK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047295646005391360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGl0iwJa8AA6Jf9.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047295646005391360"
+          ],
+          "media_source_tweet_id": [
+            "2047295651973824536"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2047536512003416433",
+        "created_at": "2026-04-24T04:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T05:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047536512003416433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1746681589155975168",
+              "start": 3,
+              "username": "aonowa1tz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JmMrBfe1TK",
+              "end": 38,
+              "expanded_url": "https://x.com/aonowa1tz/status/2047295651973824536/photo/1",
+              "media_key": "3_2047295646005391360",
+              "start": 15,
+              "url": "https://t.co/JmMrBfe1TK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047536512003416433",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 273
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047295651973824536",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aonowa1tz: https://t.co/JmMrBfe1TK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047295646005391360"
+          ]
+        },
+        "author_id": "1746681589155975168",
+        "conversation_id": "2047295651973824536",
+        "created_at": "2026-04-23T12:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047295651973824536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JmMrBfe1TK",
+              "end": 23,
+              "expanded_url": "https://x.com/aonowa1tz/status/2047295651973824536/photo/1",
+              "media_key": "3_2047295646005391360",
+              "start": 0,
+              "url": "https://t.co/JmMrBfe1TK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047295651973824536",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 138,
+          "impression_count": 16961,
+          "like_count": 2589,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 273
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JmMrBfe1TK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2047351982030258527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 879,
+          "like_count": 26057,
+          "listed_count": 1,
+          "media_count": 415,
+          "tweet_count": 3476
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T23:52:07.000Z",
+        "description": "혈당 도파민 중독..",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/aonowaltz",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/aonowaltz",
+                "start": 0,
+                "url": "https://t.co/dnA54Ow5uk"
+              }
+            ]
+          }
+        },
+        "id": "1746681589155975168",
+        "name": "rit..",
+        "pinned_tweet_id": "2013221096410034414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999450291528409088/zWQrJvGr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3559,
+          "following_count": 107,
+          "like_count": 5096,
+          "listed_count": 15,
+          "media_count": 1330,
+          "tweet_count": 8704
+        },
+        "url": "https://t.co/dnA54Ow5uk",
+        "username": "aonowa1tz",
+        "verified": false
+      }
+    ]
+  }
+}

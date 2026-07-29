@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2033527116629966848"
+      ],
+      "media_source_tweet_id": [
+        "2033527138847162638"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2033708691120394353",
+    "created_at": "2026-03-17T00:55:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T01:55:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033708691120394353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1763500291276857344",
+          "start": 3,
+          "username": "aspiring_deer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AkOfgjot3v",
+          "end": 77,
+          "expanded_url": "https://x.com/aspiring_deer/status/2033527138847162638/video/1",
+          "media_key": "7_2033527116629966848",
+          "start": 54,
+          "url": "https://t.co/AkOfgjot3v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033708691120394353",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 265
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033527138847162638",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aspiring_deer: me and the girl reading this tweet https://t.co/AkOfgjot3v"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19136,
+        "height": 720,
+        "media_key": "7_2033527116629966848",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2033527116629966848/pu/img/qSgltqrWR6s4Fa9a.jpg",
+        "public_metrics": {
+          "view_count": 82107
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2033527116629966848/pu/vid/avc1/360x270/rky8tzzpNGBSmRnN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2033527116629966848/pu/vid/avc1/480x360/sMsbS9aIesPtBoBB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2033527116629966848/pu/vid/avc1/960x720/Zlkn7EKItzWCeNlV.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2033527116629966848/pu/pl/mfb6WqvM_xa6wo69.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2033527116629966848"
+          ],
+          "media_source_tweet_id": [
+            "2033527138847162638"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2033708691120394353",
+        "created_at": "2026-03-17T00:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T01:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033708691120394353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1763500291276857344",
+              "start": 3,
+              "username": "aspiring_deer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AkOfgjot3v",
+              "end": 77,
+              "expanded_url": "https://x.com/aspiring_deer/status/2033527138847162638/video/1",
+              "media_key": "7_2033527116629966848",
+              "start": 54,
+              "url": "https://t.co/AkOfgjot3v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033708691120394353",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 265
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033527138847162638",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aspiring_deer: me and the girl reading this tweet https://t.co/AkOfgjot3v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2033527116629966848"
+          ]
+        },
+        "author_id": "1763500291276857344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2033527138847162638",
+        "created_at": "2026-03-16T12:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T13:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033527138847162638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AkOfgjot3v",
+              "end": 58,
+              "expanded_url": "https://x.com/aspiring_deer/status/2033527138847162638/video/1",
+              "media_key": "7_2033527116629966848",
+              "start": 35,
+              "url": "https://t.co/AkOfgjot3v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033527138847162638",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1273,
+          "impression_count": 145023,
+          "like_count": 4720,
+          "quote_count": 12,
+          "reply_count": 26,
+          "retweet_count": 265
+        },
+        "reply_settings": "everyone",
+        "text": "me and the girl reading this tweet https://t.co/AkOfgjot3v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "君が君でいられる場所 \n悪夢-まぼろし-にさらわれぬように  \n消えない雨の苦しみも \n鍵を壊してぶつけてよ 隣にいるから \nすべてを信じて",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "see_you_hell.although.here.probably.is",
+                "end": 23,
+                "expanded_url": "http://see_you_hell.although.here.probably.is",
+                "start": 0,
+                "url": "https://t.co/ecUxsPCDIQ"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2028458258697171187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 805,
+          "like_count": 24331,
+          "listed_count": 0,
+          "media_count": 406,
+          "tweet_count": 3188
+        },
+        "url": "https://t.co/ecUxsPCDIQ",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T09:43:51.000Z",
+        "description": "hello yes hi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "koshian.straw.page",
+                "end": 23,
+                "expanded_url": "https://koshian.straw.page",
+                "start": 0,
+                "url": "https://t.co/IoZhCyVqXo"
+              }
+            ]
+          }
+        },
+        "id": "1763500291276857344",
+        "name": "Anko (虎視餡子)",
+        "pinned_tweet_id": "2031934515678245368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375270204538880/KjYiqMuz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8304,
+          "following_count": 430,
+          "like_count": 86640,
+          "listed_count": 9,
+          "media_count": 11321,
+          "tweet_count": 24670
+        },
+        "url": "https://t.co/IoZhCyVqXo",
+        "username": "aspiring_deer",
+        "verified": false
+      }
+    ]
+  }
+}

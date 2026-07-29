@@ -1,0 +1,517 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049783236029755393"
+      ],
+      "media_source_tweet_id": [
+        "2049783296649994295"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2049896015638241342",
+    "created_at": "2026-04-30T16:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T17:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049896015638241342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1390141018381508610",
+          "start": 3,
+          "username": "SHAFT_BOX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PDLs2aXxCb",
+          "end": 52,
+          "expanded_url": "https://x.com/SHAFT_BOX/status/2049783296649994295/photo/1",
+          "media_key": "3_2049783236029755393",
+          "start": 29,
+          "url": "https://t.co/PDLs2aXxCb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049896015638241342",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 214
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049783296649994295",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SHAFT_BOX: ❒ 魔法少女まどか☆マギカ https://t.co/PDLs2aXxCb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1060,
+        "media_key": "3_2049783236029755393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJK_jIasAEXT9y.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049783236029755393"
+          ],
+          "media_source_tweet_id": [
+            "2049783296649994295"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2049896015638241342",
+        "created_at": "2026-04-30T16:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T17:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049896015638241342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1390141018381508610",
+              "start": 3,
+              "username": "SHAFT_BOX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PDLs2aXxCb",
+              "end": 52,
+              "expanded_url": "https://x.com/SHAFT_BOX/status/2049783296649994295/photo/1",
+              "media_key": "3_2049783236029755393",
+              "start": 29,
+              "url": "https://t.co/PDLs2aXxCb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049896015638241342",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 214
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049783296649994295",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SHAFT_BOX: ❒ 魔法少女まどか☆マギカ https://t.co/PDLs2aXxCb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049783236029755393"
+          ]
+        },
+        "author_id": "1390141018381508610",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2049783296649994295",
+        "created_at": "2026-04-30T09:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T10:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049783296649994295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PDLs2aXxCb",
+              "end": 37,
+              "expanded_url": "https://x.com/SHAFT_BOX/status/2049783296649994295/photo/1",
+              "media_key": "3_2049783236029755393",
+              "start": 14,
+              "url": "https://t.co/PDLs2aXxCb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049783296649994295",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 12442,
+          "like_count": 1000,
+          "quote_count": 21,
+          "reply_count": 0,
+          "retweet_count": 214
+        },
+        "reply_settings": "everyone",
+        "text": "❒ 魔法少女まどか☆マギカ https://t.co/PDLs2aXxCb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2047351982030258527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 887,
+          "like_count": 27038,
+          "listed_count": 1,
+          "media_count": 439,
+          "tweet_count": 3681
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-06T03:07:07.000Z",
+        "description": "「見えなくてもいいことがあると思うんですけど、見えた方がいいことっていうのもあると思うんです」BY @RIDERLIMITED\n\n・・・ －－－ ・・・\n▶ ART GALLERY feat. SHAFT™ ANIMATION STUDIO\n▶ INDIE ANIME: @ETERNAL_PRO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "RIDERLIMITED"
+              },
+              {
+                "end": 148,
+                "start": 136,
+                "username": "ETERNAL_PRO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shaftbox.tumblr.com",
+                "end": 23,
+                "expanded_url": "https://shaftbox.tumblr.com/",
+                "start": 0,
+                "url": "https://t.co/Z7MklSBXtX"
+              }
+            ]
+          }
+        },
+        "id": "1390141018381508610",
+        "location": "東京都杉並区上井草一丁目29番15号",
+        "name": "SHAFT BOX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1390164379312672768/_qcQux89_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26105,
+          "following_count": 4,
+          "like_count": 1,
+          "listed_count": 109,
+          "media_count": 1901,
+          "tweet_count": 1940
+        },
+        "url": "https://t.co/Z7MklSBXtX",
+        "username": "SHAFT_BOX",
+        "verified": false
+      }
+    ]
+  }
+}

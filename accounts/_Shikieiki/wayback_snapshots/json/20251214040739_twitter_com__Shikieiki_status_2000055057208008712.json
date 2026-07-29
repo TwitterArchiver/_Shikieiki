@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999926909002530817"
+      ],
+      "media_source_tweet_id": [
+        "1999926914472161624"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2000055057208008712",
+    "created_at": "2025-12-14T04:07:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T05:07:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000055057208008712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1886947608989491200",
+          "start": 3,
+          "username": "cinnam0nnn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mIrgxajeXZ",
+          "end": 39,
+          "expanded_url": "https://x.com/cinnam0nnn/status/1999926914472161624/photo/1",
+          "media_key": "3_1999926909002530817",
+          "start": 16,
+          "url": "https://t.co/mIrgxajeXZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000055057208008712",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 236
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999926914472161624",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cinnam0nnn: https://t.co/mIrgxajeXZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 540,
+        "media_key": "3_1999926909002530817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Eq7XvXQAEOt3A.jpg",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999926909002530817"
+          ],
+          "media_source_tweet_id": [
+            "1999926914472161624"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2000055057208008712",
+        "created_at": "2025-12-14T04:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T05:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000055057208008712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1886947608989491200",
+              "start": 3,
+              "username": "cinnam0nnn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mIrgxajeXZ",
+              "end": 39,
+              "expanded_url": "https://x.com/cinnam0nnn/status/1999926914472161624/photo/1",
+              "media_key": "3_1999926909002530817",
+              "start": 16,
+              "url": "https://t.co/mIrgxajeXZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000055057208008712",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 236
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999926914472161624",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cinnam0nnn: https://t.co/mIrgxajeXZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999926909002530817"
+          ]
+        },
+        "author_id": "1886947608989491200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1999926914472161624",
+        "created_at": "2025-12-13T19:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T20:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999926914472161624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mIrgxajeXZ",
+              "end": 23,
+              "expanded_url": "https://x.com/cinnam0nnn/status/1999926914472161624/photo/1",
+              "media_key": "3_1999926909002530817",
+              "start": 0,
+              "url": "https://t.co/mIrgxajeXZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999926914472161624",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 9344,
+          "like_count": 882,
+          "quote_count": 6,
+          "reply_count": 1,
+          "retweet_count": 236
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mIrgxajeXZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "1842867034050441268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 376,
+          "like_count": 6504,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 211
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T01:20:24.000Z",
+        "description": "✧ ೃ༄*ੈ✩",
+        "id": "1886947608989491200",
+        "location": "DM for credits/removal •ू♡",
+        "name": "♱",
+        "pinned_tweet_id": "1973510946120409505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941503330959667201/0nSdMN5i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37999,
+          "following_count": 952,
+          "like_count": 4489,
+          "listed_count": 54,
+          "media_count": 1002,
+          "tweet_count": 2579
+        },
+        "username": "cinnam0nnn",
+        "verified": true
+      }
+    ]
+  }
+}

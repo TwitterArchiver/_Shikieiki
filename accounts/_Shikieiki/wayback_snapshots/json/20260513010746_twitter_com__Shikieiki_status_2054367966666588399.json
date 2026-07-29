@@ -1,0 +1,464 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054354340047912960"
+      ],
+      "media_source_tweet_id": [
+        "2054354342161883318"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1017115427795681281",
+          "name": "Shojo Kageki Revue Starlight"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1017115427795681281",
+          "name": "Shojo Kageki Revue Starlight"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2054367966666588399",
+    "created_at": "2026-05-13T01:07:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T02:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054367966666588399"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 27,
+          "tag": "スタァライト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1360598241767796753",
+          "start": 3,
+          "username": "sky_dreamsky"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Nu9h85KYjw",
+          "end": 58,
+          "expanded_url": "https://x.com/sky_dreamsky/status/2054354342161883318/photo/1",
+          "media_key": "3_2054354340047912960",
+          "start": 35,
+          "url": "https://t.co/Nu9h85KYjw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054367966666588399",
+    "lang": "eu",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 93
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054354342161883318",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sky_dreamsky: karemahi #スタァライト https://t.co/Nu9h85KYjw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 717,
+        "media_key": "3_2054354340047912960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIKIY0lWgAAXg0g.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054354340047912960"
+          ],
+          "media_source_tweet_id": [
+            "2054354342161883318"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2054367966666588399",
+        "created_at": "2026-05-13T01:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T02:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054367966666588399"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 27,
+              "tag": "スタァライト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1360598241767796753",
+              "start": 3,
+              "username": "sky_dreamsky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nu9h85KYjw",
+              "end": 58,
+              "expanded_url": "https://x.com/sky_dreamsky/status/2054354342161883318/photo/1",
+              "media_key": "3_2054354340047912960",
+              "start": 35,
+              "url": "https://t.co/Nu9h85KYjw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054367966666588399",
+        "lang": "eu",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 93
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054354342161883318",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sky_dreamsky: karemahi #スタァライト https://t.co/Nu9h85KYjw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054354340047912960"
+          ]
+        },
+        "author_id": "1360598241767796753",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2054354342161883318",
+        "created_at": "2026-05-13T00:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T01:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054354342161883318"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 9,
+              "tag": "スタァライト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nu9h85KYjw",
+              "end": 40,
+              "expanded_url": "https://x.com/sky_dreamsky/status/2054354342161883318/photo/1",
+              "media_key": "3_2054354340047912960",
+              "start": 17,
+              "url": "https://t.co/Nu9h85KYjw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054354342161883318",
+        "lang": "eu",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 2886,
+          "like_count": 347,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "karemahi #スタァライト https://t.co/Nu9h85KYjw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)暂关提问",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2053378863976284363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 924,
+          "like_count": 28132,
+          "listed_count": 1,
+          "media_count": 487,
+          "tweet_count": 4054
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-13T14:34:46.000Z",
+        "description": "nya ✧ Nanamahi CEO 🍌☀️ ✧ contact: dreamskycontact@gmail.com ✧ ENG/한/Fr",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/sky_dreamsky",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/sky_dreamsky",
+                "start": 0,
+                "url": "https://t.co/WjC36knmBW"
+              }
+            ]
+          }
+        },
+        "id": "1360598241767796753",
+        "location": "she/nya",
+        "name": "Sapphi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989683620710109184/kGlQ-545_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6866,
+          "following_count": 308,
+          "like_count": 21582,
+          "listed_count": 51,
+          "media_count": 6260,
+          "tweet_count": 49429
+        },
+        "url": "https://t.co/WjC36knmBW",
+        "username": "sky_dreamsky",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2002446196615622660"
+      ],
+      "media_source_tweet_id": [
+        "2002446219780755793"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2002701607172198667",
+    "created_at": "2025-12-21T11:24:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T12:24:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002701607172198667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1175015463505596416",
+          "start": 3,
+          "username": "MemesToSave"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8SREVtik9t",
+          "end": 40,
+          "expanded_url": "https://x.com/MemesToSave/status/2002446219780755793/video/1",
+          "media_key": "13_2002446196615622660",
+          "start": 17,
+          "url": "https://t.co/8SREVtik9t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002701607172198667",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 318
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002446219780755793",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MemesToSave: https://t.co/8SREVtik9t"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3968,
+        "height": 720,
+        "media_key": "13_2002446196615622660",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2002446196615622660/img/UNjiLNhmGqvyw2la.jpg",
+        "public_metrics": {
+          "view_count": 20723
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002446196615622660/vid/avc1/342x270/cKJBJ-WM-frvYas9.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002446196615622660/vid/avc1/458x360/yGaCkDv0rwT2ImSu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002446196615622660/vid/avc1/916x720/Yc4LRW1i0WGd3idg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2002446196615622660/pl/kZfajTLEtjRD3UOt.m3u8"
+          }
+        ],
+        "width": 916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002446196615622660"
+          ],
+          "media_source_tweet_id": [
+            "2002446219780755793"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2002701607172198667",
+        "created_at": "2025-12-21T11:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T12:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002701607172198667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1175015463505596416",
+              "start": 3,
+              "username": "MemesToSave"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8SREVtik9t",
+              "end": 40,
+              "expanded_url": "https://x.com/MemesToSave/status/2002446219780755793/video/1",
+              "media_key": "13_2002446196615622660",
+              "start": 17,
+              "url": "https://t.co/8SREVtik9t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002701607172198667",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 318
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002446219780755793",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MemesToSave: https://t.co/8SREVtik9t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002446196615622660"
+          ]
+        },
+        "author_id": "1175015463505596416",
+        "conversation_id": "2002446219780755793",
+        "created_at": "2025-12-20T18:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T19:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002446219780755793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8SREVtik9t",
+              "end": 23,
+              "expanded_url": "https://x.com/MemesToSave/status/2002446219780755793/video/1",
+              "media_key": "13_2002446196615622660",
+              "start": 0,
+              "url": "https://t.co/8SREVtik9t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002446219780755793",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 269,
+          "impression_count": 44551,
+          "like_count": 2261,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 318
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8SREVtik9t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "1842867034050441268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 384,
+          "like_count": 6814,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 248
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-20T11:55:01.000Z",
+        "description": "Your #1 Source For Memes On X",
+        "id": "1175015463505596416",
+        "name": "memes to save",
+        "pinned_tweet_id": "1739738609421283596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002402790501445632/1d72chre_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683684,
+          "following_count": 0,
+          "like_count": 5146,
+          "listed_count": 534,
+          "media_count": 12,
+          "tweet_count": 13
+        },
+        "username": "MemesToSave",
+        "verified": true
+      }
+    ]
+  }
+}

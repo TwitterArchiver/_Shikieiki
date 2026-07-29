@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2022684657121452032"
+      ],
+      "media_source_tweet_id": [
+        "2022684893843742919"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2022881362341249158",
+    "created_at": "2026-02-15T03:51:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T04:51:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022881362341249158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1408028409599467521",
+          "start": 3,
+          "username": "AngelSuicide999"
+        }
+      ],
+      "urls": [
+        {
+          "description": "my soundshttps://www.tunecore.co.jp/artists/angelsuicide999ighttps://www.instagram.com/angelsuicide999/xhttps://x.com/AngelSuicide999",
+          "display_url": "youtu.be/qpZlWW4XaB8",
+          "end": 44,
+          "expanded_url": "http://youtu.be/qpZlWW4XaB8",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2021896722394513409/NXnDCK11?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2021896722394513409/NXnDCK11?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 21,
+          "status": 200,
+          "title": "天使自殺yominokuniwaltz.exe[ft.flower]",
+          "unwound_url": "https://www.youtube.com/watch?v=qpZlWW4XaB8&feature=youtu.be",
+          "url": "https://t.co/hfVmStO4wi"
+        },
+        {
+          "display_url": "pic.x.com/KU5mHV0oGy",
+          "end": 68,
+          "expanded_url": "https://x.com/AngelSuicide999/status/2022684893843742919/video/1",
+          "media_key": "13_2022684657121452032",
+          "start": 45,
+          "url": "https://t.co/KU5mHV0oGy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022881362341249158",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 203
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022684893843742919",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AngelSuicide999: https://t.co/hfVmStO4wi https://t.co/KU5mHV0oGy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20033,
+        "height": 1080,
+        "media_key": "13_2022684657121452032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2022684657121452032/img/V-iN79wRUd4WlkMB.jpg",
+        "public_metrics": {
+          "view_count": 7027
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022684657121452032/vid/avc1/480x360/yKlFXISoiG6Nq38Q.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022684657121452032/vid/avc1/360x270/egsaOwOl-iDlWcsr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2022684657121452032/pl/Vxpda0Yw6fBH8YKK.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022684657121452032/vid/avc1/1440x1080/YJPDunYMxtRnVxe7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022684657121452032/vid/avc1/960x720/VBcRoSnY8aW-7qfn.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022684657121452032"
+          ],
+          "media_source_tweet_id": [
+            "2022684893843742919"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2022881362341249158",
+        "created_at": "2026-02-15T03:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T04:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022881362341249158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1408028409599467521",
+              "start": 3,
+              "username": "AngelSuicide999"
+            }
+          ],
+          "urls": [
+            {
+              "description": "my soundshttps://www.tunecore.co.jp/artists/angelsuicide999ighttps://www.instagram.com/angelsuicide999/xhttps://x.com/AngelSuicide999",
+              "display_url": "youtu.be/qpZlWW4XaB8",
+              "end": 44,
+              "expanded_url": "http://youtu.be/qpZlWW4XaB8",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2021896722394513409/NXnDCK11?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2021896722394513409/NXnDCK11?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 21,
+              "status": 200,
+              "title": "天使自殺yominokuniwaltz.exe[ft.flower]",
+              "unwound_url": "https://www.youtube.com/watch?v=qpZlWW4XaB8&feature=youtu.be",
+              "url": "https://t.co/hfVmStO4wi"
+            },
+            {
+              "display_url": "pic.x.com/KU5mHV0oGy",
+              "end": 68,
+              "expanded_url": "https://x.com/AngelSuicide999/status/2022684893843742919/video/1",
+              "media_key": "13_2022684657121452032",
+              "start": 45,
+              "url": "https://t.co/KU5mHV0oGy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022881362341249158",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 203
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022684893843742919",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AngelSuicide999: https://t.co/hfVmStO4wi https://t.co/KU5mHV0oGy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022684657121452032"
+          ]
+        },
+        "author_id": "1408028409599467521",
+        "conversation_id": "2022684893843742919",
+        "created_at": "2026-02-14T14:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T15:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022684893843742919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "my soundshttps://www.tunecore.co.jp/artists/angelsuicide999ighttps://www.instagram.com/angelsuicide999/xhttps://x.com/AngelSuicide999",
+              "display_url": "youtu.be/qpZlWW4XaB8",
+              "end": 23,
+              "expanded_url": "http://youtu.be/qpZlWW4XaB8",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2021896722394513409/NXnDCK11?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2021896722394513409/NXnDCK11?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "天使自殺yominokuniwaltz.exe[ft.flower]",
+              "unwound_url": "https://www.youtube.com/watch?v=qpZlWW4XaB8&feature=youtu.be",
+              "url": "https://t.co/hfVmStO4wi"
+            },
+            {
+              "display_url": "pic.x.com/KU5mHV0oGy",
+              "end": 47,
+              "expanded_url": "https://x.com/AngelSuicide999/status/2022684893843742919/video/1",
+              "media_key": "13_2022684657121452032",
+              "start": 24,
+              "url": "https://t.co/KU5mHV0oGy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022684893843742919",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 210,
+          "impression_count": 15562,
+          "like_count": 1426,
+          "quote_count": 6,
+          "reply_count": 4,
+          "retweet_count": 203
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hfVmStO4wi https://t.co/KU5mHV0oGy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 638,
+          "like_count": 19404,
+          "listed_count": 0,
+          "media_count": 256,
+          "tweet_count": 1935
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-24T11:45:17.000Z",
+        "description": "天使自殺団",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tunecore.co.jp/artists/angels…",
+                "end": 23,
+                "expanded_url": "https://www.tunecore.co.jp/artists/angelsuicide999",
+                "start": 0,
+                "url": "https://t.co/1XH3J5mxKW"
+              }
+            ]
+          }
+        },
+        "id": "1408028409599467521",
+        "name": "Suicide",
+        "pinned_tweet_id": "1993229130155049446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927572549589688320/90zSepQK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31682,
+          "following_count": 4,
+          "like_count": 92017,
+          "listed_count": 95,
+          "media_count": 843,
+          "tweet_count": 3507
+        },
+        "url": "https://t.co/1XH3J5mxKW",
+        "username": "AngelSuicide999",
+        "verified": true
+      }
+    ]
+  }
+}

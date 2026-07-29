@@ -1,0 +1,512 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023196641587847168",
+        "16_2023196643286482944"
+      ],
+      "media_source_tweet_id": [
+        "2023196650668437977",
+        "2023196650668437977"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2023249310679466089",
+    "created_at": "2026-02-16T04:13:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T05:13:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023249310679466089"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "Madoka",
+          "probability": 0.4456,
+          "start": 18,
+          "type": "Person"
+        },
+        {
+          "end": 70,
+          "normalized_text": "Homura",
+          "probability": 0.4515,
+          "start": 65,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1969968959534530560",
+          "start": 3,
+          "username": "sincessagurl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bYXEvGEFvG",
+          "end": 127,
+          "expanded_url": "https://x.com/sincessagurl/status/2023196650668437977/photo/1",
+          "media_key": "3_2023196641587847168",
+          "start": 104,
+          "url": "https://t.co/bYXEvGEFvG"
+        },
+        {
+          "display_url": "pic.x.com/bYXEvGEFvG",
+          "end": 127,
+          "expanded_url": "https://x.com/sincessagurl/status/2023196650668437977/photo/1",
+          "media_key": "16_2023196643286482944",
+          "start": 104,
+          "url": "https://t.co/bYXEvGEFvG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023249310679466089",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023196650668437977",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sincessagurl: Madoka: \"Party rockers in the house tonight!\"\n\nHomura: \"Silly... it's party rock is.\" https://t.co/bYXEvGEFvG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 981,
+        "media_key": "3_2023196641587847168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBPWoEybYAAdwgR.jpg",
+        "width": 982
+      },
+      {
+        "height": 308,
+        "media_key": "16_2023196643286482944",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HBPWoLHagAANJyn.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HBPWoLHagAANJyn.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023196641587847168",
+            "16_2023196643286482944"
+          ],
+          "media_source_tweet_id": [
+            "2023196650668437977",
+            "2023196650668437977"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2023249310679466089",
+        "created_at": "2026-02-16T04:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T05:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023249310679466089"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "Madoka",
+              "probability": 0.4456,
+              "start": 18,
+              "type": "Person"
+            },
+            {
+              "end": 70,
+              "normalized_text": "Homura",
+              "probability": 0.4515,
+              "start": 65,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1969968959534530560",
+              "start": 3,
+              "username": "sincessagurl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bYXEvGEFvG",
+              "end": 127,
+              "expanded_url": "https://x.com/sincessagurl/status/2023196650668437977/photo/1",
+              "media_key": "3_2023196641587847168",
+              "start": 104,
+              "url": "https://t.co/bYXEvGEFvG"
+            },
+            {
+              "display_url": "pic.x.com/bYXEvGEFvG",
+              "end": 127,
+              "expanded_url": "https://x.com/sincessagurl/status/2023196650668437977/photo/1",
+              "media_key": "16_2023196643286482944",
+              "start": 104,
+              "url": "https://t.co/bYXEvGEFvG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023249310679466089",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023196650668437977",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sincessagurl: Madoka: \"Party rockers in the house tonight!\"\n\nHomura: \"Silly... it's party rock is.\" https://t.co/bYXEvGEFvG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023196641587847168",
+            "16_2023196643286482944"
+          ]
+        },
+        "author_id": "1969968959534530560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2023196650668437977",
+        "created_at": "2026-02-16T00:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T01:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023196650668437977"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "Madoka",
+              "probability": 0.443,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 52,
+              "normalized_text": "Homura",
+              "probability": 0.492,
+              "start": 47,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bYXEvGEFvG",
+              "end": 109,
+              "expanded_url": "https://x.com/sincessagurl/status/2023196650668437977/photo/1",
+              "media_key": "3_2023196641587847168",
+              "start": 86,
+              "url": "https://t.co/bYXEvGEFvG"
+            },
+            {
+              "display_url": "pic.x.com/bYXEvGEFvG",
+              "end": 109,
+              "expanded_url": "https://x.com/sincessagurl/status/2023196650668437977/photo/1",
+              "media_key": "16_2023196643286482944",
+              "start": 86,
+              "url": "https://t.co/bYXEvGEFvG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023196650668437977",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 3084,
+          "like_count": 447,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "Madoka: \"Party rockers in the house tonight!\"\n\nHomura: \"Silly... it's party rock is.\" https://t.co/bYXEvGEFvG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 671,
+          "like_count": 19812,
+          "listed_count": 0,
+          "media_count": 266,
+          "tweet_count": 2068
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-22T03:36:26.000Z",
+        "description": "Despair! It's hard being a magical girl ALL the time... // 22yo depressed perverted himejoshi hikikomori 🏳️‍🌈🏳️‍⚧️ // Heads up, I RT 🔞 sometimes.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/id/Sincessa",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/id/Sincessa",
+                "start": 0,
+                "url": "https://t.co/m9C0uUWYUr"
+              }
+            ]
+          }
+        },
+        "id": "1969968959534530560",
+        "location": "In My Room",
+        "name": "SIN",
+        "pinned_tweet_id": "2022874755494481983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021729158473420800/V5USW-4r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 806,
+          "like_count": 61449,
+          "listed_count": 0,
+          "media_count": 871,
+          "tweet_count": 5412
+        },
+        "url": "https://t.co/m9C0uUWYUr",
+        "username": "sincessagurl",
+        "verified": false
+      }
+    ]
+  }
+}

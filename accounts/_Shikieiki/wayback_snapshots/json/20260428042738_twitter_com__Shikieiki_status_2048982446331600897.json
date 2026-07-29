@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048712464632856576"
+      ],
+      "media_source_tweet_id": [
+        "2048712469296857243"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2048982446331600897",
+    "created_at": "2026-04-28T04:27:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T05:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048982446331600897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1233001483311861762",
+          "start": 3,
+          "username": "mwam_45219"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/efLq5RljTx",
+          "end": 43,
+          "expanded_url": "https://x.com/mwam_45219/status/2048712469296857243/photo/1",
+          "media_key": "3_2048712464632856576",
+          "start": 20,
+          "url": "https://t.co/efLq5RljTx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048982446331600897",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 185
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048712469296857243",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mwam_45219: 大場🍌 https://t.co/efLq5RljTx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1504,
+        "media_key": "3_2048712464632856576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG59Ic1bQAAc1gN.jpg",
+        "width": 1253
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048712464632856576"
+          ],
+          "media_source_tweet_id": [
+            "2048712469296857243"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2048982446331600897",
+        "created_at": "2026-04-28T04:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048982446331600897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1233001483311861762",
+              "start": 3,
+              "username": "mwam_45219"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/efLq5RljTx",
+              "end": 43,
+              "expanded_url": "https://x.com/mwam_45219/status/2048712469296857243/photo/1",
+              "media_key": "3_2048712464632856576",
+              "start": 20,
+              "url": "https://t.co/efLq5RljTx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048982446331600897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 185
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048712469296857243",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mwam_45219: 大場🍌 https://t.co/efLq5RljTx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048712464632856576"
+          ]
+        },
+        "author_id": "1233001483311861762",
+        "conversation_id": "2048712469296857243",
+        "created_at": "2026-04-27T10:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T11:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048712469296857243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/efLq5RljTx",
+              "end": 27,
+              "expanded_url": "https://x.com/mwam_45219/status/2048712469296857243/photo/1",
+              "media_key": "3_2048712464632856576",
+              "start": 4,
+              "url": "https://t.co/efLq5RljTx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048712469296857243",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 8106,
+          "like_count": 857,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 185
+        },
+        "reply_settings": "everyone",
+        "text": "大場🍌 https://t.co/efLq5RljTx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2047351982030258527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 883,
+          "like_count": 26789,
+          "listed_count": 1,
+          "media_count": 431,
+          "tweet_count": 3619
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-27T12:12:46.000Z",
+        "description": "20↑スタァライト👓🍌☀️/𝒉𝒂𝒓𝕞𝕠𝕖/小泉萌香さん/岩田陽葵さん/本垢(@mwam_jean)\nhttps://t.co/2nkSfjIt5T",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "mwam_jean"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/mwam_45219?t=S…",
+                "end": 73,
+                "expanded_url": "https://marshmallow-qa.com/mwam_45219?t=SMmAyq&utm_medium=url_text&utm_source=promotion",
+                "start": 50,
+                "url": "https://t.co/2nkSfjIt5T"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/19195954",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/19195954",
+                "start": 0,
+                "url": "https://t.co/TiWgJaNUNV"
+              }
+            ]
+          }
+        },
+        "id": "1233001483311861762",
+        "location": "アタシ財政難",
+        "name": "チョロ9",
+        "pinned_tweet_id": "1796486827190505742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509828735364911105/pfy6DzAE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6002,
+          "following_count": 99,
+          "like_count": 9690,
+          "listed_count": 78,
+          "media_count": 1142,
+          "tweet_count": 26836
+        },
+        "url": "https://t.co/TiWgJaNUNV",
+        "username": "mwam_45219",
+        "verified": false
+      }
+    ]
+  }
+}

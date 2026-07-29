@@ -1,0 +1,678 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1206704182717104128",
+          "name": "Model figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1206704182717104128",
+          "name": "Model figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278061468265508864",
+          "name": "Collectibles"
+        }
+      }
+    ],
+    "conversation_id": "2027239896709283920",
+    "created_at": "2026-02-27T04:30:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T05:30:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027239896709283920"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 49,
+          "normalized_text": "ねんどろいど 鹿目まどか",
+          "probability": 0.1572,
+          "start": 38,
+          "type": "Other"
+        },
+        {
+          "end": 62,
+          "normalized_text": "ワルプルギスの廻天",
+          "probability": 0.4323,
+          "start": 54,
+          "type": "Other"
+        },
+        {
+          "end": 73,
+          "normalized_text": "べーしっく",
+          "probability": 0.3278,
+          "start": 69,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "547299604",
+          "start": 3,
+          "username": "gsc_kahotan"
+        }
+      ],
+      "urls": [
+        {
+          "description": "『劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』より、「鹿目まどか 〈ワルプルギスの廻天〉Ver.」がねんどろいど べーしっくで登場！ ・ねんどろいど べーしっくとは？ 交換顔、オプションを省くことにより、通常より「安く」「早く」をコンセプトにしたまさにベーシックな「ねんどろいど」です。 機能性は「ねんどろいど」と同じなので、手足や首のアクション、他の顔への交換には対応しています。",
+          "display_url": "goodsmile.link/8ELDjI",
+          "end": 106,
+          "expanded_url": "http://goodsmile.link/8ELDjI",
+          "start": 83,
+          "status": 200,
+          "title": "ねんどろいど 鹿目まどか 〈ワルプルギスの廻天〉Ver. べーしっく｜グッドスマイルカンパニー公式ショップ",
+          "unwound_url": "https://www.goodsmile.com/ja/product/1139201/%E3%81%AD%E3%82%93%E3%81%A9%E3%82%8D%E3%81%84%E3%81%A9+%E9%B9%BF%E7%9B%AE%E3%81%BE%E3%81%A9%E3%81%8B+%E3%80%88%E3%83%AF%E3%83%AB%E3%83%97%E3%83%AB%E3%82%AE%E3%82%B9%E3%81%AE%E5%BB%BB%E5%A4%A9%E3%80%89Ver.+%E3%81%B9%E3%83%BC%E3%81%97%E3%81%A3%E3%81%8F?utm_medium=social&utm_source=twitter&utm_term=gsc_kahotan",
+          "url": "https://t.co/6kW9l1oahm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027239896709283920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 153
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027218310392389842",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gsc_kahotan: 🎀　2026年4月発売予定　🎀\n／\n　ねんどろいど 鹿目まどか \n　〈ワルプルギスの廻天〉Ver. べーしっく\n＼\n&gt;&gt;https://t.co/6kW9l1oahm\n\n🩷価格：3,900円（税込）\n🩷グッスマ公式ショップ特典：特製台座\n\n#ま…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 938,
+        "media_key": "3_2027218302771339264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCIgTkLbIAA-ULE.jpg",
+        "width": 750
+      },
+      {
+        "height": 938,
+        "media_key": "3_2027218302758768640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCIgTkIbUAAcVXu.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278061468265508864",
+              "name": "Collectibles"
+            }
+          }
+        ],
+        "conversation_id": "2027239896709283920",
+        "created_at": "2026-02-27T04:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T05:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027239896709283920"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 49,
+              "normalized_text": "ねんどろいど 鹿目まどか",
+              "probability": 0.1572,
+              "start": 38,
+              "type": "Other"
+            },
+            {
+              "end": 62,
+              "normalized_text": "ワルプルギスの廻天",
+              "probability": 0.4323,
+              "start": 54,
+              "type": "Other"
+            },
+            {
+              "end": 73,
+              "normalized_text": "べーしっく",
+              "probability": 0.3278,
+              "start": 69,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "547299604",
+              "start": 3,
+              "username": "gsc_kahotan"
+            }
+          ],
+          "urls": [
+            {
+              "description": "『劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』より、「鹿目まどか 〈ワルプルギスの廻天〉Ver.」がねんどろいど べーしっくで登場！ ・ねんどろいど べーしっくとは？ 交換顔、オプションを省くことにより、通常より「安く」「早く」をコンセプトにしたまさにベーシックな「ねんどろいど」です。 機能性は「ねんどろいど」と同じなので、手足や首のアクション、他の顔への交換には対応しています。",
+              "display_url": "goodsmile.link/8ELDjI",
+              "end": 106,
+              "expanded_url": "http://goodsmile.link/8ELDjI",
+              "start": 83,
+              "status": 200,
+              "title": "ねんどろいど 鹿目まどか 〈ワルプルギスの廻天〉Ver. べーしっく｜グッドスマイルカンパニー公式ショップ",
+              "unwound_url": "https://www.goodsmile.com/ja/product/1139201/%E3%81%AD%E3%82%93%E3%81%A9%E3%82%8D%E3%81%84%E3%81%A9+%E9%B9%BF%E7%9B%AE%E3%81%BE%E3%81%A9%E3%81%8B+%E3%80%88%E3%83%AF%E3%83%AB%E3%83%97%E3%83%AB%E3%82%AE%E3%82%B9%E3%81%AE%E5%BB%BB%E5%A4%A9%E3%80%89Ver.+%E3%81%B9%E3%83%BC%E3%81%97%E3%81%A3%E3%81%8F?utm_medium=social&utm_source=twitter&utm_term=gsc_kahotan",
+              "url": "https://t.co/6kW9l1oahm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027239896709283920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 153
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027218310392389842",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gsc_kahotan: 🎀　2026年4月発売予定　🎀\n／\n　ねんどろいど 鹿目まどか \n　〈ワルプルギスの廻天〉Ver. べーしっく\n＼\n&gt;&gt;https://t.co/6kW9l1oahm\n\n🩷価格：3,900円（税込）\n🩷グッスマ公式ショップ特典：特製台座\n\n#ま…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027218302771339264",
+            "3_2027218302758768640"
+          ]
+        },
+        "author_id": "547299604",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278061468265508864",
+              "name": "Collectibles"
+            }
+          }
+        ],
+        "conversation_id": "2027218310392389842",
+        "created_at": "2026-02-27T03:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T04:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027218310392389842"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "ねんどろいど 鹿目まどか",
+              "probability": 0.1922,
+              "start": 21,
+              "type": "Other"
+            },
+            {
+              "end": 45,
+              "normalized_text": "ワルプルギスの廻天",
+              "probability": 0.4536,
+              "start": 37,
+              "type": "Other"
+            },
+            {
+              "end": 56,
+              "normalized_text": "べーしっく",
+              "probability": 0.3929,
+              "start": 52,
+              "type": "Person"
+            },
+            {
+              "end": 114,
+              "normalized_text": "🩷グッスマ",
+              "probability": 0.3735,
+              "start": 109,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 133,
+              "start": 126,
+              "tag": "まどかマギカ"
+            },
+            {
+              "end": 141,
+              "start": 134,
+              "tag": "ねんどろいど"
+            }
+          ],
+          "urls": [
+            {
+              "description": "『劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』より、「鹿目まどか 〈ワルプルギスの廻天〉Ver.」がねんどろいど べーしっくで登場！ ・ねんどろいど べーしっくとは？ 交換顔、オプションを省くことにより、通常より「安く」「早く」をコンセプトにしたまさにベーシックな「ねんどろいど」です。 機能性は「ねんどろいど」と同じなので、手足や首のアクション、他の顔への交換には対応しています。",
+              "display_url": "goodsmile.link/8ELDjI",
+              "end": 89,
+              "expanded_url": "http://goodsmile.link/8ELDjI",
+              "start": 66,
+              "status": 200,
+              "title": "ねんどろいど 鹿目まどか 〈ワルプルギスの廻天〉Ver. べーしっく｜グッドスマイルカンパニー公式ショップ",
+              "unwound_url": "https://www.goodsmile.com/ja/product/1139201/%E3%81%AD%E3%82%93%E3%81%A9%E3%82%8D%E3%81%84%E3%81%A9+%E9%B9%BF%E7%9B%AE%E3%81%BE%E3%81%A9%E3%81%8B+%E3%80%88%E3%83%AF%E3%83%AB%E3%83%97%E3%83%AB%E3%82%AE%E3%82%B9%E3%81%AE%E5%BB%BB%E5%A4%A9%E3%80%89Ver.+%E3%81%B9%E3%83%BC%E3%81%97%E3%81%A3%E3%81%8F?utm_medium=social&utm_source=twitter&utm_term=gsc_kahotan",
+              "url": "https://t.co/6kW9l1oahm"
+            },
+            {
+              "display_url": "pic.x.com/eKmPjSlpex",
+              "end": 165,
+              "expanded_url": "https://x.com/gsc_kahotan/status/2027218310392389842/photo/1",
+              "media_key": "3_2027218302771339264",
+              "start": 142,
+              "url": "https://t.co/eKmPjSlpex"
+            },
+            {
+              "display_url": "pic.x.com/eKmPjSlpex",
+              "end": 165,
+              "expanded_url": "https://x.com/gsc_kahotan/status/2027218310392389842/photo/1",
+              "media_key": "3_2027218302758768640",
+              "start": 142,
+              "url": "https://t.co/eKmPjSlpex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027218310392389842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 15575,
+          "like_count": 453,
+          "quote_count": 20,
+          "reply_count": 0,
+          "retweet_count": 153
+        },
+        "reply_settings": "everyone",
+        "text": "🎀　2026年4月発売予定　🎀\n／\n　ねんどろいど 鹿目まどか \n　〈ワルプルギスの廻天〉Ver. べーしっく\n＼\n&gt;&gt;https://t.co/6kW9l1oahm\n\n🩷価格：3,900円（税込）\n🩷グッスマ公式ショップ特典：特製台座\n\n#まどかマギカ #ねんどろいど https://t.co/eKmPjSlpex"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 709,
+          "like_count": 21885,
+          "listed_count": 0,
+          "media_count": 353,
+          "tweet_count": 2626
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-07T03:50:58.000Z",
+        "description": "グッドスマイルカンパニーの企画部所属。フィギュア商品企画の他にブログも担当しております！どうぞよろしくお願いいたします◎\n\nグッスマ公式サイト：https://t.co/B3NQgLiiqg\nマシュマロ： https://t.co/bnSJnl4Jnx…",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "goodsmile.com/ja",
+                "end": 95,
+                "expanded_url": "https://www.goodsmile.com/ja",
+                "start": 72,
+                "url": "https://t.co/B3NQgLiiqg"
+              },
+              {
+                "display_url": "marshmallow-qa.com/gsc_kahotan?ut",
+                "end": 126,
+                "expanded_url": "http://marshmallow-qa.com/gsc_kahotan?ut",
+                "start": 103,
+                "url": "https://t.co/bnSJnl4Jnx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "goodsmile.jp/kahotan",
+                "end": 23,
+                "expanded_url": "http://goodsmile.jp/kahotan",
+                "start": 0,
+                "url": "https://t.co/KkUNvZ4p7W"
+              }
+            ]
+          }
+        },
+        "id": "547299604",
+        "location": "秋葉原の程近く",
+        "name": "カホタン＠グッスマのすみっこ",
+        "pinned_tweet_id": "2026930234948251900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1557060860631138304/DNcidBzz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301253,
+          "following_count": 347,
+          "like_count": 3833,
+          "listed_count": 2735,
+          "media_count": 39851,
+          "tweet_count": 76033
+        },
+        "url": "https://t.co/KkUNvZ4p7W",
+        "username": "gsc_kahotan",
+        "verified": true
+      }
+    ]
+  }
+}

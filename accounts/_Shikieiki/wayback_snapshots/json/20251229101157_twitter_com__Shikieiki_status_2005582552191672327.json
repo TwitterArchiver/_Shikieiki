@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005290747311128578"
+      ],
+      "media_source_tweet_id": [
+        "2005290917406949384"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2005582552191672327",
+    "created_at": "2025-12-29T10:11:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T11:11:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005582552191672327"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 29,
+          "tag": "ほむさや"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "613322945",
+          "start": 3,
+          "username": "azu_kusu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pyA8ziMgIb",
+          "end": 58,
+          "expanded_url": "https://x.com/azu_kusu/status/2005290917406949384/photo/1",
+          "media_key": "3_2005290747311128578",
+          "start": 35,
+          "url": "https://t.co/pyA8ziMgIb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005582552191672327",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 102
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005290917406949384",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @azu_kusu: 無理やり感も出したいほむさや\n#ほむさや https://t.co/pyA8ziMgIb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 820,
+        "media_key": "3_2005290747311128578",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Q5T2jbgAIuOJP.jpg",
+        "width": 1027
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005290747311128578"
+          ],
+          "media_source_tweet_id": [
+            "2005290917406949384"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2005582552191672327",
+        "created_at": "2025-12-29T10:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T11:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005582552191672327"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "ほむさや"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "613322945",
+              "start": 3,
+              "username": "azu_kusu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pyA8ziMgIb",
+              "end": 58,
+              "expanded_url": "https://x.com/azu_kusu/status/2005290917406949384/photo/1",
+              "media_key": "3_2005290747311128578",
+              "start": 35,
+              "url": "https://t.co/pyA8ziMgIb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005582552191672327",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 102
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005290917406949384",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @azu_kusu: 無理やり感も出したいほむさや\n#ほむさや https://t.co/pyA8ziMgIb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005290747311128578"
+          ]
+        },
+        "author_id": "613322945",
+        "conversation_id": "2005290917406949384",
+        "created_at": "2025-12-28T14:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T15:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005290917406949384"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "ほむさや"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pyA8ziMgIb",
+              "end": 44,
+              "expanded_url": "https://x.com/azu_kusu/status/2005290917406949384/photo/1",
+              "media_key": "3_2005290747311128578",
+              "start": 21,
+              "url": "https://t.co/pyA8ziMgIb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005290917406949384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 9572,
+          "like_count": 821,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 102
+        },
+        "reply_settings": "everyone",
+        "text": "無理やり感も出したいほむさや\n#ほむさや https://t.co/pyA8ziMgIb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 441,
+          "like_count": 9141,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 437
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-20T10:23:13.000Z",
+        "description": "ほむさやを描くよ 時々他ジャンル&他カプも描くよ AI学習禁止🚫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/7840918",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/7840918",
+                "start": 0,
+                "url": "https://t.co/k1eyASNIr7"
+              }
+            ]
+          }
+        },
+        "id": "613322945",
+        "location": "禁足地",
+        "name": "ごりら",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969481227410554881/kzNKILHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 148,
+          "like_count": 7479,
+          "listed_count": 18,
+          "media_count": 456,
+          "tweet_count": 19678
+        },
+        "url": "https://t.co/k1eyASNIr7",
+        "username": "azu_kusu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2008131442434605173",
+    "created_at": "2026-01-05T12:56:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T13:56:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008160685474332893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1829181212323434497",
+          "start": 0,
+          "username": "xxxx532118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008160685474332893",
+    "in_reply_to_user_id": "1829181212323434497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008160190722425130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxxx532118 我有耐受体质 应该还好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2008131442434605173",
+        "created_at": "2026-01-05T12:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T13:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008160685474332893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1829181212323434497",
+              "start": 0,
+              "username": "xxxx532118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008160685474332893",
+        "in_reply_to_user_id": "1829181212323434497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008160190722425130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxx532118 我有耐受体质 应该还好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829181212323434497",
+        "conversation_id": "2008131442434605173",
+        "created_at": "2026-01-05T12:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T13:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008160190722425130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1448206950903255040",
+              "start": 0,
+              "username": "_Shikieiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008160190722425130",
+        "in_reply_to_user_id": "1448206950903255040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008131442434605173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Shikieiki 😰😰😰这种量感觉根本没有药效了大概率吃完直接晕过去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 526,
+          "like_count": 15489,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1004
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T15:36:23.000Z",
+        "description": "有病有病有病",
+        "id": "1829181212323434497",
+        "location": "Kyoto-fu, Japan",
+        "name": "17672987468",
+        "pinned_tweet_id": "1882115261488374208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891534074055098371/XTjBY9ro_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 32,
+          "like_count": 170,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 367
+        },
+        "username": "xxxx532118",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027628002759348224"
+      ],
+      "media_source_tweet_id": [
+        "2027628026775933436"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2028339499441533072",
+    "created_at": "2026-03-02T05:19:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T06:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028339499441533072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "973478141850103810",
+          "start": 3,
+          "username": "akaimokou24"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oMTaVs1FDm",
+          "end": 40,
+          "expanded_url": "https://x.com/akaimokou24/status/2027628026775933436/photo/1",
+          "media_key": "3_2027628002759348224",
+          "start": 17,
+          "url": "https://t.co/oMTaVs1FDm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028339499441533072",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1581
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027628026775933436",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akaimokou24: https://t.co/oMTaVs1FDm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027628002759348224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCOU7PkbEAALZgY.jpg",
+        "width": 1963
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027628002759348224"
+          ],
+          "media_source_tweet_id": [
+            "2027628026775933436"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2028339499441533072",
+        "created_at": "2026-03-02T05:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T06:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028339499441533072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "973478141850103810",
+              "start": 3,
+              "username": "akaimokou24"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oMTaVs1FDm",
+              "end": 40,
+              "expanded_url": "https://x.com/akaimokou24/status/2027628026775933436/photo/1",
+              "media_key": "3_2027628002759348224",
+              "start": 17,
+              "url": "https://t.co/oMTaVs1FDm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028339499441533072",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1581
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027628026775933436",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akaimokou24: https://t.co/oMTaVs1FDm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027628002759348224"
+          ]
+        },
+        "author_id": "973478141850103810",
+        "conversation_id": "2027628026775933436",
+        "created_at": "2026-02-28T06:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T07:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027628026775933436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oMTaVs1FDm",
+              "end": 23,
+              "expanded_url": "https://x.com/akaimokou24/status/2027628026775933436/photo/1",
+              "media_key": "3_2027628002759348224",
+              "start": 0,
+              "url": "https://t.co/oMTaVs1FDm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027628026775933436",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1282,
+          "impression_count": 99030,
+          "like_count": 13532,
+          "quote_count": 7,
+          "reply_count": 9,
+          "retweet_count": 1581
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oMTaVs1FDm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 770,
+          "like_count": 22813,
+          "listed_count": 0,
+          "media_count": 398,
+          "tweet_count": 2917
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-13T08:37:30.000Z",
+        "description": "5%の確率で絵を投げます 🔞→ @nosferakiss 🍷🐣🌰🍞 skeb→ https://t.co/r3tVTH0YS3 リプライあまり返信できていませんがとても有り難いです ありがとうございます",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "nosferakiss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@akaimokou24",
+                "end": 63,
+                "expanded_url": "http://skeb.jp/@akaimokou24",
+                "start": 40,
+                "url": "https://t.co/r3tVTH0YS3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "akaimoko.booth.pm",
+                "end": 23,
+                "expanded_url": "https://akaimoko.booth.pm/",
+                "start": 0,
+                "url": "https://t.co/XlmyhnHwtX"
+              }
+            ]
+          }
+        },
+        "id": "973478141850103810",
+        "location": "言語の階",
+        "name": "akaimokou",
+        "pinned_tweet_id": "1949298793142518106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771242168918896641/ZVCUO-Rp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14404,
+          "following_count": 1212,
+          "like_count": 136663,
+          "listed_count": 97,
+          "media_count": 2475,
+          "tweet_count": 65275
+        },
+        "url": "https://t.co/XlmyhnHwtX",
+        "username": "akaimokou24",
+        "verified": false
+      }
+    ]
+  }
+}

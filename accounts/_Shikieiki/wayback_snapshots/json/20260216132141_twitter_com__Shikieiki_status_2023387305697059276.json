@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023287536861261824"
+      ],
+      "media_source_tweet_id": [
+        "2023287538610565292"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2023387305697059276",
+    "created_at": "2026-02-16T13:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T14:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023387305697059276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1676670406843826176",
+          "start": 3,
+          "username": "bl00dys18"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NcG5qC0c8Q",
+          "end": 38,
+          "expanded_url": "https://x.com/bl00dys18/status/2023287538610565292/photo/1",
+          "media_key": "3_2023287536861261824",
+          "start": 15,
+          "url": "https://t.co/NcG5qC0c8Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023387305697059276",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 78
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023287538610565292",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bl00dys18: https://t.co/NcG5qC0c8Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 733,
+        "media_key": "3_2023287536861261824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBQpS4EXMAAfreN.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023287536861261824"
+          ],
+          "media_source_tweet_id": [
+            "2023287538610565292"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2023387305697059276",
+        "created_at": "2026-02-16T13:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T14:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023387305697059276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1676670406843826176",
+              "start": 3,
+              "username": "bl00dys18"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NcG5qC0c8Q",
+              "end": 38,
+              "expanded_url": "https://x.com/bl00dys18/status/2023287538610565292/photo/1",
+              "media_key": "3_2023287536861261824",
+              "start": 15,
+              "url": "https://t.co/NcG5qC0c8Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023387305697059276",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 78
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023287538610565292",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bl00dys18: https://t.co/NcG5qC0c8Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023287536861261824"
+          ]
+        },
+        "author_id": "1676670406843826176",
+        "conversation_id": "2023287538610565292",
+        "created_at": "2026-02-16T06:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T07:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023287538610565292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NcG5qC0c8Q",
+              "end": 23,
+              "expanded_url": "https://x.com/bl00dys18/status/2023287538610565292/photo/1",
+              "media_key": "3_2023287536861261824",
+              "start": 0,
+              "url": "https://t.co/NcG5qC0c8Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023287538610565292",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 4008,
+          "like_count": 499,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NcG5qC0c8Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 678,
+          "like_count": 20174,
+          "listed_count": 0,
+          "media_count": 269,
+          "tweet_count": 2164
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T19:12:45.000Z",
+        "description": "caffeine is total",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/steff.j00",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/steff.j00",
+                "start": 0,
+                "url": "https://t.co/r6NOXDe98H"
+              }
+            ]
+          }
+        },
+        "id": "1676670406843826176",
+        "name": "ipier",
+        "pinned_tweet_id": "1899529573148352761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879388255751127040/cEnxLaJT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37553,
+          "following_count": 58,
+          "like_count": 21877,
+          "listed_count": 29,
+          "media_count": 1743,
+          "tweet_count": 5454
+        },
+        "url": "https://t.co/r6NOXDe98H",
+        "username": "bl00dys18",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,459 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1017115427795681281",
+          "name": "Shojo Kageki Revue Starlight"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1017115427795681281",
+          "name": "Shojo Kageki Revue Starlight"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2051544195538751636",
+    "created_at": "2026-05-05T06:07:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T07:07:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051544195538751636"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 110,
+          "start": 103,
+          "tag": "スタァライト"
+        },
+        {
+          "end": 119,
+          "start": 111,
+          "tag": "舞台エルドラド"
+        },
+        {
+          "end": 127,
+          "start": 120,
+          "tag": "ばくだん焼き"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2880246199",
+          "start": 3,
+          "username": "bkdanikebukuro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051544195538751636",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 390
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051134722265244141",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bkdanikebukuro: ✨HAPPY BIRTHDAY 露崎まひる✨\n\n5月4日は出席番号17番、露崎まひるの誕生日！\nお誕生日おめでとうございます🎂\n\n皆さんもぜひお祝いして下さいね✨\n\n#スタァライト\n#舞台エルドラド\n#ばくだん焼き https://t.c…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2050756986179067904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHXAnRHaoAADPdb.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2051544195538751636",
+        "created_at": "2026-05-05T06:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T07:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051544195538751636"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 110,
+              "start": 103,
+              "tag": "スタァライト"
+            },
+            {
+              "end": 119,
+              "start": 111,
+              "tag": "舞台エルドラド"
+            },
+            {
+              "end": 127,
+              "start": 120,
+              "tag": "ばくだん焼き"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2880246199",
+              "start": 3,
+              "username": "bkdanikebukuro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051544195538751636",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 390
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051134722265244141",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bkdanikebukuro: ✨HAPPY BIRTHDAY 露崎まひる✨\n\n5月4日は出席番号17番、露崎まひるの誕生日！\nお誕生日おめでとうございます🎂\n\n皆さんもぜひお祝いして下さいね✨\n\n#スタァライト\n#舞台エルドラド\n#ばくだん焼き https://t.c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050756986179067904"
+          ]
+        },
+        "author_id": "2880246199",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2051134722265244141",
+        "created_at": "2026-05-04T03:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T04:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051134722265244141"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 90,
+              "start": 83,
+              "tag": "スタァライト"
+            },
+            {
+              "end": 99,
+              "start": 91,
+              "tag": "舞台エルドラド"
+            },
+            {
+              "end": 107,
+              "start": 100,
+              "tag": "ばくだん焼き"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DJOzuOkS5a",
+              "end": 131,
+              "expanded_url": "https://x.com/bkdanikebukuro/status/2051134722265244141/photo/1",
+              "media_key": "3_2050756986179067904",
+              "start": 108,
+              "url": "https://t.co/DJOzuOkS5a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051134722265244141",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 27783,
+          "like_count": 1330,
+          "quote_count": 15,
+          "reply_count": 0,
+          "retweet_count": 390
+        },
+        "reply_settings": "everyone",
+        "text": "✨HAPPY BIRTHDAY 露崎まひる✨\n\n5月4日は出席番号17番、露崎まひるの誕生日！\nお誕生日おめでとうございます🎂\n\n皆さんもぜひお祝いして下さいね✨\n\n#スタァライト\n#舞台エルドラド\n#ばくだん焼き https://t.co/DJOzuOkS5a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2050182084808110250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 912,
+          "like_count": 27639,
+          "listed_count": 1,
+          "media_count": 479,
+          "tweet_count": 3898
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-28T02:02:29.000Z",
+        "description": "直径8㎝重さ200g！ 今後もお得な情報やコラボ情報など発信していきます！ 池袋本店営業時間11:00〜22:00 併設POPUPSHOP営業時間11:00〜22:00",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bakudanyakihonpo.co.jp",
+                "end": 23,
+                "expanded_url": "http://www.bakudanyakihonpo.co.jp",
+                "start": 0,
+                "url": "https://t.co/mvQiQcOLIE"
+              }
+            ]
+          }
+        },
+        "id": "2880246199",
+        "name": "ばくだん焼本舗【公式】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/527759802294755328/5Izm9u_I_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17680,
+          "following_count": 70,
+          "like_count": 831,
+          "listed_count": 204,
+          "media_count": 846,
+          "tweet_count": 2094
+        },
+        "url": "https://t.co/mvQiQcOLIE",
+        "username": "bkdanikebukuro",
+        "verified": false
+      }
+    ]
+  }
+}

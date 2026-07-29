@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2023538086466969602"
+      ],
+      "media_source_tweet_id": [
+        "2023538151537381483"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2023686067887694058",
+    "created_at": "2026-02-17T09:08:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T10:08:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023686067887694058"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "Yuri",
+          "probability": 0.5274,
+          "start": 17,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1874612902721941504",
+          "start": 3,
+          "username": "DailyYuriGL"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U7u9q8o7hS",
+          "end": 53,
+          "expanded_url": "https://x.com/DailyYuriGL/status/2023538151537381483/video/1",
+          "media_key": "7_2023538086466969602",
+          "start": 30,
+          "url": "https://t.co/U7u9q8o7hS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023686067887694058",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023538151537381483",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DailyYuriGL: Yuri Physics https://t.co/U7u9q8o7hS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37845,
+        "height": 720,
+        "media_key": "7_2023538086466969602",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2023538086466969602/pu/img/NaGma_Lh2jSTTb-Q.jpg",
+        "public_metrics": {
+          "view_count": 9620
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2023538086466969602/pu/vid/avc1/480x270/CFp_xUb1G3aaZBjJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2023538086466969602/pu/vid/avc1/640x360/gXV8YncZmR3RDtUE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2023538086466969602/pu/vid/avc1/1280x720/bvQrfAKntsBTIeYa.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2023538086466969602/pu/pl/KyuCQTiZoRHLxILk.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2023538086466969602"
+          ],
+          "media_source_tweet_id": [
+            "2023538151537381483"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2023686067887694058",
+        "created_at": "2026-02-17T09:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T10:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023686067887694058"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Yuri",
+              "probability": 0.5274,
+              "start": 17,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1874612902721941504",
+              "start": 3,
+              "username": "DailyYuriGL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U7u9q8o7hS",
+              "end": 53,
+              "expanded_url": "https://x.com/DailyYuriGL/status/2023538151537381483/video/1",
+              "media_key": "7_2023538086466969602",
+              "start": 30,
+              "url": "https://t.co/U7u9q8o7hS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023686067887694058",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023538151537381483",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DailyYuriGL: Yuri Physics https://t.co/U7u9q8o7hS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2023538086466969602"
+          ]
+        },
+        "author_id": "1874612902721941504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2023538151537381483",
+        "created_at": "2026-02-16T23:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T00:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023538151537381483"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "Yuri Physics",
+              "probability": 0.5867,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U7u9q8o7hS",
+              "end": 36,
+              "expanded_url": "https://x.com/DailyYuriGL/status/2023538151537381483/video/1",
+              "media_key": "7_2023538086466969602",
+              "start": 13,
+              "url": "https://t.co/U7u9q8o7hS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023538151537381483",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 15089,
+          "like_count": 685,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "Yuri Physics https://t.co/U7u9q8o7hS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 682,
+          "like_count": 20470,
+          "listed_count": 0,
+          "media_count": 274,
+          "tweet_count": 2215
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T00:25:26.000Z",
+        "description": "Daily Girls Love Content! 👩‍❤️‍💋‍👩\nDMs Open for Submissions!! ❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "DailyYuri.straw.page",
+                "end": 23,
+                "expanded_url": "http://DailyYuri.straw.page",
+                "start": 0,
+                "url": "https://t.co/ZdxxUSHSjq"
+              }
+            ]
+          }
+        },
+        "id": "1874612902721941504",
+        "location": "Yuri! 💞",
+        "name": "Daily Yuri Content",
+        "pinned_tweet_id": "2019237264241619090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874618092707307520/icIge1sF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59046,
+          "following_count": 3582,
+          "like_count": 15986,
+          "listed_count": 49,
+          "media_count": 446,
+          "tweet_count": 2084
+        },
+        "url": "https://t.co/ZdxxUSHSjq",
+        "username": "DailyYuriGL",
+        "verified": false
+      }
+    ]
+  }
+}

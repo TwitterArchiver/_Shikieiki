@@ -1,0 +1,893 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "1237760060828213249",
+          "name": "Olympics"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "description": "Paris 2024 Summer Olympics ",
+          "id": "1667298425749028864",
+          "name": "Paris 2024 Summer Olympics"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "description": "Badminton",
+          "id": "1068221474815668224",
+          "name": "Badminton"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "1237760060828213249",
+          "name": "Olympics"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "1390314931963133955",
+          "name": "Olympic Badminton"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Paris 2024 Summer Olympics ",
+          "id": "1667298425749028864",
+          "name": "Paris 2024 Summer Olympics"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Badminton",
+          "id": "1068221474815668224",
+          "name": "Badminton"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237760060828213249",
+          "name": "Olympics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390314931963133955",
+          "name": "Olympic Badminton"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Paris 2024 Summer Olympics ",
+          "id": "1667298425749028864",
+          "name": "Paris 2024 Summer Olympics"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "description": "TEAM JAPANとテレビ局のオリンピックの最新情報がチェックできる特集ページです。競技映像や舞台裏コンテンツなどを配信します。",
+          "id": "2011225555505434624",
+          "name": "ミラノ・コルティナ ２０２６ 冬季オリンピック 特集ページ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "TEAM JAPANとテレビ局のオリンピックの最新情報がチェックできる特集ページです。競技映像や舞台裏コンテンツなどを配信します。",
+          "id": "2011225555505434624",
+          "name": "ミラノ・コルティナ ２０２６ 冬季オリンピック 特集ページ"
+        }
+      }
+    ],
+    "conversation_id": "2022881223287447763",
+    "created_at": "2026-02-15T03:50:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T04:50:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022881223287447763"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 71,
+          "normalized_text": "CCP",
+          "probability": 0.7357,
+          "start": 69,
+          "type": "Organization"
+        },
+        {
+          "end": 277,
+          "normalized_text": "China",
+          "probability": 0.9654,
+          "start": 273,
+          "type": "Place"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/superwangbadan…",
+          "end": 303,
+          "expanded_url": "https://twitter.com/superwangbadan/status/2022800521388790185",
+          "start": 280,
+          "url": "https://t.co/5X1mz3yrzy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022881223287447763",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022800521388790185",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Exactly.\nIt's common sense that most Chinese citizens who accept the CCP's propaganda would never have the chance to know the truth behind these kinds of photos, plus, they never have the idea of seeking the truth. Thus, their so-called 'spiritual victory' always works in China. https://t.co/5X1mz3yrzy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1015,
+        "media_key": "3_2018621914974158848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAOV78HagAAqcEI.jpg",
+        "width": 1067
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Badminton",
+              "id": "1068221474815668224",
+              "name": "Badminton"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "1390314931963133955",
+              "name": "Olympic Badminton"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Badminton",
+              "id": "1068221474815668224",
+              "name": "Badminton"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390314931963133955",
+              "name": "Olympic Badminton"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "TEAM JAPANとテレビ局のオリンピックの最新情報がチェックできる特集ページです。競技映像や舞台裏コンテンツなどを配信します。",
+              "id": "2011225555505434624",
+              "name": "ミラノ・コルティナ ２０２６ 冬季オリンピック 特集ページ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "TEAM JAPANとテレビ局のオリンピックの最新情報がチェックできる特集ページです。競技映像や舞台裏コンテンツなどを配信します。",
+              "id": "2011225555505434624",
+              "name": "ミラノ・コルティナ ２０２６ 冬季オリンピック 特集ページ"
+            }
+          }
+        ],
+        "conversation_id": "2022881223287447763",
+        "created_at": "2026-02-15T03:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T04:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022881223287447763"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 71,
+              "normalized_text": "CCP",
+              "probability": 0.7357,
+              "start": 69,
+              "type": "Organization"
+            },
+            {
+              "end": 277,
+              "normalized_text": "China",
+              "probability": 0.9654,
+              "start": 273,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/superwangbadan…",
+              "end": 303,
+              "expanded_url": "https://twitter.com/superwangbadan/status/2022800521388790185",
+              "start": 280,
+              "url": "https://t.co/5X1mz3yrzy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022881223287447763",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022800521388790185",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Exactly.\nIt's common sense that most Chinese citizens who accept the CCP's propaganda would never have the chance to know the truth behind these kinds of photos, plus, they never have the idea of seeking the truth. Thus, their so-called 'spiritual victory' always works in China. https://t.co/5X1mz3yrzy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018621914974158848"
+          ]
+        },
+        "author_id": "1703999725882724352",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Badminton",
+              "id": "1068221474815668224",
+              "name": "Badminton"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "1390314931963133955",
+              "name": "Olympic Badminton"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Badminton",
+              "id": "1068221474815668224",
+              "name": "Badminton"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390314931963133955",
+              "name": "Olympic Badminton"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "TEAM JAPANとテレビ局のオリンピックの最新情報がチェックできる特集ページです。競技映像や舞台裏コンテンツなどを配信します。",
+              "id": "2011225555505434624",
+              "name": "ミラノ・コルティナ ２０２６ 冬季オリンピック 特集ページ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "TEAM JAPANとテレビ局のオリンピックの最新情報がチェックできる特集ページです。競技映像や舞台裏コンテンツなどを配信します。",
+              "id": "2011225555505434624",
+              "name": "ミラノ・コルティナ ２０２６ 冬季オリンピック 特集ページ"
+            }
+          }
+        ],
+        "conversation_id": "2022800521388790185",
+        "created_at": "2026-02-14T22:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T23:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022800521388790185"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "中国",
+              "probability": 0.8584,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 22,
+              "normalized_text": "パリ五輪",
+              "probability": 0.3032,
+              "start": 19,
+              "type": "Organization"
+            },
+            {
+              "end": 35,
+              "normalized_text": "台湾",
+              "probability": 0.4896,
+              "start": 34,
+              "type": "Place"
+            },
+            {
+              "end": 39,
+              "normalized_text": "中国",
+              "probability": 0.9016,
+              "start": 38,
+              "type": "Place"
+            },
+            {
+              "end": 51,
+              "normalized_text": "中国",
+              "probability": 0.5237,
+              "start": 50,
+              "type": "Place"
+            },
+            {
+              "end": 59,
+              "normalized_text": "中国",
+              "probability": 0.941,
+              "start": 58,
+              "type": "Place"
+            },
+            {
+              "end": 62,
+              "normalized_text": "台湾",
+              "probability": 0.8599,
+              "start": 61,
+              "type": "Place"
+            },
+            {
+              "end": 87,
+              "normalized_text": "台湾選手",
+              "probability": 0.411,
+              "start": 84,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8HLs53VT0b",
+              "end": 151,
+              "expanded_url": "https://x.com/superwangbadan/status/2022800521388790185/photo/1",
+              "media_key": "3_2018621914974158848",
+              "start": 128,
+              "url": "https://t.co/8HLs53VT0b"
+            },
+            {
+              "display_url": "x.com/superwangbadan…",
+              "end": 175,
+              "expanded_url": "https://twitter.com/superwangbadan/status/2015646436772474986",
+              "start": 152,
+              "url": "https://t.co/jvkKtJGbgM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022800521388790185",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "中国の精神勝利法といえば、2024年のパリ五輪のバドミントン🏸決勝台湾vs中国でこんなことが…\n\n中国メディア\n「中国は台湾にプレッシャーをかけ善戦、銀メダル獲得！。台湾選手は銀メダルが取れなかった悔しさのあまり、その場に倒れこみ涙を流した！」\n\n実際↓\n台湾が金メダル🥇、中国が銀メダル🥈。台湾選手が倒れてるのは、台湾史上初の2大会連続🥇に嬉しさが爆発したのと疲労のため。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 232,
+          "impression_count": 921605,
+          "like_count": 3199,
+          "quote_count": 32,
+          "reply_count": 71,
+          "retweet_count": 524
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015646436772474986",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国の精神勝利法といえば、2024年のパリ五輪のバドミントン🏸決勝台湾vs中国でこんなことが…\n\n中国メディア\n「中国は台湾にプレッシャーをかけ善戦、銀メダル獲得！。台湾選手は銀メダルが取れなかった悔しさのあまり、その場に倒れこみ涙を流した！」\n\n実際↓ https://t.co/8HLs53VT0b https://t.co/jvkKtJGbgM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 638,
+          "like_count": 19396,
+          "listed_count": 0,
+          "media_count": 256,
+          "tweet_count": 1933
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-19T05:09:37.000Z",
+        "description": "中国と腐れ縁歴30年の中国漫談家&「#中国照相館」主。働きながら大学で学ぶ学生でもあります。中国ネタで漫談したり、心理学や精神医学から導き出した持論《#中国人NPD論》で中国人を分析したり、中国(人)とは何かを知りたい人に啓蒙する垢。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 24,
+                "start": 18,
+                "tag": "中国照相館"
+              },
+              {
+                "end": 83,
+                "start": 75,
+                "tag": "中国人NPD論"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/formosanhistory",
+                "end": 23,
+                "expanded_url": "https://note.com/formosanhistory",
+                "start": 0,
+                "url": "https://t.co/ju5qWFJ8zq"
+              }
+            ]
+          }
+        },
+        "id": "1703999725882724352",
+        "location": "Japan",
+        "name": "Black China ブラックチャイナ",
+        "pinned_tweet_id": "1907978387400143109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838214086271909888/GOzKm-HY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28746,
+          "following_count": 221,
+          "like_count": 15872,
+          "listed_count": 213,
+          "media_count": 4683,
+          "tweet_count": 26950
+        },
+        "url": "https://t.co/ju5qWFJ8zq",
+        "username": "superwangbadan",
+        "verified": true
+      }
+    ]
+  }
+}

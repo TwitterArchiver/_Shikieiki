@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2022400714572730369"
+      ],
+      "media_source_tweet_id": [
+        "2022400764640137722"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2022874663182123030",
+    "created_at": "2026-02-15T03:24:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T04:24:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022874663182123030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1774634025040433152",
+          "start": 3,
+          "username": "icantritemeow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W1LCROuJu2",
+          "end": 42,
+          "expanded_url": "https://x.com/icantritemeow/status/2022400764640137722/video/1",
+          "media_key": "13_2022400714572730369",
+          "start": 19,
+          "url": "https://t.co/W1LCROuJu2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022874663182123030",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 860
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022400764640137722",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @icantritemeow: https://t.co/W1LCROuJu2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10136,
+        "height": 720,
+        "media_key": "13_2022400714572730369",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2022400714572730369/img/e6hNKAgeqW8PN2Wa.jpg",
+        "public_metrics": {
+          "view_count": 11867
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022400714572730369/vid/avc1/320x320/8fT28ZVpzAy_eNaM.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022400714572730369/vid/avc1/540x540/EW7VpDePF8HoEje7.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022400714572730369/vid/avc1/720x720/RipYoKcarnPmi02S.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2022400714572730369/pl/tJM41Gfj51Iabviv.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022400714572730369"
+          ],
+          "media_source_tweet_id": [
+            "2022400764640137722"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2022874663182123030",
+        "created_at": "2026-02-15T03:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T04:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022874663182123030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1774634025040433152",
+              "start": 3,
+              "username": "icantritemeow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W1LCROuJu2",
+              "end": 42,
+              "expanded_url": "https://x.com/icantritemeow/status/2022400764640137722/video/1",
+              "media_key": "13_2022400714572730369",
+              "start": 19,
+              "url": "https://t.co/W1LCROuJu2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022874663182123030",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 860
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022400764640137722",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @icantritemeow: https://t.co/W1LCROuJu2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022400714572730369"
+          ]
+        },
+        "author_id": "1774634025040433152",
+        "conversation_id": "2022400764640137722",
+        "created_at": "2026-02-13T20:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T21:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022400764640137722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W1LCROuJu2",
+              "end": 23,
+              "expanded_url": "https://x.com/icantritemeow/status/2022400764640137722/video/1",
+              "media_key": "13_2022400714572730369",
+              "start": 0,
+              "url": "https://t.co/W1LCROuJu2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022400764640137722",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 496,
+          "impression_count": 40271,
+          "like_count": 4228,
+          "quote_count": 13,
+          "reply_count": 2,
+          "retweet_count": 860
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/W1LCROuJu2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 636,
+          "like_count": 19386,
+          "listed_count": 0,
+          "media_count": 256,
+          "tweet_count": 1927
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T03:05:05.000Z",
+        "description": "artist 🗝️",
+        "id": "1774634025040433152",
+        "location": "silent hill",
+        "name": "mog",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967330844000800768/PGd3aIlw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2060,
+          "following_count": 192,
+          "like_count": 11499,
+          "listed_count": 8,
+          "media_count": 91,
+          "tweet_count": 317
+        },
+        "username": "icantritemeow",
+        "verified": false
+      }
+    ]
+  }
+}

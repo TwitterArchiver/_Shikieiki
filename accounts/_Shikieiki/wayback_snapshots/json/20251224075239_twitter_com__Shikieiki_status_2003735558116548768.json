@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003489547259346944",
+        "3_2003489590485876736"
+      ],
+      "media_source_tweet_id": [
+        "2003490038596915501",
+        "2003490038596915501"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1537182142450372608",
+          "name": "AI image generation"
+        }
+      }
+    ],
+    "conversation_id": "2003735558116548768",
+    "created_at": "2025-12-24T07:52:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T08:52:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003735558116548768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1228160248831102977",
+          "start": 3,
+          "username": "414MaIN"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Sjo1KniCfa",
+          "end": 65,
+          "expanded_url": "https://x.com/414MaIN/status/2003490038596915501/photo/1",
+          "media_key": "3_2003489547259346944",
+          "start": 42,
+          "url": "https://t.co/Sjo1KniCfa"
+        },
+        {
+          "display_url": "pic.x.com/Sjo1KniCfa",
+          "end": 65,
+          "expanded_url": "https://x.com/414MaIN/status/2003490038596915501/photo/1",
+          "media_key": "3_2003489590485876736",
+          "start": 42,
+          "url": "https://t.co/Sjo1KniCfa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003735558116548768",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1598
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003490038596915501",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @414MaIN: this is My art😢\n그림 AI 도용당했어요 https://t.co/Sjo1KniCfa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 777,
+        "media_key": "3_2003489547259346944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G83TINeaAAA3_j9.png",
+        "width": 740
+      },
+      {
+        "height": 475,
+        "media_key": "3_2003489590485876736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G83TKugagAAzDUq.png",
+        "width": 564
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003489547259346944",
+            "3_2003489590485876736"
+          ],
+          "media_source_tweet_id": [
+            "2003490038596915501",
+            "2003490038596915501"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "2003735558116548768",
+        "created_at": "2025-12-24T07:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T08:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003735558116548768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1228160248831102977",
+              "start": 3,
+              "username": "414MaIN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sjo1KniCfa",
+              "end": 65,
+              "expanded_url": "https://x.com/414MaIN/status/2003490038596915501/photo/1",
+              "media_key": "3_2003489547259346944",
+              "start": 42,
+              "url": "https://t.co/Sjo1KniCfa"
+            },
+            {
+              "display_url": "pic.x.com/Sjo1KniCfa",
+              "end": 65,
+              "expanded_url": "https://x.com/414MaIN/status/2003490038596915501/photo/1",
+              "media_key": "3_2003489590485876736",
+              "start": 42,
+              "url": "https://t.co/Sjo1KniCfa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003735558116548768",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1598
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003490038596915501",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @414MaIN: this is My art😢\n그림 AI 도용당했어요 https://t.co/Sjo1KniCfa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003489547259346944",
+            "3_2003489590485876736"
+          ]
+        },
+        "author_id": "1228160248831102977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "2003490038596915501",
+        "created_at": "2025-12-23T15:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T16:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003490038596915501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sjo1KniCfa",
+              "end": 52,
+              "expanded_url": "https://x.com/414MaIN/status/2003490038596915501/photo/1",
+              "media_key": "3_2003489547259346944",
+              "start": 29,
+              "url": "https://t.co/Sjo1KniCfa"
+            },
+            {
+              "display_url": "pic.x.com/Sjo1KniCfa",
+              "end": 52,
+              "expanded_url": "https://x.com/414MaIN/status/2003490038596915501/photo/1",
+              "media_key": "3_2003489590485876736",
+              "start": 29,
+              "url": "https://t.co/Sjo1KniCfa"
+            },
+            {
+              "display_url": "x.com/past_desideriu…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/past_desiderium/status/1987330484368777627",
+              "start": 53,
+              "url": "https://t.co/zj1802g6Fa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003490038596915501",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1386,
+          "impression_count": 973331,
+          "like_count": 14102,
+          "quote_count": 320,
+          "reply_count": 37,
+          "retweet_count": 1598
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987330484368777627",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "this is My art😢\n그림 AI 도용당했어요 https://t.co/Sjo1KniCfa https://t.co/zj1802g6Fa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 419,
+          "like_count": 7621,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 322
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-14T03:33:36.000Z",
+        "description": "|| : 현생 열심히 삽니다 아자스! : || FUB FREE || 디엠알람 X                                                        \n🚫AI🚫   🎗🔞🤒🤕🔪🍽🍷🐺🐀💫😈🤬😇🐾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "crepe.cm/@414Min",
+                "end": 23,
+                "expanded_url": "https://crepe.cm/@414Min",
+                "start": 0,
+                "url": "https://t.co/Ommf9dspnl"
+              }
+            ]
+          }
+        },
+        "id": "1228160248831102977",
+        "name": "✝ 𝕄𝕀ℕ ✝",
+        "pinned_tweet_id": "1999428025973424588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631314154849210368/3dXW22PE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 115,
+          "like_count": 3881,
+          "listed_count": 1,
+          "media_count": 253,
+          "tweet_count": 13260
+        },
+        "url": "https://t.co/Ommf9dspnl",
+        "username": "414MaIN",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1053553843592605696"
+      ],
+      "media_source_tweet_id": [
+        "1053553875284779010"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2069403401604235542",
+    "created_at": "2026-06-23T12:53:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T13:53:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069403401604235542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "252014806",
+          "start": 3,
+          "username": "xxxsorato"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RSkHEz6t48",
+          "end": 44,
+          "expanded_url": "https://x.com/xxxsorato/status/1053553875284779010/photo/1",
+          "media_key": "3_1053553843592605696",
+          "start": 21,
+          "url": "https://t.co/RSkHEz6t48"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069403401604235542",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 247
+    },
+    "referenced_tweets": [
+      {
+        "id": "1053553875284779010",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxxsorato: なのフェイ https://t.co/RSkHEz6t48"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1078,
+        "media_key": "3_1053553843592605696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Dp75o4cVsAAdh8C.jpg",
+        "width": 1668
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1053553843592605696"
+          ],
+          "media_source_tweet_id": [
+            "1053553875284779010"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2069403401604235542",
+        "created_at": "2026-06-23T12:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069403401604235542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "252014806",
+              "start": 3,
+              "username": "xxxsorato"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RSkHEz6t48",
+              "end": 44,
+              "expanded_url": "https://x.com/xxxsorato/status/1053553875284779010/photo/1",
+              "media_key": "3_1053553843592605696",
+              "start": 21,
+              "url": "https://t.co/RSkHEz6t48"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069403401604235542",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 247
+        },
+        "referenced_tweets": [
+          {
+            "id": "1053553875284779010",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xxxsorato: なのフェイ https://t.co/RSkHEz6t48"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1053553843592605696"
+          ]
+        },
+        "author_id": "252014806",
+        "conversation_id": "1053553875284779010",
+        "created_at": "2018-10-20T07:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2018-10-20T08:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1053553875284779010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RSkHEz6t48",
+              "end": 29,
+              "expanded_url": "https://x.com/xxxsorato/status/1053553875284779010/photo/1",
+              "media_key": "3_1053553843592605696",
+              "start": 6,
+              "url": "https://t.co/RSkHEz6t48"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1053553875284779010",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 0,
+          "like_count": 660,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 247
+        },
+        "reply_settings": "everyone",
+        "text": "なのフェイ https://t.co/RSkHEz6t48"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n伴侣 @octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1130,
+          "following_count": 972,
+          "like_count": 28647,
+          "listed_count": 1,
+          "media_count": 493,
+          "tweet_count": 4266
+        },
+        "url": "",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-14T09:22:52.000Z",
+        "description": "魔法少女に人生を狂わされた被害者の会はこちらです。\n✉️ xxxsorato@gmail.com\n商業・一次創作： @kosmy8588",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "kosmy8588"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/2466132",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/2466132",
+                "start": 0,
+                "url": "https://t.co/KtMTzpV6sS"
+              }
+            ]
+          }
+        },
+        "id": "252014806",
+        "location": "ガンブレイズヴェンジェンス",
+        "name": "そらと",
+        "pinned_tweet_id": "2039287566164500685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1607221352628617216/Lc1tJ4zE_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12287,
+          "following_count": 96,
+          "like_count": 8676,
+          "listed_count": 200,
+          "media_count": 9067,
+          "tweet_count": 215528
+        },
+        "url": "https://t.co/KtMTzpV6sS",
+        "username": "xxxsorato",
+        "verified": false
+      }
+    ]
+  }
+}

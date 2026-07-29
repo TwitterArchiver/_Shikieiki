@@ -1,0 +1,468 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022660988672307200"
+      ],
+      "media_source_tweet_id": [
+        "2022661003281076514"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2022831256648777908",
+    "created_at": "2026-02-15T00:32:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T01:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022831256648777908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "700662156610576384",
+          "start": 3,
+          "username": "yuki12278947"
+        },
+        {
+          "end": 42,
+          "id": "1758743875488010240",
+          "start": 29,
+          "username": "CinaHakoniwa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GQe8OoHsnU",
+          "end": 92,
+          "expanded_url": "https://x.com/yuki12278947/status/2022661003281076514/photo/1",
+          "media_key": "3_2022660988672307200",
+          "start": 69,
+          "url": "https://t.co/GQe8OoHsnU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022831256648777908",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022661003281076514",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuki12278947: Vtuber箱庭秕さん@CinaHakoniwa のグッズ用イラストをデザインさせていただきました！ https://t.co/GQe8OoHsnU"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2022831256648777908].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2022831256648777908",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2022831256648777908"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022660988672307200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBHvc-LacAAImuD.jpg",
+        "width": 1446
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022660988672307200"
+          ]
+        },
+        "author_id": "700662156610576384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2022661003281076514",
+        "created_at": "2026-02-14T13:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T14:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022661003281076514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1758743875488010240",
+              "start": 11,
+              "username": "CinaHakoniwa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GQe8OoHsnU",
+              "end": 74,
+              "expanded_url": "https://x.com/yuki12278947/status/2022661003281076514/photo/1",
+              "media_key": "3_2022660988672307200",
+              "start": 51,
+              "url": "https://t.co/GQe8OoHsnU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022661003281076514",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 11444,
+          "like_count": 439,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "Vtuber箱庭秕さん@CinaHakoniwa のグッズ用イラストをデザインさせていただきました！ https://t.co/GQe8OoHsnU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 635,
+          "like_count": 19295,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 1878
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-19T12:44:10.000Z",
+        "description": "✝️V系/メタル イラストレーター✝️\nデザイン▶JILUKA、DEVILOOF、響(摩天楼オペラ)、HOTOKE、LDD、DIW、FATE GEAR、BABYMETAL、Adamlilith、XP!A など\n💀オリキャラ▶ @carnagesociety\n💀グッズ▶ #carnagesociety",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 150,
+                "start": 135,
+                "tag": "carnagesociety"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 128,
+                "start": 113,
+                "username": "carnagesociety"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yukineon0617.wixsite.com/carnagesociety…",
+                "end": 23,
+                "expanded_url": "https://yukineon0617.wixsite.com/carnagesociety/contact-8",
+                "start": 0,
+                "url": "https://t.co/biJXibSEbk"
+              }
+            ]
+          }
+        },
+        "id": "700662156610576384",
+        "location": "▼PRICE LIST▼",
+        "name": "幽妃-yuki-✝️Illustrator",
+        "pinned_tweet_id": "2008849768991384038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684506346694254592/iIW698rM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13151,
+          "following_count": 504,
+          "like_count": 43822,
+          "listed_count": 93,
+          "media_count": 1072,
+          "tweet_count": 6470
+        },
+        "url": "https://t.co/biJXibSEbk",
+        "username": "yuki12278947",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-17T06:43:22.000Z",
+        "description": "恋に恋するドライアド箱庭秕(はこにわしいな)と申します🔞未成年と高校生以下のフォロー&DM禁止🔞質問箱はリクエスト受け付けておりません。 #箱に笑い部 #秕の箱庭 #秕の大人箱 2Dお母様(@Miyako_omty )ご利用規約▼ https://t.co/0fh4bJtW6G",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 75,
+                "start": 69,
+                "tag": "箱に笑い部"
+              },
+              {
+                "end": 81,
+                "start": 76,
+                "tag": "秕の箱庭"
+              },
+              {
+                "end": 88,
+                "start": 82,
+                "tag": "秕の大人箱"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Miyako_omty"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/CinaHakoniwa",
+                "end": 139,
+                "expanded_url": "https://lit.link/CinaHakoniwa",
+                "start": 116,
+                "url": "https://t.co/0fh4bJtW6G"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@CinaHakoniwa?…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@CinaHakoniwa?si=mSUqXonaaHmrPu_e",
+                "start": 0,
+                "url": "https://t.co/sYg0phbAnQ"
+              }
+            ]
+          }
+        },
+        "id": "1758743875488010240",
+        "location": "箱庭",
+        "name": "箱庭秕(はこにわしいな)💚✖️🌿",
+        "pinned_tweet_id": "2022627667473039655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983814939761614848/xgzq-6QT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16880,
+          "following_count": 15257,
+          "like_count": 17373,
+          "listed_count": 77,
+          "media_count": 325,
+          "tweet_count": 17292
+        },
+        "url": "https://t.co/sYg0phbAnQ",
+        "username": "CinaHakoniwa",
+        "verified": true
+      }
+    ]
+  }
+}

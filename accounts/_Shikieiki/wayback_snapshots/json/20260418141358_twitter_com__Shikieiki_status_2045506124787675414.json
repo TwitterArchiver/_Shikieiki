@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2045176841619578880"
+      ],
+      "media_source_tweet_id": [
+        "2045176860263190894"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2045506124787675414",
+    "created_at": "2026-04-18T14:13:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T15:13:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045506124787675414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1921501039251111936",
+          "start": 3,
+          "username": "puffait"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s0iB0jmEdR",
+          "end": 36,
+          "expanded_url": "https://x.com/puffait/status/2045176860263190894/photo/1",
+          "media_key": "16_2045176841619578880",
+          "start": 13,
+          "url": "https://t.co/s0iB0jmEdR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045506124787675414",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1109
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045176860263190894",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @puffait: https://t.co/s0iB0jmEdR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 350,
+        "media_key": "16_2045176841619578880",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HGHtgGuXIAAJavH.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HGHtgGuXIAAJavH.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2045176841619578880"
+          ],
+          "media_source_tweet_id": [
+            "2045176860263190894"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2045506124787675414",
+        "created_at": "2026-04-18T14:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T15:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045506124787675414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1921501039251111936",
+              "start": 3,
+              "username": "puffait"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s0iB0jmEdR",
+              "end": 36,
+              "expanded_url": "https://x.com/puffait/status/2045176860263190894/photo/1",
+              "media_key": "16_2045176841619578880",
+              "start": 13,
+              "url": "https://t.co/s0iB0jmEdR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045506124787675414",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1109
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045176860263190894",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @puffait: https://t.co/s0iB0jmEdR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2045176841619578880"
+          ]
+        },
+        "author_id": "1921501039251111936",
+        "conversation_id": "2045176860263190894",
+        "created_at": "2026-04-17T16:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T17:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045176860263190894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s0iB0jmEdR",
+              "end": 23,
+              "expanded_url": "https://x.com/puffait/status/2045176860263190894/photo/1",
+              "media_key": "16_2045176841619578880",
+              "start": 0,
+              "url": "https://t.co/s0iB0jmEdR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045176860263190894",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 531,
+          "impression_count": 55774,
+          "like_count": 6282,
+          "quote_count": 19,
+          "reply_count": 5,
+          "retweet_count": 1109
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/s0iB0jmEdR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季映姬 亚玛萨那度",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Have.a.nice.life",
+                "end": 23,
+                "expanded_url": "http://Have.a.nice.life",
+                "start": 0,
+                "url": "https://t.co/78TH5GeWCd"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2034690854695379175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 847,
+          "like_count": 25342,
+          "listed_count": 1,
+          "media_count": 411,
+          "tweet_count": 3353
+        },
+        "url": "https://t.co/78TH5GeWCd",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-11T09:42:12.000Z",
+        "description": "i ♡ magical girls and cute plastic (*ᴗ͈ˬᴗ͈)ꕤ*.ﾟmiracles and magic are real 🍀 lolishos dni",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "puffait.straw.page",
+                "end": 23,
+                "expanded_url": "https://puffait.straw.page/",
+                "start": 0,
+                "url": "https://t.co/aiyVexou6n"
+              }
+            ]
+          }
+        },
+        "id": "1921501039251111936",
+        "location": "19   ♩   eyad   ♡",
+        "name": "mari ♪",
+        "pinned_tweet_id": "2045176860263190894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033372163885920256/sVpDwoV7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 256,
+          "like_count": 26070,
+          "listed_count": 1,
+          "media_count": 642,
+          "tweet_count": 3673
+        },
+        "url": "https://t.co/aiyVexou6n",
+        "username": "puffait",
+        "verified": false
+      }
+    ]
+  }
+}

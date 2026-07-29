@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056213069475524608"
+      ],
+      "media_source_tweet_id": [
+        "2056213075360174377"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "2012年から始まった人気シリーズの第5期。主人公・立花響を中心に、人類の脅威と戦う少女たちの物語。人を飲み込み、炭素に変えてしまう未知の生命体・ノイズや敵対する存在に対し、響たちは歌声を力に変える鎧(よろい)型武装・シンフォギアを装着して立ち向かう。シリーズ最大スケールのドラマとバトルで、物語はXV(エクシヴ)に収束していく。",
+          "id": "10038571606",
+          "name": "戦姫絶唱シンフォギアXV"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1296307498547212288",
+          "name": "Symphogear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296307498547212288",
+          "name": "Symphogear"
+        }
+      }
+    ],
+    "conversation_id": "2056219714670719231",
+    "created_at": "2026-05-18T03:45:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T04:45:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056219714670719231"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 31,
+          "tag": "午後エール"
+        },
+        {
+          "end": 73,
+          "start": 69,
+          "tag": "風鳴翼"
+        },
+        {
+          "end": 82,
+          "start": 74,
+          "tag": "風鳴翼イラスト"
+        },
+        {
+          "end": 87,
+          "start": 83,
+          "tag": "月読調"
+        },
+        {
+          "end": 96,
+          "start": 88,
+          "tag": "月読調イラスト"
+        },
+        {
+          "end": 108,
+          "start": 97,
+          "tag": "シンフォギア広めたい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1820099502507986944",
+          "start": 3,
+          "username": "sympho284"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L8tzZti97s",
+          "end": 132,
+          "expanded_url": "https://x.com/sympho284/status/2056213075360174377/photo/1",
+          "media_key": "3_2056213069475524608",
+          "start": 109,
+          "url": "https://t.co/L8tzZti97s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056219714670719231",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056213075360174377",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sympho284: みなさんこんにちは！\n5/18 #午後エール　です！\n今日はイグナイトつばしら！\nクールな炎が燃えあがる！\n#風鳴翼　#風鳴翼イラスト\n#月読調　#月読調イラスト\n#シンフォギア広めたい https://t.co/L8tzZti97s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2056213069475524608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIki5HSasAA2qxh.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056213069475524608"
+          ],
+          "media_source_tweet_id": [
+            "2056213075360174377"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "2012年から始まった人気シリーズの第5期。主人公・立花響を中心に、人類の脅威と戦う少女たちの物語。人を飲み込み、炭素に変えてしまう未知の生命体・ノイズや敵対する存在に対し、響たちは歌声を力に変える鎧(よろい)型武装・シンフォギアを装着して立ち向かう。シリーズ最大スケールのドラマとバトルで、物語はXV(エクシヴ)に収束していく。",
+              "id": "10038571606",
+              "name": "戦姫絶唱シンフォギアXV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1296307498547212288",
+              "name": "Symphogear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296307498547212288",
+              "name": "Symphogear"
+            }
+          }
+        ],
+        "conversation_id": "2056219714670719231",
+        "created_at": "2026-05-18T03:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T04:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056219714670719231"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 31,
+              "tag": "午後エール"
+            },
+            {
+              "end": 73,
+              "start": 69,
+              "tag": "風鳴翼"
+            },
+            {
+              "end": 82,
+              "start": 74,
+              "tag": "風鳴翼イラスト"
+            },
+            {
+              "end": 87,
+              "start": 83,
+              "tag": "月読調"
+            },
+            {
+              "end": 96,
+              "start": 88,
+              "tag": "月読調イラスト"
+            },
+            {
+              "end": 108,
+              "start": 97,
+              "tag": "シンフォギア広めたい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1820099502507986944",
+              "start": 3,
+              "username": "sympho284"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L8tzZti97s",
+              "end": 132,
+              "expanded_url": "https://x.com/sympho284/status/2056213075360174377/photo/1",
+              "media_key": "3_2056213069475524608",
+              "start": 109,
+              "url": "https://t.co/L8tzZti97s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056219714670719231",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056213075360174377",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sympho284: みなさんこんにちは！\n5/18 #午後エール　です！\n今日はイグナイトつばしら！\nクールな炎が燃えあがる！\n#風鳴翼　#風鳴翼イラスト\n#月読調　#月読調イラスト\n#シンフォギア広めたい https://t.co/L8tzZti97s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056213069475524608"
+          ]
+        },
+        "author_id": "1820099502507986944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "2012年から始まった人気シリーズの第5期。主人公・立花響を中心に、人類の脅威と戦う少女たちの物語。人を飲み込み、炭素に変えてしまう未知の生命体・ノイズや敵対する存在に対し、響たちは歌声を力に変える鎧(よろい)型武装・シンフォギアを装着して立ち向かう。シリーズ最大スケールのドラマとバトルで、物語はXV(エクシヴ)に収束していく。",
+              "id": "10038571606",
+              "name": "戦姫絶唱シンフォギアXV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1296307498547212288",
+              "name": "Symphogear"
+            }
+          }
+        ],
+        "conversation_id": "2056213075360174377",
+        "created_at": "2026-05-18T03:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T04:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056213075360174377"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 16,
+              "tag": "午後エール"
+            },
+            {
+              "end": 58,
+              "start": 54,
+              "tag": "風鳴翼"
+            },
+            {
+              "end": 67,
+              "start": 59,
+              "tag": "風鳴翼イラスト"
+            },
+            {
+              "end": 72,
+              "start": 68,
+              "tag": "月読調"
+            },
+            {
+              "end": 81,
+              "start": 73,
+              "tag": "月読調イラスト"
+            },
+            {
+              "end": 93,
+              "start": 82,
+              "tag": "シンフォギア広めたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L8tzZti97s",
+              "end": 117,
+              "expanded_url": "https://x.com/sympho284/status/2056213075360174377/photo/1",
+              "media_key": "3_2056213069475524608",
+              "start": 94,
+              "url": "https://t.co/L8tzZti97s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056213075360174377",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 197,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "みなさんこんにちは！\n5/18 #午後エール　です！\n今日はイグナイトつばしら！\nクールな炎が燃えあがる！\n#風鳴翼　#風鳴翼イラスト\n#月読調　#月読調イラスト\n#シンフォギア広めたい https://t.co/L8tzZti97s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的\n我们一定从出生的那天起，就一定在寻找相遇的瞬间。\n\n所以请你笑一下吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki4",
+                "start": 0,
+                "url": "https://t.co/fgmsNgMTNR"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸 提问箱➡️",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2053378863976284363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 932,
+          "like_count": 28415,
+          "listed_count": 1,
+          "media_count": 492,
+          "tweet_count": 4119
+        },
+        "url": "https://t.co/fgmsNgMTNR",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T14:08:57.000Z",
+        "description": "シンフォギア大好きで現在14周観ました！✨\nサンジェルマンやオートスコアラーが特に大好きです。とにかくシンフォギアのことばかりアップします！関連でプリオケも！\n パチンコはやらないのでそっちのネタ・用語は一切分かりませんのでご容赦ください！",
+        "id": "1820099502507986944",
+        "location": "愛知県愛知郡",
+        "name": "ろーひかーた",
+        "pinned_tweet_id": "2032087045980766518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029841259746193408/WUy2XWtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2787,
+          "following_count": 381,
+          "like_count": 23866,
+          "listed_count": 5,
+          "media_count": 3195,
+          "tweet_count": 19857
+        },
+        "username": "sympho284",
+        "verified": false
+      }
+    ]
+  }
+}

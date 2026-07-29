@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022659921888641024"
+      ],
+      "media_source_tweet_id": [
+        "2022659943619530961"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2022888128311357682",
+    "created_at": "2026-02-15T04:18:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T05:18:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022888128311357682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1487517478964142080",
+          "start": 3,
+          "username": "Konatabutreal"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bQUeJPfqWL",
+          "end": 42,
+          "expanded_url": "https://x.com/Konatabutreal/status/2022659943619530961/photo/1",
+          "media_key": "3_2022659921888641024",
+          "start": 19,
+          "url": "https://t.co/bQUeJPfqWL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022888128311357682",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022659943619530961",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Konatabutreal: https://t.co/bQUeJPfqWL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 956,
+        "media_key": "3_2022659921888641024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBHue4GXgAAlkHL.jpg",
+        "width": 716
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022659921888641024"
+          ],
+          "media_source_tweet_id": [
+            "2022659943619530961"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2022888128311357682",
+        "created_at": "2026-02-15T04:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T05:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022888128311357682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1487517478964142080",
+              "start": 3,
+              "username": "Konatabutreal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bQUeJPfqWL",
+              "end": 42,
+              "expanded_url": "https://x.com/Konatabutreal/status/2022659943619530961/photo/1",
+              "media_key": "3_2022659921888641024",
+              "start": 19,
+              "url": "https://t.co/bQUeJPfqWL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022888128311357682",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022659943619530961",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Konatabutreal: https://t.co/bQUeJPfqWL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022659921888641024"
+          ]
+        },
+        "author_id": "1487517478964142080",
+        "conversation_id": "2022659943619530961",
+        "created_at": "2026-02-14T13:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T14:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022659943619530961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bQUeJPfqWL",
+              "end": 23,
+              "expanded_url": "https://x.com/Konatabutreal/status/2022659943619530961/photo/1",
+              "media_key": "3_2022659921888641024",
+              "start": 0,
+              "url": "https://t.co/bQUeJPfqWL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022659943619530961",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 4141,
+          "like_count": 357,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bQUeJPfqWL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 639,
+          "like_count": 19432,
+          "listed_count": 0,
+          "media_count": 256,
+          "tweet_count": 1943
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-29T20:06:29.000Z",
+        "description": "💙 Daily Lucky Star Content \n🌟 Lucky Star Fandom Revival\n📩 DM For Credits/Removal\n\nJoin the lucky star community:\nhttps://t.co/7s1wBTrWUs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/lucky-star",
+                "end": 136,
+                "expanded_url": "https://discord.gg/lucky-star",
+                "start": 113,
+                "url": "https://t.co/7s1wBTrWUs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/lucky-star",
+                "end": 23,
+                "expanded_url": "https://discord.gg/lucky-star",
+                "start": 0,
+                "url": "https://t.co/7s1wBTrWUs"
+              }
+            ]
+          }
+        },
+        "id": "1487517478964142080",
+        "location": "The Hiiragi Shrine",
+        "name": "Lucky Star MEDIA",
+        "pinned_tweet_id": "2022235142669074541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976594274994073600/SOwdbTeX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9074,
+          "following_count": 154,
+          "like_count": 22070,
+          "listed_count": 11,
+          "media_count": 2224,
+          "tweet_count": 7534
+        },
+        "url": "https://t.co/7s1wBTrWUs",
+        "username": "Konatabutreal",
+        "verified": false
+      }
+    ]
+  }
+}

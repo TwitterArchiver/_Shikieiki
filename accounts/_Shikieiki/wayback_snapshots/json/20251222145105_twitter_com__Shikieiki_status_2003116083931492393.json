@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2003115490563269024",
+    "created_at": "2025-12-22T14:51:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T15:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003116083931492393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1398990307929251846",
+          "start": 0,
+          "username": "vivalavida_zzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003116083931492393",
+    "in_reply_to_user_id": "1398990307929251846",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003115490563269024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vivalavida_zzz 学医的都是很厉害很善良很好的人 能和你当上好朋友的人一定也很开心的💖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2003115490563269024",
+        "created_at": "2025-12-22T14:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T15:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003116083931492393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1398990307929251846",
+              "start": 0,
+              "username": "vivalavida_zzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003116083931492393",
+        "in_reply_to_user_id": "1398990307929251846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003115490563269024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vivalavida_zzz 学医的都是很厉害很善良很好的人 能和你当上好朋友的人一定也很开心的💖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1398990307929251846",
+        "conversation_id": "2003115490563269024",
+        "created_at": "2025-12-22T14:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T15:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003115490563269024"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003115490563269024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起啊，和精神病当朋友很累吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "1842867034050441268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 388,
+          "like_count": 6984,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 269
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-30T13:11:05.000Z",
+        "description": "双相/od/医学生/碎碎念，欢迎互fo（查成分）我不经常评论但很积极点赞！！",
+        "id": "1398990307929251846",
+        "name": "在没有退路的窄巷对视",
+        "pinned_tweet_id": "1987937609189126322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978150538769489920/MIs5FXNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 103,
+          "like_count": 1008,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 409
+        },
+        "username": "vivalavida_zzz",
+        "verified": false
+      }
+    ]
+  }
+}

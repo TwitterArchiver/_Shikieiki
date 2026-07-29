@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2054526040694005976",
+    "created_at": "2026-05-13T11:35:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T12:35:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054526040694005976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 22,
+          "id": "2044355126517727232",
+          "start": 9,
+          "username": "Overdose_HPD"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/SalviaSWC/stat…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/SalviaSWC/status/2054476741713039850",
+          "start": 56,
+          "url": "https://t.co/5hPPFzFnJW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054526040694005976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054476741713039850",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "要说的话剂量还是 @Overdose_HPD 算出并且建议的，我只是作为小白鼠🐁)\n不过确实成功了，非常好！) https://t.co/5hPPFzFnJW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054451977044537344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HILhMCvWsAAUYl7.jpg",
+        "width": 465
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2054526040694005976",
+        "created_at": "2026-05-13T11:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T12:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054526040694005976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "2044355126517727232",
+              "start": 9,
+              "username": "Overdose_HPD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2054476741713039850",
+              "start": 56,
+              "url": "https://t.co/5hPPFzFnJW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054526040694005976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054476741713039850",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要说的话剂量还是 @Overdose_HPD 算出并且建议的，我只是作为小白鼠🐁)\n不过确实成功了，非常好！) https://t.co/5hPPFzFnJW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054451977044537344"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2054476741713039850",
+        "created_at": "2026-05-13T08:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T09:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054476741713039850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "FreeODwiki是一个开源项目，旨在让每一位ODer都能有效地获取和分享有关Overdose和精神活性物质的信息，并在减少上述事物对ODer造成的伤害的同时，为上述事物提供一个独特的视角。",
+              "display_url": "freeodwiki.org/%E6%8A%A5%E5%9…",
+              "end": 165,
+              "expanded_url": "https://freeodwiki.org/%E6%8A%A5%E5%91%8A/reddit/ihch7113_am_i_possibly_the_first_person_who_tried.html",
+              "images": [
+                {
+                  "height": 90,
+                  "url": "https://pbs.twimg.com/news_img/2054476750177067008/3ALJ8y94?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 90,
+                  "url": "https://pbs.twimg.com/news_img/2054476750177067008/3ALJ8y94?format=png&name=150x150",
+                  "width": 90
+                }
+              ],
+              "start": 142,
+              "status": 200,
+              "title": "IHCH-7113——我可能是第一个尝试它的人吗？附报告——IHCH-7113 - FreeODwiki——可自由编辑的开源Overdose百科",
+              "unwound_url": "https://freeodwiki.org/%E6%8A%A5%E5%91%8A/reddit/ihch7113_am_i_possibly_the_first_person_who_tried.html",
+              "url": "https://t.co/bQjw7otSXX"
+            },
+            {
+              "display_url": "pic.x.com/nzVc33ZoRJ",
+              "end": 189,
+              "expanded_url": "https://x.com/SalviaSWC/status/2054476741713039850/photo/1",
+              "media_key": "3_2054451977044537344",
+              "start": 166,
+              "url": "https://t.co/nzVc33ZoRJ"
+            },
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 213,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2054114353826386086",
+              "start": 190,
+              "url": "https://t.co/2nCUvJBLb5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054476741713039850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2575,
+          "like_count": 36,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054114353826386086",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药物报告day25——世界首次！推友测试新型致幻化合物，受到广泛关注\n\nIHCH-7113是一种具有全新化学结构的致幻剂。之前从未有人类服用的报告。\n\n这位推u研读文献，推断出用药方式与剂量，并圆满完成试药。这体现了ODer的开创进取精神。我们要将他视为榜样，向他学习🥹\n\n全文链接：https://t.co/bQjw7otSXX https://t.co/nzVc33ZoRJ https://t.co/2nCUvJBLb5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)暂关提问",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2053378863976284363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 924,
+          "like_count": 28170,
+          "listed_count": 1,
+          "media_count": 485,
+          "tweet_count": 4059
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T10:00:27.000Z",
+        "description": "Spring风的附庸。药物滥用的内容相关会转发到@Overdose_DBD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "Overdose_DBD"
+              }
+            ]
+          }
+        },
+        "id": "2044355126517727232",
+        "location": "前人未至之地，前人未竟之事",
+        "name": "超级春春春风#蒼い惑星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044355818687279104/VCbkAyqL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 98,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 244
+        },
+        "username": "Overdose_HPD",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4515,
+          "following_count": 1012,
+          "like_count": 23803,
+          "listed_count": 11,
+          "media_count": 518,
+          "tweet_count": 7666
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

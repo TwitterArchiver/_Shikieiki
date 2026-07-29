@@ -1,0 +1,483 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021143736433115137"
+      ],
+      "media_source_tweet_id": [
+        "2021143740593865101"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2021438133423022278",
+    "created_at": "2026-02-11T04:16:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T05:16:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021438133423022278"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 27,
+          "tag": "まどマギ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1768231898420228096",
+          "start": 3,
+          "username": "Umi_taroo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/09YowRt6yE",
+          "end": 56,
+          "expanded_url": "https://x.com/Umi_taroo/status/2021143740593865101/photo/1",
+          "media_key": "3_2021143736433115137",
+          "start": 33,
+          "url": "https://t.co/09YowRt6yE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021438133423022278",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021143740593865101",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Umi_taroo: wip\n⭐️✨🩷✨⭐️\n#まどマギ https://t.co/09YowRt6yE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 859,
+        "media_key": "3_2021143736433115137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAyLhRIaAAEL3bf.jpg",
+        "width": 778
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021143736433115137"
+          ],
+          "media_source_tweet_id": [
+            "2021143740593865101"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2021438133423022278",
+        "created_at": "2026-02-11T04:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T05:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021438133423022278"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 27,
+              "tag": "まどマギ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1768231898420228096",
+              "start": 3,
+              "username": "Umi_taroo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/09YowRt6yE",
+              "end": 56,
+              "expanded_url": "https://x.com/Umi_taroo/status/2021143740593865101/photo/1",
+              "media_key": "3_2021143736433115137",
+              "start": 33,
+              "url": "https://t.co/09YowRt6yE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021438133423022278",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021143740593865101",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Umi_taroo: wip\n⭐️✨🩷✨⭐️\n#まどマギ https://t.co/09YowRt6yE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021143736433115137"
+          ]
+        },
+        "author_id": "1768231898420228096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2021143740593865101",
+        "created_at": "2026-02-10T08:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T09:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021143740593865101"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "まどマギ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/09YowRt6yE",
+              "end": 41,
+              "expanded_url": "https://x.com/Umi_taroo/status/2021143740593865101/photo/1",
+              "media_key": "3_2021143736433115137",
+              "start": 18,
+              "url": "https://t.co/09YowRt6yE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021143740593865101",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 3016,
+          "like_count": 332,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "wip\n⭐️✨🩷✨⭐️\n#まどマギ https://t.co/09YowRt6yE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 613,
+          "like_count": 19020,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 1688
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-14T11:05:22.000Z",
+        "description": "学生無断転載/AI禁止  （Xの治安が悪いのでwickに引っ越しました。）依頼はpixivリクエストから まどドラ・落書き垢→@L9qt0wjAOO63308",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 63,
+                "username": "L9qt0wjAOO63308"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "piku.page/@umitaro",
+                "end": 23,
+                "expanded_url": "https://piku.page/@umitaro",
+                "start": 0,
+                "url": "https://t.co/HEsdKcBO7g"
+              }
+            ]
+          }
+        },
+        "id": "1768231898420228096",
+        "location": "各種SNSまとめ⇨",
+        "name": "うみたろ@skeb募集中",
+        "pinned_tweet_id": "2018687246350610641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942075048191311872/n66s1ktn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1403,
+          "following_count": 144,
+          "like_count": 3392,
+          "listed_count": 8,
+          "media_count": 220,
+          "tweet_count": 891
+        },
+        "url": "https://t.co/HEsdKcBO7g",
+        "username": "Umi_taroo",
+        "verified": false
+      }
+    ]
+  }
+}

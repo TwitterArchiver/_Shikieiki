@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060377967520538625"
+      ],
+      "media_source_tweet_id": [
+        "2060378109506101266"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2060726654528532972",
+    "created_at": "2026-05-30T14:14:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T15:14:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060726654528532972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "152212808",
+          "start": 3,
+          "username": "nanagare"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BxGMe6X5db",
+          "end": 44,
+          "expanded_url": "https://x.com/nanagare/status/2060378109506101266/photo/1",
+          "media_key": "3_2060377967520538625",
+          "start": 21,
+          "url": "https://t.co/BxGMe6X5db"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060726654528532972",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060378109506101266",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nanagare: フェイトさん https://t.co/BxGMe6X5db"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2060726654528532972].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2060726654528532972",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2060726654528532972"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 949,
+        "media_key": "3_2060377967520538625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfu2FkaYAEvBWx.jpg",
+        "width": 704
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060377967520538625"
+          ]
+        },
+        "author_id": "152212808",
+        "conversation_id": "2060378109506101266",
+        "created_at": "2026-05-29T15:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060378109506101266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BxGMe6X5db",
+              "end": 30,
+              "expanded_url": "https://x.com/nanagare/status/2060378109506101266/photo/1",
+              "media_key": "3_2060377967520538625",
+              "start": 7,
+              "url": "https://t.co/BxGMe6X5db"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060378109506101266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 822,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "フェイトさん https://t.co/BxGMe6X5db"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1114,
+          "following_count": 949,
+          "like_count": 28677,
+          "listed_count": 1,
+          "media_count": 499,
+          "tweet_count": 4177
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-05T11:01:36.000Z",
+        "description": "ねむい成人済。なのはさんが好きな人の雑多垢(https://t.co/G6SpZti6sk)。BLもGLも美味しく頂く。たまに落書きする。B/Rご自由に。アクナイ/ワートリ/原神",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twpf.jp/nanagare",
+                "end": 45,
+                "expanded_url": "http://twpf.jp/nanagare",
+                "start": 22,
+                "url": "https://t.co/G6SpZti6sk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/1021413",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/1021413",
+                "start": 0,
+                "url": "https://t.co/H6MpS6E6CM"
+              }
+            ]
+          }
+        },
+        "id": "152212808",
+        "location": "おふとぅん",
+        "name": "ながれ🌗",
+        "pinned_tweet_id": "1963128107944325458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1279067255389577216/zxKl2Cfj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 223,
+          "like_count": 9534,
+          "listed_count": 11,
+          "media_count": 978,
+          "tweet_count": 41639
+        },
+        "url": "https://t.co/H6MpS6E6CM",
+        "username": "nanagare",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032498898624008192",
+        "3_2032498898657492992",
+        "3_2032498898619736064"
+      ],
+      "media_source_tweet_id": [
+        "2032498905494196556",
+        "2032498905494196556",
+        "2032498905494196556"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1339381554087223297",
+          "name": "Character design"
+        }
+      }
+    ],
+    "conversation_id": "2032764448801526139",
+    "created_at": "2026-03-14T10:23:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T11:23:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032764448801526139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2294156820",
+          "start": 3,
+          "username": "Fatetyan_0529"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AucCcuq5DM",
+          "end": 72,
+          "expanded_url": "https://x.com/Fatetyan_0529/status/2032498905494196556/photo/1",
+          "media_key": "3_2032498898624008192",
+          "start": 49,
+          "url": "https://t.co/AucCcuq5DM"
+        },
+        {
+          "display_url": "pic.x.com/AucCcuq5DM",
+          "end": 72,
+          "expanded_url": "https://x.com/Fatetyan_0529/status/2032498905494196556/photo/1",
+          "media_key": "3_2032498898657492992",
+          "start": 49,
+          "url": "https://t.co/AucCcuq5DM"
+        },
+        {
+          "display_url": "pic.x.com/AucCcuq5DM",
+          "end": 72,
+          "expanded_url": "https://x.com/Fatetyan_0529/status/2032498905494196556/photo/1",
+          "media_key": "3_2032498898619736064",
+          "start": 49,
+          "url": "https://t.co/AucCcuq5DM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032764448801526139",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032498905494196556",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fatetyan_0529: キャラデザが実にエクセレント\nかわいすぎて困惑しとる... https://t.co/AucCcuq5DM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032498898624008192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDTi-srbUAAdxnt.jpg",
+        "width": 1576
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032498898657492992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDTi-szaQAA-kQ1.jpg",
+        "width": 1848
+      },
+      {
+        "height": 1749,
+        "media_key": "3_2032498898619736064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDTi-sqaIAAN2am.jpg",
+        "width": 1885
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032498898624008192",
+            "3_2032498898657492992",
+            "3_2032498898619736064"
+          ],
+          "media_source_tweet_id": [
+            "2032498905494196556",
+            "2032498905494196556",
+            "2032498905494196556"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339381554087223297",
+              "name": "Character design"
+            }
+          }
+        ],
+        "conversation_id": "2032764448801526139",
+        "created_at": "2026-03-14T10:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T11:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032764448801526139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2294156820",
+              "start": 3,
+              "username": "Fatetyan_0529"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AucCcuq5DM",
+              "end": 72,
+              "expanded_url": "https://x.com/Fatetyan_0529/status/2032498905494196556/photo/1",
+              "media_key": "3_2032498898624008192",
+              "start": 49,
+              "url": "https://t.co/AucCcuq5DM"
+            },
+            {
+              "display_url": "pic.x.com/AucCcuq5DM",
+              "end": 72,
+              "expanded_url": "https://x.com/Fatetyan_0529/status/2032498905494196556/photo/1",
+              "media_key": "3_2032498898657492992",
+              "start": 49,
+              "url": "https://t.co/AucCcuq5DM"
+            },
+            {
+              "display_url": "pic.x.com/AucCcuq5DM",
+              "end": 72,
+              "expanded_url": "https://x.com/Fatetyan_0529/status/2032498905494196556/photo/1",
+              "media_key": "3_2032498898619736064",
+              "start": 49,
+              "url": "https://t.co/AucCcuq5DM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032764448801526139",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032498905494196556",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fatetyan_0529: キャラデザが実にエクセレント\nかわいすぎて困惑しとる... https://t.co/AucCcuq5DM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032498898624008192",
+            "3_2032498898657492992",
+            "3_2032498898619736064"
+          ]
+        },
+        "author_id": "2294156820",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339381554087223297",
+              "name": "Character design"
+            }
+          }
+        ],
+        "conversation_id": "2032498905494196556",
+        "created_at": "2026-03-13T16:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T17:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032498905494196556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AucCcuq5DM",
+              "end": 53,
+              "expanded_url": "https://x.com/Fatetyan_0529/status/2032498905494196556/photo/1",
+              "media_key": "3_2032498898624008192",
+              "start": 30,
+              "url": "https://t.co/AucCcuq5DM"
+            },
+            {
+              "display_url": "pic.x.com/AucCcuq5DM",
+              "end": 53,
+              "expanded_url": "https://x.com/Fatetyan_0529/status/2032498905494196556/photo/1",
+              "media_key": "3_2032498898657492992",
+              "start": 30,
+              "url": "https://t.co/AucCcuq5DM"
+            },
+            {
+              "display_url": "pic.x.com/AucCcuq5DM",
+              "end": 53,
+              "expanded_url": "https://x.com/Fatetyan_0529/status/2032498905494196556/photo/1",
+              "media_key": "3_2032498898619736064",
+              "start": 30,
+              "url": "https://t.co/AucCcuq5DM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032498905494196556",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 3812,
+          "like_count": 144,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "キャラデザが実にエクセレント\nかわいすぎて困惑しとる... https://t.co/AucCcuq5DM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "呼喚我的名字 如同那一日似的展露笑顏吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "see_you_hell.although.here.probably.is",
+                "end": 23,
+                "expanded_url": "http://see_you_hell.although.here.probably.is",
+                "start": 0,
+                "url": "https://t.co/ecUxsPCDIQ"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2028458258697171187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 799,
+          "like_count": 23638,
+          "listed_count": 0,
+          "media_count": 412,
+          "tweet_count": 3060
+        },
+        "url": "https://t.co/ecUxsPCDIQ",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-16T09:25:47.000Z",
+        "description": "遊戯王／ゲーム／リリカルなのは／ポケモン／たんプリ／学マス／ブルアカ／アズレン／ステラソラ／FGO／デュエプレ／リポスト多め",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/fatety…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/fatetyan-0529.bsky.social",
+                "start": 0,
+                "url": "https://t.co/O0HF0By6vu"
+              }
+            ]
+          }
+        },
+        "id": "2294156820",
+        "location": "地球のどこか",
+        "name": "フェイト＠なのはガンブレ待機",
+        "pinned_tweet_id": "2028792792160592133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919114455725821953/S-HfyIlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2963,
+          "following_count": 2616,
+          "like_count": 40733,
+          "listed_count": 19,
+          "media_count": 17965,
+          "tweet_count": 189275
+        },
+        "url": "https://t.co/O0HF0By6vu",
+        "username": "Fatetyan_0529",
+        "verified": false
+      }
+    ]
+  }
+}

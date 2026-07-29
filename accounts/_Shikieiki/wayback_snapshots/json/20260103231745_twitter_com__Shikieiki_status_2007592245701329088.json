@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007487032608563201"
+      ],
+      "media_source_tweet_id": [
+        "2007487217569017908"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2007592245701329088",
+    "created_at": "2026-01-03T23:17:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T00:17:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007592245701329088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2701700090",
+          "start": 3,
+          "username": "822Hase"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hWOYUO0Uid",
+          "end": 55,
+          "expanded_url": "https://x.com/822Hase/status/2007487217569017908/photo/1",
+          "media_key": "3_2007487032608563201",
+          "start": 32,
+          "url": "https://t.co/hWOYUO0Uid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007592245701329088",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007487217569017908",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @822Hase: Thinking about her https://t.co/hWOYUO0Uid"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2007487032608563201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9wG0e3WIAEZvod.jpg",
+        "width": 1735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007487032608563201"
+          ],
+          "media_source_tweet_id": [
+            "2007487217569017908"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2007592245701329088",
+        "created_at": "2026-01-03T23:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T00:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007592245701329088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2701700090",
+              "start": 3,
+              "username": "822Hase"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hWOYUO0Uid",
+              "end": 55,
+              "expanded_url": "https://x.com/822Hase/status/2007487217569017908/photo/1",
+              "media_key": "3_2007487032608563201",
+              "start": 32,
+              "url": "https://t.co/hWOYUO0Uid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007592245701329088",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007487217569017908",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @822Hase: Thinking about her https://t.co/hWOYUO0Uid"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007487032608563201"
+          ]
+        },
+        "author_id": "2701700090",
+        "conversation_id": "2007487217569017908",
+        "created_at": "2026-01-03T16:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T17:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007487217569017908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hWOYUO0Uid",
+              "end": 42,
+              "expanded_url": "https://x.com/822Hase/status/2007487217569017908/photo/1",
+              "media_key": "3_2007487032608563201",
+              "start": 19,
+              "url": "https://t.co/hWOYUO0Uid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007487217569017908",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1341,
+          "like_count": 140,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "Thinking about her https://t.co/hWOYUO0Uid"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 515,
+          "like_count": 14293,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 891
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-02T20:44:42.000Z",
+        "description": "CEO of Kasumi Toyama and Popy | Bandori and Project Moon brainrot | BD Weiss Schwarz enthusiast | Granblue / Uma Musume / Nikke / Symphogear / FGC / TCG",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@822Hase",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@822Hase",
+                "start": 0,
+                "url": "https://t.co/czo4J6tyOr"
+              }
+            ]
+          }
+        },
+        "id": "2701700090",
+        "location": "Banner and pfp by @rairakkyue",
+        "name": "Hase",
+        "pinned_tweet_id": "1973941244763254975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002473025799618563/QF5gckgj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2452,
+          "following_count": 1036,
+          "like_count": 51320,
+          "listed_count": 29,
+          "media_count": 12148,
+          "tweet_count": 63401
+        },
+        "url": "https://t.co/czo4J6tyOr",
+        "username": "822Hase",
+        "verified": false
+      }
+    ]
+  }
+}

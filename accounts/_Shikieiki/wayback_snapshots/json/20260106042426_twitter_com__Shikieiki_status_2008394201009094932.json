@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1785984515816767488",
+        "3_1785984524440285184"
+      ],
+      "media_source_tweet_id": [
+        "1785984563677933952",
+        "1785984563677933952"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2008394201009094932",
+    "created_at": "2026-01-06T04:24:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T05:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008394201009094932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1521762509442908161",
+          "start": 3,
+          "username": "cuteisfullofbug"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jPit68TUe8",
+          "end": 44,
+          "expanded_url": "https://x.com/cuteisfullofbug/status/1785984563677933952/photo/1",
+          "media_key": "3_1785984515816767488",
+          "start": 21,
+          "url": "https://t.co/jPit68TUe8"
+        },
+        {
+          "display_url": "pic.x.com/jPit68TUe8",
+          "end": 44,
+          "expanded_url": "https://x.com/cuteisfullofbug/status/1785984563677933952/photo/1",
+          "media_key": "3_1785984524440285184",
+          "start": 21,
+          "url": "https://t.co/jPit68TUe8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008394201009094932",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 287
+    },
+    "referenced_tweets": [
+      {
+        "id": "1785984563677933952",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cuteisfullofbug: https://t.co/jPit68TUe8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1785984515816767488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GMkXdF-bQAAfkLu.jpg",
+        "width": 2048
+      },
+      {
+        "height": 3648,
+        "media_key": "3_1785984524440285184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GMkXdmGbsAAB46Z.jpg",
+        "width": 2736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1785984515816767488",
+            "3_1785984524440285184"
+          ],
+          "media_source_tweet_id": [
+            "1785984563677933952",
+            "1785984563677933952"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2008394201009094932",
+        "created_at": "2026-01-06T04:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T05:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008394201009094932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1521762509442908161",
+              "start": 3,
+              "username": "cuteisfullofbug"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jPit68TUe8",
+              "end": 44,
+              "expanded_url": "https://x.com/cuteisfullofbug/status/1785984563677933952/photo/1",
+              "media_key": "3_1785984515816767488",
+              "start": 21,
+              "url": "https://t.co/jPit68TUe8"
+            },
+            {
+              "display_url": "pic.x.com/jPit68TUe8",
+              "end": 44,
+              "expanded_url": "https://x.com/cuteisfullofbug/status/1785984563677933952/photo/1",
+              "media_key": "3_1785984524440285184",
+              "start": 21,
+              "url": "https://t.co/jPit68TUe8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008394201009094932",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 287
+        },
+        "referenced_tweets": [
+          {
+            "id": "1785984563677933952",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cuteisfullofbug: https://t.co/jPit68TUe8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1785984515816767488",
+            "3_1785984524440285184"
+          ]
+        },
+        "author_id": "1521762509442908161",
+        "conversation_id": "1785984563677933952",
+        "created_at": "2024-05-02T10:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-02T11:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1785984563677933952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jPit68TUe8",
+              "end": 23,
+              "expanded_url": "https://x.com/cuteisfullofbug/status/1785984563677933952/photo/1",
+              "media_key": "3_1785984515816767488",
+              "start": 0,
+              "url": "https://t.co/jPit68TUe8"
+            },
+            {
+              "display_url": "pic.x.com/jPit68TUe8",
+              "end": 23,
+              "expanded_url": "https://x.com/cuteisfullofbug/status/1785984563677933952/photo/1",
+              "media_key": "3_1785984524440285184",
+              "start": 0,
+              "url": "https://t.co/jPit68TUe8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1785984563677933952",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 554,
+          "impression_count": 162040,
+          "like_count": 3057,
+          "quote_count": 15,
+          "reply_count": 3,
+          "retweet_count": 287
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jPit68TUe8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 532,
+          "like_count": 15962,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1078
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-04T08:04:10.000Z",
+        "description": "look me in the eye",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yodobashi.com/product/100000…",
+                "end": 23,
+                "expanded_url": "https://www.yodobashi.com/product/100000009003807377/",
+                "start": 0,
+                "url": "https://t.co/yVLYLG4UuT"
+              }
+            ]
+          }
+        },
+        "id": "1521762509442908161",
+        "location": "Nakano Broadway",
+        "name": "Cute is Full of Bug",
+        "pinned_tweet_id": "1564858513385738240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564861015396782080/yMtxaiyI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94797,
+          "following_count": 260,
+          "like_count": 6350,
+          "listed_count": 386,
+          "media_count": 609,
+          "tweet_count": 9349
+        },
+        "url": "https://t.co/yVLYLG4UuT",
+        "username": "cuteisfullofbug",
+        "verified": true
+      }
+    ]
+  }
+}

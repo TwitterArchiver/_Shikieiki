@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2002378162060271830",
+    "created_at": "2025-12-20T13:58:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T14:58:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002378162060271830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1864183881286733826",
+          "start": 3,
+          "username": "yami_xo4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002378162060271830",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 622
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001930138142023970",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yami_xo4: 死ねば全部解決する"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2002378162060271830",
+        "created_at": "2025-12-20T13:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T14:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002378162060271830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1864183881286733826",
+              "start": 3,
+              "username": "yami_xo4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002378162060271830",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 622
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001930138142023970",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yami_xo4: 死ねば全部解決する"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864183881286733826",
+        "conversation_id": "2001930138142023970",
+        "created_at": "2025-12-19T08:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T09:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001930138142023970"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001930138142023970",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 138,
+          "impression_count": 104303,
+          "like_count": 6470,
+          "quote_count": 74,
+          "reply_count": 57,
+          "retweet_count": 622
+        },
+        "reply_settings": "everyone",
+        "text": "死ねば全部解決する"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "1842867034050441268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 381,
+          "like_count": 6737,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 237
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-04T05:44:50.000Z",
+        "description": "しあわせになりたい",
+        "id": "1864183881286733826",
+        "name": "病み垢",
+        "pinned_tweet_id": "1871449953140375932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864185014734475267/iabZDydp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 139,
+          "like_count": 22242,
+          "listed_count": 3,
+          "media_count": 0,
+          "tweet_count": 339
+        },
+        "username": "yami_xo4",
+        "verified": false
+      }
+    ]
+  }
+}

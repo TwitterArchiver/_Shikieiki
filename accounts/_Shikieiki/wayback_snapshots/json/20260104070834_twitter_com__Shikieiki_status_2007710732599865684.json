@@ -1,0 +1,459 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007512025518202880"
+      ],
+      "media_source_tweet_id": [
+        "2007520076619231258"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2007710732599865684",
+    "created_at": "2026-01-04T07:08:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T08:08:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007710732599865684"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 17,
+          "tag": "madoka_magica"
+        },
+        {
+          "end": 43,
+          "start": 32,
+          "tag": "魔法少女まどかマギカ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1874874027908472832",
+          "start": 3,
+          "username": "WhitehogIII"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ykalTWCsgc",
+          "end": 67,
+          "expanded_url": "https://x.com/WhitehogIII/status/2007520076619231258/photo/1",
+          "media_key": "3_2007512025518202880",
+          "start": 44,
+          "url": "https://t.co/ykalTWCsgc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007710732599865684",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1698
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007520076619231258",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WhitehogIII: #madoka_magica #魔法少女まどかマギカ https://t.co/ykalTWCsgc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2390,
+        "media_key": "3_2007512025518202880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9wdjQtWYAAE8pz.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007512025518202880"
+          ],
+          "media_source_tweet_id": [
+            "2007520076619231258"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2007710732599865684",
+        "created_at": "2026-01-04T07:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T08:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007710732599865684"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 17,
+              "tag": "madoka_magica"
+            },
+            {
+              "end": 43,
+              "start": 32,
+              "tag": "魔法少女まどかマギカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1874874027908472832",
+              "start": 3,
+              "username": "WhitehogIII"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ykalTWCsgc",
+              "end": 67,
+              "expanded_url": "https://x.com/WhitehogIII/status/2007520076619231258/photo/1",
+              "media_key": "3_2007512025518202880",
+              "start": 44,
+              "url": "https://t.co/ykalTWCsgc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007710732599865684",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1698
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007520076619231258",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WhitehogIII: #madoka_magica #魔法少女まどかマギカ https://t.co/ykalTWCsgc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007512025518202880"
+          ]
+        },
+        "author_id": "1874874027908472832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2007520076619231258",
+        "created_at": "2026-01-03T18:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T19:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007520076619231258"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 0,
+              "tag": "madoka_magica"
+            },
+            {
+              "end": 26,
+              "start": 15,
+              "tag": "魔法少女まどかマギカ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ykalTWCsgc",
+              "end": 50,
+              "expanded_url": "https://x.com/WhitehogIII/status/2007520076619231258/photo/1",
+              "media_key": "3_2007512025518202880",
+              "start": 27,
+              "url": "https://t.co/ykalTWCsgc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007520076619231258",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1430,
+          "impression_count": 133613,
+          "like_count": 15568,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 1698
+        },
+        "reply_settings": "everyone",
+        "text": "#madoka_magica #魔法少女まどかマギカ https://t.co/ykalTWCsgc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 518,
+          "like_count": 14531,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 909
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T17:43:43.000Z",
+        "description": "Artist\nMade from:\n70% pop culture\n 20% history\n10% pure evil \n| Murakami flower wielding a Muramasa|\n 'Art will give light to the darkness'\n\nXP-PEN artist🩵",
+        "id": "1874874027908472832",
+        "name": "WhiteHog III",
+        "pinned_tweet_id": "2007520076619231258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937205597390221312/boPFzs-i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35694,
+          "following_count": 28,
+          "like_count": 487,
+          "listed_count": 137,
+          "media_count": 65,
+          "tweet_count": 100
+        },
+        "username": "WhitehogIII",
+        "verified": true
+      }
+    ]
+  }
+}

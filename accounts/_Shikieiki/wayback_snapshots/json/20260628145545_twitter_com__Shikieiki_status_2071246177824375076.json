@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070901519332040704"
+      ],
+      "media_source_tweet_id": [
+        "2070901564588576987"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2071246177824375076",
+    "created_at": "2026-06-28T14:55:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T15:55:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071246177824375076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1899733505980186624",
+          "start": 3,
+          "username": "sabudominanto"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Rt7KLRQLbW",
+          "end": 42,
+          "expanded_url": "https://x.com/sabudominanto/status/2070901564588576987/photo/1",
+          "media_key": "3_2070901519332040704",
+          "start": 19,
+          "url": "https://t.co/Rt7KLRQLbW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071246177824375076",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 255
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070901564588576987",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sabudominanto: https://t.co/Rt7KLRQLbW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2070901519332040704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL1R9bCaYAACva-.jpg",
+        "width": 3118
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070901519332040704"
+          ],
+          "media_source_tweet_id": [
+            "2070901564588576987"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2071246177824375076",
+        "created_at": "2026-06-28T14:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T15:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071246177824375076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1899733505980186624",
+              "start": 3,
+              "username": "sabudominanto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rt7KLRQLbW",
+              "end": 42,
+              "expanded_url": "https://x.com/sabudominanto/status/2070901564588576987/photo/1",
+              "media_key": "3_2070901519332040704",
+              "start": 19,
+              "url": "https://t.co/Rt7KLRQLbW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071246177824375076",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 255
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070901564588576987",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sabudominanto: https://t.co/Rt7KLRQLbW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070901519332040704"
+          ]
+        },
+        "author_id": "1899733505980186624",
+        "conversation_id": "2070901564588576987",
+        "created_at": "2026-06-27T16:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T17:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070901564588576987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rt7KLRQLbW",
+              "end": 23,
+              "expanded_url": "https://x.com/sabudominanto/status/2070901564588576987/photo/1",
+              "media_key": "3_2070901519332040704",
+              "start": 0,
+              "url": "https://t.co/Rt7KLRQLbW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070901564588576987",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 14165,
+          "like_count": 1290,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 255
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Rt7KLRQLbW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n伴侣 @octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1134,
+          "following_count": 970,
+          "like_count": 28661,
+          "listed_count": 0,
+          "media_count": 493,
+          "tweet_count": 4275
+        },
+        "url": "",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-12T08:05:43.000Z",
+        "description": "絵を描いてます",
+        "id": "1899733505980186624",
+        "name": "サブドミナント",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937316823952949253/EGMUjn4z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3466,
+          "following_count": 402,
+          "like_count": 4560,
+          "listed_count": 23,
+          "media_count": 76,
+          "tweet_count": 127
+        },
+        "url": "",
+        "username": "sabudominanto",
+        "verified": false
+      }
+    ]
+  }
+}
