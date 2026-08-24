@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083771932949045248"
+      ],
+      "media_source_tweet_id": [
+        "2083772713714528346"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2083808557255078392",
+    "created_at": "2026-08-02T06:54:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T07:54:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083808557255078392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1776466730489163776",
+          "start": 3,
+          "username": "i_loxe_u"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PG88xP23Nh",
+          "end": 47,
+          "expanded_url": "https://x.com/i_loxe_u/status/2083772713714528346/photo/1",
+          "media_key": "3_2083771932949045248",
+          "start": 24,
+          "url": "https://t.co/PG88xP23Nh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083808557255078392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 185
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083772713714528346",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @i_loxe_u: いますぐ輪廻⋆˙⟡ https://t.co/PG88xP23Nh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1702,
+        "media_key": "3_2083771932949045248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsLiGBbYAAlH7f.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083771932949045248"
+          ]
+        },
+        "author_id": "1776466730489163776",
+        "conversation_id": "2083772713714528346",
+        "created_at": "2026-08-02T04:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083772713714528346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PG88xP23Nh",
+              "end": 33,
+              "expanded_url": "https://x.com/i_loxe_u/status/2083772713714528346/photo/1",
+              "media_key": "3_2083771932949045248",
+              "start": 10,
+              "url": "https://t.co/PG88xP23Nh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083772713714528346",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 10335,
+          "like_count": 1490,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 185
+        },
+        "reply_settings": "everyone",
+        "text": "いますぐ輪廻⋆˙⟡ https://t.co/PG88xP23Nh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083771932949045248"
+          ],
+          "media_source_tweet_id": [
+            "2083772713714528346"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2083808557255078392",
+        "created_at": "2026-08-02T06:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083808557255078392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1776466730489163776",
+              "start": 3,
+              "username": "i_loxe_u"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PG88xP23Nh",
+              "end": 47,
+              "expanded_url": "https://x.com/i_loxe_u/status/2083772713714528346/photo/1",
+              "media_key": "3_2083771932949045248",
+              "start": 24,
+              "url": "https://t.co/PG88xP23Nh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083808557255078392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 185
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083772713714528346",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @i_loxe_u: いますぐ輪廻⋆˙⟡ https://t.co/PG88xP23Nh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n伴侣 @octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1158,
+          "following_count": 967,
+          "like_count": 28542,
+          "listed_count": 1,
+          "media_count": 494,
+          "tweet_count": 4334
+        },
+        "url": "",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T04:27:34.000Z",
+        "description": "",
+        "id": "1776466730489163776",
+        "location": "依頼/DM",
+        "name": "໊",
+        "pinned_tweet_id": "2083772713714528346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077755835292524544/oKnjJt2R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10244,
+          "following_count": 14,
+          "like_count": 34367,
+          "listed_count": 17,
+          "media_count": 2,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "i_loxe_u",
+        "verified": false
+      }
+    ]
+  }
+}

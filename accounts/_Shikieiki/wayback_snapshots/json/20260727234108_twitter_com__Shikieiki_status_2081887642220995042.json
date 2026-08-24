@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080933924289863680"
+      ],
+      "media_source_tweet_id": [
+        "2080933931075928565"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2081887642220995042",
+    "created_at": "2026-07-27T23:41:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T00:41:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081887642220995042"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 19,
+          "tag": "リリカルなのは"
+        },
+        {
+          "end": 33,
+          "start": 28,
+          "tag": "rkgk"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1985582067741310978",
+          "start": 3,
+          "username": "spicablossoms"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qBGcuNshNz",
+          "end": 94,
+          "expanded_url": "https://x.com/spicablossoms/status/2080933931075928565/photo/1",
+          "media_key": "3_2080933924289863680",
+          "start": 71,
+          "url": "https://t.co/qBGcuNshNz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081887642220995042",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080933931075928565",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @spicablossoms: #リリカルなのは\n#rkgk\nはやてちゃんrkgk、三人娘揃えられて満足！他シリーズも徐々に追いたい所 https://t.co/qBGcuNshNz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3334,
+        "media_key": "3_2080933924289863680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOD2YP5bYAArvUQ.jpg",
+        "width": 2334
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080933924289863680"
+          ]
+        },
+        "author_id": "1985582067741310978",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2080933931075928565",
+        "created_at": "2026-07-25T08:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080933931075928565"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "リリカルなのは"
+            },
+            {
+              "end": 14,
+              "start": 9,
+              "tag": "rkgk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qBGcuNshNz",
+              "end": 75,
+              "expanded_url": "https://x.com/spicablossoms/status/2080933931075928565/photo/1",
+              "media_key": "3_2080933924289863680",
+              "start": 52,
+              "url": "https://t.co/qBGcuNshNz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080933931075928565",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 3516,
+          "like_count": 242,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "#リリカルなのは\n#rkgk\nはやてちゃんrkgk、三人娘揃えられて満足！他シリーズも徐々に追いたい所 https://t.co/qBGcuNshNz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080933924289863680"
+          ],
+          "media_source_tweet_id": [
+            "2080933931075928565"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2081887642220995042",
+        "created_at": "2026-07-27T23:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T00:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081887642220995042"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 19,
+              "tag": "リリカルなのは"
+            },
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "rkgk"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1985582067741310978",
+              "start": 3,
+              "username": "spicablossoms"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qBGcuNshNz",
+              "end": 94,
+              "expanded_url": "https://x.com/spicablossoms/status/2080933931075928565/photo/1",
+              "media_key": "3_2080933924289863680",
+              "start": 71,
+              "url": "https://t.co/qBGcuNshNz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081887642220995042",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080933931075928565",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @spicablossoms: #リリカルなのは\n#rkgk\nはやてちゃんrkgk、三人娘揃えられて満足！他シリーズも徐々に追いたい所 https://t.co/qBGcuNshNz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n伴侣 @octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1161,
+          "following_count": 973,
+          "like_count": 28547,
+          "listed_count": 1,
+          "media_count": 494,
+          "tweet_count": 4324
+        },
+        "url": "",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-04T05:37:28.000Z",
+        "description": "アシスタントやりながら絵や漫画等好きに投げてます /有償依頼→skbございます/🌟好きなものは好きな時に\n※イラストや漫画の転載，加工，AI学習❌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@spicablossoms",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@spicablossoms",
+                "start": 0,
+                "url": "https://t.co/udVdH82qTl"
+              }
+            ]
+          }
+        },
+        "id": "1985582067741310978",
+        "name": "小桜すてら",
+        "pinned_tweet_id": "2081312562906538414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024674743757262848/66KBzof1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 12,
+          "like_count": 136,
+          "listed_count": 3,
+          "media_count": 36,
+          "tweet_count": 164
+        },
+        "url": "https://t.co/udVdH82qTl",
+        "username": "spicablossoms",
+        "verified": false
+      }
+    ]
+  }
+}

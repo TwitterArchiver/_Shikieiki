@@ -1,0 +1,471 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083428186499743744"
+      ],
+      "media_source_tweet_id": [
+        "2083428196708491506"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2083808700540821917",
+    "created_at": "2026-08-02T06:54:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T07:54:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083808700540821917"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 33,
+          "tag": "魔法少女まどかマギカ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1591432651235561475",
+          "start": 3,
+          "username": "Etalasemurah"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w9ElEOOTZ6",
+          "end": 68,
+          "expanded_url": "https://x.com/Etalasemurah/status/2083428196708491506/photo/1",
+          "media_key": "3_2083428186499743744",
+          "start": 45,
+          "url": "https://t.co/w9ElEOOTZ6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083808700540821917",
+    "lang": "hu",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 796
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083428196708491506",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Etalasemurah: Holy Quintet ✨\n#魔法少女まどかマギカ https://t.co/w9ElEOOTZ6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1178,
+        "media_key": "3_2083428186499743744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOnS5atagAAP_pm.jpg",
+        "width": 1557
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083428186499743744"
+          ]
+        },
+        "author_id": "1591432651235561475",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2083428196708491506",
+        "created_at": "2026-08-01T05:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T06:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083428196708491506"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 15,
+              "tag": "魔法少女まどかマギカ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w9ElEOOTZ6",
+              "end": 50,
+              "expanded_url": "https://x.com/Etalasemurah/status/2083428196708491506/photo/1",
+              "media_key": "3_2083428186499743744",
+              "start": 27,
+              "url": "https://t.co/w9ElEOOTZ6"
+            },
+            {
+              "display_url": "x.com/Sallu_chan02/s…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/Sallu_chan02/status/2082364919002153054",
+              "start": 51,
+              "url": "https://t.co/P2uawYZJWa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083428196708491506",
+        "lang": "hu",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 386,
+          "impression_count": 48347,
+          "like_count": 4395,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 796
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082364919002153054",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Holy Quintet ✨\n#魔法少女まどかマギカ https://t.co/w9ElEOOTZ6 https://t.co/P2uawYZJWa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083428186499743744"
+          ],
+          "media_source_tweet_id": [
+            "2083428196708491506"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2083808700540821917",
+        "created_at": "2026-08-02T06:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083808700540821917"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 33,
+              "tag": "魔法少女まどかマギカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1591432651235561475",
+              "start": 3,
+              "username": "Etalasemurah"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w9ElEOOTZ6",
+              "end": 68,
+              "expanded_url": "https://x.com/Etalasemurah/status/2083428196708491506/photo/1",
+              "media_key": "3_2083428186499743744",
+              "start": 45,
+              "url": "https://t.co/w9ElEOOTZ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083808700540821917",
+        "lang": "hu",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 796
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083428196708491506",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Etalasemurah: Holy Quintet ✨\n#魔法少女まどかマギカ https://t.co/w9ElEOOTZ6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n伴侣 @octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1158,
+          "following_count": 967,
+          "like_count": 28544,
+          "listed_count": 1,
+          "media_count": 494,
+          "tweet_count": 4336
+        },
+        "url": "",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-12T14:08:23.000Z",
+        "description": "20+ | I draw as long as I can | Arkham Origins Joker + Moemura are my babies 🥺 Please don’t use my art without permission‼️",
+        "id": "1591432651235561475",
+        "name": "Eri Erica",
+        "pinned_tweet_id": "2053550212917108901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083781030029537280/0_nK_Fdm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 454,
+          "like_count": 13915,
+          "listed_count": 2,
+          "media_count": 303,
+          "tweet_count": 5807
+        },
+        "url": "",
+        "username": "Etalasemurah",
+        "verified": false
+      }
+    ]
+  }
+}
