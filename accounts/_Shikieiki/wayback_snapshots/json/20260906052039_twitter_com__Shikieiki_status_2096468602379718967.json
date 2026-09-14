@@ -1,0 +1,461 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096274010246123520"
+      ],
+      "media_source_tweet_id": [
+        "2096274017942695989"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1273377348398661633",
+          "name": "2D animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1192082698568814592",
+          "name": "Animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1273377348398661633",
+          "name": "2D animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1273377348398661633",
+          "name": "2D animation"
+        }
+      }
+    ],
+    "conversation_id": "2096468602379718967",
+    "created_at": "2026-09-06T05:20:39.000Z",
+    "display_text_range": [
+      0,
+      108
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T06:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096468602379718967"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 84,
+          "start": 76,
+          "tag": "なのはEXGV"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1288431801900257281",
+          "start": 3,
+          "username": "takatisakana"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C6Ygee1dmt",
+          "end": 108,
+          "expanded_url": "https://x.com/takatisakana/status/2096274017942695989/photo/1",
+          "media_key": "3_2096274010246123520",
+          "start": 85,
+          "url": "https://t.co/C6Ygee1dmt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096468602379718967",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2096274010246123520"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 686
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096274017942695989",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @takatisakana: なのはEXGV 10話 レイアウト、原画で参加してます！何卒よろしくお願いします！\nファンアートのはやてちゃんです\n#なのはEXGV https://t.co/C6Ygee1dmt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096274010246123520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRd2GxSakAA5n6o.jpg",
+        "width": 1470
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096274010246123520"
+          ],
+          "media_source_tweet_id": [
+            "2096274017942695989"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1273377348398661633",
+              "name": "2D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1273377348398661633",
+              "name": "2D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1273377348398661633",
+              "name": "2D animation"
+            }
+          }
+        ],
+        "conversation_id": "2096468602379718967",
+        "created_at": "2026-09-06T05:20:39.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T06:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096468602379718967"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 76,
+              "tag": "なのはEXGV"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1288431801900257281",
+              "start": 3,
+              "username": "takatisakana"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C6Ygee1dmt",
+              "end": 108,
+              "expanded_url": "https://x.com/takatisakana/status/2096274017942695989/photo/1",
+              "media_key": "3_2096274010246123520",
+              "start": 85,
+              "url": "https://t.co/C6Ygee1dmt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096468602379718967",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096274010246123520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 686
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096274017942695989",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @takatisakana: なのはEXGV 10話 レイアウト、原画で参加してます！何卒よろしくお願いします！\nファンアートのはやてちゃんです\n#なのはEXGV https://t.co/C6Ygee1dmt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096274010246123520"
+          ]
+        },
+        "author_id": "1288431801900257281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1273377348398661633",
+              "name": "2D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1273377348398661633",
+              "name": "2D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1273377348398661633",
+              "name": "2D animation"
+            }
+          }
+        ],
+        "conversation_id": "2096274017942695989",
+        "created_at": "2026-09-05T16:27:27.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T17:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096274017942695989"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 58,
+              "tag": "なのはEXGV"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C6Ygee1dmt",
+              "end": 90,
+              "expanded_url": "https://x.com/takatisakana/status/2096274017942695989/photo/1",
+              "media_key": "3_2096274010246123520",
+              "start": 67,
+              "url": "https://t.co/C6Ygee1dmt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096274017942695989",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096274010246123520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 311,
+          "impression_count": 51589,
+          "like_count": 3064,
+          "quote_count": 7,
+          "reply_count": 6,
+          "retweet_count": 686
+        },
+        "reply_settings": "everyone",
+        "text": "なのはEXGV 10話 レイアウト、原画で参加してます！何卒よろしくお願いします！\nファンアートのはやてちゃんです\n#なのはEXGV https://t.co/C6Ygee1dmt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n伴侣 @octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "is_identity_verified": false,
+        "location": "彼岸",
+        "most_recent_tweet_id": "2096468602379718967",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1448206950903255040/1672820400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1171,
+          "following_count": 956,
+          "like_count": 28330,
+          "listed_count": 0,
+          "media_count": 495,
+          "tweet_count": 4353
+        },
+        "url": "",
+        "username": "_Shikieiki",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-29T11:11:11.000Z",
+        "description": "高洲杏 4年目アニメーター LO原画",
+        "id": "1288431801900257281",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096287121606955512",
+        "name": "高地さかな",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1288431801900257281/1719431497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806336090569355264/eKjBJ7iA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81524,
+          "following_count": 19,
+          "like_count": 12194,
+          "listed_count": 645,
+          "media_count": 1005,
+          "tweet_count": 7451
+        },
+        "url": "",
+        "username": "takatisakana",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

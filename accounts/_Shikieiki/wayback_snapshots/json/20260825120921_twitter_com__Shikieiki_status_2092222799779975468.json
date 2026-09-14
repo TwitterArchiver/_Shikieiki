@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092080036245643264"
+      ],
+      "media_source_tweet_id": [
+        "2092080042184737164"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2092222799779975468",
+    "created_at": "2026-08-25T12:09:21.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T13:09:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092222799779975468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1158963278308974593",
+          "start": 3,
+          "username": "_A_jak_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bDCRrebWTa",
+          "end": 46,
+          "expanded_url": "https://x.com/_A_jak_/status/2092080042184737164/photo/1",
+          "media_key": "3_2092080036245643264",
+          "start": 23,
+          "url": "https://t.co/bDCRrebWTa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092222799779975468",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "3_2092080036245643264"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092080042184737164",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_A_jak_: 2기 내용이 이럼 https://t.co/bDCRrebWTa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2092080036245643264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQiPtWoboAA-jJ0.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092080036245643264"
+          ],
+          "media_source_tweet_id": [
+            "2092080042184737164"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2092222799779975468",
+        "created_at": "2026-08-25T12:09:21.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T13:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092222799779975468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1158963278308974593",
+              "start": 3,
+              "username": "_A_jak_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bDCRrebWTa",
+              "end": 46,
+              "expanded_url": "https://x.com/_A_jak_/status/2092080042184737164/photo/1",
+              "media_key": "3_2092080036245643264",
+              "start": 23,
+              "url": "https://t.co/bDCRrebWTa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092222799779975468",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2092080036245643264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092080042184737164",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_A_jak_: 2기 내용이 이럼 https://t.co/bDCRrebWTa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092080036245643264"
+          ]
+        },
+        "author_id": "1158963278308974593",
+        "conversation_id": "2092080042184737164",
+        "created_at": "2026-08-25T02:42:05.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T03:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092080042184737164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bDCRrebWTa",
+              "end": 33,
+              "expanded_url": "https://x.com/_A_jak_/status/2092080042184737164/photo/1",
+              "media_key": "3_2092080036245643264",
+              "start": 10,
+              "url": "https://t.co/bDCRrebWTa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092080042184737164",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2092080036245643264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 6435,
+          "like_count": 491,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "2기 내용이 이럼 https://t.co/bDCRrebWTa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n伴侣 @octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "is_identity_verified": false,
+        "location": "彼岸",
+        "most_recent_tweet_id": "2092222799779975468",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1448206950903255040/1672820400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1161,
+          "following_count": 962,
+          "like_count": 28392,
+          "listed_count": 0,
+          "media_count": 494,
+          "tweet_count": 4351
+        },
+        "url": "",
+        "username": "_Shikieiki",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-07T04:49:12.000Z",
+        "description": "잡덕_ 비팔 알림🔕_🦋https://t.co/aDsO0vR3db",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/a-jak.…",
+                "end": 35,
+                "expanded_url": "https://bsky.app/profile/a-jak.bsky.social",
+                "start": 12,
+                "url": "https://t.co/aDsO0vR3db"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "asked.kr/0Ajak0",
+                "end": 23,
+                "expanded_url": "http://asked.kr/0Ajak0",
+                "start": 0,
+                "url": "https://t.co/4C4VpfD3UE"
+              }
+            ]
+          }
+        },
+        "id": "1158963278308974593",
+        "is_identity_verified": false,
+        "location": "FUB Free_이별=블락",
+        "most_recent_tweet_id": "2092207859463491765",
+        "name": "아작",
+        "pinned_tweet_id": "1621392237912539138",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1158963278308974593/1715513863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1442481582741221377/kFL6OE_z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35141,
+          "following_count": 195,
+          "like_count": 10225,
+          "listed_count": 142,
+          "media_count": 2849,
+          "tweet_count": 56749
+        },
+        "url": "https://t.co/4C4VpfD3UE",
+        "username": "_A_jak_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

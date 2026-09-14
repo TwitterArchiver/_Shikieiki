@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1448206950903255040",
+    "conversation_id": "2097890440058122411",
+    "created_at": "2026-09-10T03:30:32.000Z",
+    "display_text_range": [
+      0,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T04:30:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097890440058122411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1901685825076973568",
+          "start": 3,
+          "username": "rczong666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097890440058122411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097366218210779493",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rczong666: oder一生哭三次\n\n20240507 单方右美划入精二\n20260420 复方右美网络禁售\n20260901 复方右美列入处方"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2097890440058122411",
+        "created_at": "2026-09-10T03:30:32.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T04:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097890440058122411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1901685825076973568",
+              "start": 3,
+              "username": "rczong666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097890440058122411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097366218210779493",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rczong666: oder一生哭三次\n\n20240507 单方右美划入精二\n20260420 复方右美网络禁售\n20260901 复方右美列入处方"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2097366218210779493",
+        "created_at": "2026-09-08T16:47:28.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T17:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097366218210779493"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097366218210779493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 7262,
+          "like_count": 228,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "oder一生哭三次\n\n20240507 单方右美划入精二\n20260420 复方右美网络禁售\n20260901 复方右美列入处方"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n伴侣 @octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "is_identity_verified": false,
+        "location": "彼岸",
+        "most_recent_tweet_id": "2097890440058122411",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1448206950903255040/1672820400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1176,
+          "following_count": 954,
+          "like_count": 28352,
+          "listed_count": 0,
+          "media_count": 495,
+          "tweet_count": 4352
+        },
+        "url": "",
+        "username": "_Shikieiki",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "is_identity_verified": false,
+        "location": "逐渐清醒",
+        "most_recent_tweet_id": "2097634090505957744",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1901685825076973568/1770321260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 333,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 341
+        },
+        "url": "",
+        "username": "rczong666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
