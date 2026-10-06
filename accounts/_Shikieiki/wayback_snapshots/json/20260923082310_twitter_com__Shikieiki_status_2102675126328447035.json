@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102651701924921347"
+      ],
+      "media_source_tweet_id": [
+        "2102651714193293495"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2102675126328447035",
+    "created_at": "2026-09-23T08:23:10.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T09:23:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102675126328447035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1612338688331218949",
+          "start": 3,
+          "username": "NANINOzz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yz0RQGQrwQ",
+          "end": 43,
+          "expanded_url": "https://x.com/NANINOzz/status/2102651714193293495/photo/1",
+          "media_key": "3_2102651701924921347",
+          "start": 20,
+          "url": "https://t.co/yz0RQGQrwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102675126328447035",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2102651701924921347"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102651714193293495",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NANINOzz: 百江なぎさ https://t.co/yz0RQGQrwQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2102651701924921347",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS4elSObAAM357g.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102651701924921347"
+          ],
+          "media_source_tweet_id": [
+            "2102651714193293495"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2102675126328447035",
+        "created_at": "2026-09-23T08:23:10.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T09:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102675126328447035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1612338688331218949",
+              "start": 3,
+              "username": "NANINOzz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yz0RQGQrwQ",
+              "end": 43,
+              "expanded_url": "https://x.com/NANINOzz/status/2102651714193293495/photo/1",
+              "media_key": "3_2102651701924921347",
+              "start": 20,
+              "url": "https://t.co/yz0RQGQrwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102675126328447035",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102651701924921347"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102651714193293495",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NANINOzz: 百江なぎさ https://t.co/yz0RQGQrwQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102651701924921347"
+          ]
+        },
+        "author_id": "1612338688331218949",
+        "conversation_id": "2102651714193293495",
+        "created_at": "2026-09-23T06:50:08.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T07:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102651714193293495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yz0RQGQrwQ",
+              "end": 29,
+              "expanded_url": "https://x.com/NANINOzz/status/2102651714193293495/photo/1",
+              "media_key": "3_2102651701924921347",
+              "start": 6,
+              "url": "https://t.co/yz0RQGQrwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102651714193293495",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102651701924921347"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 3190,
+          "like_count": 498,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "百江なぎさ https://t.co/yz0RQGQrwQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n伴侣 @octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "is_identity_verified": false,
+        "location": "彼岸",
+        "most_recent_tweet_id": "2102675126328447035",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1448206950903255040/1672820400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 956,
+          "like_count": 28355,
+          "listed_count": 0,
+          "media_count": 496,
+          "tweet_count": 4357
+        },
+        "url": "",
+        "username": "_Shikieiki",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-09T06:41:22.000Z",
+        "description": "🛸illustration https://t.co/JukBNxkj4E (OC only)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@NANINOzz",
+                "end": 37,
+                "expanded_url": "https://skeb.jp/@NANINOzz",
+                "start": 14,
+                "url": "https://t.co/JukBNxkj4E"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/naninozz",
+                "end": 23,
+                "expanded_url": "https://lit.link/naninozz",
+                "start": 0,
+                "url": "https://t.co/VNFfk2tpdA"
+              }
+            ]
+          }
+        },
+        "id": "1612338688331218949",
+        "is_identity_verified": false,
+        "location": "✉︎:naninozq@gmail.com",
+        "most_recent_tweet_id": "2102651714193293495",
+        "name": "NANINO",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1612338688331218949/1787325623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986057679471804416/u_0Z2ltw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34108,
+          "following_count": 154,
+          "like_count": 25356,
+          "listed_count": 124,
+          "media_count": 188,
+          "tweet_count": 1081
+        },
+        "url": "https://t.co/VNFfk2tpdA",
+        "username": "NANINOzz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

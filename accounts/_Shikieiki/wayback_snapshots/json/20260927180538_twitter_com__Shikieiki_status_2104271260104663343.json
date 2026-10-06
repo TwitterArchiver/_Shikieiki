@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104210383687032832"
+      ],
+      "media_source_tweet_id": [
+        "2104210390523449436"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2104271260104663343",
+    "created_at": "2026-09-27T18:05:38.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T19:05:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104271260104663343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1063963355264630786",
+          "start": 3,
+          "username": "lyricalYuri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hxpq6BiRD9",
+          "end": 58,
+          "expanded_url": "https://x.com/lyricalYuri/status/2104210390523449436/photo/1",
+          "media_key": "3_2104210383687032832",
+          "start": 35,
+          "url": "https://t.co/hxpq6BiRD9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104271260104663343",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2104210383687032832"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 106
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104210390523449436",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lyricalYuri: 私はインフィニティソウルズの亡霊！ https://t.co/hxpq6BiRD9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1869,
+        "media_key": "3_2104210383687032832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTOoMgRaoAAihN_.jpg",
+        "width": 1223
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104210383687032832"
+          ],
+          "media_source_tweet_id": [
+            "2104210390523449436"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2104271260104663343",
+        "created_at": "2026-09-27T18:05:38.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T19:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104271260104663343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1063963355264630786",
+              "start": 3,
+              "username": "lyricalYuri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hxpq6BiRD9",
+              "end": 58,
+              "expanded_url": "https://x.com/lyricalYuri/status/2104210390523449436/photo/1",
+              "media_key": "3_2104210383687032832",
+              "start": 35,
+              "url": "https://t.co/hxpq6BiRD9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104271260104663343",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104210383687032832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 106
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104210390523449436",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lyricalYuri: 私はインフィニティソウルズの亡霊！ https://t.co/hxpq6BiRD9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104210383687032832"
+          ]
+        },
+        "author_id": "1063963355264630786",
+        "conversation_id": "2104210390523449436",
+        "created_at": "2026-09-27T14:03:46.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T15:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104210390523449436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hxpq6BiRD9",
+              "end": 41,
+              "expanded_url": "https://x.com/lyricalYuri/status/2104210390523449436/photo/1",
+              "media_key": "3_2104210383687032832",
+              "start": 18,
+              "url": "https://t.co/hxpq6BiRD9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104210390523449436",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104210383687032832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 2674,
+          "like_count": 307,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 106
+        },
+        "reply_settings": "everyone",
+        "text": "私はインフィニティソウルズの亡霊！ https://t.co/hxpq6BiRD9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n伴侣 @octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "is_identity_verified": false,
+        "location": "彼岸",
+        "most_recent_tweet_id": "2104271260104663343",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1448206950903255040/1672820400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1197,
+          "following_count": 962,
+          "like_count": 28411,
+          "listed_count": 0,
+          "media_count": 498,
+          "tweet_count": 4369
+        },
+        "url": "",
+        "username": "_Shikieiki",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-11-18T01:13:26.000Z",
+        "description": "リリカルマジカルがんばります！\npixiv→https://t.co/QE1s0I5l22\nskeb→https://t.co/so8bzTIb8R",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 45,
+                "expanded_url": "https://www.pixiv.net/member.php?id=40864642",
+                "start": 22,
+                "url": "https://t.co/QE1s0I5l22"
+              },
+              {
+                "display_url": "skeb.jp/@lyricalYuri",
+                "end": 74,
+                "expanded_url": "https://skeb.jp/@lyricalYuri",
+                "start": 51,
+                "url": "https://t.co/so8bzTIb8R"
+              }
+            ]
+          }
+        },
+        "id": "1063963355264630786",
+        "is_identity_verified": false,
+        "location": "クラナガン",
+        "most_recent_tweet_id": "2104239223444521115",
+        "name": "風祭結梨",
+        "pinned_tweet_id": "2091201769363890469",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1063963355264630786/1542525258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091101216008982528/LPG7bO77_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1767,
+          "following_count": 1078,
+          "like_count": 60440,
+          "listed_count": 19,
+          "media_count": 1672,
+          "tweet_count": 55547
+        },
+        "url": "",
+        "username": "lyricalYuri",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

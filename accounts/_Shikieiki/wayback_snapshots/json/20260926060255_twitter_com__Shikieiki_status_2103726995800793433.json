@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103510617575550977"
+      ],
+      "media_source_tweet_id": [
+        "2103510622545777003"
+      ]
+    },
+    "author_id": "1448206950903255040",
+    "conversation_id": "2103726995800793433",
+    "created_at": "2026-09-26T06:02:55.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T07:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103726995800793433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1017903991978582016",
+          "start": 3,
+          "username": "SlitheringP"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pUEt7IiWv4",
+          "end": 67,
+          "expanded_url": "https://x.com/SlitheringP/status/2103510622545777003/photo/1",
+          "media_key": "3_2103510617575550977",
+          "start": 44,
+          "url": "https://t.co/pUEt7IiWv4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103726995800793433",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2103510617575550977"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2582
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103510622545777003",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SlitheringP: my relationship with drugs https://t.co/pUEt7IiWv4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 311,
+        "media_key": "3_2103510617575550977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTErwwXacAEDutl.jpg",
+        "width": 362
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103510617575550977"
+          ],
+          "media_source_tweet_id": [
+            "2103510622545777003"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2103726995800793433",
+        "created_at": "2026-09-26T06:02:55.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T07:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103726995800793433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1017903991978582016",
+              "start": 3,
+              "username": "SlitheringP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pUEt7IiWv4",
+              "end": 67,
+              "expanded_url": "https://x.com/SlitheringP/status/2103510622545777003/photo/1",
+              "media_key": "3_2103510617575550977",
+              "start": 44,
+              "url": "https://t.co/pUEt7IiWv4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103726995800793433",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2103510617575550977"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2582
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103510622545777003",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SlitheringP: my relationship with drugs https://t.co/pUEt7IiWv4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103510617575550977"
+          ]
+        },
+        "author_id": "1017903991978582016",
+        "conversation_id": "2103510622545777003",
+        "created_at": "2026-09-25T15:43:08.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T16:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103510622545777003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pUEt7IiWv4",
+              "end": 50,
+              "expanded_url": "https://x.com/SlitheringP/status/2103510622545777003/photo/1",
+              "media_key": "3_2103510617575550977",
+              "start": 27,
+              "url": "https://t.co/pUEt7IiWv4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103510622545777003",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2103510617575550977"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1284,
+          "impression_count": 252694,
+          "like_count": 34014,
+          "quote_count": 57,
+          "reply_count": 29,
+          "retweet_count": 2582
+        },
+        "reply_settings": "everyone",
+        "text": "my relationship with drugs https://t.co/pUEt7IiWv4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CI",
+              "full_name": "Côte d'Ivoire",
+              "geo": {
+                "coordinates": [
+                  -5.0,
+                  8.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n伴侣 @octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "is_identity_verified": false,
+        "location": "彼岸",
+        "most_recent_tweet_id": "2103726995800793433",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1448206950903255040/1672820400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 961,
+          "like_count": 28382,
+          "listed_count": 0,
+          "media_count": 498,
+          "tweet_count": 4367
+        },
+        "url": "",
+        "username": "_Shikieiki",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-07-13T22:49:58.000Z",
+        "description": "at least look me in the eyes when you kill me",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "last.fm/user/boba2814",
+                "end": 23,
+                "expanded_url": "https://www.last.fm/user/boba2814",
+                "start": 0,
+                "url": "https://t.co/wcf4wsHHAo"
+              }
+            ]
+          }
+        },
+        "id": "1017903991978582016",
+        "is_identity_verified": false,
+        "location": "20",
+        "most_recent_tweet_id": "2103726550881624502",
+        "name": "boba",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1017903991978582016/1766456216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806191297692127232/eJC5PaDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 1653,
+          "like_count": 564322,
+          "listed_count": 3,
+          "media_count": 915,
+          "tweet_count": 35194
+        },
+        "url": "https://t.co/wcf4wsHHAo",
+        "username": "SlitheringP",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
